@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-therapy-private-practice-a-stepbyst",
+      "title": "How to Start a Therapy Private Practice: A Step-by-Step Guide",
+      "goal": "How to start a therapy private practice",
+      "category": "career",
+      "tags": [
+        "therapy",
+        "counseling",
+        "private practice"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22759,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "How to Start a Therapy Private Practice: A Step-by-Step Guide — a free intermediate-level guide covering how to start a therapy private practice. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T12:30:43.407Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-pergola-from-scratch-complete-stepb",
+      "title": "How to Build a Pergola from Scratch: Complete Step-by-Step Guide",
+      "goal": "How to build a pergola from scratch",
+      "category": "productivity",
+      "tags": [
+        "diy",
+        "woodworking",
+        "home improvement"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22761,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "How to Build a Pergola from Scratch: Complete Step-by-Step Guide — a free intermediate-level guide covering how to build a pergola from scratch. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T12:20:05.900Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pass-the-ged-math-test-a-complete-guide",
+      "title": "How to Pass the GED Math Test: A Complete Guide",
+      "goal": "How to pass the GED math test",
+      "category": "exams",
+      "tags": [
+        "ged",
+        "math",
+        "test prep"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22377,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Pass the GED Math Test: A Complete Guide — a free intermediate-level guide covering how to pass the ged math test. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T12:09:41.226Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-clothing-brand-a-beginners-guide",
+      "title": "How to Start a Clothing Brand: A Beginner's Guide",
+      "goal": "How to start a successful clothing brand",
+      "category": "business",
+      "tags": [
+        "fashion",
+        "ecommerce",
+        "entrepreneurship"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24272,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Start a Clothing Brand: A Beginner's Guide — a free beginner-level guide covering how to start a successful clothing brand. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T12:00:38.610Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "java-programming-for-beginners-a-stepbystep-guide",
+      "title": "Java Programming for Beginners: A Step-by-Step Guide",
+      "goal": "How to learn to code with Java",
+      "category": "programming",
+      "tags": [
+        "java",
+        "coding",
+        "backend"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24611,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Java Programming for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to learn to code with java. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T11:50:03.050Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "digital-painting-for-beginners-the-complete-guide",
       "title": "Digital Painting for Beginners: The Complete Guide",
       "goal": "How to learn digital painting for beginners",
@@ -7061,6 +7161,6 @@
       "edition": "street"
     }
   ],
-  "total": 351,
-  "generatedAt": "2026-07-24T10:24:36.799Z"
+  "total": 356,
+  "generatedAt": "2026-07-24T12:30:43.966Z"
 }
