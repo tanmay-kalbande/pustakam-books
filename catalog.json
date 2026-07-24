@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-manage-social-anxiety-naturally-a-beginners",
+      "title": "How to Manage Social Anxiety Naturally: A Beginner's Guide",
+      "goal": "How to manage social anxiety naturally",
+      "category": "health",
+      "tags": [
+        "mental health",
+        "anxiety relief",
+        "self-care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21835,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Manage Social Anxiety Naturally: A Beginner's Guide — a free beginner-level guide covering how to manage social anxiety naturally. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T18:13:23.787Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-american-sign-language-complete-beginners-gu",
+      "title": "Learn American Sign Language: Complete Beginner's Guide",
+      "goal": "How to learn American Sign Language",
+      "category": "language",
+      "tags": [
+        "asl",
+        "sign language",
+        "deaf culture"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28635,
+      "moduleCount": 12,
+      "readingTimeMins": 115,
+      "metaDescription": "Learn American Sign Language: Complete Beginner's Guide — a free beginner-level guide covering how to learn american sign language. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T18:05:00.637Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-pressure-washing-business-a-beginne",
+      "title": "How to Start a Pressure Washing Business: A Beginner's Guide",
+      "goal": "How to start a pressure washing business",
+      "category": "business",
+      "tags": [
+        "pressure washing",
+        "cleaning business",
+        "entrepreneur"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20602,
+      "moduleCount": 8,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Start a Pressure Washing Business: A Beginner's Guide — a free beginner-level guide covering how to start a pressure washing business. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T17:52:56.747Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "google-sheets-for-data-analysis-a-beginners-guide",
+      "title": "Google Sheets for Data Analysis: A Beginner's Guide",
+      "goal": "Learn Google Sheets for data analysis",
+      "category": "productivity",
+      "tags": [
+        "google sheets",
+        "data analysis",
+        "spreadsheets"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23917,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Google Sheets for Data Analysis: A Beginner's Guide — a free beginner-level guide covering learn google sheets for data analysis. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T17:45:06.196Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-prompt-engineer-a-beginners-guide",
+      "title": "How to Become a Prompt Engineer: A Beginner's Guide",
+      "goal": "How to become a prompt engineer",
+      "category": "career",
+      "tags": [
+        "prompt engineering",
+        "ai",
+        "career"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21954,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Become a Prompt Engineer: A Beginner's Guide — a free beginner-level guide covering how to become a prompt engineer. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T17:36:40.214Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "master-the-digital-sat-reading-and-writing",
       "title": "Master the Digital SAT Reading and Writing",
       "goal": "How to prepare for the SAT reading and writing",
@@ -7361,6 +7461,6 @@
       "edition": "street"
     }
   ],
-  "total": 366,
-  "generatedAt": "2026-07-24T16:13:11.107Z"
+  "total": 371,
+  "generatedAt": "2026-07-24T18:13:24.344Z"
 }
