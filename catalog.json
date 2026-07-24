@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-successful-faceless-tiktok-account",
+      "title": "How to Start a Successful Faceless TikTok Account",
+      "goal": "How to start a successful faceless TikTok account",
+      "category": "business",
+      "tags": [
+        "tiktok",
+        "faceless channel",
+        "social media"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28970,
+      "moduleCount": 11,
+      "readingTimeMins": 116,
+      "metaDescription": "How to Start a Successful Faceless TikTok Account — a free beginner-level guide covering how to start a successful faceless tiktok account. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T07:30:34.432Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "profitable-affiliate-marketing-website-blueprint",
+      "title": "Profitable Affiliate Marketing Website Blueprint",
+      "goal": "How to start a profitable affiliate marketing website",
+      "category": "business",
+      "tags": [
+        "affiliate marketing",
+        "seo",
+        "passive income"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20385,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Profitable Affiliate Marketing Website Blueprint — a free intermediate-level guide covering how to start a profitable affiliate marketing website....",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T07:13:49.396Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-social-media-manager",
+      "title": "How to Become a Freelance Social Media Manager",
+      "goal": "How to become a freelance social media manager",
+      "category": "career",
+      "tags": [
+        "freelance",
+        "social media",
+        "marketing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19436,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Become a Freelance Social Media Manager — a free beginner-level guide covering how to become a freelance social media manager. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T06:59:33.989Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "adobe-indesign-for-beginners-a-stepbystep-guide",
+      "title": "Adobe InDesign for Beginners: A Step-by-Step Guide",
+      "goal": "Learn Adobe InDesign for beginners",
+      "category": "design",
+      "tags": [
+        "indesign",
+        "desktop publishing",
+        "layout design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19881,
+      "moduleCount": 8,
+      "readingTimeMins": 80,
+      "metaDescription": "Adobe InDesign for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn adobe indesign for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T06:48:05.145Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-wordpress-website-from-scratch",
+      "title": "How to Build a WordPress Website from Scratch",
+      "goal": "How to build a WordPress website from scratch",
+      "category": "design",
+      "tags": [
+        "wordpress",
+        "web design",
+        "cms"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26307,
+      "moduleCount": 11,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Build a WordPress Website from Scratch — a free beginner-level guide covering how to build a wordpress website from scratch. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T06:36:00.896Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-adobe-lightroom-beginners-photo-editing-guid",
       "title": "Learn Adobe Lightroom: Beginner's Photo Editing Guide",
       "goal": "Learn Adobe Lightroom for photo editing",
@@ -6861,6 +6961,6 @@
       "edition": "street"
     }
   ],
-  "total": 341,
-  "generatedAt": "2026-07-24T03:31:16.165Z"
+  "total": 346,
+  "generatedAt": "2026-07-24T07:30:34.971Z"
 }
