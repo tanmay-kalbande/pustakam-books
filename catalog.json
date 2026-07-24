@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-shopify-dropshipping-store",
+      "title": "How to Start a Shopify Dropshipping Store",
+      "goal": "How to start a Shopify dropshipping store",
+      "category": "business",
+      "tags": [
+        "shopify",
+        "dropshipping",
+        "ecommerce"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26317,
+      "moduleCount": 11,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Start a Shopify Dropshipping Store — a free beginner-level guide covering how to start a shopify dropshipping store. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T21:40:14.663Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-successful-youtube-channel",
+      "title": "How to Start a Successful YouTube Channel",
+      "goal": "How to start a successful YouTube channel",
+      "category": "business",
+      "tags": [
+        "youtube",
+        "video",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21278,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Start a Successful YouTube Channel — a free beginner-level guide covering how to start a successful youtube channel. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T21:31:39.525Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-podcast-for-free-a-beginners-guide",
+      "title": "How to Start a Podcast for Free: A Beginner's Guide",
+      "goal": "How to start a podcast for free",
+      "category": "business",
+      "tags": [
+        "podcasting",
+        "audio",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20600,
+      "moduleCount": 8,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Start a Podcast for Free: A Beginner's Guide — a free beginner-level guide covering how to start a podcast for free. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T21:24:15.514Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-blog-for-beginners",
+      "title": "How to Start a Profitable Blog for Beginners",
+      "goal": "How to start a profitable blog for beginners",
+      "category": "business",
+      "tags": [
+        "blogging",
+        "passive income",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25011,
+      "moduleCount": 10,
+      "readingTimeMins": 101,
+      "metaDescription": "How to Start a Profitable Blog for Beginners — a free beginner-level guide covering how to start a profitable blog for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T21:16:52.910Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-copy-editor-a-beginners",
+      "title": "How to Become a Freelance Copy Editor: A Beginner's Guide",
+      "goal": "How to become a freelance copy editor",
+      "category": "career",
+      "tags": [
+        "copy editing",
+        "freelance",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23330,
+      "moduleCount": 9,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Become a Freelance Copy Editor: A Beginner's Guide — a free beginner-level guide covering how to become a freelance copy editor. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T21:08:07.590Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "pass-the-aws-solutions-architect-associate-exam",
       "title": "Pass the AWS Solutions Architect Associate Exam",
       "goal": "How to pass the AWS Solutions Architect exam",
@@ -821,26 +921,6 @@
       "edition": "stellar"
     },
     {
-      "slug": "how-to-start-a-profitable-blog-for-beginners",
-      "title": "How to Start a Profitable Blog for Beginners",
-      "goal": "How to start a blog and make money",
-      "category": "business",
-      "tags": [
-        "blogging",
-        "affiliate marketing",
-        "seo"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 28253,
-      "moduleCount": 11,
-      "readingTimeMins": 114,
-      "metaDescription": "How to Start a Profitable Blog for Beginners — a free beginner-level guide covering how to start a blog and make money. Learn with clear explanations,...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T23:45:11.572Z",
-      "edition": "stellar"
-    },
-    {
       "slug": "start-a-podcast-for-free-beginners-stepbystep-guid",
       "title": "Start a Podcast for Free: Beginner's Step-by-Step Guide",
       "goal": "How to start a podcast for free",
@@ -1338,26 +1418,6 @@
       "metaDescription": "How to Start Investing in Index Funds: A Beginner's Guide — a free beginner-level guide covering how to start investing in index funds. Learn with...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-23T13:06:53.827Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-start-a-podcast-for-free-a-beginners-guide",
-      "title": "How to Start a Podcast for Free: A Beginner's Guide",
-      "goal": "How to start a podcast for free",
-      "category": "business",
-      "tags": [
-        "podcast",
-        "audio",
-        "content creation"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 20185,
-      "moduleCount": 8,
-      "readingTimeMins": 81,
-      "metaDescription": "How to Start a Podcast for Free: A Beginner's Guide — a free beginner-level guide covering how to start a podcast for free. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T12:55:45.221Z",
       "edition": "stellar"
     },
     {
@@ -7521,6 +7581,6 @@
       "edition": "street"
     }
   ],
-  "total": 374,
-  "generatedAt": "2026-07-24T20:09:30.681Z"
+  "total": 377,
+  "generatedAt": "2026-07-24T21:40:15.260Z"
 }
