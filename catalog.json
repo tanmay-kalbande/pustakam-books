@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "digital-painting-for-beginners-the-complete-guide",
+      "title": "Digital Painting for Beginners: The Complete Guide",
+      "goal": "How to learn digital painting for beginners",
+      "category": "design",
+      "tags": [
+        "digital art",
+        "painting",
+        "illustration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20105,
+      "moduleCount": 8,
+      "readingTimeMins": 81,
+      "metaDescription": "Digital Painting for Beginners: The Complete Guide — a free beginner-level guide covering how to learn digital painting for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T10:24:36.270Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-design-and-build-a-custom-keyboard-from-scr",
+      "title": "How to Design and Build a Custom Keyboard From Scratch",
+      "goal": "How to build a custom keyboard from scratch",
+      "category": "science",
+      "tags": [
+        "diy keyboard",
+        "electronics",
+        "maker"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25206,
+      "moduleCount": 10,
+      "readingTimeMins": 101,
+      "metaDescription": "How to Design and Build a Custom Keyboard From Scratch — a free intermediate-level guide covering how to build a custom keyboard from scratch. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T10:15:39.726Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-job-interview-preparation-guide",
+      "title": "The Complete Job Interview Preparation Guide",
+      "goal": "How to prepare for a job interview",
+      "category": "career",
+      "tags": [
+        "interview prep",
+        "job hunting",
+        "career advice"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24842,
+      "moduleCount": 9,
+      "readingTimeMins": 100,
+      "metaDescription": "The Complete Job Interview Preparation Guide — a free beginner-level guide covering how to prepare for a job interview. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T10:00:58.827Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-get-out-of-debt-fast-stepbystep-guide",
+      "title": "How to Get Out of Debt Fast: Step-by-Step Guide",
+      "goal": "How to get out of debt fast",
+      "category": "finance",
+      "tags": [
+        "debt relief",
+        "personal finance",
+        "budgeting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26114,
+      "moduleCount": 10,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Get Out of Debt Fast: Step-by-Step Guide — a free beginner-level guide covering how to get out of debt fast. Learn with clear explanations, real...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T09:46:41.369Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-for-beginners-the-complete-learning-roadmap",
+      "title": "Python for Beginners: The Complete Learning Roadmap",
+      "goal": "How to learn Python for beginners",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding",
+        "programming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23725,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "Python for Beginners: The Complete Learning Roadmap — a free beginner-level guide covering how to learn python for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T09:32:56.441Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-successful-faceless-tiktok-account",
       "title": "How to Start a Successful Faceless TikTok Account",
       "goal": "How to start a successful faceless TikTok account",
@@ -6961,6 +7061,6 @@
       "edition": "street"
     }
   ],
-  "total": 346,
-  "generatedAt": "2026-07-24T07:30:34.971Z"
+  "total": 351,
+  "generatedAt": "2026-07-24T10:24:36.799Z"
 }
