@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "violin-for-beginners-a-complete-stepbystep-guide",
+      "title": "Violin for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to learn violin for beginners",
+      "category": "productivity",
+      "tags": [
+        "violin",
+        "music",
+        "instrument"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27124,
+      "moduleCount": 10,
+      "readingTimeMins": 109,
+      "metaDescription": "Violin for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to learn violin for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T22:56:53.487Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "organic-raised-bed-vegetable-gardening-for-beginne",
+      "title": "Organic Raised Bed Vegetable Gardening for Beginners",
+      "goal": "How to grow organic vegetables in raised beds",
+      "category": "science",
+      "tags": [
+        "gardening",
+        "vegetables",
+        "raised beds"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22761,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Organic Raised Bed Vegetable Gardening for Beginners — a free beginner-level guide covering how to grow organic vegetables in raised beds. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T22:47:42.950Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pass-the-nasm-cpt-exam-complete-study-guide",
+      "title": "How to Pass the NASM CPT Exam: Complete Study Guide",
+      "goal": "How to pass the NASM CPT personal trainer exam",
+      "category": "exams",
+      "tags": [
+        "nasm",
+        "personal trainer",
+        "certification"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27091,
+      "moduleCount": 13,
+      "readingTimeMins": 109,
+      "metaDescription": "How to Pass the NASM CPT Exam: Complete Study Guide — a free intermediate-level guide covering how to pass the nasm cpt personal trainer exam. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T22:40:12.485Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-window-cleaning-business",
+      "title": "How to Start a Profitable Window Cleaning Business",
+      "goal": "How to start a profitable window cleaning business",
+      "category": "business",
+      "tags": [
+        "window cleaning",
+        "service business",
+        "entrepreneur"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21794,
+      "moduleCount": 8,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Start a Profitable Window Cleaning Business — a free beginner-level guide covering how to start a profitable window cleaning business. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T22:29:19.622Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-proofreader-a-beginners",
+      "title": "How to Become a Freelance Proofreader: A Beginner's Guide",
+      "goal": "How to become a freelance proofreader",
+      "category": "career",
+      "tags": [
+        "freelance",
+        "proofreading",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20340,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Become a Freelance Proofreader: A Beginner's Guide — a free beginner-level guide covering how to become a freelance proofreader. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T22:20:48.550Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-shopify-dropshipping-store",
       "title": "How to Start a Shopify Dropshipping Store",
       "goal": "How to start a Shopify dropshipping store",
@@ -7581,6 +7681,6 @@
       "edition": "street"
     }
   ],
-  "total": 377,
-  "generatedAt": "2026-07-24T21:40:15.260Z"
+  "total": 382,
+  "generatedAt": "2026-07-24T22:56:54.072Z"
 }
