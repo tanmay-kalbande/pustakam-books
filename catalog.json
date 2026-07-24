@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "pass-the-aws-solutions-architect-associate-exam",
+      "title": "Pass the AWS Solutions Architect Associate Exam",
+      "goal": "How to pass the AWS Solutions Architect exam",
+      "category": "exams",
+      "tags": [
+        "aws",
+        "certification",
+        "cloud computing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29086,
+      "moduleCount": 12,
+      "readingTimeMins": 117,
+      "metaDescription": "Pass the AWS Solutions Architect Associate Exam — a free intermediate-level guide covering how to pass the aws solutions architect exam. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T20:09:30.223Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-investing-in-real-estate-complete-roa",
+      "title": "How to Start Investing in Real Estate: Complete Roadmap",
+      "goal": "How to start investing in real estate",
+      "category": "finance",
+      "tags": [
+        "real estate",
+        "investing",
+        "property"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21898,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Start Investing in Real Estate: Complete Roadmap — a free intermediate-level guide covering how to start investing in real estate. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T19:58:10.721Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-shopify-dropshipping-store",
+      "title": "How to Build a Shopify Dropshipping Store",
+      "goal": "How to build a Shopify dropshipping store",
+      "category": "business",
+      "tags": [
+        "shopify",
+        "dropshipping",
+        "ecommerce"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26435,
+      "moduleCount": 11,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Build a Shopify Dropshipping Store — a free beginner-level guide covering how to build a shopify dropshipping store. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T19:49:32.767Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "freelance-writing-for-beginners-complete-career-gu",
+      "title": "Freelance Writing for Beginners: Complete Career Guide",
+      "goal": "How to start a freelance writing career",
+      "category": "career",
+      "tags": [
+        "freelancing",
+        "writing",
+        "remote work"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25701,
+      "moduleCount": 10,
+      "readingTimeMins": 103,
+      "metaDescription": "Freelance Writing for Beginners: Complete Career Guide — a free beginner-level guide covering how to start a freelance writing career. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T19:40:18.096Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-to-code-with-javascript-a-beginners-g",
+      "title": "How to Learn to Code with JavaScript: A Beginner's Guide",
+      "goal": "How to learn to code with JavaScript",
+      "category": "programming",
+      "tags": [
+        "javascript",
+        "coding",
+        "web development"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28452,
+      "moduleCount": 13,
+      "readingTimeMins": 114,
+      "metaDescription": "How to Learn to Code with JavaScript: A Beginner's Guide — a free beginner-level guide covering how to learn to code with javascript. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T19:30:55.687Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-manage-social-anxiety-naturally-a-beginners",
       "title": "How to Manage Social Anxiety Naturally: A Beginner's Guide",
       "goal": "How to manage social anxiety naturally",
@@ -918,26 +1018,6 @@
       "metaDescription": "Adobe Premiere Pro for Beginners: The Complete Guide — a free beginner-level guide covering how to learn adobe premiere pro for beginners. Learn with...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-23T21:09:15.114Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "pass-the-aws-solutions-architect-associate-exam",
-      "title": "Pass the AWS Solutions Architect Associate Exam",
-      "goal": "How to pass the AWS Solutions Architect exam",
-      "category": "exams",
-      "tags": [
-        "aws",
-        "certification",
-        "cloud computing"
-      ],
-      "language": "en",
-      "complexity": "intermediate",
-      "wordCount": 28302,
-      "moduleCount": 12,
-      "readingTimeMins": 114,
-      "metaDescription": "Pass the AWS Solutions Architect Associate Exam — a free intermediate-level guide covering how to pass the aws solutions architect exam. Learn with...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T20:03:04.014Z",
       "edition": "stellar"
     },
     {
@@ -2499,26 +2579,6 @@
       "metaDescription": "Learn Python for Data Analysis: Beginner's Guide — a free beginner-level guide covering how to learn python for data analysis. Learn with clear...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-22T08:41:37.309Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-start-investing-in-real-estate-complete-roa",
-      "title": "How to Start Investing in Real Estate: Complete Roadmap",
-      "goal": "How to start investing in real estate",
-      "category": "finance",
-      "tags": [
-        "real estate",
-        "investing",
-        "rental properties"
-      ],
-      "language": "en",
-      "complexity": "intermediate",
-      "wordCount": 25828,
-      "moduleCount": 12,
-      "readingTimeMins": 104,
-      "metaDescription": "How to Start Investing in Real Estate: Complete Roadmap — a free intermediate-level guide covering how to start investing in real estate. Learn with...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-22T07:08:23.710Z",
       "edition": "stellar"
     },
     {
@@ -7461,6 +7521,6 @@
       "edition": "street"
     }
   ],
-  "total": 371,
-  "generatedAt": "2026-07-24T18:13:24.344Z"
+  "total": 374,
+  "generatedAt": "2026-07-24T20:09:30.681Z"
 }
