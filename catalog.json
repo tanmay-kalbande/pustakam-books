@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "master-the-digital-sat-reading-and-writing",
+      "title": "Master the Digital SAT Reading and Writing",
+      "goal": "How to prepare for the SAT reading and writing",
+      "category": "exams",
+      "tags": [
+        "sat",
+        "test prep",
+        "college"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20367,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Master the Digital SAT Reading and Writing — a free intermediate-level guide covering how to prepare for the sat reading and writing. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T16:13:10.530Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-bass-guitar-a-beginners-guide",
+      "title": "Learn to Play Bass Guitar: A Beginner's Guide",
+      "goal": "Learn to play bass guitar for beginners",
+      "category": "productivity",
+      "tags": [
+        "bass guitar",
+        "music",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26671,
+      "moduleCount": 10,
+      "readingTimeMins": 107,
+      "metaDescription": "Learn to Play Bass Guitar: A Beginner's Guide — a free beginner-level guide covering learn to play bass guitar for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T16:04:54.128Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "profitable-dog-breeding-business-the-complete-road",
+      "title": "Profitable Dog Breeding Business: The Complete Roadmap",
+      "goal": "How to start a profitable dog breeding business",
+      "category": "business",
+      "tags": [
+        "dogs",
+        "breeding",
+        "pets"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22913,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Profitable Dog Breeding Business: The Complete Roadmap — a free intermediate-level guide covering how to start a profitable dog breeding business....",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T15:53:54.526Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "adobe-photoshop-photo-retouching-intermediate-guid",
+      "title": "Adobe Photoshop Photo Retouching: Intermediate Guide",
+      "goal": "Learn Adobe Photoshop for photo retouching",
+      "category": "design",
+      "tags": [
+        "photoshop",
+        "photo editing",
+        "retouching"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22423,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "Adobe Photoshop Photo Retouching: Intermediate Guide — a free intermediate-level guide covering learn adobe photoshop for photo retouching. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T15:42:36.803Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-bookkeeper-from-home-a-beginners-g",
+      "title": "How to Become a Bookkeeper From Home: A Beginner's Guide",
+      "goal": "How to become a bookkeeper from home",
+      "category": "career",
+      "tags": [
+        "bookkeeping",
+        "remote work",
+        "accounting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21193,
+      "moduleCount": 8,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Become a Bookkeeper From Home: A Beginner's Guide — a free beginner-level guide covering how to become a bookkeeper from home. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T15:32:22.745Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-soap-making-business-a-beginners-gu",
       "title": "How to Start a Soap Making Business: A Beginner's Guide",
       "goal": "How to start a soap making business",
@@ -7261,6 +7361,6 @@
       "edition": "street"
     }
   ],
-  "total": 361,
-  "generatedAt": "2026-07-24T14:36:25.928Z"
+  "total": 366,
+  "generatedAt": "2026-07-24T16:13:11.107Z"
 }
