@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-soap-making-business-a-beginners-gu",
+      "title": "How to Start a Soap Making Business: A Beginner's Guide",
+      "goal": "How to start a soap making business",
+      "category": "business",
+      "tags": [
+        "soap making",
+        "handmade",
+        "home business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27948,
+      "moduleCount": 11,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Start a Soap Making Business: A Beginner's Guide — a free beginner-level guide covering how to start a soap making business. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T14:36:25.409Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-mandarin-chinese-pronunciation-and-tones",
+      "title": "Learn Mandarin Chinese Pronunciation and Tones",
+      "goal": "Learn Mandarin Chinese tones and pronunciation",
+      "category": "language",
+      "tags": [
+        "mandarin",
+        "chinese",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25269,
+      "moduleCount": 10,
+      "readingTimeMins": 102,
+      "metaDescription": "Learn Mandarin Chinese Pronunciation and Tones — a free beginner-level guide covering learn mandarin chinese tones and pronunciation. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T14:24:36.676Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "half-marathon-training-for-beginners-complete-road",
+      "title": "Half Marathon Training for Beginners: Complete Roadmap",
+      "goal": "How to train for a half marathon",
+      "category": "health",
+      "tags": [
+        "running",
+        "fitness",
+        "endurance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31026,
+      "moduleCount": 12,
+      "readingTimeMins": 125,
+      "metaDescription": "Half Marathon Training for Beginners: Complete Roadmap — a free beginner-level guide covering how to train for a half marathon. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T14:12:22.601Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-airbnb-without-owning-property",
+      "title": "How to Start an Airbnb Without Owning Property",
+      "goal": "How to start an Airbnb without owning property",
+      "category": "finance",
+      "tags": [
+        "airbnb",
+        "arbitrage",
+        "real estate"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22742,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Start an Airbnb Without Owning Property — a free intermediate-level guide covering how to start an airbnb without owning property. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T13:59:34.566Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-ux-researcher-a-beginners-guide",
+      "title": "How to Become a UX Researcher: A Beginner's Guide",
+      "goal": "How to become a UX researcher",
+      "category": "career",
+      "tags": [
+        "ux",
+        "research",
+        "career"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24486,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Become a UX Researcher: A Beginner's Guide — a free beginner-level guide covering how to become a ux researcher. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-24T13:49:17.064Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-therapy-private-practice-a-stepbyst",
       "title": "How to Start a Therapy Private Practice: A Step-by-Step Guide",
       "goal": "How to start a therapy private practice",
@@ -7161,6 +7261,6 @@
       "edition": "street"
     }
   ],
-  "total": 356,
-  "generatedAt": "2026-07-24T12:30:43.966Z"
+  "total": 361,
+  "generatedAt": "2026-07-24T14:36:25.928Z"
 }
