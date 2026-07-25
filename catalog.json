@@ -1,6 +1,111 @@
 {
   "books": [
     {
+      "slug": "how-to-start-beekeeping-a-beginners-guide",
+      "title": "How to Start Beekeeping: A Beginner's Guide",
+      "goal": "How to start beekeeping for beginners",
+      "category": "science",
+      "tags": [
+        "beekeeping",
+        "honey bees",
+        "apiary",
+        "hobby farming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26657,
+      "moduleCount": 10,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Start Beekeeping: A Beginner's Guide — a free beginner-level guide covering how to start beekeeping for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T21:35:31.798Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "cma-medical-assistant-exam-prep-complete-study-gui",
+      "title": "CMA Medical Assistant Exam Prep: Complete Study Guide",
+      "goal": "How to pass the CMA medical assistant exam",
+      "category": "exams",
+      "tags": [
+        "cma exam",
+        "medical assistant",
+        "certification",
+        "healthcare"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29554,
+      "moduleCount": 13,
+      "readingTimeMins": 119,
+      "metaDescription": "CMA Medical Assistant Exam Prep: Complete Study Guide — a free intermediate-level guide covering how to pass the cma medical assistant exam. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T21:26:05.981Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "fingerstyle-acoustic-guitar-intermediate-roadmap",
+      "title": "Fingerstyle Acoustic Guitar: Intermediate Roadmap",
+      "goal": "How to learn fingerstyle acoustic guitar",
+      "category": "productivity",
+      "tags": [
+        "guitar",
+        "fingerstyle",
+        "acoustic",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22909,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Fingerstyle Acoustic Guitar: Intermediate Roadmap — a free intermediate-level guide covering how to learn fingerstyle acoustic guitar. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T21:13:40.011Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-mobile-coffee-cart-business",
+      "title": "How to Start a Mobile Coffee Cart Business",
+      "goal": "How to start a mobile coffee cart business",
+      "category": "business",
+      "tags": [
+        "coffee cart",
+        "food business",
+        "mobile business",
+        "entrepreneur"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19739,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Start a Mobile Coffee Cart Business — a free intermediate-level guide covering how to start a mobile coffee cart business. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T21:05:02.569Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-notary-loan-signing-agent-stepbyst",
+      "title": "How to Become a Notary Loan Signing Agent: Step-by-Step Guide",
+      "goal": "How to become a notary loan signing agent",
+      "category": "career",
+      "tags": [
+        "notary",
+        "loan signing agent",
+        "real estate",
+        "remote work"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21667,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Become a Notary Loan Signing Agent: Step-by-Step Guide — a free beginner-level guide covering how to become a notary loan signing agent. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T20:56:04.202Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-learn-dutch-for-beginners-a-complete-roadma",
       "title": "How to Learn Dutch for Beginners: A Complete Roadmap",
       "goal": "How to learn Dutch for beginners",
@@ -8529,6 +8634,6 @@
       "edition": "street"
     }
   ],
-  "total": 424,
-  "generatedAt": "2026-07-25T19:50:42.093Z"
+  "total": 429,
+  "generatedAt": "2026-07-25T21:35:32.471Z"
 }
