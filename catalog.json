@@ -1,6 +1,105 @@
 {
   "books": [
     {
+      "slug": "how-to-learn-dutch-for-beginners-a-complete-roadma",
+      "title": "How to Learn Dutch for Beginners: A Complete Roadmap",
+      "goal": "How to learn Dutch for beginners",
+      "category": "language",
+      "tags": [
+        "dutch",
+        "language learning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25500,
+      "moduleCount": 11,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Learn Dutch for Beginners: A Complete Roadmap — a free beginner-level guide covering how to learn dutch for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T19:50:41.445Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-cleaning-business",
+      "title": "How to Start a Profitable Cleaning Business",
+      "goal": "How to start a profitable cleaning business",
+      "category": "business",
+      "tags": [
+        "cleaning business",
+        "entrepreneur",
+        "services"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19726,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Start a Profitable Cleaning Business — a free intermediate-level guide covering how to start a profitable cleaning business. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T19:41:21.528Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-knee-pain-at-home-a-beginners-guide",
+      "title": "How to Fix Knee Pain at Home: A Beginner's Guide",
+      "goal": "How to fix knee pain at home",
+      "category": "health",
+      "tags": [
+        "knee pain",
+        "recovery",
+        "stretches"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19311,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Fix Knee Pain at Home: A Beginner's Guide — a free beginner-level guide covering how to fix knee pain at home. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T19:33:28.618Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "harmonica-for-beginners-complete-stepbystep-guide",
+      "title": "Harmonica for Beginners: Complete Step-by-Step Guide",
+      "goal": "Learn to play harmonica for beginners",
+      "category": "productivity",
+      "tags": [
+        "harmonica",
+        "music",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26389,
+      "moduleCount": 10,
+      "readingTimeMins": 106,
+      "metaDescription": "Harmonica for Beginners: Complete Step-by-Step Guide — a free beginner-level guide covering learn to play harmonica for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T19:26:22.104Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-translator-a-beginners-g",
+      "title": "How to Become a Freelance Translator: A Beginner's Guide",
+      "goal": "How to become a freelance translator",
+      "category": "career",
+      "tags": [
+        "translator",
+        "freelance",
+        "languages"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21474,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Become a Freelance Translator: A Beginner's Guide — a free beginner-level guide covering how to become a freelance translator. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T19:16:02.743Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "comptia-a-exam-prep-core-1-core-2-study-guide",
       "title": "CompTIA A+ Exam Prep: Core 1 & Core 2 Study Guide",
       "goal": "How to pass the CompTIA A+ certification exam",
@@ -8430,6 +8529,6 @@
       "edition": "street"
     }
   ],
-  "total": 419,
-  "generatedAt": "2026-07-25T18:37:45.247Z"
+  "total": 424,
+  "generatedAt": "2026-07-25T19:50:42.093Z"
 }
