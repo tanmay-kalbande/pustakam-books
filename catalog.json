@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "hesi-a2-exam-prep-complete-study-guide-to-pass",
+      "title": "HESI A2 Exam Prep: Complete Study Guide to Pass",
+      "goal": "How to pass the HESI A2 exam",
+      "category": "exams",
+      "tags": [
+        "nursing",
+        "test prep",
+        "hesi"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22435,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "HESI A2 Exam Prep: Complete Study Guide to Pass — a free intermediate-level guide covering how to pass the hesi a2 exam. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T14:11:47.398Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-tarot-cards-for-beginners-a-complete-g",
+      "title": "How to Read Tarot Cards for Beginners: A Complete Guide",
+      "goal": "How to read tarot cards for beginners",
+      "category": "productivity",
+      "tags": [
+        "tarot",
+        "spirituality",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24117,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Read Tarot Cards for Beginners: A Complete Guide — a free beginner-level guide covering how to read tarot cards for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T14:01:59.484Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-vietnamese-for-beginners-a-complete-g",
+      "title": "How to Learn Vietnamese for Beginners: A Complete Guide",
+      "goal": "How to learn Vietnamese for beginners",
+      "category": "language",
+      "tags": [
+        "vietnamese",
+        "language learning",
+        "travel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23541,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Learn Vietnamese for Beginners: A Complete Guide — a free beginner-level guide covering how to learn vietnamese for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T13:52:22.219Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-laundromat-business",
+      "title": "How to Start a Profitable Laundromat Business",
+      "goal": "How to start a laundromat business",
+      "category": "business",
+      "tags": [
+        "passive income",
+        "local business",
+        "entrepreneur"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20059,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Start a Profitable Laundromat Business — a free intermediate-level guide covering how to start a laundromat business. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T13:41:01.928Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-project-coordinator-beginners-guid",
+      "title": "How to Become a Project Coordinator: Beginner's Guide",
+      "goal": "How to become a project coordinator",
+      "category": "career",
+      "tags": [
+        "project management",
+        "entry level",
+        "career change"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29429,
+      "moduleCount": 12,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Become a Project Coordinator: Beginner's Guide — a free beginner-level guide covering how to become a project coordinator. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T13:30:56.011Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "fix-sciatica-pain-with-stretches-a-beginners-guide",
       "title": "Fix Sciatica Pain With Stretches: A Beginner's Guide",
       "goal": "How to fix sciatica pain with stretches",
@@ -8105,6 +8205,6 @@
       "edition": "street"
     }
   ],
-  "total": 403,
-  "generatedAt": "2026-07-25T11:54:18.864Z"
+  "total": 408,
+  "generatedAt": "2026-07-25T14:11:47.990Z"
 }
