@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "comptia-a-exam-prep-core-1-core-2-study-guide",
+      "title": "CompTIA A+ Exam Prep: Core 1 & Core 2 Study Guide",
+      "goal": "How to pass the CompTIA A+ certification exam",
+      "category": "exams",
+      "tags": [
+        "comptia",
+        "it certification",
+        "a+"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23295,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "CompTIA A+ Exam Prep: Core 1 & Core 2 Study Guide — a free intermediate-level guide covering how to pass the comptia a+ certification exam. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T18:37:44.590Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-investing-in-index-funds-for-beginner",
+      "title": "How to Start Investing in Index Funds for Beginners",
+      "goal": "How to start investing in index funds",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "index funds",
+        "personal finance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17824,
+      "moduleCount": 7,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Start Investing in Index Funds for Beginners — a free beginner-level guide covering how to start investing in index funds. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T18:28:44.638Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-programming-for-beginners-a-stepbystep-guid",
+      "title": "Python Programming for Beginners: A Step-by-Step Guide",
+      "goal": "How to learn Python programming from scratch",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding",
+        "development"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28112,
+      "moduleCount": 12,
+      "readingTimeMins": 113,
+      "metaDescription": "Python Programming for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to learn python programming from scratch. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T18:22:29.384Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-blog-for-beginners",
+      "title": "How to Start a Profitable Blog for Beginners",
+      "goal": "How to start a profitable blog for beginners",
+      "category": "business",
+      "tags": [
+        "blogging",
+        "passive income",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20667,
+      "moduleCount": 8,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Start a Profitable Blog for Beginners — a free beginner-level guide covering how to start a profitable blog for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T18:11:37.276Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-get-a-remote-bookkeeping-job-a-beginners-gu",
+      "title": "How to Get a Remote Bookkeeping Job: A Beginner's Guide",
+      "goal": "How to get a remote bookkeeping job",
+      "category": "career",
+      "tags": [
+        "bookkeeping",
+        "remote work",
+        "accounting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19917,
+      "moduleCount": 8,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Get a Remote Bookkeeping Job: A Beginner's Guide — a free beginner-level guide covering how to get a remote bookkeeping job. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T18:03:58.617Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "cdl-permit-test-prep-complete-beginners-guide",
       "title": "CDL Permit Test Prep: Complete Beginner's Guide",
       "goal": "How to pass the CDL permit test",
@@ -606,26 +706,6 @@
       "edition": "stellar"
     },
     {
-      "slug": "how-to-start-investing-in-index-funds-for-beginner",
-      "title": "How to Start Investing in Index Funds for Beginners",
-      "goal": "How to start investing in index funds",
-      "category": "finance",
-      "tags": [
-        "index funds",
-        "investing",
-        "personal finance"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 25411,
-      "moduleCount": 11,
-      "readingTimeMins": 102,
-      "metaDescription": "How to Start Investing in Index Funds for Beginners — a free beginner-level guide covering how to start investing in index funds. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-25T04:52:30.589Z",
-      "edition": "stellar"
-    },
-    {
       "slug": "how-to-pass-the-pmp-exam-complete-study-guide",
       "title": "How to Pass the PMP Exam: Complete Study Guide",
       "goal": "How to pass the PMP exam",
@@ -967,26 +1047,6 @@
       "metaDescription": "How to Start a Podcast for Free: A Beginner's Guide — a free beginner-level guide covering how to start a podcast for free. Learn with clear...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-24T21:24:15.514Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-start-a-profitable-blog-for-beginners",
-      "title": "How to Start a Profitable Blog for Beginners",
-      "goal": "How to start a profitable blog for beginners",
-      "category": "business",
-      "tags": [
-        "blogging",
-        "passive income",
-        "content creation"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 25011,
-      "moduleCount": 10,
-      "readingTimeMins": 101,
-      "metaDescription": "How to Start a Profitable Blog for Beginners — a free beginner-level guide covering how to start a profitable blog for beginners. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-24T21:16:52.910Z",
       "edition": "stellar"
     },
     {
@@ -8370,6 +8430,6 @@
       "edition": "street"
     }
   ],
-  "total": 416,
-  "generatedAt": "2026-07-25T17:00:16.676Z"
+  "total": 419,
+  "generatedAt": "2026-07-25T18:37:45.247Z"
 }
