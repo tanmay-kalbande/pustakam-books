@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-day-trading-stocks-complete-guide",
+      "title": "How to Start Day Trading Stocks: Complete Guide",
+      "goal": "How to start day trading stocks",
+      "category": "finance",
+      "tags": [
+        "day trading",
+        "stocks",
+        "investing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27430,
+      "moduleCount": 12,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Start Day Trading Stocks: Complete Guide — a free intermediate-level guide covering how to start day trading stocks. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T23:36:45.945Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "pmp-exam-prep-complete-study-guide-for-2024",
+      "title": "PMP Exam Prep: Complete Study Guide for 2024",
+      "goal": "How to pass the PMP exam",
+      "category": "exams",
+      "tags": [
+        "pmp",
+        "project management",
+        "certification"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23575,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "PMP Exam Prep: Complete Study Guide for 2024 — a free intermediate-level guide covering how to pass the pmp exam. Learn with clear explanations, real...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T23:25:57.452Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-get-out-of-debt-fast-stepbystep-guide",
+      "title": "How to Get Out of Debt Fast: Step-by-Step Guide",
+      "goal": "How to get out of debt fast",
+      "category": "finance",
+      "tags": [
+        "debt relief",
+        "personal finance",
+        "budgeting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22322,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Get Out of Debt Fast: Step-by-Step Guide — a free beginner-level guide covering how to get out of debt fast. Learn with clear explanations, real...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T23:16:54.220Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-blog-a-beginners-guide",
+      "title": "How to Start a Profitable Blog: A Beginner's Guide",
+      "goal": "How to start a profitable blog",
+      "category": "business",
+      "tags": [
+        "blogging",
+        "passive income",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20462,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Start a Profitable Blog: A Beginner's Guide — a free beginner-level guide covering how to start a profitable blog. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T23:08:45.670Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-copywriter-a-beginners-g",
+      "title": "How to Become a Freelance Copywriter: A Beginner's Guide",
+      "goal": "How to become a freelance copywriter",
+      "category": "career",
+      "tags": [
+        "copywriting",
+        "freelance",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22340,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Become a Freelance Copywriter: A Beginner's Guide — a free beginner-level guide covering how to become a freelance copywriter. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T23:01:34.584Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "yoga-for-beginners-at-home-a-complete-guide",
       "title": "Yoga for Beginners at Home: A Complete Guide",
       "goal": "Yoga for beginners at home",
@@ -1934,26 +2034,6 @@
       "edition": "stellar"
     },
     {
-      "slug": "how-to-get-out-of-debt-fast-stepbystep-guide",
-      "title": "How to Get Out of Debt Fast: Step-by-Step Guide",
-      "goal": "How to get out of debt fast",
-      "category": "finance",
-      "tags": [
-        "debt relief",
-        "personal finance",
-        "budgeting"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 26114,
-      "moduleCount": 10,
-      "readingTimeMins": 105,
-      "metaDescription": "How to Get Out of Debt Fast: Step-by-Step Guide — a free beginner-level guide covering how to get out of debt fast. Learn with clear explanations, real...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-24T09:46:41.369Z",
-      "edition": "stellar"
-    },
-    {
       "slug": "python-for-beginners-the-complete-learning-roadmap",
       "title": "Python for Beginners: The Complete Learning Roadmap",
       "goal": "How to learn Python for beginners",
@@ -2391,26 +2471,6 @@
       "metaDescription": "Master Tailwind CSS for Web Design — a free intermediate-level guide covering learn tailwind css for web design. Learn with clear explanations, real...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-23T19:31:53.492Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-become-a-freelance-copywriter-a-beginners-g",
-      "title": "How to Become a Freelance Copywriter: A Beginner's Guide",
-      "goal": "How to become a freelance copywriter",
-      "category": "career",
-      "tags": [
-        "freelancing",
-        "copywriting",
-        "writing"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 21639,
-      "moduleCount": 8,
-      "readingTimeMins": 87,
-      "metaDescription": "How to Become a Freelance Copywriter: A Beginner's Guide — a free beginner-level guide covering how to become a freelance copywriter. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T19:21:11.448Z",
       "edition": "stellar"
     },
     {
@@ -8714,6 +8774,6 @@
       "edition": "street"
     }
   ],
-  "total": 433,
-  "generatedAt": "2026-07-25T22:37:19.442Z"
+  "total": 436,
+  "generatedAt": "2026-07-25T23:36:46.599Z"
 }
