@@ -1,6 +1,111 @@
 {
   "books": [
     {
+      "slug": "cdl-permit-test-prep-complete-beginners-guide",
+      "title": "CDL Permit Test Prep: Complete Beginner's Guide",
+      "goal": "How to pass the CDL permit test",
+      "category": "exams",
+      "tags": [
+        "cdl",
+        "permit test",
+        "truck driving",
+        "commercial license"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32461,
+      "moduleCount": 13,
+      "readingTimeMins": 130,
+      "metaDescription": "CDL Permit Test Prep: Complete Beginner's Guide — a free beginner-level guide covering how to pass the cdl permit test. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T17:00:16.055Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-medical-transcriptionist-a-beginne",
+      "title": "How to Become a Medical Transcriptionist: A Beginner's Guide",
+      "goal": "How to become a medical transcriptionist",
+      "category": "career",
+      "tags": [
+        "medical transcription",
+        "remote work",
+        "healthcare",
+        "career change"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24308,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Become a Medical Transcriptionist: A Beginner's Guide — a free beginner-level guide covering how to become a medical transcriptionist. Learn...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T16:48:10.378Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-relieve-tension-headaches-at-home",
+      "title": "How to Relieve Tension Headaches at Home",
+      "goal": "How to relieve tension headaches at home",
+      "category": "health",
+      "tags": [
+        "headaches",
+        "pain relief",
+        "wellness",
+        "self care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21912,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Relieve Tension Headaches at Home — a free beginner-level guide covering how to relieve tension headaches at home. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T16:37:27.076Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "furniture-flipping-for-beginners-a-profit-guide",
+      "title": "Furniture Flipping for Beginners: A Profit Guide",
+      "goal": "How to flip furniture for profit",
+      "category": "finance",
+      "tags": [
+        "flipping",
+        "side hustle",
+        "furniture",
+        "money"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20263,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "Furniture Flipping for Beginners: A Profit Guide — a free beginner-level guide covering how to flip furniture for profit. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T16:28:17.088Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "build-a-rest-api-with-django-rest-framework",
+      "title": "Build a REST API with Django REST Framework",
+      "goal": "How to build a REST API with Django",
+      "category": "programming",
+      "tags": [
+        "django",
+        "python",
+        "api",
+        "backend"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20281,
+      "moduleCount": 10,
+      "readingTimeMins": 82,
+      "metaDescription": "Build a REST API with Django REST Framework — a free intermediate-level guide covering how to build a rest api with django. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T16:19:23.403Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-build-muscle-with-calisthenics-a-beginners",
       "title": "How to Build Muscle with Calisthenics: A Beginner's Guide",
       "goal": "How to build muscle with calisthenics",
@@ -8265,6 +8370,6 @@
       "edition": "street"
     }
   ],
-  "total": 411,
-  "generatedAt": "2026-07-25T15:52:25.945Z"
+  "total": 416,
+  "generatedAt": "2026-07-25T17:00:16.676Z"
 }
