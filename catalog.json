@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-build-muscle-with-calisthenics-a-beginners",
+      "title": "How to Build Muscle with Calisthenics: A Beginner's Guide",
+      "goal": "How to build muscle with calisthenics",
+      "category": "health",
+      "tags": [
+        "calisthenics",
+        "muscle building",
+        "bodyweight fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22460,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Build Muscle with Calisthenics: A Beginner's Guide — a free beginner-level guide covering how to build muscle with calisthenics. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T15:52:25.355Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-for-data-science-a-beginners-roadmap",
+      "title": "Python for Data Science: A Beginner's Roadmap",
+      "goal": "How to learn Python for data science",
+      "category": "programming",
+      "tags": [
+        "python",
+        "data science",
+        "coding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23772,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Python for Data Science: A Beginner's Roadmap — a free beginner-level guide covering how to learn python for data science. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T15:42:57.791Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-blog-stepbystep-guide",
+      "title": "How To Start A Profitable Blog: Step-by-Step Guide",
+      "goal": "How to start a profitable blog",
+      "category": "business",
+      "tags": [
+        "blogging",
+        "affiliate marketing",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28526,
+      "moduleCount": 11,
+      "readingTimeMins": 115,
+      "metaDescription": "How To Start A Profitable Blog: Step-by-Step Guide — a free beginner-level guide covering how to start a profitable blog. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T15:33:32.051Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pass-the-bar-exam-complete-preparation-road",
+      "title": "How to Pass the Bar Exam: Complete Preparation Roadmap",
+      "goal": "How to pass the BAR exam",
+      "category": "exams",
+      "tags": [
+        "bar exam",
+        "law",
+        "study guide"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28620,
+      "moduleCount": 12,
+      "readingTimeMins": 115,
+      "metaDescription": "How to Pass the Bar Exam: Complete Preparation Roadmap — a free intermediate-level guide covering how to pass the bar exam. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T15:22:37.410Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "adobe-premiere-pro-for-beginners-the-complete-guid",
+      "title": "Adobe Premiere Pro for Beginners: The Complete Guide",
+      "goal": "How to learn Adobe Premiere Pro",
+      "category": "design",
+      "tags": [
+        "video editing",
+        "premiere pro",
+        "adobe"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25005,
+      "moduleCount": 10,
+      "readingTimeMins": 101,
+      "metaDescription": "Adobe Premiere Pro for Beginners: The Complete Guide — a free beginner-level guide covering how to learn adobe premiere pro. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T15:09:21.970Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "hesi-a2-exam-prep-complete-study-guide-to-pass",
       "title": "HESI A2 Exam Prep: Complete Study Guide to Pass",
       "goal": "How to pass the HESI A2 exam",
@@ -1762,26 +1862,6 @@
       "metaDescription": "How to Start a Profitable Affiliate Marketing Blog — a free beginner-level guide covering how to start a profitable affiliate marketing blog. Learn...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-23T21:16:44.385Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "adobe-premiere-pro-for-beginners-the-complete-guid",
-      "title": "Adobe Premiere Pro for Beginners: The Complete Guide",
-      "goal": "How to learn Adobe Premiere Pro for beginners",
-      "category": "design",
-      "tags": [
-        "video editing",
-        "premiere pro",
-        "adobe"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 22431,
-      "moduleCount": 9,
-      "readingTimeMins": 90,
-      "metaDescription": "Adobe Premiere Pro for Beginners: The Complete Guide — a free beginner-level guide covering how to learn adobe premiere pro for beginners. Learn with...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T21:09:15.114Z",
       "edition": "stellar"
     },
     {
@@ -5126,26 +5206,6 @@
       "edition": "stellar"
     },
     {
-      "slug": "python-for-data-science-a-beginners-roadmap",
-      "title": "Python for Data Science: A Beginner's Roadmap",
-      "goal": "How to learn Python for data science",
-      "category": "programming",
-      "tags": [
-        "python",
-        "data science",
-        "pandas"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 28169,
-      "moduleCount": 13,
-      "readingTimeMins": 113,
-      "metaDescription": "Python for Data Science: A Beginner's Roadmap — a free beginner-level guide covering how to learn python for data science. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-20T10:14:38.364Z",
-      "edition": "stellar"
-    },
-    {
       "slug": "facebook-ads-for-local-businesses-a-complete-guide",
       "title": "Facebook Ads for Local Businesses: A Complete Guide",
       "goal": "How to run Facebook ads for local businesses",
@@ -8205,6 +8265,6 @@
       "edition": "street"
     }
   ],
-  "total": 408,
-  "generatedAt": "2026-07-25T14:11:47.990Z"
+  "total": 411,
+  "generatedAt": "2026-07-25T15:52:25.945Z"
 }
