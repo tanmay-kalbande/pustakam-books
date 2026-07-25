@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-investing-in-stocks-a-beginners-guide",
+      "title": "How to Start Investing in Stocks: A Beginner's Guide",
+      "goal": "How to start investing in stocks for beginners",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "investing",
+        "stock market"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20448,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Start Investing in Stocks: A Beginner's Guide — a free beginner-level guide covering how to start investing in stocks for beginners. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T10:28:29.628Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "excel-for-data-analysis-a-beginners-guide",
+      "title": "Excel for Data Analysis: A Beginner's Guide",
+      "goal": "How to learn Excel for data analysis",
+      "category": "productivity",
+      "tags": [
+        "excel",
+        "data analysis",
+        "microsoft"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19224,
+      "moduleCount": 8,
+      "readingTimeMins": 77,
+      "metaDescription": "Excel for Data Analysis: A Beginner's Guide — a free beginner-level guide covering how to learn excel for data analysis. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T10:21:18.485Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-free-podcast-on-spotify",
+      "title": "How to Start a Free Podcast on Spotify",
+      "goal": "How to start a podcast on Spotify for free",
+      "category": "business",
+      "tags": [
+        "podcast",
+        "spotify",
+        "audio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20254,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Start a Free Podcast on Spotify — a free beginner-level guide covering how to start a podcast on spotify for free. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T10:13:59.460Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "comptia-network-exam-study-roadmap",
+      "title": "CompTIA Network+ Exam Study Roadmap",
+      "goal": "How to pass the CompTIA Network+ exam",
+      "category": "exams",
+      "tags": [
+        "comptia",
+        "network plus",
+        "certification"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29604,
+      "moduleCount": 13,
+      "readingTimeMins": 119,
+      "metaDescription": "CompTIA Network+ Exam Study Roadmap — a free intermediate-level guide covering how to pass the comptia network+ exam. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T10:05:10.300Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-shopify-store-from-scratch",
+      "title": "How to Build a Shopify Store from Scratch",
+      "goal": "How to build a Shopify store from scratch",
+      "category": "business",
+      "tags": [
+        "shopify",
+        "ecommerce",
+        "store setup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20473,
+      "moduleCount": 8,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Build a Shopify Store from Scratch — a free beginner-level guide covering how to build a shopify store from scratch. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T09:52:18.829Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-print-on-demand-tshirt-business",
       "title": "How to Start a Print on Demand T-Shirt Business",
       "goal": "How to start a print on demand t-shirt business",
@@ -1982,46 +2082,6 @@
       "metaDescription": "IELTS Band 7+ Preparation Guide: Strategies & Practice — a free intermediate-level guide covering ielts preparation guide for band 7+. Learn with clear...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-23T08:39:20.135Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-start-investing-in-stocks-a-beginners-guide",
-      "title": "How to Start Investing in Stocks: A Beginner's Guide",
-      "goal": "How to start investing in the stock market",
-      "category": "finance",
-      "tags": [
-        "stock market",
-        "investing",
-        "finance"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 25479,
-      "moduleCount": 10,
-      "readingTimeMins": 102,
-      "metaDescription": "How to Start Investing in Stocks: A Beginner's Guide — a free beginner-level guide covering how to start investing in the stock market. Learn with...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T08:17:59.026Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "excel-for-data-analysis-a-beginners-guide",
-      "title": "Excel for Data Analysis: A Beginner's Guide",
-      "goal": "Learn Excel for data analysis",
-      "category": "productivity",
-      "tags": [
-        "excel",
-        "data analysis",
-        "microsoft office"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 23027,
-      "moduleCount": 10,
-      "readingTimeMins": 93,
-      "metaDescription": "Excel for Data Analysis: A Beginner's Guide — a free beginner-level guide covering learn excel for data analysis. Learn with clear explanations, real...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-23T08:01:18.647Z",
       "edition": "stellar"
     },
     {
@@ -7945,6 +8005,6 @@
       "edition": "street"
     }
   ],
-  "total": 395,
-  "generatedAt": "2026-07-25T08:08:28.788Z"
+  "total": 398,
+  "generatedAt": "2026-07-25T10:28:30.210Z"
 }
