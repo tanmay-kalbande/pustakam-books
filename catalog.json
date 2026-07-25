@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-start-investing-in-index-funds-for-beginner",
+      "title": "How to Start Investing in Index Funds for Beginners",
+      "goal": "How to start investing in index funds",
+      "category": "finance",
+      "tags": [
+        "index funds",
+        "investing",
+        "personal finance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25411,
+      "moduleCount": 11,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Start Investing in Index Funds for Beginners — a free beginner-level guide covering how to start investing in index funds. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T04:52:30.589Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pass-the-pmp-exam-complete-study-guide",
+      "title": "How to Pass the PMP Exam: Complete Study Guide",
+      "goal": "How to pass the PMP exam",
+      "category": "exams",
+      "tags": [
+        "pmp",
+        "project management",
+        "certification"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21395,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Pass the PMP Exam: Complete Study Guide — a free intermediate-level guide covering how to pass the pmp exam. Learn with clear explanations, real...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T04:43:15.214Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-a-business-plan-a-beginners-guide",
+      "title": "How to Write a Business Plan: A Beginner's Guide",
+      "goal": "How to write a business plan",
+      "category": "business",
+      "tags": [
+        "business plan",
+        "startup",
+        "entrepreneurship"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25613,
+      "moduleCount": 10,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Write a Business Plan: A Beginner's Guide — a free beginner-level guide covering how to write a business plan. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T04:33:48.334Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-successful-podcast-for-beginners",
+      "title": "How to Start a Successful Podcast for Beginners",
+      "goal": "How to start a successful podcast",
+      "category": "business",
+      "tags": [
+        "podcast",
+        "audio",
+        "content creation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21695,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Start a Successful Podcast for Beginners — a free beginner-level guide covering how to start a successful podcast. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T04:24:28.545Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "chess-for-beginners-the-complete-stepbystep-guide",
+      "title": "Chess for Beginners: The Complete Step-by-Step Guide",
+      "goal": "Learn to play chess for beginners",
+      "category": "productivity",
+      "tags": [
+        "chess",
+        "strategy",
+        "board games"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23576,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "Chess for Beginners: The Complete Step-by-Step Guide — a free beginner-level guide covering learn to play chess for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T04:16:00.120Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-pass-the-nclex-pn-exam-complete-study-guide",
       "title": "How to Pass the NCLEX PN Exam: Complete Study Guide",
       "goal": "How to pass the NCLEX PN exam",
@@ -1062,26 +1162,6 @@
       "metaDescription": "How to Start a Podcast: A Beginner's Complete Guide — a free beginner-level guide covering how to start a podcast for beginners. Learn with clear...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-24T00:45:58.902Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-write-a-business-plan-a-beginners-guide",
-      "title": "How to Write a Business Plan: A Beginner's Guide",
-      "goal": "How to write a business plan",
-      "category": "business",
-      "tags": [
-        "business plan",
-        "startup",
-        "entrepreneurship"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 23428,
-      "moduleCount": 9,
-      "readingTimeMins": 94,
-      "metaDescription": "How to Write a Business Plan: A Beginner's Guide — a free beginner-level guide covering how to write a business plan. Learn with clear explanations,...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-24T00:30:38.734Z",
       "edition": "stellar"
     },
     {
@@ -2943,26 +3023,6 @@
       "metaDescription": "How to Write a Job-Winning Resume: A Beginner's Guide — a free beginner-level guide covering how to write a resume for a job. Learn with clear...",
       "modelUsed": "glm-5.2",
       "generatedAt": "2026-07-22T03:44:36.944Z",
-      "edition": "stellar"
-    },
-    {
-      "slug": "how-to-start-investing-in-index-funds-for-beginner",
-      "title": "How to Start Investing in Index Funds for Beginners",
-      "goal": "How to start investing in index funds",
-      "category": "finance",
-      "tags": [
-        "investing",
-        "index funds",
-        "personal finance"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 24522,
-      "moduleCount": 10,
-      "readingTimeMins": 99,
-      "metaDescription": "How to Start Investing in Index Funds for Beginners — a free beginner-level guide covering how to start investing in index funds. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-22T03:26:07.115Z",
       "edition": "stellar"
     },
     {
@@ -7785,6 +7845,6 @@
       "edition": "street"
     }
   ],
-  "total": 387,
-  "generatedAt": "2026-07-25T00:49:05.602Z"
+  "total": 390,
+  "generatedAt": "2026-07-25T04:52:31.173Z"
 }
