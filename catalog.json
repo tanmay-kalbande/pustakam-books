@@ -1,6 +1,110 @@
 {
   "books": [
     {
+      "slug": "how-to-pass-the-nclex-pn-exam-complete-study-guide",
+      "title": "How to Pass the NCLEX PN Exam: Complete Study Guide",
+      "goal": "How to pass the NCLEX PN exam",
+      "category": "exams",
+      "tags": [
+        "nclex pn",
+        "nursing exam",
+        "study guide",
+        "test prep"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29369,
+      "moduleCount": 13,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Pass the NCLEX PN Exam: Complete Study Guide — a free intermediate-level guide covering how to pass the nclex pn exam. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T00:49:04.947Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-baking-macarons-at-home",
+      "title": "Beginner's Guide to Baking Macarons at Home",
+      "goal": "Learn to bake macarons at home for beginners",
+      "category": "productivity",
+      "tags": [
+        "baking",
+        "macarons",
+        "french pastry",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21353,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Beginner's Guide to Baking Macarons at Home — a free beginner-level guide covering learn to bake macarons at home for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T00:36:20.346Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "freelance-technical-writer-the-complete-guide",
+      "title": "Freelance Technical Writer: The Complete Guide",
+      "goal": "How to become a freelance technical writer",
+      "category": "career",
+      "tags": [
+        "technical writing",
+        "freelance",
+        "writing career",
+        "remote work"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20525,
+      "moduleCount": 8,
+      "readingTimeMins": 83,
+      "metaDescription": "Freelance Technical Writer: The Complete Guide — a free intermediate-level guide covering how to become a freelance technical writer. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T00:28:26.911Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-swedish-a-beginners-complete-guide",
+      "title": "How to Learn Swedish: A Beginner's Complete Guide",
+      "goal": "How to learn Swedish for beginners",
+      "category": "language",
+      "tags": [
+        "swedish",
+        "language learning",
+        "scandinavian languages"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23712,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Learn Swedish: A Beginner's Complete Guide — a free beginner-level guide covering how to learn swedish for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T00:19:45.751Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-etsy-digital-downloads-s",
+      "title": "How to Start a Profitable Etsy Digital Downloads Shop",
+      "goal": "How to start a profitable Etsy digital downloads shop",
+      "category": "business",
+      "tags": [
+        "etsy",
+        "digital products",
+        "passive income",
+        "online business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22922,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "How to Start a Profitable Etsy Digital Downloads Shop — a free beginner-level guide covering how to start a profitable etsy digital downloads shop....",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T00:10:26.672Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "violin-for-beginners-a-complete-stepbystep-guide",
       "title": "Violin for Beginners: A Complete Step-by-Step Guide",
       "goal": "How to learn violin for beginners",
@@ -7681,6 +7785,6 @@
       "edition": "street"
     }
   ],
-  "total": 382,
-  "generatedAt": "2026-07-24T22:56:54.072Z"
+  "total": 387,
+  "generatedAt": "2026-07-25T00:49:05.602Z"
 }
