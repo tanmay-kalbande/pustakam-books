@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "fix-sciatica-pain-with-stretches-a-beginners-guide",
+      "title": "Fix Sciatica Pain With Stretches: A Beginner's Guide",
+      "goal": "How to fix sciatica pain with stretches",
+      "category": "health",
+      "tags": [
+        "sciatica",
+        "pain relief",
+        "stretching"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24219,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Fix Sciatica Pain With Stretches: A Beginner's Guide — a free beginner-level guide covering how to fix sciatica pain with stretches. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T11:54:18.220Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "remote-data-entry-jobs-a-beginners-guide",
+      "title": "Remote Data Entry Jobs: A Beginner's Guide",
+      "goal": "How to get a remote data entry job",
+      "category": "career",
+      "tags": [
+        "data entry",
+        "remote work",
+        "job search"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27171,
+      "moduleCount": 11,
+      "readingTimeMins": 109,
+      "metaDescription": "Remote Data Entry Jobs: A Beginner's Guide — a free beginner-level guide covering how to get a remote data entry job. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T11:45:03.545Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-become-a-freelance-bookkeeper-a-beginners-g",
+      "title": "How to Become a Freelance Bookkeeper: A Beginner's Guide",
+      "goal": "How to become a freelance bookkeeper",
+      "category": "career",
+      "tags": [
+        "bookkeeping",
+        "freelance",
+        "accounting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24539,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Become a Freelance Bookkeeper: A Beginner's Guide — a free beginner-level guide covering how to become a freelance bookkeeper. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T11:34:34.883Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-successful-tiktok-shop-a-beginners",
+      "title": "How to Start a Successful TikTok Shop: A Beginner's Guide",
+      "goal": "How to start a successful TikTok shop",
+      "category": "business",
+      "tags": [
+        "tiktok shop",
+        "ecommerce",
+        "social selling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21368,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Start a Successful TikTok Shop: A Beginner's Guide — a free beginner-level guide covering how to start a successful tiktok shop. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T11:25:16.216Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "building-mobile-apps-with-react-native",
+      "title": "Building Mobile Apps with React Native",
+      "goal": "How to build a mobile app with React Native",
+      "category": "programming",
+      "tags": [
+        "react native",
+        "mobile app development",
+        "javascript"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20976,
+      "moduleCount": 10,
+      "readingTimeMins": 84,
+      "metaDescription": "Building Mobile Apps with React Native — a free intermediate-level guide covering how to build a mobile app with react native. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-25T11:16:28.879Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-investing-in-stocks-a-beginners-guide",
       "title": "How to Start Investing in Stocks: A Beginner's Guide",
       "goal": "How to start investing in stocks for beginners",
@@ -8005,6 +8105,6 @@
       "edition": "street"
     }
   ],
-  "total": 398,
-  "generatedAt": "2026-07-25T10:28:30.210Z"
+  "total": 403,
+  "generatedAt": "2026-07-25T11:54:18.864Z"
 }
