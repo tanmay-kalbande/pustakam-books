@@ -1,6 +1,139 @@
 {
   "books": [
     {
+      "slug": "creative-writing-for-beginners-fiction-and-stories",
+      "title": "Creative writing for beginners fiction and stories",
+      "goal": "Creative writing for beginners fiction and stories",
+      "category": "writing",
+      "tags": [
+        "fiction",
+        "storytelling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21628,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "Creative writing for beginners fiction and stories — a free beginner-level guide covering creative writing for beginners fiction and stories. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:47:12.217Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-yoga-at-home-complete-stepbystep-practice",
+      "title": "Beginner Yoga at Home: Complete Step-by-Step Practice Guide",
+      "goal": "Yoga for beginners complete home practice guide",
+      "category": "yoga",
+      "tags": [
+        "flexibility",
+        "mindfulness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20814,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "Beginner Yoga at Home: Complete Step-by-Step Practice Guide — a free beginner-level guide covering yoga for beginners complete home practice guide....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:42:34.320Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-car-maintenance-and-repair-for-beginners",
+      "title": "Basic Car Maintenance and Repair for Beginners",
+      "goal": "Basic car maintenance and repair for beginners",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "diy-repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24565,
+      "moduleCount": 11,
+      "readingTimeMins": 99,
+      "metaDescription": "Basic Car Maintenance and Repair for Beginners — a free beginner-level guide covering basic car maintenance and repair for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:40:04.975Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "budget-travel-hacking-tips-and-strategies-roadmap",
+      "title": "Budget Travel Hacking: Tips and Strategies Roadmap",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22472,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "Budget Travel Hacking: Tips and Strategies Roadmap — a free intermediate-level guide covering budget travel hacking tips and strategies. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:35:22.566Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-home-vegetable-garden-beginners-gui",
+      "title": "How to Start a Home Vegetable Garden: Beginner's Guide",
+      "goal": "Start a vegetable garden from scratch at home",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23601,
+      "moduleCount": 9,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Start a Home Vegetable Garden: Beginner's Guide — a free beginner-level guide covering start a vegetable garden from scratch at home. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:32:32.065Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-guitar-for-beginners-stepbystep-guide",
+      "title": "Learn Guitar for Beginners: Step-by-Step Guide",
+      "goal": "Learn guitar for beginners step by step",
+      "category": "music",
+      "tags": [
+        "guitar",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21583,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "Learn Guitar for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn guitar for beginners step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:29:41.026Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-uiux-design-with-figma-from-beginner-to-pro",
+      "title": "Learn UI/UX Design with Figma: From Beginner to Pro",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20477,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Learn UI/UX Design with Figma: From Beginner to Pro — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T11:26:51.188Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mindfulness-meditation-for-stress-and-anxiety-reli",
       "title": "Mindfulness Meditation for Stress and Anxiety Relief",
       "goal": "Mindfulness meditation for stress and anxiety relief",
@@ -9329,6 +9462,6 @@
       "edition": "street"
     }
   ],
-  "total": 465,
-  "generatedAt": "2026-07-26T10:06:12.691Z"
+  "total": 472,
+  "generatedAt": "2026-07-26T11:47:12.946Z"
 }
