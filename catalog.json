@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-fix-lower-back-pain-at-home-a-beginners-gui",
+      "title": "How to Fix Lower Back Pain at Home: A Beginner's Guide",
+      "goal": "How to fix lower back pain at home",
+      "category": "health",
+      "tags": [
+        "back pain",
+        "stretches",
+        "posture"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23128,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "How to Fix Lower Back Pain at Home: A Beginner's Guide — a free beginner-level guide covering how to fix lower back pain at home. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-26T00:45:05.884Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-shopify-dropshipping-store-for-begi",
+      "title": "How to Start a Shopify Dropshipping Store for Beginners",
+      "goal": "How to start a Shopify dropshipping store",
+      "category": "business",
+      "tags": [
+        "shopify",
+        "dropshipping",
+        "ecommerce"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25657,
+      "moduleCount": 10,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Start a Shopify Dropshipping Store for Beginners — a free beginner-level guide covering how to start a shopify dropshipping store. Learn with...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-26T00:36:53.453Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "comptia-a-exam-prep-core-1-core-2-guide",
+      "title": "CompTIA A+ Exam Prep: Core 1 & Core 2 Guide",
+      "goal": "How to pass the CompTIA A+ exam",
+      "category": "exams",
+      "tags": [
+        "comptia a+",
+        "it certification",
+        "study guide"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29507,
+      "moduleCount": 11,
+      "readingTimeMins": 119,
+      "metaDescription": "CompTIA A+ Exam Prep: Core 1 & Core 2 Guide — a free intermediate-level guide covering how to pass the comptia a+ exam. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-26T00:27:34.746Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-spanish-for-beginners-online-a-practical-gui",
+      "title": "Learn Spanish for Beginners Online: A Practical Guide",
+      "goal": "Learn Spanish for beginners online",
+      "category": "language",
+      "tags": [
+        "spanish",
+        "language learning",
+        "beginners"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25489,
+      "moduleCount": 12,
+      "readingTimeMins": 102,
+      "metaDescription": "Learn Spanish for Beginners Online: A Practical Guide — a free beginner-level guide covering learn spanish for beginners online. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-26T00:17:19.220Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-affiliate-marketing-blog",
+      "title": "How to Start an Affiliate Marketing Blog",
+      "goal": "How to start an affiliate marketing blog",
+      "category": "business",
+      "tags": [
+        "affiliate marketing",
+        "blogging",
+        "passive income"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23303,
+      "moduleCount": 9,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Start an Affiliate Marketing Blog — a free beginner-level guide covering how to start an affiliate marketing blog. Learn with clear...",
+      "modelUsed": "glm-5.2",
+      "generatedAt": "2026-07-26T00:06:35.122Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-day-trading-stocks-complete-guide",
       "title": "How to Start Day Trading Stocks: Complete Guide",
       "goal": "How to start day trading stocks",
@@ -5215,26 +5315,6 @@
       "edition": "stellar"
     },
     {
-      "slug": "how-to-start-an-affiliate-marketing-blog",
-      "title": "How to Start an Affiliate Marketing Blog",
-      "goal": "How to start a successful affiliate marketing blog",
-      "category": "business",
-      "tags": [
-        "affiliate marketing",
-        "blogging",
-        "passive income"
-      ],
-      "language": "en",
-      "complexity": "beginner",
-      "wordCount": 29234,
-      "moduleCount": 12,
-      "readingTimeMins": 117,
-      "metaDescription": "How to Start an Affiliate Marketing Blog — a free beginner-level guide covering how to start a successful affiliate marketing blog. Learn with clear...",
-      "modelUsed": "glm-5.2",
-      "generatedAt": "2026-07-20T21:40:42.656Z",
-      "edition": "stellar"
-    },
-    {
       "slug": "c-programming-for-beginners-learn-from-scratch",
       "title": "C++ Programming for Beginners: Learn from Scratch",
       "goal": "Learn C++ programming from scratch",
@@ -8774,6 +8854,6 @@
       "edition": "street"
     }
   ],
-  "total": 436,
-  "generatedAt": "2026-07-25T23:36:46.599Z"
+  "total": 440,
+  "generatedAt": "2026-07-26T00:45:06.569Z"
 }
