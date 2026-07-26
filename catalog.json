@@ -1,6 +1,196 @@
 {
   "books": [
     {
+      "slug": "learn-to-cook-authentic-italian-food-at-home-from",
+      "title": "Learn to Cook Authentic Italian Food at Home from Scratch",
+      "goal": "Learn to cook Italian food at home from scratch",
+      "category": "cooking",
+      "tags": [
+        "italian",
+        "recipes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29204,
+      "moduleCount": 11,
+      "readingTimeMins": 117,
+      "metaDescription": "Learn to Cook Authentic Italian Food at Home from Scratch — a free beginner-level guide covering learn to cook italian food at home from scratch. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:26:19.059Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-uiux-design-with-figma-a-professional-gu",
+      "title": "Mastering UI/UX Design with Figma: A Professional Guide",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14874,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "Mastering UI/UX Design with Figma: A Professional Guide — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:23:39.378Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "build-a-consistent-gym-workout-routine-for-beginne",
+      "title": "Build a Consistent Gym Workout Routine for Beginners",
+      "goal": "Build a consistent gym workout routine for beginners",
+      "category": "fitness",
+      "tags": [
+        "gym",
+        "workout"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23284,
+      "moduleCount": 11,
+      "readingTimeMins": 94,
+      "metaDescription": "Build a Consistent Gym Workout Routine for Beginners — a free beginner-level guide covering build a consistent gym workout routine for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:21:13.421Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "spoken-english-fluency-guide-for-indian-speakers",
+      "title": "Spoken English Fluency Guide for Indian Speakers",
+      "goal": "Improve spoken English fluency for Indian speakers",
+      "category": "language",
+      "tags": [
+        "english",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13223,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "Spoken English Fluency Guide for Indian Speakers — a free beginner-level guide covering improve spoken english fluency for indian speakers. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:18:40.721Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "upsc-cse-prelims-mastery-systematic-study-guide",
+      "title": "UPSC CSE Prelims Mastery: Systematic Study Guide",
+      "goal": "Crack UPSC CSE Prelims with systematic preparation",
+      "category": "exams",
+      "tags": [
+        "upsc",
+        "ias"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25820,
+      "moduleCount": 10,
+      "readingTimeMins": 104,
+      "metaDescription": "UPSC CSE Prelims Mastery: Systematic Study Guide — a free beginner-level guide covering crack upsc cse prelims with systematic preparation. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:18:01.752Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-launch-a-startup-from-idea-to-product",
+      "title": "How to Launch a Startup: From Idea to Product",
+      "goal": "Launch a startup from idea to product",
+      "category": "business",
+      "tags": [
+        "startup",
+        "entrepreneurship"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13545,
+      "moduleCount": 8,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Launch a Startup: From Idea to Product — a free intermediate-level guide covering launch a startup from idea to product. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:15:14.684Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-investing-in-indian-stock-market-a-be",
+      "title": "How to Start Investing in Indian Stock Market: A Beginner's Guide",
+      "goal": "Learn stock market investing for beginners in India",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "india"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24253,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Start Investing in Indian Stock Market: A Beginner's Guide — a free beginner-level guide covering learn stock market investing for beginners in...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:12:52.305Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-prompt-engineering-and-llm-application-ar",
+      "title": "Advanced Prompt Engineering and LLM Application Architecture",
+      "goal": "Understand prompt engineering and build LLM apps",
+      "category": "artificial-intelligence",
+      "tags": [
+        "llm",
+        "prompt-engineering"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14325,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Advanced Prompt Engineering and LLM Application Architecture — a free advanced-level guide covering understand prompt engineering and build llm apps....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:10:15.683Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-data-structures-algorithms-for-tech-intervi",
+      "title": "Master Data Structures & Algorithms for Tech Interviews",
+      "goal": "Understand data structures and algorithms for tech interviews",
+      "category": "programming",
+      "tags": [
+        "dsa",
+        "algorithms"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25574,
+      "moduleCount": 11,
+      "readingTimeMins": 103,
+      "metaDescription": "Master Data Structures & Algorithms for Tech Interviews — a free intermediate-level guide covering understand data structures and algorithms for tech...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:08:52.296Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-for-beginners-from-zero-to-realworld-projec",
+      "title": "Python for Beginners: From Zero to Real-World Projects",
+      "goal": "Learn Python programming from zero to real projects",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20160,
+      "moduleCount": 12,
+      "readingTimeMins": 81,
+      "metaDescription": "Python for Beginners: From Zero to Real-World Projects — a free beginner-level guide covering learn python programming from zero to real projects....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:06:14.972Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-fix-lower-back-pain-at-home-a-beginners-gui",
       "title": "How to Fix Lower Back Pain at Home: A Beginner's Guide",
       "goal": "How to fix lower back pain at home",
@@ -8854,6 +9044,6 @@
       "edition": "street"
     }
   ],
-  "total": 440,
-  "generatedAt": "2026-07-26T03:33:39.680Z"
+  "total": 450,
+  "generatedAt": "2026-07-26T06:26:19.739Z"
 }
