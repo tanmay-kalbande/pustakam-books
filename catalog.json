@@ -1,6 +1,215 @@
 {
   "books": [
     {
+      "slug": "hand-tool-woodworking-projects-for-beginners",
+      "title": "Hand Tool Woodworking Projects for Beginners",
+      "goal": "Woodworking projects for beginners with hand tools",
+      "category": "woodworking",
+      "tags": [
+        "furniture",
+        "hand-tools"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24146,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Hand Tool Woodworking Projects for Beginners — a free beginner-level guide covering woodworking projects for beginners with hand tools. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:43:57.704Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "diy-home-renovation-for-beginners-a-stepbystep-gui",
+      "title": "DIY Home Renovation for Beginners: A Step-by-Step Guide",
+      "goal": "DIY home renovation projects for beginners",
+      "category": "home-improvement",
+      "tags": [
+        "diy",
+        "renovation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16735,
+      "moduleCount": 10,
+      "readingTimeMins": 67,
+      "metaDescription": "DIY Home Renovation for Beginners: A Step-by-Step Guide — a free beginner-level guide covering diy home renovation projects for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T15:39:33.229Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-swim-as-an-adult-beginner-stepbystep-road",
+      "title": "Learn to Swim as an Adult Beginner: Step-by-Step Roadmap",
+      "goal": "Learn to swim as an adult beginner",
+      "category": "sports",
+      "tags": [
+        "swimming",
+        "water"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21587,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "Learn to Swim as an Adult Beginner: Step-by-Step Roadmap — a free beginner-level guide covering learn to swim as an adult beginner. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:35:08.476Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "budget-travel-hacking-advanced-strategies-for-chea",
+      "title": "Budget Travel Hacking: Advanced Strategies for Cheap Travel",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14559,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Budget Travel Hacking: Advanced Strategies for Cheap Travel — a free intermediate-level guide covering budget travel hacking tips and strategies. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T15:30:26.304Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "positive-parenting-techniques-for-toddlers",
+      "title": "Positive Parenting Techniques for Toddlers",
+      "goal": "Positive parenting techniques for toddlers",
+      "category": "parenting",
+      "tags": [
+        "toddlers",
+        "discipline"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20693,
+      "moduleCount": 11,
+      "readingTimeMins": 83,
+      "metaDescription": "Positive Parenting Techniques for Toddlers — a free beginner-level guide covering positive parenting techniques for toddlers. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:27:54.601Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "stepbystep-guitar-for-beginners-learn-to-play-fast",
+      "title": "Step-by-Step Guitar for Beginners: Learn to Play Fast",
+      "goal": "Learn guitar for beginners step by step",
+      "category": "music",
+      "tags": [
+        "guitar",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21394,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Step-by-Step Guitar for Beginners: Learn to Play Fast — a free beginner-level guide covering learn guitar for beginners step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:23:14.821Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-cook-authentic-italian-food-at-home-a-beg",
+      "title": "Learn to Cook Authentic Italian Food at Home: A Beginner's Guide",
+      "goal": "Learn to cook Italian food at home from scratch",
+      "category": "cooking",
+      "tags": [
+        "italian",
+        "recipes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14144,
+      "moduleCount": 10,
+      "readingTimeMins": 57,
+      "metaDescription": "Learn to Cook Authentic Italian Food at Home: A Beginner's Guide — a free beginner-level guide covering learn to cook italian food at home from...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T15:20:42.703Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "upsc-cse-prelims-systematic-preparation-guide",
+      "title": "UPSC CSE Prelims: Systematic Preparation Guide",
+      "goal": "Crack UPSC CSE Prelims with systematic preparation",
+      "category": "exams",
+      "tags": [
+        "upsc",
+        "ias"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23544,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "UPSC CSE Prelims: Systematic Preparation Guide — a free beginner-level guide covering crack upsc cse prelims with systematic preparation. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:16:21.758Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-stock-market-investing-for-beginners-in-indi",
+      "title": "Learn Stock Market Investing for Beginners in India",
+      "goal": "Learn stock market investing for beginners in India",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "india"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21920,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Learn Stock Market Investing for Beginners in India — a free beginner-level guide covering learn stock market investing for beginners in india. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:11:37.639Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "data-structures-and-algorithms-for-tech-interviews",
+      "title": "Data Structures and Algorithms for Tech Interviews",
+      "goal": "Understand data structures and algorithms for tech interviews",
+      "category": "programming",
+      "tags": [
+        "dsa",
+        "algorithms"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23135,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "Data Structures and Algorithms for Tech Interviews — a free intermediate-level guide covering understand data structures and algorithms for tech...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T15:08:47.860Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-programming-for-beginners-zero-to-real-proj",
+      "title": "Python Programming for Beginners: Zero to Real Projects",
+      "goal": "Learn Python programming from zero to real projects",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17610,
+      "moduleCount": 11,
+      "readingTimeMins": 71,
+      "metaDescription": "Python Programming for Beginners: Zero to Real Projects — a free beginner-level guide covering learn python programming from zero to real projects....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T15:06:14.269Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "diy-home-renovation-projects-for-beginners",
       "title": "DIY Home Renovation Projects for Beginners",
       "goal": "DIY home renovation projects for beginners",
@@ -9576,6 +9785,6 @@
       "edition": "street"
     }
   ],
-  "total": 478,
-  "generatedAt": "2026-07-26T13:39:38.237Z"
+  "total": 489,
+  "generatedAt": "2026-07-26T15:43:58.465Z"
 }
