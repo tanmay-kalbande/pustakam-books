@@ -1,6 +1,120 @@
 {
   "books": [
     {
+      "slug": "data-science-with-python-a-beginners-guide",
+      "title": "Data Science with Python: A Beginner's Guide",
+      "goal": "Data science with Python for beginners",
+      "category": "data-science",
+      "tags": [
+        "python",
+        "analytics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19716,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Data Science with Python: A Beginner's Guide — a free beginner-level guide covering data science with python for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T18:36:49.644Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-swim-as-an-adult-a-stepbystep-beginners-g",
+      "title": "Learn to Swim as an Adult: A Step-by-Step Beginner's Guide",
+      "goal": "Learn to swim as an adult beginner",
+      "category": "sports",
+      "tags": [
+        "swimming",
+        "water"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14978,
+      "moduleCount": 10,
+      "readingTimeMins": 60,
+      "metaDescription": "Learn to Swim as an Adult: A Step-by-Step Beginner's Guide — a free beginner-level guide covering learn to swim as an adult beginner. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T18:29:56.288Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-car-maintenance-for-beginners-diy-guide",
+      "title": "Basic Car Maintenance for Beginners: DIY Guide",
+      "goal": "Basic car maintenance and repair for beginners",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "diy-repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23591,
+      "moduleCount": 9,
+      "readingTimeMins": 95,
+      "metaDescription": "Basic Car Maintenance for Beginners: DIY Guide — a free beginner-level guide covering basic car maintenance and repair for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T18:25:13.596Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "budget-travel-hacking-practical-tips-strategies-fo",
+      "title": "Budget Travel Hacking: Practical Tips & Strategies for Cheap Adventures",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21331,
+      "moduleCount": 10,
+      "readingTimeMins": 86,
+      "metaDescription": "Budget Travel Hacking: Practical Tips & Strategies for Cheap Adventures — a free intermediate-level guide covering budget travel hacking tips and...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T18:22:41.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "crack-upsc-cse-prelims-a-systematic-preparation-gu",
+      "title": "Crack UPSC CSE Prelims: A Systematic Preparation Guide",
+      "goal": "Crack UPSC CSE Prelims with systematic preparation",
+      "category": "exams",
+      "tags": [
+        "upsc",
+        "ias"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17867,
+      "moduleCount": 11,
+      "readingTimeMins": 72,
+      "metaDescription": "Crack UPSC CSE Prelims: A Systematic Preparation Guide — a free beginner-level guide covering crack upsc cse prelims with systematic preparation. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T18:09:18.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "launch-a-startup-from-idea-to-product",
+      "title": "Launch a Startup: From Idea to Product",
+      "goal": "Launch a startup from idea to product",
+      "category": "business",
+      "tags": [
+        "startup",
+        "entrepreneurship"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21838,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Launch a Startup: From Idea to Product — a free intermediate-level guide covering launch a startup from idea to product. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T18:04:38.086Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "social-media-marketing-strategy-for-small-business",
       "title": "Social Media Marketing Strategy for Small Business",
       "goal": "Social media marketing strategy for small business",
@@ -9918,6 +10032,6 @@
       "edition": "street"
     }
   ],
-  "total": 496,
-  "generatedAt": "2026-07-26T17:27:57.111Z"
+  "total": 502,
+  "generatedAt": "2026-07-26T18:36:50.390Z"
 }
