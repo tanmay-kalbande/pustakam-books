@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "cybersecurity-fundamentals-for-beginners-learn-to",
+      "title": "Cybersecurity Fundamentals for Beginners: Learn to Protect Digital Assets",
+      "goal": "Cybersecurity fundamentals for beginners",
+      "category": "cybersecurity",
+      "tags": [
+        "security",
+        "networking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22033,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "Cybersecurity Fundamentals for Beginners: Learn to Protect Digital Assets — a free beginner-level guide covering cybersecurity fundamentals for...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T23:34:23.917Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "data-science-with-python-for-beginners-a-stepbyste",
+      "title": "Data Science with Python for Beginners: A Step-by-Step Guide",
+      "goal": "Data science with Python for beginners",
+      "category": "data-science",
+      "tags": [
+        "python",
+        "analytics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14846,
+      "moduleCount": 10,
+      "readingTimeMins": 60,
+      "metaDescription": "Data Science with Python for Beginners: A Step-by-Step Guide — a free beginner-level guide covering data science with python for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T23:30:04.760Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "budget-travel-hacking-advanced-strategies-for-lowc",
+      "title": "Budget Travel Hacking: Advanced Strategies for Low-Cost Travel",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11737,
+      "moduleCount": 7,
+      "readingTimeMins": 47,
+      "metaDescription": "Budget Travel Hacking: Advanced Strategies for Low-Cost Travel — a free intermediate-level guide covering budget travel hacking tips and strategies....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T23:18:54.368Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-vegetable-garden-a-beginners-guide",
+      "title": "How to Start a Vegetable Garden: A Beginner's Guide",
+      "goal": "Start a vegetable garden from scratch at home",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16558,
+      "moduleCount": 10,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Start a Vegetable Garden: A Beginner's Guide — a free beginner-level guide covering start a vegetable garden from scratch at home. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T23:16:22.239Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-cook-authentic-italian-food-at-home-a-begin",
+      "title": "How to Cook Authentic Italian Food at Home: A Beginner's Guide",
+      "goal": "Learn to cook Italian food at home from scratch",
+      "category": "cooking",
+      "tags": [
+        "italian",
+        "recipes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15537,
+      "moduleCount": 10,
+      "readingTimeMins": 63,
+      "metaDescription": "How to Cook Authentic Italian Food at Home: A Beginner's Guide — a free beginner-level guide covering learn to cook italian food at home from scratch....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T23:11:54.644Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "data-science-with-python-for-beginners-stepbystep",
       "title": "Data Science with Python for Beginners: Step-by-Step Guide",
       "goal": "Data science with Python for beginners",
@@ -10165,6 +10260,6 @@
       "edition": "street"
     }
   ],
-  "total": 509,
-  "generatedAt": "2026-07-26T22:27:24.024Z"
+  "total": 514,
+  "generatedAt": "2026-07-26T23:34:24.429Z"
 }
