@@ -1,6 +1,120 @@
 {
   "books": [
     {
+      "slug": "diy-home-renovation-projects-for-beginners",
+      "title": "DIY Home Renovation Projects for Beginners",
+      "goal": "DIY home renovation projects for beginners",
+      "category": "home-improvement",
+      "tags": [
+        "diy",
+        "renovation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22534,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "DIY Home Renovation Projects for Beginners — a free beginner-level guide covering diy home renovation projects for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T13:39:37.486Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "yoga-for-beginners-complete-home-practice-guide",
+      "title": "Yoga for Beginners: Complete Home Practice Guide",
+      "goal": "Yoga for beginners complete home practice guide",
+      "category": "yoga",
+      "tags": [
+        "flexibility",
+        "mindfulness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21273,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Yoga for Beginners: Complete Home Practice Guide — a free beginner-level guide covering yoga for beginners complete home practice guide. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T13:34:54.856Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-car-maintenance-guide-for-beginners",
+      "title": "Basic Car Maintenance Guide for Beginners",
+      "goal": "Basic car maintenance and repair for beginners",
+      "category": "automotive",
+      "tags": [
+        "cars",
+        "diy-repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21984,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Basic Car Maintenance Guide for Beginners — a free beginner-level guide covering basic car maintenance and repair for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T13:32:24.519Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "positive-parenting-techniques-for-toddlers-a-compl",
+      "title": "Positive Parenting Techniques for Toddlers: A Complete Guide",
+      "goal": "Positive parenting techniques for toddlers",
+      "category": "parenting",
+      "tags": [
+        "toddlers",
+        "discipline"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16708,
+      "moduleCount": 9,
+      "readingTimeMins": 67,
+      "metaDescription": "Positive Parenting Techniques for Toddlers: A Complete Guide — a free beginner-level guide covering positive parenting techniques for toddlers. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T13:27:42.658Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "digital-photography-composition-and-lighting-basic",
+      "title": "Digital Photography: Composition and Lighting Basics",
+      "goal": "Digital photography composition and lighting basics",
+      "category": "photography",
+      "tags": [
+        "camera",
+        "composition"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14338,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Digital Photography: Composition and Lighting Basics — a free beginner-level guide covering digital photography composition and lighting basics. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T13:24:49.567Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-uiux-design-from-scratch-with-figma",
+      "title": "Learn UI/UX Design from Scratch with Figma",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20798,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "Learn UI/UX Design from Scratch with Figma — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T13:20:27.802Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "creative-writing-for-beginners-fiction-and-stories",
       "title": "Creative writing for beginners fiction and stories",
       "goal": "Creative writing for beginners fiction and stories",
@@ -9462,6 +9576,6 @@
       "edition": "street"
     }
   ],
-  "total": 472,
-  "generatedAt": "2026-07-26T11:47:12.946Z"
+  "total": 478,
+  "generatedAt": "2026-07-26T13:39:38.237Z"
 }
