@@ -1,6 +1,158 @@
 {
   "books": [
     {
+      "slug": "mindfulness-meditation-for-stress-and-anxiety-reli",
+      "title": "Mindfulness Meditation for Stress and Anxiety Relief",
+      "goal": "Mindfulness meditation for stress and anxiety relief",
+      "category": "meditation",
+      "tags": [
+        "mindfulness",
+        "stress"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13043,
+      "moduleCount": 7,
+      "readingTimeMins": 53,
+      "metaDescription": "Mindfulness Meditation for Stress and Anxiety Relief — a free beginner-level guide covering mindfulness meditation for stress and anxiety relief. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T10:04:05.138Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "dog-training-basics-for-firsttime-owners",
+      "title": "Dog Training Basics for First-Time Owners",
+      "goal": "Dog training basics for first-time owners",
+      "category": "pets",
+      "tags": [
+        "dogs",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15948,
+      "moduleCount": 9,
+      "readingTimeMins": 64,
+      "metaDescription": "Dog Training Basics for First-Time Owners — a free beginner-level guide covering dog training basics for first-time owners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T09:59:32.235Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-knitting-for-beginners-a-stepbystep-guide",
+      "title": "Learn Knitting for Beginners: A Step-by-Step Guide",
+      "goal": "Learn knitting for beginners step by step",
+      "category": "crafts",
+      "tags": [
+        "knitting",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12969,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Learn Knitting for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn knitting for beginners step by step. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T09:56:29.957Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "budget-travel-hacking-tips-strategies",
+      "title": "Budget Travel Hacking Tips & Strategies",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25798,
+      "moduleCount": 11,
+      "readingTimeMins": 104,
+      "metaDescription": "Budget Travel Hacking Tips & Strategies — a free intermediate-level guide covering budget travel hacking tips and strategies. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T09:54:05.731Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "positive-parenting-for-toddlers-a-comprehensive-gu",
+      "title": "Positive Parenting for Toddlers: A Comprehensive Guide",
+      "goal": "Positive parenting techniques for toddlers",
+      "category": "parenting",
+      "tags": [
+        "toddlers",
+        "discipline"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17750,
+      "moduleCount": 10,
+      "readingTimeMins": 71,
+      "metaDescription": "Positive Parenting for Toddlers: A Comprehensive Guide — a free beginner-level guide covering positive parenting techniques for toddlers. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T09:49:39.822Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "digital-photography-composition-and-lighting-for-b",
+      "title": "Digital Photography Composition and Lighting for Beginners",
+      "goal": "Digital photography composition and lighting basics",
+      "category": "photography",
+      "tags": [
+        "camera",
+        "composition"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13467,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Digital Photography Composition and Lighting for Beginners — a free beginner-level guide covering digital photography composition and lighting basics....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T09:43:06.599Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "crack-upsc-cse-prelims-systematic-preparation-road",
+      "title": "Crack UPSC CSE Prelims: Systematic Preparation Roadmap",
+      "goal": "Crack UPSC CSE Prelims with systematic preparation",
+      "category": "exams",
+      "tags": [
+        "upsc",
+        "ias"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23911,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Crack UPSC CSE Prelims: Systematic Preparation Roadmap — a free beginner-level guide covering crack upsc cse prelims with systematic preparation. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T09:32:07.216Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "stock-market-investing-for-beginners-in-india",
+      "title": "Stock Market Investing for Beginners in India",
+      "goal": "Learn stock market investing for beginners in India",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "india"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21268,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Stock Market Investing for Beginners in India — a free beginner-level guide covering learn stock market investing for beginners in india. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T09:23:31.821Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-guitar-for-beginners-stepbystep-roadmap",
       "title": "Learn Guitar for Beginners: Step-by-Step Roadmap",
       "goal": "Learn guitar for beginners step by step",
@@ -9177,6 +9329,6 @@
       "edition": "street"
     }
   ],
-  "total": 457,
-  "generatedAt": "2026-07-26T06:52:38.150Z"
+  "total": 465,
+  "generatedAt": "2026-07-26T10:06:12.691Z"
 }
