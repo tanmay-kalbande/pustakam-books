@@ -1,6 +1,139 @@
 {
   "books": [
     {
+      "slug": "social-media-marketing-strategy-for-small-business",
+      "title": "Social Media Marketing Strategy for Small Business",
+      "goal": "Social media marketing strategy for small business",
+      "category": "marketing",
+      "tags": [
+        "social-media",
+        "growth"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22314,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "Social Media Marketing Strategy for Small Business — a free intermediate-level guide covering social media marketing strategy for small business. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T17:27:56.295Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "diy-home-renovation-for-beginners-stepbystep-guide",
+      "title": "DIY Home Renovation for Beginners: Step-by-Step Guide",
+      "goal": "DIY home renovation projects for beginners",
+      "category": "home-improvement",
+      "tags": [
+        "diy",
+        "renovation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23204,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "DIY Home Renovation for Beginners: Step-by-Step Guide — a free beginner-level guide covering diy home renovation projects for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T17:23:14.496Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-to-swim-as-an-adult-a-stepbystep-guid",
+      "title": "How to Learn to Swim as an Adult: A Step-by-Step Guide",
+      "goal": "Learn to swim as an adult beginner",
+      "category": "sports",
+      "tags": [
+        "swimming",
+        "water"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13766,
+      "moduleCount": 9,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Learn to Swim as an Adult: A Step-by-Step Guide — a free beginner-level guide covering learn to swim as an adult beginner. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T17:20:43.712Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "positive-parenting-for-toddlers-a-complete-beginne",
+      "title": "Positive Parenting for Toddlers: A Complete Beginner's Guide",
+      "goal": "Positive parenting techniques for toddlers",
+      "category": "parenting",
+      "tags": [
+        "toddlers",
+        "discipline"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14987,
+      "moduleCount": 8,
+      "readingTimeMins": 60,
+      "metaDescription": "Positive Parenting for Toddlers: A Complete Beginner's Guide — a free beginner-level guide covering positive parenting techniques for toddlers. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T17:14:31.445Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-guitar-for-beginners-a-stepbystep-guide",
+      "title": "Learn Guitar for Beginners: A Step-by-Step Guide",
+      "goal": "Learn guitar for beginners step by step",
+      "category": "music",
+      "tags": [
+        "guitar",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14923,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "Learn Guitar for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn guitar for beginners step by step. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T17:11:41.234Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-uiux-design-with-figma-a-professional-ro",
+      "title": "Mastering UI/UX Design with Figma: A Professional Roadmap",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12823,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Mastering UI/UX Design with Figma: A Professional Roadmap — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T17:06:54.512Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "speak-english-fluently-beginner-guide-for-indian-l",
+      "title": "Speak English Fluently: Beginner Guide for Indian Learners",
+      "goal": "Improve spoken English fluency for Indian speakers",
+      "category": "language",
+      "tags": [
+        "english",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19943,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "Speak English Fluently: Beginner Guide for Indian Learners — a free beginner-level guide covering improve spoken english fluency for indian speakers....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T17:04:23.222Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "hand-tool-woodworking-projects-for-beginners",
       "title": "Hand Tool Woodworking Projects for Beginners",
       "goal": "Woodworking projects for beginners with hand tools",
@@ -9785,6 +9918,6 @@
       "edition": "street"
     }
   ],
-  "total": 489,
-  "generatedAt": "2026-07-26T15:43:58.465Z"
+  "total": 496,
+  "generatedAt": "2026-07-26T17:27:57.111Z"
 }
