@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "data-science-with-python-for-beginners-stepbystep",
+      "title": "Data Science with Python for Beginners: Step-by-Step Guide",
+      "goal": "Data science with Python for beginners",
+      "category": "data-science",
+      "tags": [
+        "python",
+        "analytics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20820,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "Data Science with Python for Beginners: Step-by-Step Guide — a free beginner-level guide covering data science with python for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T22:27:23.191Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-yoga-at-home-complete-guide-to-practice-a",
+      "title": "Beginner Yoga at Home: Complete Guide to Practice Anywhere",
+      "goal": "Yoga for beginners complete home practice guide",
+      "category": "yoga",
+      "tags": [
+        "flexibility",
+        "mindfulness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20538,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Beginner Yoga at Home: Complete Guide to Practice Anywhere — a free beginner-level guide covering yoga for beginners complete home practice guide....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T22:20:11.400Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "start-a-vegetable-garden-from-scratch-at-home",
+      "title": "Start a vegetable garden from scratch at home",
+      "goal": "Start a vegetable garden from scratch at home",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23736,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "Start a vegetable garden from scratch at home — a free beginner-level guide covering start a vegetable garden from scratch at home. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T22:13:16.196Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-uiux-design-with-figma-a-complete-guide",
+      "title": "Mastering UI/UX Design with Figma: A Complete Guide",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14584,
+      "moduleCount": 11,
+      "readingTimeMins": 59,
+      "metaDescription": "Mastering UI/UX Design with Figma: A Complete Guide — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T22:04:29.456Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "improve-spoken-english-fluency-for-indian-speakers",
+      "title": "Improve Spoken English Fluency for Indian Speakers",
+      "goal": "Improve spoken English fluency for Indian speakers",
+      "category": "language",
+      "tags": [
+        "english",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19195,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Improve Spoken English Fluency for Indian Speakers — a free beginner-level guide covering improve spoken english fluency for indian speakers. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T22:00:04.242Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "budget-travel-hacking-tips-and-strategies",
       "title": "Budget Travel Hacking Tips and Strategies",
       "goal": "Budget travel hacking tips and strategies",
@@ -10070,6 +10165,6 @@
       "edition": "street"
     }
   ],
-  "total": 504,
-  "generatedAt": "2026-07-26T20:31:02.080Z"
+  "total": 509,
+  "generatedAt": "2026-07-26T22:27:24.024Z"
 }
