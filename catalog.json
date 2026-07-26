@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "slug": "budget-travel-hacking-tips-and-strategies",
+      "title": "Budget Travel Hacking Tips and Strategies",
+      "goal": "Budget travel hacking tips and strategies",
+      "category": "travel",
+      "tags": [
+        "budget",
+        "flights"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22814,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Budget Travel Hacking Tips and Strategies — a free intermediate-level guide covering budget travel hacking tips and strategies. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T20:20:30.073Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-uiux-design-with-figma-a-comprehensive-g",
+      "title": "Mastering UI/UX Design with Figma: A Comprehensive Guide",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14355,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Mastering UI/UX Design with Figma: A Comprehensive Guide — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T20:13:09.294Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "data-science-with-python-a-beginners-guide",
       "title": "Data Science with Python: A Beginner's Guide",
       "goal": "Data science with Python for beginners",
@@ -10032,6 +10070,6 @@
       "edition": "street"
     }
   ],
-  "total": 502,
-  "generatedAt": "2026-07-26T18:36:50.390Z"
+  "total": 504,
+  "generatedAt": "2026-07-26T20:31:02.080Z"
 }
