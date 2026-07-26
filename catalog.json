@@ -1,6 +1,139 @@
 {
   "books": [
     {
+      "slug": "learn-guitar-for-beginners-stepbystep-roadmap",
+      "title": "Learn Guitar for Beginners: Step-by-Step Roadmap",
+      "goal": "Learn guitar for beginners step by step",
+      "category": "music",
+      "tags": [
+        "guitar",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22655,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "Learn Guitar for Beginners: Step-by-Step Roadmap — a free beginner-level guide covering learn guitar for beginners step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:52:37.429Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-cook-italian-food-at-home-a-beginners-guide",
+      "title": "How to Cook Italian Food at Home: A Beginner's Guide",
+      "goal": "Learn to cook Italian food at home from scratch",
+      "category": "cooking",
+      "tags": [
+        "italian",
+        "recipes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16585,
+      "moduleCount": 10,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Cook Italian Food at Home: A Beginner's Guide — a free beginner-level guide covering learn to cook italian food at home from scratch. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:50:00.206Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-uiux-design-with-figma-complete-guide",
+      "title": "Learn UI/UX Design with Figma – Complete Guide",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23083,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "Learn UI/UX Design with Figma – Complete Guide — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:47:26.965Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "crack-upsc-cse-prelims-systematic-preparation-guid",
+      "title": "Crack UPSC CSE Prelims: Systematic Preparation Guide",
+      "goal": "Crack UPSC CSE Prelims with systematic preparation",
+      "category": "exams",
+      "tags": [
+        "upsc",
+        "ias"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22319,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "Crack UPSC CSE Prelims: Systematic Preparation Guide — a free beginner-level guide covering crack upsc cse prelims with systematic preparation. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:44:53.887Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-stock-market-investing-in-india",
+      "title": "Beginner's Guide to Stock Market Investing in India",
+      "goal": "Learn stock market investing for beginners in India",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "india"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24077,
+      "moduleCount": 9,
+      "readingTimeMins": 97,
+      "metaDescription": "Beginner's Guide to Stock Market Investing in India — a free beginner-level guide covering learn stock market investing for beginners in india. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:42:19.811Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "data-structures-algorithms-for-tech-interviews",
+      "title": "Data Structures & Algorithms for Tech Interviews",
+      "goal": "Understand data structures and algorithms for tech interviews",
+      "category": "programming",
+      "tags": [
+        "dsa",
+        "algorithms"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25618,
+      "moduleCount": 11,
+      "readingTimeMins": 103,
+      "metaDescription": "Data Structures & Algorithms for Tech Interviews — a free intermediate-level guide covering understand data structures and algorithms for tech...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-26T06:39:47.525Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "python-programming-for-beginners-from-zero-to-real",
+      "title": "Python Programming for Beginners: From Zero to Real Projects",
+      "goal": "Learn Python programming from zero to real projects",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18015,
+      "moduleCount": 11,
+      "readingTimeMins": 73,
+      "metaDescription": "Python Programming for Beginners: From Zero to Real Projects — a free beginner-level guide covering learn python programming from zero to real...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-26T06:37:10.898Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-cook-authentic-italian-food-at-home-from",
       "title": "Learn to Cook Authentic Italian Food at Home from Scratch",
       "goal": "Learn to cook Italian food at home from scratch",
@@ -9044,6 +9177,6 @@
       "edition": "street"
     }
   ],
-  "total": 450,
-  "generatedAt": "2026-07-26T06:26:19.739Z"
+  "total": 457,
+  "generatedAt": "2026-07-26T06:52:38.150Z"
 }
