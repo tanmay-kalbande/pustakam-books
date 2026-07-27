@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "slug": "build-selfconfidence-beat-social-anxiety",
+      "title": "Build Self-Confidence & Beat Social Anxiety",
+      "goal": "Build self-confidence and overcome social anxiety",
+      "category": "personal-development",
+      "tags": [
+        "confidence",
+        "anxiety"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20410,
+      "moduleCount": 10,
+      "readingTimeMins": 82,
+      "metaDescription": "Build Self-Confidence & Beat Social Anxiety — a free beginner-level guide covering build self-confidence and overcome social anxiety. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T02:22:58.818Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "launch-a-startup-from-idea-to-product-stepbystep-r",
+      "title": "Launch a Startup from Idea to Product – Step-by-Step Roadmap",
+      "goal": "Launch a startup from idea to product",
+      "category": "business",
+      "tags": [
+        "startup",
+        "entrepreneurship"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23394,
+      "moduleCount": 11,
+      "readingTimeMins": 94,
+      "metaDescription": "Launch a Startup from Idea to Product – Step-by-Step Roadmap — a free intermediate-level guide covering launch a startup from idea to product. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T02:19:51.773Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "cybersecurity-fundamentals-for-beginners-a-stepbys",
       "title": "Cybersecurity Fundamentals for Beginners: A Step-by-Step Guide",
       "goal": "Cybersecurity fundamentals for beginners",
@@ -10336,6 +10374,6 @@
       "edition": "street"
     }
   ],
-  "total": 518,
-  "generatedAt": "2026-07-27T00:29:19.349Z"
+  "total": 520,
+  "generatedAt": "2026-07-27T02:23:01.622Z"
 }
