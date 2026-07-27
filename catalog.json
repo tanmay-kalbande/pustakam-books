@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "smartphone-photography-for-beginners",
+      "title": "Smartphone Photography for Beginners",
+      "goal": "Smartphone photography for beginners",
+      "category": "photography",
+      "tags": [
+        "mobile",
+        "camera",
+        "photos"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24109,
+      "moduleCount": 12,
+      "readingTimeMins": 97,
+      "metaDescription": "Smartphone Photography for Beginners — a free beginner-level guide covering smartphone photography for beginners. Learn with clear explanations, real...",
+      "modelUsed": "glm-4-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-27T05:00:37.773Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "winter-driving-for-beginners-a-complete-safety-gui",
+      "title": "Winter Driving for Beginners: A Complete Safety Guide",
+      "goal": "Winter driving tips for beginners",
+      "category": "automotive",
+      "tags": [
+        "winter",
+        "driving",
+        "snow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16033,
+      "moduleCount": 9,
+      "readingTimeMins": 65,
+      "metaDescription": "Winter Driving for Beginners: A Complete Safety Guide — a free beginner-level guide covering winter driving tips for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T04:54:58.706Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-dress-for-your-body-type",
+      "title": "How to Dress for Your Body Type",
+      "goal": "How to dress for your body type",
+      "category": "fashion",
+      "tags": [
+        "style",
+        "clothing",
+        "outfit"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18477,
+      "moduleCount": 12,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Dress for Your Body Type — a free beginner-level guide covering how to dress for your body type. Learn with clear explanations, real examples,...",
+      "modelUsed": "glm-4-flash, gemma-4-31b",
+      "generatedAt": "2026-07-27T04:52:01.509Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "cat-care-101-for-beginners",
+      "title": "Cat Care 101 for Beginners",
+      "goal": "Cat care 101 for beginners",
+      "category": "pets",
+      "tags": [
+        "cats",
+        "pets",
+        "veterinary"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18376,
+      "moduleCount": 9,
+      "readingTimeMins": 74,
+      "metaDescription": "Cat Care 101 for Beginners — a free beginner-level guide covering cat care 101 for beginners. Learn with clear explanations, real examples, and...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T04:47:54.084Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "solo-travel-safety-guide-a-beginners-roadmap",
+      "title": "Solo Travel Safety Guide: A Beginner's Roadmap",
+      "goal": "How to travel alone safely for beginners",
+      "category": "travel",
+      "tags": [
+        "solo",
+        "safety",
+        "backpacking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17917,
+      "moduleCount": 10,
+      "readingTimeMins": 72,
+      "metaDescription": "Solo Travel Safety Guide: A Beginner's Roadmap — a free beginner-level guide covering how to travel alone safely for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T04:46:34.206Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "fast-ways-to-raise-your-credit-score-a-stepbystep",
+      "title": "Fast Ways to Raise Your Credit Score: A Step-by-Step Guide",
+      "goal": "How to improve credit score fast",
+      "category": "finance",
+      "tags": [
+        "credit",
+        "money",
+        "loans"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18110,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "Fast Ways to Raise Your Credit Score: A Step-by-Step Guide — a free intermediate-level guide covering how to improve credit score fast. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T04:42:36.003Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "knife-skills-for-beginners-a-complete-guide-to-hom",
+      "title": "Knife Skills for Beginners: A Complete Guide to Home Cooking",
+      "goal": "Knife skills for beginners cooking",
+      "category": "culinary",
+      "tags": [
+        "chef",
+        "kitchen",
+        "prep"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12508,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Knife Skills for Beginners: A Complete Guide to Home Cooking — a free beginner-level guide covering knife skills for beginners cooking. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T04:41:20.448Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "arduino-projects-for-beginners-stepbystep-guide",
       "title": "Arduino Projects for Beginners: Step-by-Step Guide",
       "goal": "Arduino projects for beginners step by step",
@@ -10393,6 +10533,6 @@
       "edition": "street"
     }
   ],
-  "total": 521,
-  "generatedAt": "2026-07-27T02:40:43.788Z"
+  "total": 528,
+  "generatedAt": "2026-07-27T05:00:38.621Z"
 }
