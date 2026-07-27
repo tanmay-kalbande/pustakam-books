@@ -1,6 +1,82 @@
 {
   "books": [
     {
+      "slug": "cybersecurity-fundamentals-for-beginners-a-stepbys",
+      "title": "Cybersecurity Fundamentals for Beginners: A Step-by-Step Guide",
+      "goal": "Cybersecurity fundamentals for beginners",
+      "category": "cybersecurity",
+      "tags": [
+        "security",
+        "networking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19235,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Cybersecurity Fundamentals for Beginners: A Step-by-Step Guide — a free beginner-level guide covering cybersecurity fundamentals for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T00:29:18.571Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-swim-as-an-adult-beginner",
+      "title": "Learn to Swim as an Adult Beginner",
+      "goal": "Learn to swim as an adult beginner",
+      "category": "sports",
+      "tags": [
+        "swimming",
+        "water"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17520,
+      "moduleCount": 9,
+      "readingTimeMins": 71,
+      "metaDescription": "Learn to Swim as an Adult Beginner — a free beginner-level guide covering learn to swim as an adult beginner. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T00:24:57.573Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "positive-parenting-techniques-for-toddlers-beginne",
+      "title": "Positive parenting techniques for toddlers",
+      "goal": "Positive parenting techniques for toddlers",
+      "category": "parenting",
+      "tags": [
+        "toddlers",
+        "discipline"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17597,
+      "moduleCount": 8,
+      "readingTimeMins": 71,
+      "metaDescription": "Positive parenting techniques for toddlers — a free beginner-level guide covering positive parenting techniques for toddlers. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T00:18:42.669Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-uiux-design-with-figma-from-basics-to-pro-pr",
+      "title": "Learn UI/UX Design with Figma: From Basics to Pro Projects",
+      "goal": "Learn UI/UX design from scratch with Figma",
+      "category": "design",
+      "tags": [
+        "uiux",
+        "figma"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19430,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Learn UI/UX Design with Figma: From Basics to Pro Projects — a free intermediate-level guide covering learn ui/ux design from scratch with figma. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T00:14:01.586Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "cybersecurity-fundamentals-for-beginners-learn-to",
       "title": "Cybersecurity Fundamentals for Beginners: Learn to Protect Digital Assets",
       "goal": "Cybersecurity fundamentals for beginners",
@@ -10260,6 +10336,6 @@
       "edition": "street"
     }
   ],
-  "total": 514,
-  "generatedAt": "2026-07-26T23:34:24.429Z"
+  "total": 518,
+  "generatedAt": "2026-07-27T00:29:19.349Z"
 }
