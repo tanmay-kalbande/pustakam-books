@@ -1,6 +1,326 @@
 {
   "books": [
     {
+      "slug": "how-to-apply-false-eyelashes-a-beginners-complete",
+      "title": "How to Apply False Eyelashes: A Beginner's Complete Guide",
+      "goal": "How to apply false eyelashes for beginners",
+      "category": "makeup",
+      "tags": [
+        "makeup",
+        "eyelashes",
+        "beauty"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10316,
+      "moduleCount": 8,
+      "readingTimeMins": 42,
+      "metaDescription": "How to Apply False Eyelashes: A Beginner's Complete Guide — a free beginner-level guide covering how to apply false eyelashes for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T23:21:06.339Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-cook-a-steak-in-a-pan-stepbystep-guide",
+      "title": "How to Cook a Steak in a Pan – Step-by-Step Guide",
+      "goal": "How to cook a steak in a pan",
+      "category": "cooking",
+      "tags": [
+        "steak",
+        "pan-searing",
+        "beef"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17301,
+      "moduleCount": 8,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Cook a Steak in a Pan – Step-by-Step Guide — a free intermediate-level guide covering how to cook a steak in a pan. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T23:19:59.238Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-knit-a-scarf-beginners-stepbystep-guide",
+      "title": "How to Knit a Scarf: Beginner's Step-by-Step Guide",
+      "goal": "How to knit a scarf for beginners",
+      "category": "knitting",
+      "tags": [
+        "knitting",
+        "scarf",
+        "winter-accessories"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19764,
+      "moduleCount": 10,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Knit a Scarf: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to knit a scarf for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T23:12:42.468Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-leather-stamping-a-comprehensive-guide",
+      "title": "Mastering Leather Stamping: A Comprehensive Guide",
+      "goal": "How to stamp leather for beginners",
+      "category": "leatherworking",
+      "tags": [
+        "leather-craft",
+        "stamping",
+        "tooling"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12178,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "Mastering Leather Stamping: A Comprehensive Guide — a free intermediate-level guide covering how to stamp leather for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T23:09:06.489Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "diy-artificial-grass-installation-a-stepbystep-gui",
+      "title": "DIY Artificial Grass Installation: A Step-by-Step Guide",
+      "goal": "How to lay artificial grass at home",
+      "category": "landscaping",
+      "tags": [
+        "lawn",
+        "artificial-turf",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20076,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "DIY Artificial Grass Installation: A Step-by-Step Guide — a free intermediate-level guide covering how to lay artificial grass at home. Learn with...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T23:08:04.675Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-change-a-flat-tire-beginner-stepbystep-guid",
+      "title": "How to Change a Flat Tire: Beginner Step-by-Step Guide",
+      "goal": "How to change a flat tire",
+      "category": "mechanics",
+      "tags": [
+        "car-maintenance",
+        "tires",
+        "roadside-assistance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15088,
+      "moduleCount": 7,
+      "readingTimeMins": 61,
+      "metaDescription": "How to Change a Flat Tire: Beginner Step-by-Step Guide — a free beginner-level guide covering how to change a flat tire. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:59:29.514Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-kitchen-sink-complete-stepbystep",
+      "title": "How to Install a Kitchen Sink: Complete Step-by-Step Guide",
+      "goal": "How to install a kitchen sink",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "kitchen",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17543,
+      "moduleCount": 10,
+      "readingTimeMins": 71,
+      "metaDescription": "How to Install a Kitchen Sink: Complete Step-by-Step Guide — a free intermediate-level guide covering how to install a kitchen sink. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T22:58:19.065Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-scrapbook-for-beginners",
+      "title": "How to Make a Scrapbook for Beginners",
+      "goal": "How to make a scrapbook for beginners",
+      "category": "crafts",
+      "tags": [
+        "scrapbooking",
+        "paper-crafts",
+        "memory-keeping"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17360,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Make a Scrapbook for Beginners — a free beginner-level guide covering how to make a scrapbook for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T22:52:35.058Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-soap-at-home-a-beginners-guide-to-cold",
+      "title": "How to Make Soap at Home: A Beginner's Guide to Cold Process",
+      "goal": "How to make soap at home",
+      "category": "crafts",
+      "tags": [
+        "soap-making",
+        "diy",
+        "skincare"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13442,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Make Soap at Home: A Beginner's Guide to Cold Process — a free beginner-level guide covering how to make soap at home. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T22:49:28.242Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-a-woodworking-router-for-beginners",
+      "title": "How to Use a Woodworking Router for Beginners",
+      "goal": "How to use a router for beginners",
+      "category": "woodworking",
+      "tags": [
+        "power-tools",
+        "router",
+        "woodworking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20210,
+      "moduleCount": 8,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Use a Woodworking Router for Beginners — a free beginner-level guide covering how to use a router for beginners. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:48:11.754Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-custom-wooden-bookshelf-stepbystep",
+      "title": "How to Build a Custom Wooden Bookshelf: Step-by-Step Guide",
+      "goal": "How to build a wooden bookshelf",
+      "category": "woodworking",
+      "tags": [
+        "furniture-making",
+        "shelving",
+        "woodworking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12584,
+      "moduleCount": 9,
+      "readingTimeMins": 51,
+      "metaDescription": "How to Build a Custom Wooden Bookshelf: Step-by-Step Guide — a free intermediate-level guide covering how to build a wooden bookshelf. Learn with clear...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T22:41:49.594Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-compost-bin-a-beginners-guide",
+      "title": "How to Build a Compost Bin: A Beginner's Guide",
+      "goal": "How to build a compost bin",
+      "category": "gardening",
+      "tags": [
+        "compost",
+        "sustainability",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21883,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Build a Compost Bin: A Beginner's Guide — a free beginner-level guide covering how to build a compost bin. Learn with clear explanations, real...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:39:46.333Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-patch-drywall-holes-a-beginners-complete-gu",
+      "title": "How to Patch Drywall Holes: A Beginner's Complete Guide",
+      "goal": "How to patch drywall holes",
+      "category": "home-maintenance",
+      "tags": [
+        "drywall",
+        "wall-repair",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21051,
+      "moduleCount": 11,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Patch Drywall Holes: A Beginner's Complete Guide — a free beginner-level guide covering how to patch drywall holes. Learn with clear...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T22:37:49.415Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-alter-clothes-at-home-complete-guide",
+      "title": "How to Alter Clothes at Home: Complete Guide",
+      "goal": "How to alter clothes at home",
+      "category": "sewing",
+      "tags": [
+        "alterations",
+        "tailoring",
+        "sewing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27475,
+      "moduleCount": 11,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Alter Clothes at Home: Complete Guide — a free intermediate-level guide covering how to alter clothes at home. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:30:18.489Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-setting-up-a-freshwater-fish-ta",
+      "title": "Beginner's Guide to Setting Up a Freshwater Fish Tank",
+      "goal": "How to set up a freshwater fish tank",
+      "category": "pets",
+      "tags": [
+        "aquarium",
+        "fish-keeping",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19274,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Beginner's Guide to Setting Up a Freshwater Fish Tank — a free beginner-level guide covering how to set up a freshwater fish tank. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:20:35.267Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "rescue-dog-training-at-home-a-beginners-guide",
+      "title": "Rescue Dog Training at Home: A Beginner's Guide",
+      "goal": "How to train a rescue dog at home",
+      "category": "pets",
+      "tags": [
+        "dog-training",
+        "rescue-dog",
+        "behavior"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18530,
+      "moduleCount": 10,
+      "readingTimeMins": 75,
+      "metaDescription": "Rescue Dog Training at Home: A Beginner's Guide — a free beginner-level guide covering how to train a rescue dog at home. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T22:19:15.806Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "teach-your-parrot-to-talk-the-complete-training-gu",
       "title": "Teach Your Parrot to Talk: The Complete Training Guide",
       "goal": "How to train a parrot to talk for beginners",
@@ -11772,6 +12092,6 @@
       "edition": "street"
     }
   ],
-  "total": 590,
-  "generatedAt": "2026-07-27T22:13:44.473Z"
+  "total": 606,
+  "generatedAt": "2026-07-27T23:25:56.690Z"
 }
