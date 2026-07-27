@@ -1,6 +1,286 @@
 {
   "books": [
     {
+      "slug": "teach-your-parrot-to-talk-the-complete-training-gu",
+      "title": "Teach Your Parrot to Talk: The Complete Training Guide",
+      "goal": "How to train a parrot to talk for beginners",
+      "category": "pets",
+      "tags": [
+        "parrot",
+        "bird training",
+        "pets"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17501,
+      "moduleCount": 8,
+      "readingTimeMins": 71,
+      "metaDescription": "Teach Your Parrot to Talk: The Complete Training Guide — a free intermediate-level guide covering how to train a parrot to talk for beginners. Learn...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:13:43.600Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "hand-embroidery-for-beginners-a-stepbystep-guide",
+      "title": "Hand Embroidery for Beginners: A Step-by-Step Guide",
+      "goal": "Learn hand embroidery stitches for beginners",
+      "category": "sewing",
+      "tags": [
+        "embroidery",
+        "hand sewing",
+        "crafts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11446,
+      "moduleCount": 7,
+      "readingTimeMins": 46,
+      "metaDescription": "Hand Embroidery for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn hand embroidery stitches for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T22:07:52.912Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sew-a-dress-from-a-pattern-complete-guide",
+      "title": "How to Sew a Dress from a Pattern: Complete Guide",
+      "goal": "How to sew a dress from a pattern",
+      "category": "sewing",
+      "tags": [
+        "dressmaking",
+        "sewing",
+        "clothing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29605,
+      "moduleCount": 12,
+      "readingTimeMins": 119,
+      "metaDescription": "How to Sew a Dress from a Pattern: Complete Guide — a free intermediate-level guide covering how to sew a dress from a pattern. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T22:05:51.316Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-clean-gutters-safely-without-a-ladder",
+      "title": "How to Clean Gutters Safely Without a Ladder",
+      "goal": "How to clean gutters safely without a ladder",
+      "category": "home-maintenance",
+      "tags": [
+        "gutters",
+        "cleaning",
+        "home care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15430,
+      "moduleCount": 9,
+      "readingTimeMins": 62,
+      "metaDescription": "How to Clean Gutters Safely Without a Ladder — a free beginner-level guide covering how to clean gutters safely without a ladder. Learn with clear...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T22:01:09.037Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-weatherproof-windows-and-doors-for-winter",
+      "title": "How to Weatherproof Windows and Doors for Winter",
+      "goal": "How to weatherproof windows and doors for winter",
+      "category": "home-maintenance",
+      "tags": [
+        "weatherproofing",
+        "insulation",
+        "energy efficiency"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21651,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Weatherproof Windows and Doors for Winter — a free beginner-level guide covering how to weatherproof windows and doors for winter. Learn with...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T21:54:56.604Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-garden-fence-a-beginners-guide",
+      "title": "How to Build a Garden Fence: A Beginner's Guide",
+      "goal": "How to build a garden fence for beginners",
+      "category": "home-improvement",
+      "tags": [
+        "fence",
+        "garden",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22363,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Build a Garden Fence: A Beginner's Guide — a free beginner-level guide covering how to build a garden fence for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T21:43:48.026Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-backyard-fire-pit-a-stepbystep-guid",
+      "title": "How to Build a Backyard Fire Pit: A Step-by-Step Guide",
+      "goal": "How to build a fire pit in your backyard",
+      "category": "home-improvement",
+      "tags": [
+        "fire pit",
+        "backyard",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13128,
+      "moduleCount": 9,
+      "readingTimeMins": 53,
+      "metaDescription": "How to Build a Backyard Fire Pit: A Step-by-Step Guide — a free intermediate-level guide covering how to build a fire pit in your backyard. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T21:35:28.256Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-raised-garden-bed-a-beginners-guide",
+      "title": "How to Build a Raised Garden Bed: A Beginner's Guide",
+      "goal": "How to build a raised garden bed from scratch",
+      "category": "gardening",
+      "tags": [
+        "raised bed",
+        "diy",
+        "vegetable garden"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16854,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Build a Raised Garden Bed: A Beginner's Guide — a free beginner-level guide covering how to build a raised garden bed from scratch. Learn with...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T21:30:10.485Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-lavender-indoors-in-pots-a-beginners-g",
+      "title": "How to Grow Lavender Indoors in Pots: A Beginner's Guide",
+      "goal": "How to grow lavender indoors in pots",
+      "category": "gardening",
+      "tags": [
+        "lavender",
+        "indoor plants",
+        "herbs"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23668,
+      "moduleCount": 9,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Grow Lavender Indoors in Pots: A Beginner's Guide — a free beginner-level guide covering how to grow lavender indoors in pots. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T21:24:18.609Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-wooden-birdhouse-a-beginners-guide",
+      "title": "How to Build a Wooden Birdhouse: A Beginner's Guide",
+      "goal": "How to build a wooden birdhouse for beginners",
+      "category": "woodworking",
+      "tags": [
+        "birdhouse",
+        "diy",
+        "woodworking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19438,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Build a Wooden Birdhouse: A Beginner's Guide — a free beginner-level guide covering how to build a wooden birdhouse for beginners. Learn with...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T21:12:47.078Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-resin-jewelry-beginners-stepbystep-gui",
+      "title": "How to Make Resin Jewelry: Beginner's Step-by-Step Guide",
+      "goal": "How to make resin jewelry for beginners",
+      "category": "crafts",
+      "tags": [
+        "resin",
+        "jewelry making",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17886,
+      "moduleCount": 9,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Make Resin Jewelry: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make resin jewelry for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T21:06:43.857Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "macrame-plant-hanger-patterns-complete-guide",
+      "title": "Macrame Plant Hanger Patterns: Complete Guide",
+      "goal": "Learn macrame plant hanger patterns for beginners",
+      "category": "crafts",
+      "tags": [
+        "macrame",
+        "diy",
+        "home decor"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21490,
+      "moduleCount": 10,
+      "readingTimeMins": 86,
+      "metaDescription": "Macrame Plant Hanger Patterns: Complete Guide — a free intermediate-level guide covering learn macrame plant hanger patterns for beginners. Learn with...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T21:03:18.964Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-guide-to-homemade-pasta-from-scratch",
+      "title": "The Complete Guide to Homemade Pasta from Scratch",
+      "goal": "How to make homemade pasta from scratch",
+      "category": "culinary",
+      "tags": [
+        "pasta",
+        "italian",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21640,
+      "moduleCount": 11,
+      "readingTimeMins": 87,
+      "metaDescription": "The Complete Guide to Homemade Pasta from Scratch — a free intermediate-level guide covering how to make homemade pasta from scratch. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T20:53:15.280Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-sushi-rolls-at-home-a-beginners-guide",
+      "title": "How to Make Sushi Rolls at Home: A Beginner's Guide",
+      "goal": "How to make sushi rolls at home for beginners",
+      "category": "culinary",
+      "tags": [
+        "sushi",
+        "japanese",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12969,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "How to Make Sushi Rolls at Home: A Beginner's Guide — a free beginner-level guide covering how to make sushi rolls at home for beginners. Learn with...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T20:44:06.743Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-ceramic-glazing-techniques-guide",
       "title": "Advanced Ceramic Glazing Techniques Guide",
       "goal": "Advanced ceramic glazing techniques guide",
@@ -11492,6 +11772,6 @@
       "edition": "street"
     }
   ],
-  "total": 576,
-  "generatedAt": "2026-07-27T20:38:51.726Z"
+  "total": 590,
+  "generatedAt": "2026-07-27T22:13:44.473Z"
 }
