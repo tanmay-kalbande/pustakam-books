@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "slug": "arduino-projects-for-beginners-stepbystep-guide",
+      "title": "Arduino Projects for Beginners: Step-by-Step Guide",
+      "goal": "Arduino projects for beginners step by step",
+      "category": "electronics",
+      "tags": [
+        "arduino",
+        "circuits"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28075,
+      "moduleCount": 11,
+      "readingTimeMins": 113,
+      "metaDescription": "Arduino Projects for Beginners: Step-by-Step Guide — a free beginner-level guide covering arduino projects for beginners step by step. Learn with clear...",
+      "modelUsed": "glm-4-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-27T02:40:43.001Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "build-selfconfidence-beat-social-anxiety",
       "title": "Build Self-Confidence & Beat Social Anxiety",
       "goal": "Build self-confidence and overcome social anxiety",
@@ -10374,6 +10393,6 @@
       "edition": "street"
     }
   ],
-  "total": 520,
-  "generatedAt": "2026-07-27T02:23:01.622Z"
+  "total": 521,
+  "generatedAt": "2026-07-27T02:40:43.788Z"
 }
