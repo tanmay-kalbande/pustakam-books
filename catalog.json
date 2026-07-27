@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "slug": "backyard-astronomy-guide-for-beginners",
+      "title": "Backyard Astronomy Guide for Beginners",
+      "goal": "Backyard astronomy and stargazing for beginners",
+      "category": "astronomy",
+      "tags": [
+        "stars",
+        "telescope"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20891,
+      "moduleCount": 13,
+      "readingTimeMins": 84,
+      "metaDescription": "Backyard Astronomy Guide for Beginners — a free beginner-level guide covering backyard astronomy and stargazing for beginners. Learn with clear...",
+      "modelUsed": "glm-4-flash, gemma-4-31b",
+      "generatedAt": "2026-07-27T08:31:16.951Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "street-how-to-mix-music-in-audacity-for-beginners",
       "title": "How to Mix Music in Audacity for Beginners",
       "goal": "How to mix music in Audacity",
@@ -10673,6 +10692,6 @@
       "edition": "street"
     }
   ],
-  "total": 535,
-  "generatedAt": "2026-07-27T06:57:25.217Z"
+  "total": 536,
+  "generatedAt": "2026-07-27T08:31:17.723Z"
 }
