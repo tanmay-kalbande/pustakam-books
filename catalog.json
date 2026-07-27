@@ -1,6 +1,806 @@
 {
   "books": [
     {
+      "slug": "advanced-ceramic-glazing-techniques-guide",
+      "title": "Advanced Ceramic Glazing Techniques Guide",
+      "goal": "Advanced ceramic glazing techniques guide",
+      "category": "pottery",
+      "tags": [
+        "ceramics",
+        "glazing",
+        "pottery"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 26884,
+      "moduleCount": 12,
+      "readingTimeMins": 108,
+      "metaDescription": "Advanced Ceramic Glazing Techniques Guide — a free advanced-level guide covering advanced ceramic glazing techniques guide. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T20:38:50.878Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "pottery-for-beginners-wheel-throwing-basics",
+      "title": "Pottery for Beginners: Wheel Throwing Basics",
+      "goal": "Learn pottery and wheel throwing for beginners",
+      "category": "pottery",
+      "tags": [
+        "ceramics",
+        "clay",
+        "wheel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17813,
+      "moduleCount": 10,
+      "readingTimeMins": 72,
+      "metaDescription": "Pottery for Beginners: Wheel Throwing Basics — a free beginner-level guide covering learn pottery and wheel throwing for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T20:33:24.996Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "origami-for-beginners-a-stepbystep-guide-to-paper",
+      "title": "Origami for Beginners: A Step-by-Step Guide to Paper Folding",
+      "goal": "Learn origami techniques for beginners",
+      "category": "crafts",
+      "tags": [
+        "origami",
+        "paper",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10198,
+      "moduleCount": 8,
+      "readingTimeMins": 41,
+      "metaDescription": "Origami for Beginners: A Step-by-Step Guide to Paper Folding — a free beginner-level guide covering learn origami techniques for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T20:24:16.230Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-scented-candles-at-home-beginners-guid",
+      "title": "How to Make Scented Candles at Home: Beginner's Guide",
+      "goal": "How to make scented candles at home",
+      "category": "crafts",
+      "tags": [
+        "candles",
+        "diy",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19187,
+      "moduleCount": 8,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Make Scented Candles at Home: Beginner's Guide — a free beginner-level guide covering how to make scented candles at home. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T20:23:39.314Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-deck-from-scratch-stepbystep-guide",
+      "title": "How to Build a Deck from Scratch – Step-by-Step Guide",
+      "goal": "How to build a deck from scratch",
+      "category": "home-improvement",
+      "tags": [
+        "deck",
+        "carpentry",
+        "outdoor"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20006,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Build a Deck from Scratch – Step-by-Step Guide — a free intermediate-level guide covering how to build a deck from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T20:14:27.851Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-tile-a-bathroom-floor-a-beginners-guide",
+      "title": "How to Tile a Bathroom Floor: A Beginner's Guide",
+      "goal": "How to tile a bathroom floor for beginners",
+      "category": "trades",
+      "tags": [
+        "tiling",
+        "bathroom",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16686,
+      "moduleCount": 8,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Tile a Bathroom Floor: A Beginner's Guide — a free beginner-level guide covering how to tile a bathroom floor for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T20:12:43.193Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-plumbing-repairs-for-homeowners",
+      "title": "Learn Basic Plumbing Repairs for Homeowners",
+      "goal": "Learn basic plumbing repairs for homeowners",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "home-repair",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19470,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Learn Basic Plumbing Repairs for Homeowners — a free beginner-level guide covering learn basic plumbing repairs for homeowners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T20:06:57.673Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-ceiling-fan-safely-a-stepbystep-g",
+      "title": "How to Install a Ceiling Fan Safely: A Step-by-Step Guide",
+      "goal": "How to install a ceiling fan safely",
+      "category": "home-improvement",
+      "tags": [
+        "electrical",
+        "diy",
+        "ceiling-fan"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15344,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "How to Install a Ceiling Fan Safely: A Step-by-Step Guide — a free beginner-level guide covering how to install a ceiling fan safely. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T20:03:07.450Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-motorcycle-engine-rebuild-guide",
+      "title": "Advanced Motorcycle Engine Rebuild Guide",
+      "goal": "Advanced motorcycle engine rebuild guide",
+      "category": "mechanics",
+      "tags": [
+        "motorcycle",
+        "engine",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22920,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Advanced Motorcycle Engine Rebuild Guide — a free advanced-level guide covering advanced motorcycle engine rebuild guide. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T20:01:53.282Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-change-a-car-battery-for-beginners-beginner",
+      "title": "How to change a car battery for beginners",
+      "goal": "How to change a car battery for beginners",
+      "category": "mechanics",
+      "tags": [
+        "automotive",
+        "battery",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16969,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "How to change a car battery for beginners — a free beginner-level guide covering how to change a car battery for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T19:53:02.615Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-orchid-care-and-propagation-masterclass",
+      "title": "Advanced Orchid Care and Propagation Masterclass",
+      "goal": "Advanced guide to orchid care and propagation",
+      "category": "gardening",
+      "tags": [
+        "orchids",
+        "flowers",
+        "propagation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14576,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Advanced Orchid Care and Propagation Masterclass — a free advanced-level guide covering advanced guide to orchid care and propagation. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T19:50:38.952Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "bonsai-tree-care-for-beginners-stepbystep-guide",
+      "title": "Bonsai Tree Care for Beginners: Step-by-Step Guide",
+      "goal": "Learn bonsai tree care for beginners",
+      "category": "gardening",
+      "tags": [
+        "bonsai",
+        "trees",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29662,
+      "moduleCount": 11,
+      "readingTimeMins": 119,
+      "metaDescription": "Bonsai Tree Care for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn bonsai tree care for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T19:49:28.128Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-tomatoes-in-containers-a-stepbystep-gu",
+      "title": "How to Grow Tomatoes in Containers: A Step-by-Step Guide",
+      "goal": "How to grow tomatoes in containers",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "containers",
+        "gardening"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19568,
+      "moduleCount": 10,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Grow Tomatoes in Containers: A Step-by-Step Guide — a free beginner-level guide covering how to grow tomatoes in containers. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T19:39:51.866Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-wooden-furniture-joints",
+      "title": "Intermediate Guide to Wooden Furniture Joints",
+      "goal": "Intermediate guide to making wooden furniture joints",
+      "category": "woodworking",
+      "tags": [
+        "joinery",
+        "furniture",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12601,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Intermediate Guide to Wooden Furniture Joints — a free intermediate-level guide covering intermediate guide to making wooden furniture joints. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T19:28:46.123Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "wood-carving-for-beginners-a-complete-guide",
+      "title": "Wood Carving for Beginners: A Complete Guide",
+      "goal": "Learn wood carving for beginners",
+      "category": "woodworking",
+      "tags": [
+        "carving",
+        "whittling",
+        "crafts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18702,
+      "moduleCount": 8,
+      "readingTimeMins": 75,
+      "metaDescription": "Wood Carving for Beginners: A Complete Guide — a free beginner-level guide covering learn wood carving for beginners. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T19:27:44.736Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-body-language-and-voice-projection",
+      "title": "Mastering Body Language and Voice Projection",
+      "goal": "Improving body language and voice projection",
+      "category": "public-speaking",
+      "tags": [
+        "body language",
+        "voice",
+        "communication"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14503,
+      "moduleCount": 8,
+      "readingTimeMins": 59,
+      "metaDescription": "Mastering Body Language and Voice Projection — a free intermediate-level guide covering improving body language and voice projection. Learn with clear...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T19:22:51.776Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-deliver-killer-presentations-at-work",
+      "title": "How to Deliver Killer Presentations at Work",
+      "goal": "How to deliver a killer presentation at work",
+      "category": "public-speaking",
+      "tags": [
+        "presentation",
+        "work",
+        "skills"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17390,
+      "moduleCount": 7,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Deliver Killer Presentations at Work — a free intermediate-level guide covering how to deliver a killer presentation at work. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T19:16:36.862Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-overcome-stage-fright-and-public-speaking-a",
+      "title": "How to Overcome Stage Fright and Public Speaking Anxiety",
+      "goal": "How to overcome stage fright and public speaking anxiety",
+      "category": "public-speaking",
+      "tags": [
+        "anxiety",
+        "fear",
+        "confidence"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12504,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "How to Overcome Stage Fright and Public Speaking Anxiety — a free beginner-level guide covering how to overcome stage fright and public speaking...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T19:08:38.682Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-front-yard-landscaping",
+      "title": "Beginner's Guide to Front Yard Landscaping",
+      "goal": "Beginner's guide to landscaping a front yard",
+      "category": "landscaping",
+      "tags": [
+        "front yard",
+        "design",
+        "landscaping"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19445,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "Beginner's Guide to Front Yard Landscaping — a free beginner-level guide covering beginner's guide to landscaping a front yard. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T19:07:24.077Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-lawn-from-scratch-a-beginners-guide",
+      "title": "How to Start a Lawn from Scratch: A Beginner's Guide",
+      "goal": "How to start a lawn from scratch",
+      "category": "landscaping",
+      "tags": [
+        "lawn",
+        "grass",
+        "planting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16184,
+      "moduleCount": 10,
+      "readingTimeMins": 65,
+      "metaDescription": "How to Start a Lawn from Scratch: A Beginner's Guide — a free beginner-level guide covering how to start a lawn from scratch. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T18:59:36.881Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "home-electrical-troubleshooting-guide-for-homeowne",
+      "title": "Home Electrical Troubleshooting Guide for Homeowners",
+      "goal": "Basic electrical troubleshooting for homeowners",
+      "category": "home-maintenance",
+      "tags": [
+        "electrical",
+        "troubleshooting",
+        "safety"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12571,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Home Electrical Troubleshooting Guide for Homeowners — a free intermediate-level guide covering basic electrical troubleshooting for homeowners. Learn...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T18:53:41.539Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-leaky-faucet-stepbystep-guide",
+      "title": "How to Fix a Leaky Faucet: Step-by-Step Guide",
+      "goal": "How to fix a leaky faucet step by step",
+      "category": "home-maintenance",
+      "tags": [
+        "faucet",
+        "repair",
+        "plumbing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19171,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Fix a Leaky Faucet: Step-by-Step Guide — a free beginner-level guide covering how to fix a leaky faucet step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T18:49:53.766Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-unclog-a-drain-without-chemicals",
+      "title": "How to Unclog a Drain Without Chemicals",
+      "goal": "How to unclog a drain without chemicals",
+      "category": "home-maintenance",
+      "tags": [
+        "drain",
+        "cleaning",
+        "plumbing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17279,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Unclog a Drain Without Chemicals — a free beginner-level guide covering how to unclog a drain without chemicals. Learn with clear explanations,...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T18:48:03.302Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-wax-a-car-at-home-stepbystep-beginner-guide",
+      "title": "How to Wax a Car at Home: Step‑by‑Step Beginner Guide",
+      "goal": "How to wax a car at home",
+      "category": "auto-detailing",
+      "tags": [
+        "wax",
+        "car",
+        "shine"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18316,
+      "moduleCount": 9,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Wax a Car at Home: Step‑by‑Step Beginner Guide — a free beginner-level guide covering how to wax a car at home. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T18:40:48.333Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-remove-car-paint-scratches-complete-repair",
+      "title": "How to Remove Car Paint Scratches: Complete Repair Guide",
+      "goal": "How to remove scratches from car paint",
+      "category": "auto-detailing",
+      "tags": [
+        "scratches",
+        "paint",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17392,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Remove Car Paint Scratches: Complete Repair Guide — a free intermediate-level guide covering how to remove scratches from car paint. Learn with...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T18:38:56.080Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-detail-a-car-interior-from-scratch-beginner",
+      "title": "How to detail a car interior from scratch",
+      "goal": "How to detail a car interior from scratch",
+      "category": "auto-detailing",
+      "tags": [
+        "interior",
+        "cleaning",
+        "detailing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20520,
+      "moduleCount": 10,
+      "readingTimeMins": 83,
+      "metaDescription": "How to detail a car interior from scratch — a free beginner-level guide covering how to detail a car interior from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T18:32:18.713Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "leather-wallet-making-for-beginners-a-stepbystep-g",
+      "title": "Leather Wallet Making for Beginners: A Step-by-Step Guide",
+      "goal": "Leather wallet making tutorial for beginners",
+      "category": "leatherworking",
+      "tags": [
+        "wallet",
+        "leather",
+        "tutorial"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12884,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Leather Wallet Making for Beginners: A Step-by-Step Guide — a free beginner-level guide covering leather wallet making tutorial for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T18:29:51.219Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-leather-belt-from-scratch",
+      "title": "How to Make a Leather Belt From Scratch",
+      "goal": "How to make a leather belt from scratch",
+      "category": "leatherworking",
+      "tags": [
+        "belt",
+        "leather",
+        "tutorial"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19858,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Make a Leather Belt From Scratch — a free intermediate-level guide covering how to make a leather belt from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T18:28:49.051Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-leather-crafting-projects-a-stepbystep-gu",
+      "title": "Beginner Leather Crafting Projects: A Step-by-Step Guide",
+      "goal": "Beginner leather crafting projects",
+      "category": "leatherworking",
+      "tags": [
+        "crafting",
+        "projects",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21226,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Beginner Leather Crafting Projects: A Step-by-Step Guide — a free beginner-level guide covering beginner leather crafting projects. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T18:26:57.564Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-knit-a-blanket-beginners-stepbystep-guide",
+      "title": "How to Knit a Blanket: Beginner's Step-by-Step Guide",
+      "goal": "How to knit a blanket for beginners",
+      "category": "knitting",
+      "tags": [
+        "knitting",
+        "blanket",
+        "pattern"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17681,
+      "moduleCount": 8,
+      "readingTimeMins": 71,
+      "metaDescription": "How to Knit a Blanket: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to knit a blanket for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T18:18:00.143Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "easy-crochet-patterns-for-absolute-beginners",
+      "title": "Easy Crochet Patterns for Absolute Beginners",
+      "goal": "Easy crochet patterns for absolute beginners",
+      "category": "crochet",
+      "tags": [
+        "patterns",
+        "easy",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24399,
+      "moduleCount": 12,
+      "readingTimeMins": 98,
+      "metaDescription": "Easy Crochet Patterns for Absolute Beginners — a free beginner-level guide covering easy crochet patterns for absolute beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T18:16:17.774Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-hem-pants-by-hand-a-beginners-stepbystep-gu",
+      "title": "How to Hem Pants by Hand: A Beginner's Step-by-Step Guide",
+      "goal": "How to hem pants by hand",
+      "category": "sewing",
+      "tags": [
+        "hemming",
+        "pants",
+        "hand-sewing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12568,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "How to Hem Pants by Hand: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to hem pants by hand. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T18:04:20.164Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sew-a-basic-tshirt-a-beginners-guide",
+      "title": "How to Sew a Basic T-Shirt: A Beginner's Guide",
+      "goal": "How to sew a basic t-shirt for beginners",
+      "category": "sewing",
+      "tags": [
+        "sewing",
+        "pattern",
+        "clothing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24092,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Sew a Basic T-Shirt: A Beginner's Guide — a free beginner-level guide covering how to sew a basic t-shirt for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T18:03:18.048Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "bread-baking-for-beginners-from-scratch-at-home",
+      "title": "Bread Baking for Beginners: From Scratch at Home",
+      "goal": "Learn to bake bread from scratch at home",
+      "category": "cooking",
+      "tags": [
+        "bread",
+        "recipe",
+        "yeast"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18258,
+      "moduleCount": 11,
+      "readingTimeMins": 74,
+      "metaDescription": "Bread Baking for Beginners: From Scratch at Home — a free beginner-level guide covering learn to bake bread from scratch at home. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T17:51:58.336Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-everyday-makeup-guide-for-beginners",
+      "title": "Natural Everyday Makeup Guide for Beginners",
+      "goal": "Natural makeup look for everyday wear",
+      "category": "makeup",
+      "tags": [
+        "natural",
+        "everyday",
+        "routine"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17242,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "Natural Everyday Makeup Guide for Beginners — a free beginner-level guide covering natural makeup look for everyday wear. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-5.2",
+      "generatedAt": "2026-07-27T17:49:53.241Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-contour-your-face-a-beginners-stepbystep-gu",
+      "title": "How to Contour Your Face: A Beginner's Step-by-Step Guide",
+      "goal": "How to contour face for beginners",
+      "category": "makeup",
+      "tags": [
+        "contour",
+        "face",
+        "technique"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11959,
+      "moduleCount": 8,
+      "readingTimeMins": 48,
+      "metaDescription": "How to Contour Your Face: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to contour face for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T17:42:03.051Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-makeup-guide-for-brown-skin-tones",
+      "title": "Beginner Makeup Guide for Brown Skin Tones",
+      "goal": "Beginner makeup tutorial for brown skin tones",
+      "category": "makeup",
+      "tags": [
+        "tutorial",
+        "brown skin",
+        "foundation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20312,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Beginner Makeup Guide for Brown Skin Tones — a free beginner-level guide covering beginner makeup tutorial for brown skin tones. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T17:41:03.780Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "eyeshadow-for-beginners-a-stepbystep-application-g",
+      "title": "Eyeshadow for Beginners: A Step-by-Step Application Guide",
+      "goal": "How to apply eyeshadow for beginners step by step",
+      "category": "makeup",
+      "tags": [
+        "tutorial",
+        "beginner",
+        "makeup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16947,
+      "moduleCount": 11,
+      "readingTimeMins": 68,
+      "metaDescription": "Eyeshadow for Beginners: A Step-by-Step Application Guide — a free beginner-level guide covering how to apply eyeshadow for beginners step by step....",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-27T17:35:43.603Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-remedies-for-dry-skin-and-eczema-guide",
+      "title": "Natural Remedies for Dry Skin and Eczema Guide",
+      "goal": "Natural remedies for dry skin and eczema",
+      "category": "skincare",
+      "tags": [
+        "dry skin",
+        "eczema",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22179,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "Natural Remedies for Dry Skin and Eczema Guide — a free beginner-level guide covering natural remedies for dry skin and eczema. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-27T17:30:55.844Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-skincare-routine-for-acne",
+      "title": "Beginner's Guide to Skincare Routine for Acne",
+      "goal": "Beginner's guide to skincare routine for acne",
+      "category": "skincare",
+      "tags": [
+        "acne",
+        "routine",
+        "guide"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20540,
+      "moduleCount": 10,
+      "readingTimeMins": 83,
+      "metaDescription": "Beginner's Guide to Skincare Routine for Acne — a free beginner-level guide covering beginner's guide to skincare routine for acne. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T17:20:55.745Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "backyard-astronomy-guide-for-beginners",
       "title": "Backyard Astronomy Guide for Beginners",
       "goal": "Backyard astronomy and stargazing for beginners",
@@ -10692,6 +11492,6 @@
       "edition": "street"
     }
   ],
-  "total": 536,
-  "generatedAt": "2026-07-27T08:31:17.723Z"
+  "total": 576,
+  "generatedAt": "2026-07-27T20:38:51.726Z"
 }
