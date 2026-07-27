@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "street-how-to-mix-music-in-audacity-for-beginners",
+      "title": "How to Mix Music in Audacity for Beginners",
+      "goal": "How to mix music in Audacity",
+      "category": "music-production",
+      "tags": [
+        "software",
+        "audio",
+        "editing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15390,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "How to Mix Music in Audacity for Beginners — a free beginner-level guide covering how to mix music in audacity. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T06:57:02.833Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-advanced-guide-to-identifying-edible-wild-mushroom",
+      "title": "Advanced Guide to Identifying Edible Wild Mushrooms",
+      "goal": "How to identify edible wild mushrooms",
+      "category": "foraging",
+      "tags": [
+        "nature",
+        "safety",
+        "food"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 10929,
+      "moduleCount": 7,
+      "readingTimeMins": 44,
+      "metaDescription": "Advanced Guide to Identifying Edible Wild Mushrooms — a free advanced-level guide covering how to identify edible wild mushrooms. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T06:54:09.783Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-fishing-basics-for-complete-beginners",
+      "title": "Fishing Basics for Complete Beginners",
+      "goal": "Fishing basics for complete beginners",
+      "category": "fishing",
+      "tags": [
+        "outdoors",
+        "hook",
+        "rod"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10356,
+      "moduleCount": 8,
+      "readingTimeMins": 42,
+      "metaDescription": "Fishing Basics for Complete Beginners — a free beginner-level guide covering fishing basics for complete beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T06:53:00.792Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-how-to-replace-brake-pads-safely-a-complete-guide",
+      "title": "How to Replace Brake Pads Safely: A Complete Guide",
+      "goal": "How to replace brake pads safely",
+      "category": "automotive",
+      "tags": [
+        "brakes",
+        "safety",
+        "mechanic"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11605,
+      "moduleCount": 8,
+      "readingTimeMins": 47,
+      "metaDescription": "How to Replace Brake Pads Safely: A Complete Guide — a free intermediate-level guide covering how to replace brake pads safely. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T06:48:24.630Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-how-to-paint-a-room-like-a-professional-beginners",
+      "title": "How to Paint a Room Like a Professional: Beginner's Guide",
+      "goal": "How to paint a room like a pro",
+      "category": "painting",
+      "tags": [
+        "interior",
+        "decor",
+        "finish"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12933,
+      "moduleCount": 9,
+      "readingTimeMins": 52,
+      "metaDescription": "How to Paint a Room Like a Professional: Beginner's Guide — a free beginner-level guide covering how to paint a room like a pro. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-27T06:45:54.269Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-how-to-install-laminate-flooring-for-beginners",
+      "title": "How to Install Laminate Flooring for Beginners",
+      "goal": "How to install laminate flooring",
+      "category": "flooring",
+      "tags": [
+        "DIY",
+        "home improvement",
+        "wood"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 9294,
+      "moduleCount": 8,
+      "readingTimeMins": 38,
+      "metaDescription": "How to Install Laminate Flooring for Beginners — a free beginner-level guide covering how to install laminate flooring. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, glm-4-flash",
+      "generatedAt": "2026-07-27T06:40:40.647Z",
+      "edition": "street"
+    },
+    {
+      "slug": "street-basic-electrical-wiring-for-beginners",
+      "title": "Basic Electrical Wiring for Beginners",
+      "goal": "Basic electrical wiring for beginners",
+      "category": "electrical",
+      "tags": [
+        "safety",
+        "wiring",
+        "home"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10853,
+      "moduleCount": 8,
+      "readingTimeMins": 44,
+      "metaDescription": "Basic Electrical Wiring for Beginners — a free beginner-level guide covering basic electrical wiring for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T06:38:42.008Z",
+      "edition": "street"
+    },
+    {
       "slug": "smartphone-photography-for-beginners",
       "title": "Smartphone Photography for Beginners",
       "goal": "Smartphone photography for beginners",
@@ -10533,6 +10673,6 @@
       "edition": "street"
     }
   ],
-  "total": 528,
-  "generatedAt": "2026-07-27T05:00:38.621Z"
+  "total": 535,
+  "generatedAt": "2026-07-27T06:57:25.217Z"
 }
