@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "how-to-fix-a-leaking-tap-a-beginners-plumbing-guid",
+      "title": "How to Fix a Leaking Tap: A Beginner's Plumbing Guide",
+      "goal": "How to fix a leaking tap plumbing basics",
+      "category": "home-improvement",
+      "tags": [
+        "plumbing",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17541,
+      "moduleCount": 10,
+      "readingTimeMins": 71,
+      "metaDescription": "How to Fix a Leaking Tap: A Beginner's Plumbing Guide — a free beginner-level guide covering how to fix a leaking tap plumbing basics. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T12:15:00.409Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "linux-command-line-and-bash-scripting-for-beginner",
+      "title": "Linux Command Line and Bash Scripting for Beginners",
+      "goal": "Linux command line bash scripting basics",
+      "category": "technology",
+      "tags": [
+        "linux",
+        "bash"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27747,
+      "moduleCount": 12,
+      "readingTimeMins": 111,
+      "metaDescription": "Linux Command Line and Bash Scripting for Beginners — a free beginner-level guide covering linux command line bash scripting basics. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T12:07:38.580Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "muay-thai-kickboxing-basics-a-stepbystep-beginners",
+      "title": "Muay Thai Kickboxing Basics: A Step-by-Step Beginner's Guide",
+      "goal": "Muay Thai kickboxing basics for beginners",
+      "category": "sports",
+      "tags": [
+        "muay-thai",
+        "kickboxing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16775,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "Muay Thai Kickboxing Basics: A Step-by-Step Beginner's Guide — a free beginner-level guide covering muay thai kickboxing basics for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T12:03:17.550Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-friendship-bracelets-at-home-a-stepbys",
+      "title": "How to Make Friendship Bracelets at Home: A Step-by-Step Beginner's Guide",
+      "goal": "How to make friendship bracelets at home",
+      "category": "crafts",
+      "tags": [
+        "braiding",
+        "friendship"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19302,
+      "moduleCount": 10,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Make Friendship Bracelets at Home: A Step-by-Step Beginner's Guide — a free beginner-level guide covering how to make friendship bracelets at...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T12:01:03.881Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "macrame-wall-hangings-for-beginners-a-stepbystep-g",
+      "title": "Macrame Wall Hangings for Beginners: A Step-by-Step Guide",
+      "goal": "How to make macrame wall hangings",
+      "category": "crafts",
+      "tags": [
+        "macrame",
+        "rope"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16515,
+      "moduleCount": 11,
+      "readingTimeMins": 67,
+      "metaDescription": "Macrame Wall Hangings for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to make macrame wall hangings. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T11:58:14.297Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "urban-sketching-with-pen-and-ink-for-beginners",
       "title": "Urban Sketching with Pen and Ink for Beginners",
       "goal": "Urban sketching with pen and ink for beginners",
@@ -13177,6 +13272,6 @@
       "edition": "street"
     }
   ],
-  "total": 662,
-  "generatedAt": "2026-07-28T06:50:25.049Z"
+  "total": 667,
+  "generatedAt": "2026-07-28T12:15:01.368Z"
 }
