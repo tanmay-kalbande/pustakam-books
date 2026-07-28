@@ -1,6 +1,120 @@
 {
   "books": [
     {
+      "slug": "the-ultimate-beginners-guide-to-planning-a-backpac",
+      "title": "The Ultimate Beginner's Guide to Planning a Backpacking Trip",
+      "goal": "How to plan a backpacking trip for beginners",
+      "category": "outdoor",
+      "tags": [
+        "backpacking",
+        "hiking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20079,
+      "moduleCount": 13,
+      "readingTimeMins": 81,
+      "metaDescription": "The Ultimate Beginner's Guide to Planning a Backpacking Trip — a free beginner-level guide covering how to plan a backpacking trip for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T22:17:46.615Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-practice-daily-gratitude-journaling-a-stepb",
+      "title": "How to Practice Daily Gratitude Journaling: A Step-by-Step Guide",
+      "goal": "How to practice daily gratitude journaling",
+      "category": "personal-development",
+      "tags": [
+        "gratitude",
+        "journaling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11621,
+      "moduleCount": 7,
+      "readingTimeMins": 47,
+      "metaDescription": "How to Practice Daily Gratitude Journaling: A Step-by-Step Guide — a free beginner-level guide covering how to practice daily gratitude journaling....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T22:13:57.346Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "freshwater-aquarium-fishkeeping-for-beginners-a-co",
+      "title": "Freshwater Aquarium Fishkeeping for Beginners: A Complete Guide",
+      "goal": "Freshwater aquarium fishkeeping for beginners",
+      "category": "pets",
+      "tags": [
+        "aquarium",
+        "fish"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16788,
+      "moduleCount": 12,
+      "readingTimeMins": 68,
+      "metaDescription": "Freshwater Aquarium Fishkeeping for Beginners: A Complete Guide — a free beginner-level guide covering freshwater aquarium fishkeeping for beginners....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T22:12:25.187Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "cryptocurrency-basics-a-beginners-guide-to-bitcoin",
+      "title": "Cryptocurrency Basics: A Beginner's Guide to Bitcoin and Blockchain",
+      "goal": "Cryptocurrency basics bitcoin and blockchain",
+      "category": "finance",
+      "tags": [
+        "crypto",
+        "bitcoin"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12532,
+      "moduleCount": 7,
+      "readingTimeMins": 51,
+      "metaDescription": "Cryptocurrency Basics: A Beginner's Guide to Bitcoin and Blockchain — a free beginner-level guide covering cryptocurrency basics bitcoin and...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T22:10:28.359Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-create-a-personal-budget-from-scratch-a-ste",
+      "title": "How to Create a Personal Budget from Scratch: A Step-by-Step Guide for Beginners",
+      "goal": "How to create a personal budget from scratch",
+      "category": "finance",
+      "tags": [
+        "budgeting",
+        "savings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20414,
+      "moduleCount": 11,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Create a Personal Budget from Scratch: A Step-by-Step Guide for Beginners — a free beginner-level guide covering how to create a personal budget...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T22:08:58.252Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-paint-an-interior-wall-step-by-step",
+      "title": "How to Paint an Interior Wall Step by Step",
+      "goal": "How to paint a room interior wall step by step",
+      "category": "home-improvement",
+      "tags": [
+        "painting",
+        "walls"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23466,
+      "moduleCount": 11,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Paint an Interior Wall Step by Step — a free beginner-level guide covering how to paint a room interior wall step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T22:06:33.638Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "youtube-video-creation-for-beginners-a-stepbystep",
       "title": "YouTube Video Creation for Beginners: A Step-by-Step Guide",
       "goal": "How to make YouTube videos from scratch",
@@ -13633,6 +13747,6 @@
       "edition": "street"
     }
   ],
-  "total": 686,
-  "generatedAt": "2026-07-28T20:29:48.384Z"
+  "total": 692,
+  "generatedAt": "2026-07-28T22:18:01.765Z"
 }
