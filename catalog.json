@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "youtube-video-creation-for-beginners-a-stepbystep",
+      "title": "YouTube Video Creation for Beginners: A Step-by-Step Guide",
+      "goal": "How to make YouTube videos from scratch",
+      "category": "video",
+      "tags": [
+        "youtube",
+        "filming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23739,
+      "moduleCount": 12,
+      "readingTimeMins": 95,
+      "metaDescription": "YouTube Video Creation for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to make youtube videos from scratch. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T20:29:02.183Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-light-portrait-photography-techniques",
+      "title": "Natural Light Portrait Photography Techniques",
+      "goal": "Portrait photography natural light techniques",
+      "category": "photography",
+      "tags": [
+        "portrait",
+        "natural-light"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24060,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Natural Light Portrait Photography Techniques — a free intermediate-level guide covering portrait photography natural light techniques. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T20:26:42.033Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-stock-charts-a-technical-analysis-guid",
+      "title": "How to Read Stock Charts: A Technical Analysis Guide",
+      "goal": "How to read stock charts technical analysis",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "charts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23743,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Read Stock Charts: A Technical Analysis Guide — a free intermediate-level guide covering how to read stock charts technical analysis. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T20:22:10.698Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "home-electrical-repair-and-rewiring-guide",
+      "title": "Home Electrical Repair and Rewiring Guide",
+      "goal": "Basic home electrical repairs and rewiring",
+      "category": "home-improvement",
+      "tags": [
+        "electrical",
+        "wiring"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12191,
+      "moduleCount": 7,
+      "readingTimeMins": 49,
+      "metaDescription": "Home Electrical Repair and Rewiring Guide — a free intermediate-level guide covering basic home electrical repairs and rewiring. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T20:19:57.305Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "charcoal-drawing-shading-and-blending-basics-for-b",
+      "title": "Charcoal Drawing Shading and Blending Basics for Beginners",
+      "goal": "Charcoal drawing shading and blending basics",
+      "category": "art",
+      "tags": [
+        "charcoal",
+        "shading"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20680,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Charcoal Drawing Shading and Blending Basics for Beginners — a free beginner-level guide covering charcoal drawing shading and blending basics. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T20:17:04.262Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "product-photography-basics-home-studio-guide-for-b",
       "title": "Product Photography Basics: Home Studio Guide for Beginners",
       "goal": "Product photography basics at home studio",
@@ -13538,6 +13633,6 @@
       "edition": "street"
     }
   ],
-  "total": 681,
-  "generatedAt": "2026-07-28T18:39:08.935Z"
+  "total": 686,
+  "generatedAt": "2026-07-28T20:29:48.384Z"
 }
