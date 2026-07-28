@@ -1,6 +1,177 @@
 {
   "books": [
     {
+      "slug": "digital-art-illustration-with-procreate-beginner-r",
+      "title": "Digital Art Illustration with Procreate: Beginner Roadmap",
+      "goal": "Digital art illustration using Procreate",
+      "category": "art",
+      "tags": [
+        "procreate",
+        "digital"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19971,
+      "moduleCount": 8,
+      "readingTimeMins": 80,
+      "metaDescription": "Digital Art Illustration with Procreate: Beginner Roadmap — a free beginner-level guide covering digital art illustration using procreate. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T03:51:37.928Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "table-tennis-spin-guide-beginner-techniques-and-ma",
+      "title": "Table Tennis Spin Guide: Beginner Techniques and Mastery",
+      "goal": "Table tennis spin techniques for beginners",
+      "category": "sports",
+      "tags": [
+        "ping-pong",
+        "spin"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12498,
+      "moduleCount": 9,
+      "readingTimeMins": 50,
+      "metaDescription": "Table Tennis Spin Guide: Beginner Techniques and Mastery — a free beginner-level guide covering table tennis spin techniques for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T03:47:46.798Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "badminton-smash-footwork-mastery",
+      "title": "Badminton Smash & Footwork Mastery",
+      "goal": "Badminton techniques smash and footwork",
+      "category": "sports",
+      "tags": [
+        "badminton",
+        "smash"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22867,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Badminton Smash & Footwork Mastery — a free beginner-level guide covering badminton techniques smash and footwork. Learn with clear explanations, real...",
+      "modelUsed": "glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-28T03:46:09.066Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-arabic-alphabet-and-basics-for-beginners",
+      "title": "Learn Arabic Alphabet and Basics for Beginners",
+      "goal": "Learn Arabic alphabet and basics from scratch",
+      "category": "language",
+      "tags": [
+        "arabic",
+        "alphabet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10080,
+      "moduleCount": 8,
+      "readingTimeMins": 41,
+      "metaDescription": "Learn Arabic Alphabet and Basics for Beginners — a free beginner-level guide covering learn arabic alphabet and basics from scratch. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T03:40:38.595Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "french-conversation-basics-for-beginners",
+      "title": "French Conversation Basics for Beginners",
+      "goal": "Learn French conversation basics for beginners",
+      "category": "language",
+      "tags": [
+        "french",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27265,
+      "moduleCount": 13,
+      "readingTimeMins": 110,
+      "metaDescription": "French Conversation Basics for Beginners — a free beginner-level guide covering learn french conversation basics for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T03:35:31.316Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "thai-stir-fry-basics-for-beginners",
+      "title": "Thai Stir Fry Basics for Beginners",
+      "goal": "Thai cooking stir fry basics for beginners",
+      "category": "cooking",
+      "tags": [
+        "thai",
+        "stir-fry"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16191,
+      "moduleCount": 11,
+      "readingTimeMins": 65,
+      "metaDescription": "Thai Stir Fry Basics for Beginners — a free beginner-level guide covering thai cooking stir fry basics for beginners. Learn with clear explanations,...",
+      "modelUsed": "glm-4.7-flash, gemma-4-31b",
+      "generatedAt": "2026-07-28T03:19:31.613Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-bath-bombs-at-home-beginners-guide",
+      "title": "How to Make Bath Bombs at Home: Beginner's Guide",
+      "goal": "How to make bath bombs from scratch at home",
+      "category": "crafts",
+      "tags": [
+        "bath-bombs",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19703,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Make Bath Bombs at Home: Beginner's Guide — a free beginner-level guide covering how to make bath bombs from scratch at home. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T03:14:41.123Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "amigurumi-crochet-beginner-to-intermediate",
+      "title": "Amigurumi Crochet: Beginner to Intermediate",
+      "goal": "Crochet stuffed animals amigurumi for beginners",
+      "category": "crafts",
+      "tags": [
+        "crochet",
+        "amigurumi"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14570,
+      "moduleCount": 10,
+      "readingTimeMins": 59,
+      "metaDescription": "Amigurumi Crochet: Beginner to Intermediate — a free intermediate-level guide covering crochet stuffed animals amigurumi for beginners. Learn with...",
+      "modelUsed": "glm-4.7-flash, gemma-4-31b",
+      "generatedAt": "2026-07-28T03:12:37.481Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "resin-pour-painting-for-beginners-the-complete-gui",
+      "title": "Resin Pour Painting for Beginners: The Complete Guide",
+      "goal": "Resin art pour painting for beginners",
+      "category": "crafts",
+      "tags": [
+        "resin",
+        "pour-art"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21363,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Resin Pour Painting for Beginners: The Complete Guide — a free beginner-level guide covering resin art pour painting for beginners. Learn with clear...",
+      "modelUsed": "glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-28T03:09:25.155Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "desi-furniture-restoration-sanding-and-refinishing-guid",
       "title": "Furniture Restoration: Sanding and Refinishing Guide",
       "goal": "Furniture Restoration: Sanding and Refinishing",
@@ -12512,6 +12683,6 @@
       "edition": "street"
     }
   ],
-  "total": 627,
-  "generatedAt": "2026-07-28T02:48:20.235Z"
+  "total": 636,
+  "generatedAt": "2026-07-28T03:56:31.369Z"
 }
