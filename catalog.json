@@ -1,6 +1,63 @@
 {
   "books": [
     {
+      "slug": "product-photography-basics-home-studio-guide-for-b",
+      "title": "Product Photography Basics: Home Studio Guide for Beginners",
+      "goal": "Product photography basics at home studio",
+      "category": "photography",
+      "tags": [
+        "product",
+        "studio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15409,
+      "moduleCount": 9,
+      "readingTimeMins": 62,
+      "metaDescription": "Product Photography Basics: Home Studio Guide for Beginners — a free beginner-level guide covering product photography basics at home studio. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T18:37:17.576Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "home-composting-for-beginners-a-stepbystep-guide",
+      "title": "Home Composting for Beginners: A Step-by-Step Guide",
+      "goal": "Composting at home beginners guide",
+      "category": "gardening",
+      "tags": [
+        "composting",
+        "soil"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13376,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Home Composting for Beginners: A Step-by-Step Guide — a free beginner-level guide covering composting at home beginners guide. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T18:26:50.273Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "typescript-for-javascript-developers-a-complete-gu",
+      "title": "TypeScript for JavaScript Developers: A Complete Guide",
+      "goal": "Learn TypeScript for JavaScript developers",
+      "category": "programming",
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15826,
+      "moduleCount": 10,
+      "readingTimeMins": 64,
+      "metaDescription": "TypeScript for JavaScript Developers: A Complete Guide — a free intermediate-level guide covering learn typescript for javascript developers. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T18:21:07.322Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-pet-gecko-care",
       "title": "Beginner's Guide to Pet Gecko Care",
       "goal": "How to care for a pet gecko at home",
@@ -13481,6 +13538,6 @@
       "edition": "street"
     }
   ],
-  "total": 678,
-  "generatedAt": "2026-07-28T16:53:38.937Z"
+  "total": 681,
+  "generatedAt": "2026-07-28T18:39:08.935Z"
 }
