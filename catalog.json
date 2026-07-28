@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "learn-ableton-live-beginner-music-production-guide",
+      "title": "Learn Ableton Live: Beginner Music Production Guide",
+      "goal": "Music production basics in Ableton Live",
+      "category": "music",
+      "tags": [
+        "ableton",
+        "production"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18291,
+      "moduleCount": 9,
+      "readingTimeMins": 74,
+      "metaDescription": "Learn Ableton Live: Beginner Music Production Guide — a free beginner-level guide covering music production basics in ableton live. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, glm-4.7-flash",
+      "generatedAt": "2026-07-28T04:10:00.749Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-pizza-dough-from-scratch",
+      "title": "Mastering Pizza Dough: From Scratch",
+      "goal": "How to make pizza dough from scratch",
+      "category": "cooking",
+      "tags": [
+        "pizza",
+        "dough"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15775,
+      "moduleCount": 10,
+      "readingTimeMins": 64,
+      "metaDescription": "Mastering Pizza Dough: From Scratch — a free beginner-level guide covering how to make pizza dough from scratch. Learn with clear explanations, real...",
+      "modelUsed": "glm-4.7-flash, gemma-4-31b",
+      "generatedAt": "2026-07-28T04:08:15.990Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-homemade-croissants-a-stepbystep-guide",
+      "title": "Mastering Homemade Croissants: A Step-by-Step Guide",
+      "goal": "How to make croissants at home step by step",
+      "category": "cooking",
+      "tags": [
+        "croissants",
+        "baking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11555,
+      "moduleCount": 8,
+      "readingTimeMins": 47,
+      "metaDescription": "Mastering Homemade Croissants: A Step-by-Step Guide — a free intermediate-level guide covering how to make croissants at home step by step. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T04:04:45.887Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "paper-quilling-for-beginners-a-stepbystep-guide",
+      "title": "Paper Quilling for Beginners: A Step-by-Step Guide",
+      "goal": "Paper quilling art designs for beginners",
+      "category": "crafts",
+      "tags": [
+        "paper",
+        "quilling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10666,
+      "moduleCount": 8,
+      "readingTimeMins": 43,
+      "metaDescription": "Paper Quilling for Beginners: A Step-by-Step Guide — a free beginner-level guide covering paper quilling art designs for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T04:01:40.189Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "terracotta-clay-jewelry-making-guide",
+      "title": "Terracotta Clay Jewelry Making Guide",
+      "goal": "How to make terracotta clay jewelry",
+      "category": "crafts",
+      "tags": [
+        "clay",
+        "jewelry"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19586,
+      "moduleCount": 8,
+      "readingTimeMins": 79,
+      "metaDescription": "Terracotta Clay Jewelry Making Guide — a free beginner-level guide covering how to make terracotta clay jewelry. Learn with clear explanations, real...",
+      "modelUsed": "glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-28T04:00:33.144Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "digital-art-illustration-with-procreate-beginner-r",
       "title": "Digital Art Illustration with Procreate: Beginner Roadmap",
       "goal": "Digital art illustration using Procreate",
@@ -12683,6 +12778,6 @@
       "edition": "street"
     }
   ],
-  "total": 636,
-  "generatedAt": "2026-07-28T03:56:31.369Z"
+  "total": 641,
+  "generatedAt": "2026-07-28T04:10:24.375Z"
 }
