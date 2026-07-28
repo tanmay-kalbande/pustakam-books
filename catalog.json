@@ -1,6 +1,272 @@
 {
   "books": [
     {
+      "slug": "resistance-band-full-body-workout-for-beginners-st",
+      "title": "Resistance Band Full Body Workout for Beginners: Step-by-Step Guide",
+      "goal": "Resistance band full body workout for beginners",
+      "category": "fitness",
+      "tags": [
+        "resistance-bands",
+        "strength"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14920,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "Resistance Band Full Body Workout for Beginners: Step-by-Step Guide — a free beginner-level guide covering resistance band full body workout for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T05:16:23.640Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-git-version-control-for-beginners",
+      "title": "Learn Git Version Control for Beginners",
+      "goal": "Learn Git version control for beginners",
+      "category": "programming",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17765,
+      "moduleCount": 9,
+      "readingTimeMins": 72,
+      "metaDescription": "Learn Git Version Control for Beginners — a free beginner-level guide covering learn git version control for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-28T05:14:28.109Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "raspberry-pi-home-automation-projects-a-stepbystep",
+      "title": "Raspberry Pi Home Automation Projects: A Step-by-Step Guide",
+      "goal": "Raspberry Pi home automation projects",
+      "category": "electronics",
+      "tags": [
+        "raspberry-pi",
+        "automation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15520,
+      "moduleCount": 11,
+      "readingTimeMins": 63,
+      "metaDescription": "Raspberry Pi Home Automation Projects: A Step-by-Step Guide — a free intermediate-level guide covering raspberry pi home automation projects. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T05:12:24.148Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "sql-and-database-design-for-beginners-a-stepbystep",
+      "title": "SQL and Database Design for Beginners: A Step-by-Step Guide",
+      "goal": "Learn SQL and database design from scratch",
+      "category": "programming",
+      "tags": [
+        "sql",
+        "database"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23263,
+      "moduleCount": 12,
+      "readingTimeMins": 94,
+      "metaDescription": "SQL and Database Design for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn sql and database design from scratch. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T05:09:22.212Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "linocut-printmaking-for-beginners-a-stepbystep-hom",
+      "title": "Linocut Printmaking for Beginners: A Step-by-Step Home Guide",
+      "goal": "Linocut printmaking for beginners at home",
+      "category": "art",
+      "tags": [
+        "linocut",
+        "printmaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14689,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Linocut Printmaking for Beginners: A Step-by-Step Home Guide — a free beginner-level guide covering linocut printmaking for beginners at home. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T05:05:18.828Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-gouache-painting-stepbystep-bas",
+      "title": "Beginner's Guide to Gouache Painting: Step-by-Step Basics",
+      "goal": "Learn gouache painting for beginners",
+      "category": "art",
+      "tags": [
+        "gouache",
+        "painting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24525,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Beginner's Guide to Gouache Painting: Step-by-Step Basics — a free beginner-level guide covering learn gouache painting for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T05:03:18.500Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-draw-anime-manga-characters-stepbystep-gu",
+      "title": "Learn to Draw Anime & Manga Characters: Step-by-Step Guide for Beginners",
+      "goal": "How to draw anime manga characters step by step",
+      "category": "art",
+      "tags": [
+        "anime",
+        "manga"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18359,
+      "moduleCount": 14,
+      "readingTimeMins": 74,
+      "metaDescription": "Learn to Draw Anime & Manga Characters: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to draw anime manga characters step...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T05:01:19.151Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "oil-painting-basics-for-beginners",
+      "title": "Oil Painting Basics for Beginners",
+      "goal": "Learn oil painting basics for beginners",
+      "category": "art",
+      "tags": [
+        "oil-painting",
+        "canvas"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22198,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "Oil Painting Basics for Beginners — a free beginner-level guide covering learn oil painting basics for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T04:59:28.905Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-draw-realistic-portraits-a-stepbystep-guide",
+      "title": "How to Draw Realistic Portraits: A Step-by-Step Guide for Beginners",
+      "goal": "How to draw realistic portraits for beginners",
+      "category": "art",
+      "tags": [
+        "portrait",
+        "drawing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15599,
+      "moduleCount": 11,
+      "readingTimeMins": 63,
+      "metaDescription": "How to Draw Realistic Portraits: A Step-by-Step Guide for Beginners — a free beginner-level guide covering how to draw realistic portraits for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T04:57:23.462Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "fencing-for-beginners-a-stepbystep-guide-to-sword",
+      "title": "Fencing for Beginners: A Step-by-Step Guide to Sword Fighting",
+      "goal": "Learn fencing sword fighting for beginners",
+      "category": "sports",
+      "tags": [
+        "fencing",
+        "sword"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16390,
+      "moduleCount": 11,
+      "readingTimeMins": 66,
+      "metaDescription": "Fencing for Beginners: A Step-by-Step Guide to Sword Fighting — a free beginner-level guide covering learn fencing sword fighting for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T04:55:00.969Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-boxing-basics-punching-technique-for-beginne",
+      "title": "Learn Boxing Basics: Punching Technique for Beginners",
+      "goal": "Learn boxing basics punching technique",
+      "category": "sports",
+      "tags": [
+        "boxing",
+        "punching"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26482,
+      "moduleCount": 12,
+      "readingTimeMins": 106,
+      "metaDescription": "Learn Boxing Basics: Punching Technique for Beginners — a free beginner-level guide covering learn boxing basics punching technique. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T04:52:48.712Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "music-theory-basics-for-all-musicians",
+      "title": "Music Theory Basics for All Musicians",
+      "goal": "Learn music theory basics for all musicians",
+      "category": "music",
+      "tags": [
+        "theory",
+        "harmony"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26172,
+      "moduleCount": 12,
+      "readingTimeMins": 105,
+      "metaDescription": "Music Theory Basics for All Musicians — a free intermediate-level guide covering learn music theory basics for all musicians. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T04:50:07.190Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-homebrewing-from-extract-to-allgrain-bre",
+      "title": "Mastering Homebrewing: From Extract to All-Grain Brewing",
+      "goal": "How to brew beer at home for beginners",
+      "category": "cooking",
+      "tags": [
+        "brewing",
+        "beer"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15295,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "Mastering Homebrewing: From Extract to All-Grain Brewing — a free intermediate-level guide covering how to brew beer at home for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T04:47:44.642Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mexican-cooking-basics-master-tacos-and-salsas-fro",
+      "title": "Mexican Cooking Basics: Master Tacos and Salsas from Scratch",
+      "goal": "Mexican cooking basics tacos and salsas",
+      "category": "cooking",
+      "tags": [
+        "mexican",
+        "tacos"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25066,
+      "moduleCount": 13,
+      "readingTimeMins": 101,
+      "metaDescription": "Mexican Cooking Basics: Master Tacos and Salsas from Scratch — a free beginner-level guide covering mexican cooking basics tacos and salsas. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T04:46:23.832Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-ableton-live-beginner-music-production-guide",
       "title": "Learn Ableton Live: Beginner Music Production Guide",
       "goal": "Music production basics in Ableton Live",
@@ -12778,6 +13044,6 @@
       "edition": "street"
     }
   ],
-  "total": 641,
-  "generatedAt": "2026-07-28T04:10:24.375Z"
+  "total": 655,
+  "generatedAt": "2026-07-28T05:18:37.079Z"
 }
