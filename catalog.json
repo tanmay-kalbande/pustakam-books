@@ -1,6 +1,346 @@
 {
   "books": [
     {
+      "slug": "how-to-use-notion-for-personal-organization",
+      "title": "How to Use Notion for Personal Organization",
+      "goal": "How to use Notion for personal organization",
+      "category": "software-tools",
+      "tags": [
+        "notion",
+        "productivity",
+        "organization"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17940,
+      "moduleCount": 8,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Use Notion for Personal Organization — a free beginner-level guide covering how to use notion for personal organization. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:55:42.138Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-night-photography-with-a-dslr",
+      "title": "Mastering Night Photography with a DSLR",
+      "goal": "How to shoot night photography with a DSLR",
+      "category": "photography",
+      "tags": [
+        "night-photography",
+        "dslr",
+        "long-exposure"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 10759,
+      "moduleCount": 8,
+      "readingTimeMins": 44,
+      "metaDescription": "Mastering Night Photography with a DSLR — a free intermediate-level guide covering how to shoot night photography with a dslr. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T00:48:16.113Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "quick-guide-to-litter-training-a-kitten-fast",
+      "title": "Quick Guide to Litter Training a Kitten Fast",
+      "goal": "How to litter train a kitten fast",
+      "category": "pets",
+      "tags": [
+        "kitten",
+        "litter-box",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19690,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Quick Guide to Litter Training a Kitten Fast — a free beginner-level guide covering how to litter train a kitten fast. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:47:10.626Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-smart-doorbell-camera-a-stepbyste",
+      "title": "How to Install a Smart Doorbell Camera: A Step-by-Step Guide",
+      "goal": "How to install a smart doorbell camera",
+      "category": "home-improvement",
+      "tags": [
+        "smart-home",
+        "doorbell",
+        "security"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23759,
+      "moduleCount": 12,
+      "readingTimeMins": 96,
+      "metaDescription": "How to Install a Smart Doorbell Camera: A Step-by-Step Guide — a free beginner-level guide covering how to install a smart doorbell camera. Learn with...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-28T00:45:49.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-clean-a-washing-machine-at-home-beginner-gu",
+      "title": "How to Clean a Washing Machine at Home: Beginner Guide",
+      "goal": "How to clean a washing machine at home",
+      "category": "home-maintenance",
+      "tags": [
+        "washing-machine",
+        "cleaning",
+        "appliances"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18188,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Clean a Washing Machine at Home: Beginner Guide — a free beginner-level guide covering how to clean a washing machine at home. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:36:32.812Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-replace-windshield-wipers-a-stepbystep-guid",
+      "title": "How to Replace Windshield Wipers: A Step-by-Step Guide",
+      "goal": "How to replace windshield wipers step by step",
+      "category": "automotive",
+      "tags": [
+        "windshield-wipers",
+        "car-maintenance",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14703,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "How to Replace Windshield Wipers: A Step-by-Step Guide — a free beginner-level guide covering how to replace windshield wipers step by step. Learn with...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-28T00:32:34.117Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-replace-a-car-alternator-complete-stepbyste",
+      "title": "How to Replace a Car Alternator: Complete Step-by-Step Guide",
+      "goal": "How to replace a car alternator step by step",
+      "category": "mechanics",
+      "tags": [
+        "alternator",
+        "car-repair",
+        "diy-mechanic"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23264,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Replace a Car Alternator: Complete Step-by-Step Guide — a free intermediate-level guide covering how to replace a car alternator step by step....",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:28:14.086Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-indoor-hydroponic-systems-mastery",
+      "title": "Advanced Indoor Hydroponic Systems Mastery",
+      "goal": "Advanced hydroponic systems for indoor growing",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "indoor-growing",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25746,
+      "moduleCount": 10,
+      "readingTimeMins": 103,
+      "metaDescription": "Advanced Indoor Hydroponic Systems Mastery — a free advanced-level guide covering advanced hydroponic systems for indoor growing. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:16:33.166Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-strawberries-in-pots-a-beginners-guide",
+      "title": "How to Grow Strawberries in Pots: A Beginner's Guide",
+      "goal": "How to grow strawberries in pots at home",
+      "category": "gardening",
+      "tags": [
+        "strawberries",
+        "container-gardening",
+        "fruit"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25479,
+      "moduleCount": 11,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Grow Strawberries in Pots: A Beginner's Guide — a free beginner-level guide covering how to grow strawberries in pots at home. Learn with clear...",
+      "modelUsed": "glm-5.2, gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:14:16.799Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-quilt-a-baby-blanket-for-beginners",
+      "title": "How to Quilt a Baby Blanket for Beginners",
+      "goal": "How to quilt a baby blanket for beginners",
+      "category": "sewing",
+      "tags": [
+        "quilting",
+        "baby-blanket",
+        "sewing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13293,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Quilt a Baby Blanket for Beginners — a free beginner-level guide covering how to quilt a baby blanket for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, glm-5.2",
+      "generatedAt": "2026-07-28T00:06:36.664Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sew-a-zipper-beginner-stepbystep-guide",
+      "title": "How to Sew a Zipper: Beginner Step-by-Step Guide",
+      "goal": "How to sew a zipper for beginners",
+      "category": "sewing",
+      "tags": [
+        "sewing",
+        "zippers",
+        "techniques"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17399,
+      "moduleCount": 8,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Sew a Zipper: Beginner Step-by-Step Guide — a free beginner-level guide covering how to sew a zipper for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T00:04:15.215Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-smoke-brisket-at-home-for-beginners",
+      "title": "How to Smoke Brisket at Home for Beginners",
+      "goal": "How to smoke brisket at home for beginners",
+      "category": "culinary",
+      "tags": [
+        "bbq",
+        "smoking-meat",
+        "brisket"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16773,
+      "moduleCount": 8,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Smoke Brisket at Home for Beginners — a free beginner-level guide covering how to smoke brisket at home for beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-28T00:03:01.791Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-french-pastry-desserts",
+      "title": "Intermediate Guide to French Pastry & Desserts",
+      "goal": "Intermediate guide to French pastry and desserts",
+      "category": "culinary",
+      "tags": [
+        "french-pastry",
+        "baking",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20936,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "Intermediate Guide to French Pastry & Desserts — a free intermediate-level guide covering intermediate guide to french pastry and desserts. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T23:54:51.393Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-sourdough-starter-from-scratch",
+      "title": "How to Make a Sourdough Starter from Scratch",
+      "goal": "How to make sourdough starter from scratch",
+      "category": "culinary",
+      "tags": [
+        "sourdough",
+        "baking",
+        "bread"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13966,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Make a Sourdough Starter from Scratch — a free beginner-level guide covering how to make sourdough starter from scratch. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T23:52:58.985Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-beginners-guide-to-stained-glass-art",
+      "title": "The Complete Beginner's Guide to Stained Glass Art",
+      "goal": "Stained glass art for complete beginners",
+      "category": "crafts",
+      "tags": [
+        "stained-glass",
+        "glass-art",
+        "hobby"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23311,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "The Complete Beginner's Guide to Stained Glass Art — a free beginner-level guide covering stained glass art for complete beginners. Learn with clear...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T23:42:10.155Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-tufted-rug-from-scratch",
+      "title": "How to Make a Tufted Rug from Scratch",
+      "goal": "How to make a tufted rug from scratch",
+      "category": "crafts",
+      "tags": [
+        "tufting",
+        "rugs",
+        "diy-decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21696,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Make a Tufted Rug from Scratch — a free beginner-level guide covering how to make a tufted rug from scratch. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-27T23:32:50.633Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "woodturning-basics-a-stepbystep-beginners-guide",
+      "title": "Woodturning Basics: A Step-by-Step Beginner's Guide",
+      "goal": "Woodturning basics for beginners step by step",
+      "category": "woodworking",
+      "tags": [
+        "woodturning",
+        "lathe",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16002,
+      "moduleCount": 9,
+      "readingTimeMins": 65,
+      "metaDescription": "Woodturning Basics: A Step-by-Step Beginner's Guide — a free beginner-level guide covering woodturning basics for beginners step by step. Learn with...",
+      "modelUsed": "glm-5.2, gemma-4-31b",
+      "generatedAt": "2026-07-27T23:31:22.747Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-apply-false-eyelashes-a-beginners-complete",
       "title": "How to Apply False Eyelashes: A Beginner's Complete Guide",
       "goal": "How to apply false eyelashes for beginners",
@@ -12092,6 +12432,6 @@
       "edition": "street"
     }
   ],
-  "total": 606,
-  "generatedAt": "2026-07-27T23:25:56.690Z"
+  "total": 623,
+  "generatedAt": "2026-07-28T00:55:43.029Z"
 }
