@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "desi-furniture-restoration-sanding-and-refinishing-guid",
+      "title": "Furniture Restoration: Sanding and Refinishing Guide",
+      "goal": "Furniture Restoration: Sanding and Refinishing",
+      "category": "woodworking",
+      "tags": [
+        "furniture restoration",
+        "sanding",
+        "refinishing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15274,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "Furniture Restoration: Sanding and Refinishing Guide — a free intermediate-level guide covering furniture restoration: sanding and refinishing. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T02:47:12.511Z",
+      "edition": "desi"
+    },
+    {
+      "slug": "desi-cake-decorating-for-beginners-from-zero-to-boss",
+      "title": "Cake Decorating for Beginners: From Zero to Boss",
+      "goal": "How to Decorate Cakes for Beginners",
+      "category": "culinary",
+      "tags": [
+        "cake decorating",
+        "baking",
+        "pastry"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11152,
+      "moduleCount": 9,
+      "readingTimeMins": 45,
+      "metaDescription": "Cake Decorating for Beginners: From Zero to Boss — a free beginner-level guide covering how to decorate cakes for beginners. Learn with clear...",
+      "modelUsed": "glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-07-28T02:38:18.890Z",
+      "edition": "desi"
+    },
+    {
+      "slug": "desi-lawn-mower-blade-sharpening-guide-for-beginners",
+      "title": "Lawn Mower Blade Sharpening Guide for Beginners",
+      "goal": "How to Sharpen Lawn Mower Blades",
+      "category": "mechanics",
+      "tags": [
+        "lawn mower",
+        "sharpening",
+        "tools"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11027,
+      "moduleCount": 9,
+      "readingTimeMins": 45,
+      "metaDescription": "Lawn Mower Blade Sharpening Guide for Beginners — a free beginner-level guide covering how to sharpen lawn mower blades. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T02:33:31.241Z",
+      "edition": "desi"
+    },
+    {
+      "slug": "desi-beginners-guide-to-reptile-care-stepbystep-bhai-gu",
+      "title": "Beginner's Guide to Reptile Care: Step-by-Step Bhai Guide",
+      "goal": "Beginner Guide to Reptile Care",
+      "category": "pets",
+      "tags": [
+        "reptiles",
+        "lizards",
+        "snakes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10982,
+      "moduleCount": 8,
+      "readingTimeMins": 44,
+      "metaDescription": "Beginner's Guide to Reptile Care: Step-by-Step Bhai Guide — a free beginner-level guide covering beginner guide to reptile care. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T02:29:52.989Z",
+      "edition": "desi"
+    },
+    {
       "slug": "how-to-use-notion-for-personal-organization",
       "title": "How to Use Notion for Personal Organization",
       "goal": "How to use Notion for personal organization",
@@ -12432,6 +12512,6 @@
       "edition": "street"
     }
   ],
-  "total": 623,
-  "generatedAt": "2026-07-28T00:55:43.029Z"
+  "total": 627,
+  "generatedAt": "2026-07-28T02:48:20.235Z"
 }
