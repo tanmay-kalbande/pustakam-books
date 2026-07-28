@@ -1,6 +1,139 @@
 {
   "books": [
     {
+      "slug": "urban-sketching-with-pen-and-ink-for-beginners",
+      "title": "Urban Sketching with Pen and Ink for Beginners",
+      "goal": "Urban sketching with pen and ink for beginners",
+      "category": "art",
+      "tags": [
+        "sketching",
+        "urban"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20039,
+      "moduleCount": 8,
+      "readingTimeMins": 81,
+      "metaDescription": "Urban Sketching with Pen and Ink for Beginners — a free beginner-level guide covering urban sketching with pen and ink for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T06:48:10.758Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "archery-for-beginners-a-complete-guide-to-learning",
+      "title": "Archery for Beginners: A Complete Guide to Learning at Home",
+      "goal": "Learn archery for beginners at home",
+      "category": "sports",
+      "tags": [
+        "archery",
+        "bow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14666,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Archery for Beginners: A Complete Guide to Learning at Home — a free beginner-level guide covering learn archery for beginners at home. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T06:46:40.578Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-skateboard-ollie-tricks",
+      "title": "Beginner's Guide to Skateboard Ollie Tricks",
+      "goal": "How to skateboard ollie tricks for beginners",
+      "category": "sports",
+      "tags": [
+        "skateboarding",
+        "tricks"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20623,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Beginner's Guide to Skateboard Ollie Tricks — a free beginner-level guide covering how to skateboard ollie tricks for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T06:43:18.254Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "rock-climbing-bouldering-for-beginners-a-stepbyste",
+      "title": "Rock Climbing Bouldering for Beginners: A Step-by-Step Guide",
+      "goal": "Learn rock climbing bouldering for beginners",
+      "category": "sports",
+      "tags": [
+        "climbing",
+        "bouldering"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11324,
+      "moduleCount": 9,
+      "readingTimeMins": 46,
+      "metaDescription": "Rock Climbing Bouldering for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn rock climbing bouldering for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T06:41:58.445Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-beginners-guide-to-fermenting-vegetables-kimch",
+      "title": "The Beginner's Guide to Fermenting Vegetables: Kimchi & Pickles",
+      "goal": "How to ferment vegetables kimchi and pickles",
+      "category": "cooking",
+      "tags": [
+        "fermentation",
+        "kimchi"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16383,
+      "moduleCount": 11,
+      "readingTimeMins": 66,
+      "metaDescription": "The Beginner's Guide to Fermenting Vegetables: Kimchi & Pickles — a free beginner-level guide covering how to ferment vegetables kimchi and pickles....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T06:40:15.399Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-kombucha-at-home-a-beginners-stepbyste",
+      "title": "How to Make Kombucha at Home: A Beginner's Step-by-Step Guide",
+      "goal": "How to make kombucha at home for beginners",
+      "category": "cooking",
+      "tags": [
+        "kombucha",
+        "fermentation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14534,
+      "moduleCount": 10,
+      "readingTimeMins": 59,
+      "metaDescription": "How to Make Kombucha at Home: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make kombucha at home for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T06:36:36.592Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-basket-weaving-basics-materials",
+      "title": "Beginner's Guide to Basket Weaving: Basics, Materials, and Simple Projects",
+      "goal": "Learn basket weaving techniques for beginners",
+      "category": "crafts",
+      "tags": [
+        "weaving",
+        "basket"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17928,
+      "moduleCount": 8,
+      "readingTimeMins": 72,
+      "metaDescription": "Beginner's Guide to Basket Weaving: Basics, Materials, and Simple Projects — a free beginner-level guide covering learn basket weaving techniques for...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-28T06:34:28.000Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "resistance-band-full-body-workout-for-beginners-st",
       "title": "Resistance Band Full Body Workout for Beginners: Step-by-Step Guide",
       "goal": "Resistance band full body workout for beginners",
@@ -13044,6 +13177,6 @@
       "edition": "street"
     }
   ],
-  "total": 655,
-  "generatedAt": "2026-07-28T05:18:37.079Z"
+  "total": 662,
+  "generatedAt": "2026-07-28T06:50:25.049Z"
 }
