@@ -1,6 +1,101 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-pet-gecko-care",
+      "title": "Beginner's Guide to Pet Gecko Care",
+      "goal": "How to care for a pet gecko at home",
+      "category": "pets",
+      "tags": [
+        "gecko",
+        "reptile"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12445,
+      "moduleCount": 9,
+      "readingTimeMins": 50,
+      "metaDescription": "Beginner's Guide to Pet Gecko Care — a free beginner-level guide covering how to care for a pet gecko at home. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-28T16:52:52.963Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "tax-basics-for-freelancers-and-selfemployed-a-comp",
+      "title": "Tax Basics for Freelancers and Self-Employed: A Complete Guide",
+      "goal": "Tax basics for freelancers and self-employed",
+      "category": "finance",
+      "tags": [
+        "taxes",
+        "freelance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24685,
+      "moduleCount": 11,
+      "readingTimeMins": 99,
+      "metaDescription": "Tax Basics for Freelancers and Self-Employed: A Complete Guide — a free intermediate-level guide covering tax basics for freelancers and self-employed....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T16:51:03.255Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-macro-and-calorie-tracking-for-fitness-s",
+      "title": "Mastering Macro and Calorie Tracking for Fitness Success",
+      "goal": "How to track macros and calories for fitness",
+      "category": "health",
+      "tags": [
+        "macros",
+        "nutrition"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13277,
+      "moduleCount": 10,
+      "readingTimeMins": 54,
+      "metaDescription": "Mastering Macro and Calorie Tracking for Fitness Success — a free intermediate-level guide covering how to track macros and calories for fitness. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T16:45:23.829Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "docker-containers-basics-for-developers-a-handson",
+      "title": "Docker Containers Basics for Developers: A Hands-On Guide",
+      "goal": "Docker containers basics for developers",
+      "category": "technology",
+      "tags": [
+        "docker",
+        "devops"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23570,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "Docker Containers Basics for Developers: A Hands-On Guide — a free intermediate-level guide covering docker containers basics for developers. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-28T16:43:23.901Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-ice-cream-without-a-machine",
+      "title": "How to Make Homemade Ice Cream Without a Machine",
+      "goal": "Homemade ice cream without a machine",
+      "category": "cooking",
+      "tags": [
+        "ice-cream",
+        "dessert"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15532,
+      "moduleCount": 10,
+      "readingTimeMins": 63,
+      "metaDescription": "How to Make Homemade Ice Cream Without a Machine — a free beginner-level guide covering homemade ice cream without a machine. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-28T16:41:04.882Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mastering-fruit-tree-pruning-a-professional-guide",
       "title": "Mastering Fruit Tree Pruning: A Professional Guide",
       "goal": "How to prune fruit trees correctly",
@@ -13386,6 +13481,6 @@
       "edition": "street"
     }
   ],
-  "total": 673,
-  "generatedAt": "2026-07-28T14:19:31.245Z"
+  "total": 678,
+  "generatedAt": "2026-07-28T16:53:38.937Z"
 }
