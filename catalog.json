@@ -1,6 +1,142 @@
 {
   "books": [
     {
+      "slug": "advanced-mixing-and-mastering-in-logic-pro",
+      "title": "Advanced Mixing and Mastering in Logic Pro",
+      "goal": "Advanced mixing and mastering in Logic Pro",
+      "category": "music-production",
+      "tags": [
+        "logic pro",
+        "audio engineering",
+        "mixing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11841,
+      "moduleCount": 8,
+      "readingTimeMins": 48,
+      "metaDescription": "Advanced Mixing and Mastering in Logic Pro — a free advanced-level guide covering advanced mixing and mastering in logic pro. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-29T11:41:54.538Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-indoor-herb-gardening-grow-fres",
+      "title": "Beginner's Guide to Indoor Herb Gardening: Grow Fresh Herbs at Home",
+      "goal": "Beginner's guide to indoor herb gardening",
+      "category": "gardening",
+      "tags": [
+        "herbs",
+        "indoor plants",
+        "urban gardening"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24509,
+      "moduleCount": 11,
+      "readingTimeMins": 99,
+      "metaDescription": "Beginner's Guide to Indoor Herb Gardening: Grow Fresh Herbs at Home — a free beginner-level guide covering beginner's guide to indoor herb gardening....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T11:40:27.383Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-change-your-own-oil-a-beginners-stepbystep",
+      "title": "How to Change Your Own Oil: A Beginner's Step-by-Step Guide",
+      "goal": "How to perform a basic oil change",
+      "category": "mechanics",
+      "tags": [
+        "oil change",
+        "car maintenance",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16704,
+      "moduleCount": 11,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Change Your Own Oil: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to perform a basic oil change. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T11:38:08.271Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-file-gst-returns-for-small-business-a-stepb",
+      "title": "How to File GST Returns for Small Business: A Step-by-Step Guide",
+      "goal": "How to file GST returns for small business",
+      "category": "finance",
+      "tags": [
+        "gst",
+        "tax"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 10441,
+      "moduleCount": 8,
+      "readingTimeMins": 42,
+      "metaDescription": "How to File GST Returns for Small Business: A Step-by-Step Guide — a free intermediate-level guide covering how to file gst returns for small business....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-29T11:34:34.815Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-invest-in-indian-mutual-funds-a-beginners-s",
+      "title": "How to Invest in Indian Mutual Funds: A Beginner's Step-by-Step Guide",
+      "goal": "How to invest in Indian mutual funds for beginners",
+      "category": "finance",
+      "tags": [
+        "mutual-funds",
+        "sip"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28281,
+      "moduleCount": 12,
+      "readingTimeMins": 114,
+      "metaDescription": "How to Invest in Indian Mutual Funds: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to invest in indian mutual funds for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T11:33:20.844Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "freelancing-for-beginners-mastering-fiverr-and-upw",
+      "title": "Freelancing for Beginners: Mastering Fiverr and Upwork",
+      "goal": "How to start freelancing on Fiverr and Upwork",
+      "category": "business",
+      "tags": [
+        "freelancing",
+        "fiverr"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18793,
+      "moduleCount": 11,
+      "readingTimeMins": 76,
+      "metaDescription": "Freelancing for Beginners: Mastering Fiverr and Upwork — a free beginner-level guide covering how to start freelancing on fiverr and upwork. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T11:30:07.663Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "origami-art-for-beginners-a-stepbystep-guide",
+      "title": "Origami Art for Beginners: A Step-by-Step Guide",
+      "goal": "Origami art for beginners step by step",
+      "category": "crafts",
+      "tags": [
+        "origami",
+        "paper-folding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15299,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "Origami Art for Beginners: A Step-by-Step Guide — a free beginner-level guide covering origami art for beginners step by step. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T11:27:57.723Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-juggle-for-beginners-a-stepbystep-guide",
       "title": "Learn to Juggle for Beginners: A Step-by-Step Guide",
       "goal": "Learn to juggle for beginners",
@@ -14537,6 +14673,6 @@
       "edition": "street"
     }
   ],
-  "total": 733,
-  "generatedAt": "2026-07-29T11:01:25.676Z"
+  "total": 740,
+  "generatedAt": "2026-07-29T11:42:22.945Z"
 }
