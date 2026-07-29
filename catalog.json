@@ -1,6 +1,104 @@
 {
   "books": [
     {
+      "slug": "intermediate-telescope-guide-for-stargazing",
+      "title": "Intermediate Telescope Guide for Stargazing",
+      "goal": "Intermediate telescope guide for stargazing",
+      "category": "astronomy",
+      "tags": [
+        "telescope",
+        "stars",
+        "night sky"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30437,
+      "moduleCount": 12,
+      "readingTimeMins": 122,
+      "metaDescription": "Intermediate Telescope Guide for Stargazing — a free intermediate-level guide covering intermediate telescope guide for stargazing. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T14:24:59.596Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-woodworking-joints-mastery-of-precisi",
+      "title": "Intermediate Woodworking Joints: Mastery of Precision and Strength",
+      "goal": "Intermediate guide to woodworking joints",
+      "category": "woodworking",
+      "tags": [
+        "woodworking",
+        "joinery",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24616,
+      "moduleCount": 11,
+      "readingTimeMins": 99,
+      "metaDescription": "Intermediate Woodworking Joints: Mastery of Precision and Strength — a free intermediate-level guide covering intermediate guide to woodworking joints....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T14:21:47.848Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "pottery-and-ceramics-for-beginners-a-stepbystep-gu",
+      "title": "Pottery and Ceramics for Beginners: A Step-by-Step Guide",
+      "goal": "Pottery and ceramics for beginners",
+      "category": "pottery",
+      "tags": [
+        "clay",
+        "ceramics",
+        "wheel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21442,
+      "moduleCount": 12,
+      "readingTimeMins": 86,
+      "metaDescription": "Pottery and Ceramics for Beginners: A Step-by-Step Guide — a free beginner-level guide covering pottery and ceramics for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T14:18:42.082Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "himalayan-trekking-for-beginners-a-complete-prepar",
+      "title": "Himalayan Trekking for Beginners: A Complete Preparation Guide",
+      "goal": "Trekking in Himalayas beginner preparation guide",
+      "category": "outdoor",
+      "tags": [
+        "himalaya",
+        "trekking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23187,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "Himalayan Trekking for Beginners: A Complete Preparation Guide — a free intermediate-level guide covering trekking in himalayas beginner preparation...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T14:16:09.602Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-beginners-guide-to-making-perfect-rot",
+      "title": "The Complete Beginner's Guide to Making Perfect Roti and Chapati at Home",
+      "goal": "Learn to make roti and chapati at home",
+      "category": "cooking",
+      "tags": [
+        "roti",
+        "bread"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19256,
+      "moduleCount": 10,
+      "readingTimeMins": 78,
+      "metaDescription": "The Complete Beginner's Guide to Making Perfect Roti and Chapati at Home — a free beginner-level guide covering learn to make roti and chapati at home....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T14:13:28.704Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-mixing-and-mastering-in-logic-pro",
       "title": "Advanced Mixing and Mastering in Logic Pro",
       "goal": "Advanced mixing and mastering in Logic Pro",
@@ -14673,6 +14771,6 @@
       "edition": "street"
     }
   ],
-  "total": 740,
-  "generatedAt": "2026-07-29T11:42:22.945Z"
+  "total": 745,
+  "generatedAt": "2026-07-29T14:25:00.657Z"
 }
