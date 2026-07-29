@@ -1,6 +1,283 @@
 {
   "books": [
     {
+      "slug": "learn-to-juggle-for-beginners-a-stepbystep-guide",
+      "title": "Learn to Juggle for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to juggle for beginners",
+      "category": "hobbies",
+      "tags": [
+        "juggling",
+        "circus arts",
+        "coordination"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18436,
+      "moduleCount": 11,
+      "readingTimeMins": 74,
+      "metaDescription": "Learn to Juggle for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to juggle for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:59:58.995Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-coin-collection-beginners-stepbyste",
+      "title": "How to Start a Coin Collection: Beginner's Step-by-Step Guide",
+      "goal": "How to start a collection of coins",
+      "category": "hobbies",
+      "tags": [
+        "collecting",
+        "coins",
+        "numismatics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22403,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Start a Coin Collection: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a collection of coins. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:57:53.832Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-music-sheets-a-beginners-stepbystep-gu",
+      "title": "How to Read Music Sheets: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to read music sheets",
+      "category": "music",
+      "tags": [
+        "music theory",
+        "reading music",
+        "notation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13887,
+      "moduleCount": 10,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Read Music Sheets: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to read music sheets. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T10:56:03.280Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "start-a-home-gym-on-a-budget",
+      "title": "Start a Home Gym on a Budget",
+      "goal": "How to start a home gym on a budget",
+      "category": "fitness",
+      "tags": [
+        "home gym",
+        "workout",
+        "budget"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19261,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "Start a Home Gym on a Budget — a free beginner-level guide covering how to start a home gym on a budget. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:52:32.808Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-beginners-guide-to-brewing-cold-brew",
+      "title": "The Complete Beginner's Guide to Brewing Cold Brew Coffee",
+      "goal": "Learn how to brew cold brew coffee",
+      "category": "culinary",
+      "tags": [
+        "coffee",
+        "cold brew",
+        "beverages"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14813,
+      "moduleCount": 10,
+      "readingTimeMins": 60,
+      "metaDescription": "The Complete Beginner's Guide to Brewing Cold Brew Coffee — a free beginner-level guide covering learn how to brew cold brew coffee. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T10:51:12.470Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "landscape-photography-tips-for-better-photos",
+      "title": "Landscape Photography Tips for Better Photos",
+      "goal": "How to take better landscape photos",
+      "category": "photography",
+      "tags": [
+        "landscape",
+        "nature",
+        "photography"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22242,
+      "moduleCount": 9,
+      "readingTimeMins": 89,
+      "metaDescription": "Landscape Photography Tips for Better Photos — a free intermediate-level guide covering how to take better landscape photos. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:49:13.618Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "macro-photography-for-beginners-a-stepbystep-guide",
+      "title": "Macro Photography for Beginners: A Step-by-Step Guide",
+      "goal": "Learn macro photography for beginners",
+      "category": "photography",
+      "tags": [
+        "macro",
+        "close-up",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14295,
+      "moduleCount": 11,
+      "readingTimeMins": 58,
+      "metaDescription": "Macro Photography for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn macro photography for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T10:47:11.254Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-and-publish-a-poetry-collection-for-b",
+      "title": "How to Write and Publish a Poetry Collection for Beginners",
+      "goal": "How to write a poetry collection",
+      "category": "writing",
+      "tags": [
+        "poetry",
+        "poems",
+        "creative writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17946,
+      "moduleCount": 8,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Write and Publish a Poetry Collection for Beginners — a free beginner-level guide covering how to write a poetry collection. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:45:41.272Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "screenwriting-for-beginners-a-stepbystep-guide-to",
+      "title": "Screenwriting for Beginners: A Step-by-Step Guide to Writing Your First Script",
+      "goal": "Learn how to write a screenplay",
+      "category": "writing",
+      "tags": [
+        "screenwriting",
+        "movies",
+        "script"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15537,
+      "moduleCount": 10,
+      "readingTimeMins": 63,
+      "metaDescription": "Screenwriting for Beginners: A Step-by-Step Guide to Writing Your First Script — a free beginner-level guide covering learn how to write a screenplay....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T10:43:49.764Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "taekwondo-basics-for-beginners-a-stepbystep-learni",
+      "title": "Taekwondo Basics for Beginners: A Step-by-Step Learning Roadmap",
+      "goal": "Learn Taekwondo basics for beginners",
+      "category": "martial-arts",
+      "tags": [
+        "taekwondo",
+        "kicking",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15980,
+      "moduleCount": 10,
+      "readingTimeMins": 64,
+      "metaDescription": "Taekwondo Basics for Beginners: A Step-by-Step Learning Roadmap — a free beginner-level guide covering learn taekwondo basics for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T10:41:21.756Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "karate-for-beginners-a-comprehensive-guide-to-the",
+      "title": "Karate for Beginners: A Comprehensive Guide to the Basics",
+      "goal": "Learn Karate basics for beginners",
+      "category": "martial-arts",
+      "tags": [
+        "karate",
+        "self-defense",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13192,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "Karate for Beginners: A Comprehensive Guide to the Basics — a free beginner-level guide covering learn karate basics for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T10:39:10.975Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-mehendi-henna-art-for-beginners-a-stepbystep",
+      "title": "Learn Mehendi Henna Art for Beginners: A Step-by-Step Guide",
+      "goal": "Learn mehendi henna art for beginners",
+      "category": "crafts",
+      "tags": [
+        "mehendi",
+        "henna"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14055,
+      "moduleCount": 9,
+      "readingTimeMins": 57,
+      "metaDescription": "Learn Mehendi Henna Art for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn mehendi henna art for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T10:35:30.001Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-tiffin-service-business-from-home",
+      "title": "How to Start a Tiffin Service Business from Home",
+      "goal": "How to start a tiffin service business at home",
+      "category": "business",
+      "tags": [
+        "tiffin",
+        "food-business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14913,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Start a Tiffin Service Business from Home — a free beginner-level guide covering how to start a tiffin service business at home. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T10:33:27.872Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "making-biryani-from-scratch-at-home",
+      "title": "Making Biryani from Scratch at Home",
+      "goal": "Making biryani from scratch at home",
+      "category": "cooking",
+      "tags": [
+        "biryani",
+        "rice"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18238,
+      "moduleCount": 8,
+      "readingTimeMins": 73,
+      "metaDescription": "Making Biryani from Scratch at Home — a free intermediate-level guide covering making biryani from scratch at home. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T10:29:49.760Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "ayurvedic-home-remedies-for-common-ailments",
       "title": "Ayurvedic Home Remedies for Common Ailments",
       "goal": "Ayurvedic home remedies for common ailments",
@@ -14260,6 +14537,6 @@
       "edition": "street"
     }
   ],
-  "total": 719,
-  "generatedAt": "2026-07-29T08:59:28.274Z"
+  "total": 733,
+  "generatedAt": "2026-07-29T11:01:25.676Z"
 }
