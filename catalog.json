@@ -1,6 +1,82 @@
 {
   "books": [
     {
+      "slug": "ssc-cgl-preparation-complete-guide-for-beginners-s",
+      "title": "SSC CGL Preparation Complete Guide for Beginners: Step-by-Step Roadmap",
+      "goal": "SSC CGL preparation complete guide for beginners",
+      "category": "exams",
+      "tags": [
+        "ssc",
+        "government"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16993,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "SSC CGL Preparation Complete Guide for Beginners: Step-by-Step Roadmap — a free beginner-level guide covering ssc cgl preparation complete guide for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T06:03:34.008Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-crack-sbi-po-exam-from-scratch-a-complete-g",
+      "title": "How to Crack SBI PO Exam from Scratch: A Complete Guide",
+      "goal": "How to crack SBI PO exam from scratch",
+      "category": "exams",
+      "tags": [
+        "banking",
+        "sbi"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17677,
+      "moduleCount": 12,
+      "readingTimeMins": 71,
+      "metaDescription": "How to Crack SBI PO Exam from Scratch: A Complete Guide — a free beginner-level guide covering how to crack sbi po exam from scratch. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-29T06:02:08.035Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-indian-street-food-chaat-at-home-begin",
+      "title": "How to Make Indian Street Food Chaat at Home – Beginner's Step‑by‑Step Guide",
+      "goal": "How to make Indian street food chaat at home",
+      "category": "cooking",
+      "tags": [
+        "chaat",
+        "street-food"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19961,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Make Indian Street Food Chaat at Home – Beginner's Step‑by‑Step Guide — a free beginner-level guide covering how to make indian street food...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T05:59:48.971Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "kayaking-for-beginners-a-stepbystep-guide-to-flat",
+      "title": "Kayaking for Beginners: A Step-by-Step Guide to Flat Water Paddling",
+      "goal": "Learn kayaking for beginners on flat water",
+      "category": "outdoor",
+      "tags": [
+        "kayak",
+        "paddling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19463,
+      "moduleCount": 10,
+      "readingTimeMins": 78,
+      "metaDescription": "Kayaking for Beginners: A Step-by-Step Guide to Flat Water Paddling — a free beginner-level guide covering learn kayaking for beginners on flat water....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T05:53:11.905Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-belly-dancing-at-home-for-beginners",
       "title": "Learn Belly Dancing at Home for Beginners",
       "goal": "Learn belly dancing at home for beginners",
@@ -14032,6 +14108,6 @@
       "edition": "street"
     }
   ],
-  "total": 707,
-  "generatedAt": "2026-07-29T02:58:07.035Z"
+  "total": 711,
+  "generatedAt": "2026-07-29T06:07:06.677Z"
 }
