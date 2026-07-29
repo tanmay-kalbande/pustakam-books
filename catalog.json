@@ -1,6 +1,158 @@
 {
   "books": [
     {
+      "slug": "ayurvedic-home-remedies-for-common-ailments",
+      "title": "Ayurvedic Home Remedies for Common Ailments",
+      "goal": "Ayurvedic home remedies for common ailments",
+      "category": "health",
+      "tags": [
+        "ayurveda",
+        "remedies"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22291,
+      "moduleCount": 11,
+      "readingTimeMins": 90,
+      "metaDescription": "Ayurvedic Home Remedies for Common Ailments — a free beginner-level guide covering ayurvedic home remedies for common ailments. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T08:55:21.886Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "neet-biology-preparation-strategy-for-beginners",
+      "title": "NEET Biology Preparation Strategy for Beginners",
+      "goal": "NEET biology preparation strategy for beginners",
+      "category": "exams",
+      "tags": [
+        "neet",
+        "biology"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19473,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "NEET Biology Preparation Strategy for Beginners — a free intermediate-level guide covering neet biology preparation strategy for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T08:52:36.169Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-cat-exam-a-structured-roadmap-for-interm",
+      "title": "Mastering CAT Exam: A Structured Roadmap for Intermediate Learners",
+      "goal": "How to prepare for CAT exam from zero",
+      "category": "exams",
+      "tags": [
+        "cat",
+        "mba"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14804,
+      "moduleCount": 10,
+      "readingTimeMins": 60,
+      "metaDescription": "Mastering CAT Exam: A Structured Roadmap for Intermediate Learners — a free intermediate-level guide covering how to prepare for cat exam from zero....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T08:50:38.339Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pitch-to-investors-a-beginners-stepbystep-g",
+      "title": "How to Pitch to Investors: A Beginner's Step-by-Step Guide",
+      "goal": "How to pitch to investors beginner guide",
+      "category": "business",
+      "tags": [
+        "pitch",
+        "funding"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17102,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Pitch to Investors: A Beginner's Step-by-Step Guide — a free intermediate-level guide covering how to pitch to investors beginner guide. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T08:45:51.692Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-hip-hop-dance-at-home-beginners-stepbystep-r",
+      "title": "Learn Hip Hop Dance at Home: Beginner's Step-by-Step Roadmap",
+      "goal": "How to learn hip hop dance at home",
+      "category": "dance",
+      "tags": [
+        "hip-hop",
+        "street-dance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22102,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "Learn Hip Hop Dance at Home: Beginner's Step-by-Step Roadmap — a free beginner-level guide covering how to learn hip hop dance at home. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T08:43:45.970Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "salsa-dancing-basics-for-beginners-a-stepbystep-gu",
+      "title": "Salsa Dancing Basics for Beginners: A Step-by-Step Guide",
+      "goal": "Learn salsa dancing basics for beginners",
+      "category": "dance",
+      "tags": [
+        "salsa",
+        "latin"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16417,
+      "moduleCount": 11,
+      "readingTimeMins": 66,
+      "metaDescription": "Salsa Dancing Basics for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn salsa dancing basics for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T08:41:52.077Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-care-for-succulents-and-cacti-beginner-guid",
+      "title": "How to Care for Succulents and Cacti: Beginner Guide",
+      "goal": "How to care for succulents and cacti",
+      "category": "gardening",
+      "tags": [
+        "succulents",
+        "indoor-plants"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21351,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Care for Succulents and Cacti: Beginner Guide — a free beginner-level guide covering how to care for succulents and cacti. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T08:39:39.726Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-ceramic-floor-tiles-a-stepbystep-gu",
+      "title": "How to Install Ceramic Floor Tiles: A Step-by-Step Guide",
+      "goal": "Install ceramic floor tiles for beginners",
+      "category": "home-improvement",
+      "tags": [
+        "tiling",
+        "flooring"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12254,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "How to Install Ceramic Floor Tiles: A Step-by-Step Guide — a free intermediate-level guide covering install ceramic floor tiles for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T08:37:25.496Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "ssc-cgl-preparation-complete-guide-for-beginners-s",
       "title": "SSC CGL Preparation Complete Guide for Beginners: Step-by-Step Roadmap",
       "goal": "SSC CGL preparation complete guide for beginners",
@@ -14108,6 +14260,6 @@
       "edition": "street"
     }
   ],
-  "total": 711,
-  "generatedAt": "2026-07-29T06:07:06.677Z"
+  "total": 719,
+  "generatedAt": "2026-07-29T08:59:28.274Z"
 }
