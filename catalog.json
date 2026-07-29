@@ -1,6 +1,177 @@
 {
   "books": [
     {
+      "slug": "learn-belly-dancing-at-home-for-beginners",
+      "title": "Learn Belly Dancing at Home for Beginners",
+      "goal": "Learn belly dancing at home for beginners",
+      "category": "dance",
+      "tags": [
+        "belly-dance",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21573,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "Learn Belly Dancing at Home for Beginners — a free beginner-level guide covering learn belly dancing at home for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T02:57:00.165Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "swing-dancing-lindy-hop-basics-a-beginners-guide",
+      "title": "Swing Dancing & Lindy Hop Basics: A Beginner's Guide",
+      "goal": "Beginner swing dancing and lindy hop basics",
+      "category": "dance",
+      "tags": [
+        "swing",
+        "lindy-hop"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14613,
+      "moduleCount": 10,
+      "readingTimeMins": 59,
+      "metaDescription": "Swing Dancing & Lindy Hop Basics: A Beginner's Guide — a free beginner-level guide covering beginner swing dancing and lindy hop basics. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T02:55:12.918Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "motorcycle-riding-safety-basics-for-beginners",
+      "title": "Motorcycle Riding Safety Basics for Beginners",
+      "goal": "Motorcycle riding safety basics for beginners",
+      "category": "automotive",
+      "tags": [
+        "motorcycle",
+        "riding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24076,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Motorcycle Riding Safety Basics for Beginners — a free beginner-level guide covering motorcycle riding safety basics for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T02:53:37.312Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-childrens-picture-books-a-beginners-s",
+      "title": "How to Write Children's Picture Books: A Beginner's Step-by-Step Guide",
+      "goal": "How to write children picture books for beginners",
+      "category": "writing",
+      "tags": [
+        "childrens-books",
+        "publishing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14751,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Write Children's Picture Books: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to write children picture books for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T02:51:43.687Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "wilderness-camping-and-outdoor-survival-basics-a-b",
+      "title": "Wilderness Camping and Outdoor Survival Basics: A Beginner's Guide",
+      "goal": "Wilderness camping and outdoor survival basics",
+      "category": "outdoor",
+      "tags": [
+        "camping",
+        "survival"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25198,
+      "moduleCount": 13,
+      "readingTimeMins": 101,
+      "metaDescription": "Wilderness Camping and Outdoor Survival Basics: A Beginner's Guide — a free beginner-level guide covering wilderness camping and outdoor survival...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T02:48:27.602Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "drone-photography-flying-basics-a-practical-guide",
+      "title": "Drone Photography & Flying Basics: A Practical Guide",
+      "goal": "Drone photography and flying basics",
+      "category": "photography",
+      "tags": [
+        "drone",
+        "aerial"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23875,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Drone Photography & Flying Basics: A Practical Guide — a free intermediate-level guide covering drone photography and flying basics. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-29T02:46:10.454Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-film-photography-darkroom-developing-a-begin",
+      "title": "Learn Film Photography & Darkroom Developing: A Beginner's Guide",
+      "goal": "Learn film photography and developing rolls",
+      "category": "photography",
+      "tags": [
+        "film",
+        "analog"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16241,
+      "moduleCount": 11,
+      "readingTimeMins": 65,
+      "metaDescription": "Learn Film Photography & Darkroom Developing: A Beginner's Guide — a free beginner-level guide covering learn film photography and developing rolls....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T02:44:07.271Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-beginners-guide-to-raising-backyard-c",
+      "title": "The Complete Beginner's Guide to Raising Backyard Chickens for Eggs",
+      "goal": "How to raise backyard chickens for eggs",
+      "category": "pets",
+      "tags": [
+        "chickens",
+        "eggs"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17726,
+      "moduleCount": 11,
+      "readingTimeMins": 71,
+      "metaDescription": "The Complete Beginner's Guide to Raising Backyard Chickens for Eggs — a free beginner-level guide covering how to raise backyard chickens for eggs....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T02:42:22.652Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-stretching-and-flexibility-trai",
+      "title": "Beginner's Guide to Stretching and Flexibility Training",
+      "goal": "Beginner stretching and flexibility training",
+      "category": "fitness",
+      "tags": [
+        "stretching",
+        "flexibility"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14630,
+      "moduleCount": 10,
+      "readingTimeMins": 59,
+      "metaDescription": "Beginner's Guide to Stretching and Flexibility Training — a free beginner-level guide covering beginner stretching and flexibility training. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-29T02:40:40.786Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-write-a-blog-post-that-ranks-on-google",
       "title": "How to Write a Blog Post That Ranks on Google",
       "goal": "How to write a blog post that ranks on Google",
@@ -13861,6 +14032,6 @@
       "edition": "street"
     }
   ],
-  "total": 698,
-  "generatedAt": "2026-07-29T00:12:17.845Z"
+  "total": 707,
+  "generatedAt": "2026-07-29T02:58:07.035Z"
 }
