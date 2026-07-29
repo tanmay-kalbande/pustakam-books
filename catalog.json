@@ -1,6 +1,120 @@
 {
   "books": [
     {
+      "slug": "how-to-write-a-blog-post-that-ranks-on-google",
+      "title": "How to Write a Blog Post That Ranks on Google",
+      "goal": "How to write a blog post that ranks on Google",
+      "category": "writing",
+      "tags": [
+        "blogging",
+        "seo"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17369,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Write a Blog Post That Ranks on Google — a free intermediate-level guide covering how to write a blog post that ranks on google. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-29T00:11:47.959Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-conversion-copywriting-for-websites-and",
+      "title": "Mastering Conversion Copywriting for Websites and Ads",
+      "goal": "Learn copywriting for websites and ads",
+      "category": "writing",
+      "tags": [
+        "copywriting",
+        "conversion"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14996,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "Mastering Conversion Copywriting for Websites and Ads — a free intermediate-level guide covering learn copywriting for websites and ads. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T00:10:01.304Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "emotional-intelligence-mastery-for-daily-life",
+      "title": "Emotional Intelligence Mastery for Daily Life",
+      "goal": "Emotional intelligence skills for everyday life",
+      "category": "personal-development",
+      "tags": [
+        "emotional-intelligence",
+        "eq"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13690,
+      "moduleCount": 8,
+      "readingTimeMins": 55,
+      "metaDescription": "Emotional Intelligence Mastery for Daily Life — a free intermediate-level guide covering emotional intelligence skills for everyday life. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-29T00:08:01.124Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-ultimate-guide-to-building-a-productive-mornin",
+      "title": "The Ultimate Guide to Building a Productive Morning Routine",
+      "goal": "How to develop a morning routine for productivity",
+      "category": "personal-development",
+      "tags": [
+        "morning-routine",
+        "habits"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19009,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "The Ultimate Guide to Building a Productive Morning Routine — a free beginner-level guide covering how to develop a morning routine for productivity....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-29T00:06:40.868Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "acupressure-and-pressure-point-therapy-a-beginners",
+      "title": "Acupressure and Pressure Point Therapy: A Beginner's Guide",
+      "goal": "Learn acupressure and pressure point therapy",
+      "category": "health",
+      "tags": [
+        "acupressure",
+        "massage"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17472,
+      "moduleCount": 12,
+      "readingTimeMins": 70,
+      "metaDescription": "Acupressure and Pressure Point Therapy: A Beginner's Guide — a free beginner-level guide covering learn acupressure and pressure point therapy. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-29T00:01:14.922Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "tie-dye-for-beginners-a-stepbystep-guide-to-creati",
+      "title": "Tie Dye for Beginners: A Step-by-Step Guide to Creating Stunning Patterns at Home",
+      "goal": "How to tie dye fabric at home step by step",
+      "category": "crafts",
+      "tags": [
+        "tye-dye",
+        "fabric"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15941,
+      "moduleCount": 11,
+      "readingTimeMins": 64,
+      "metaDescription": "Tie Dye for Beginners: A Step-by-Step Guide to Creating Stunning Patterns at Home — a free beginner-level guide covering how to tie dye fabric at home...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-28T23:58:40.223Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "the-ultimate-beginners-guide-to-planning-a-backpac",
       "title": "The Ultimate Beginner's Guide to Planning a Backpacking Trip",
       "goal": "How to plan a backpacking trip for beginners",
@@ -13747,6 +13861,6 @@
       "edition": "street"
     }
   ],
-  "total": 692,
-  "generatedAt": "2026-07-28T22:18:01.765Z"
+  "total": 698,
+  "generatedAt": "2026-07-29T00:12:17.845Z"
 }
