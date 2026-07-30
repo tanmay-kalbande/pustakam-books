@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-sew-a-pillowcase-a-beginners-stepbystep-gui",
+      "title": "How to Sew a Pillowcase: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to sew a pillowcase for beginners",
+      "category": "sewing",
+      "tags": [
+        "home decor",
+        "sewing",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11600,
+      "moduleCount": 8,
+      "readingTimeMins": 47,
+      "metaDescription": "How to Sew a Pillowcase: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to sew a pillowcase for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T22:23:59.559Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "crochet-blanket-for-beginners-stepbystep-guide",
+      "title": "Crochet Blanket for Beginners: Step-by-Step Guide",
+      "goal": "How to make a crochet blanket for beginners",
+      "category": "crochet",
+      "tags": [
+        "yarn",
+        "blanket",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16021,
+      "moduleCount": 10,
+      "readingTimeMins": 65,
+      "metaDescription": "Crochet Blanket for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to make a crochet blanket for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T22:22:35.892Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "tomato-pruning-guide-for-maximum-yield",
+      "title": "Tomato Pruning Guide for Maximum Yield",
+      "goal": "How to prune tomato plants for maximum yield",
+      "category": "gardening",
+      "tags": [
+        "tomatoes",
+        "pruning",
+        "vegetables"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13197,
+      "moduleCount": 9,
+      "readingTimeMins": 53,
+      "metaDescription": "Tomato Pruning Guide for Maximum Yield — a free intermediate-level guide covering how to prune tomato plants for maximum yield. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T22:19:30.177Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-home-organization-simple-steps-to-declut",
+      "title": "Beginner's Home Organization: Simple Steps to Declutter",
+      "goal": "Beginner's guide to home organization",
+      "category": "home-maintenance",
+      "tags": [
+        "organizing",
+        "decluttering",
+        "home"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19217,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Beginner's Home Organization: Simple Steps to Declutter — a free beginner-level guide covering beginner's guide to home organization. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T22:18:07.261Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "baking-cakes-for-beginners-a-stepbystep-guide",
+      "title": "Baking Cakes for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to bake cakes for beginners",
+      "category": "culinary",
+      "tags": [
+        "cakes",
+        "baking",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21763,
+      "moduleCount": 11,
+      "readingTimeMins": 88,
+      "metaDescription": "Baking Cakes for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to bake cakes for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T22:15:20.918Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-coding-for-beginners",
+      "title": "Learn Basic Coding for Beginners",
+      "goal": "Learn basic coding for beginners",
+      "category": "programming",
+      "tags": [
+        "coding",
+        "software",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15853,
+      "moduleCount": 8,
+      "readingTimeMins": 64,
+      "metaDescription": "Learn Basic Coding for Beginners — a free beginner-level guide covering learn basic coding for beginners. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T22:13:09.894Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "rebuilding-a-carburetor-a-stepbystep-guide-for-beg",
       "title": "Rebuilding a Carburetor: A Step-by-Step Guide for Beginners",
       "goal": "How to rebuild a car carburetor for beginners",
@@ -16326,6 +16446,6 @@
       "edition": "street"
     }
   ],
-  "total": 823,
-  "generatedAt": "2026-07-30T19:53:53.846Z"
+  "total": 829,
+  "generatedAt": "2026-07-30T22:24:51.885Z"
 }
