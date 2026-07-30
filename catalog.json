@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "managing-chronic-stress-a-comprehensive-guide-to-r",
+      "title": "Managing Chronic Stress: A Comprehensive Guide to Recovery",
+      "goal": "Learn how to manage chronic stress",
+      "category": "health",
+      "tags": [
+        "stress management",
+        "wellness",
+        "mental health"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12469,
+      "moduleCount": 7,
+      "readingTimeMins": 50,
+      "metaDescription": "Managing Chronic Stress: A Comprehensive Guide to Recovery — a free intermediate-level guide covering learn how to manage chronic stress. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T08:49:51.268Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-the-ketogenic-diet-a-stepbystep",
+      "title": "Beginner's Guide to the Ketogenic Diet: A Step-by-Step Plan",
+      "goal": "Beginner's guide to ketogenic diet",
+      "category": "health",
+      "tags": [
+        "keto",
+        "low carb",
+        "diet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21627,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "Beginner's Guide to the Ketogenic Diet: A Step-by-Step Plan — a free beginner-level guide covering beginner's guide to ketogenic diet. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T08:48:35.508Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-jiujitsu-submissions-and-locks-mastering",
+      "title": "Advanced Jiu-Jitsu Submissions and Locks: Mastering High-Percentage Finishes",
+      "goal": "Advanced Jiu-Jitsu submissions and locks",
+      "category": "martial-arts",
+      "tags": [
+        "BJJ",
+        "grappling",
+        "submissions"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 29552,
+      "moduleCount": 12,
+      "readingTimeMins": 119,
+      "metaDescription": "Advanced Jiu-Jitsu Submissions and Locks: Mastering High-Percentage Finishes — a free advanced-level guide covering advanced jiu-jitsu submissions and...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T08:45:43.423Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "krav-maga-basics-for-self-defense-a-beginners-guid",
+      "title": "Krav Maga Basics for Self Defense: A Beginner's Guide",
+      "goal": "Learn Krav Maga basics for self defense",
+      "category": "martial-arts",
+      "tags": [
+        "krav maga",
+        "self defense",
+        "fighting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15813,
+      "moduleCount": 11,
+      "readingTimeMins": 64,
+      "metaDescription": "Krav Maga Basics for Self Defense: A Beginner's Guide — a free beginner-level guide covering learn krav maga basics for self defense. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T08:42:32.307Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-constellations-a-beginners-guide-to-stargazi",
+      "title": "Learn Constellations: A Beginner's Guide to Stargazing",
+      "goal": "Learn to identify constellations in the sky",
+      "category": "astronomy",
+      "tags": [
+        "constellations",
+        "stars",
+        "astronomy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25452,
+      "moduleCount": 11,
+      "readingTimeMins": 102,
+      "metaDescription": "Learn Constellations: A Beginner's Guide to Stargazing — a free beginner-level guide covering learn to identify constellations in the sky. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T08:39:50.598Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-a-memoir-a-stepbystep-guide-for-inter",
+      "title": "How to Write a Memoir: A Step-by-Step Guide for Intermediate Writers",
+      "goal": "Learn to write a memoir step by step",
+      "category": "writing",
+      "tags": [
+        "memoir",
+        "autobiography",
+        "storytelling"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13438,
+      "moduleCount": 9,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Write a Memoir: A Step-by-Step Guide for Intermediate Writers — a free intermediate-level guide covering learn to write a memoir step by step....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T08:37:28.017Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-flute-a-beginners-guide",
+      "title": "How to Play Flute: A Beginner's Guide",
+      "goal": "How to play flute for beginners",
+      "category": "music",
+      "tags": [
+        "flute",
+        "woodwind",
+        "music lessons"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21734,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Play Flute: A Beginner's Guide — a free beginner-level guide covering how to play flute for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T08:34:25.364Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-knit-a-sweater-a-stepbystep-guide-for-beg",
       "title": "Learn to Knit a Sweater: A Step-by-Step Guide for Beginners",
       "goal": "Learn to knit a sweater for beginners",
@@ -15606,6 +15746,6 @@
       "edition": "street"
     }
   ],
-  "total": 787,
-  "generatedAt": "2026-07-30T05:58:50.361Z"
+  "total": 794,
+  "generatedAt": "2026-07-30T08:50:06.141Z"
 }
