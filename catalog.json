@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "rebuilding-a-carburetor-a-stepbystep-guide-for-beg",
+      "title": "Rebuilding a Carburetor: A Step-by-Step Guide for Beginners",
+      "goal": "How to rebuild a car carburetor for beginners",
+      "category": "mechanics",
+      "tags": [
+        "engine",
+        "fuel-system",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21049,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Rebuilding a Carburetor: A Step-by-Step Guide for Beginners — a free intermediate-level guide covering how to rebuild a car carburetor for beginners....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T19:53:20.835Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-beginners-guide-to-starting-a-beehive-a-stepby",
+      "title": "The Beginner's Guide to Starting a Beehive: A Step-by-Step Roadmap",
+      "goal": "How to start a beehive for beginners",
+      "category": "science",
+      "tags": [
+        "bees",
+        "honey",
+        "beekeeping"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15738,
+      "moduleCount": 10,
+      "readingTimeMins": 63,
+      "metaDescription": "The Beginner's Guide to Starting a Beehive: A Step-by-Step Roadmap — a free beginner-level guide covering how to start a beehive for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T19:49:07.566Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-clarinet-a-beginners-stepbystep-guide",
+      "title": "How to Play Clarinet: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to play the clarinet for beginners",
+      "category": "music",
+      "tags": [
+        "clarinet",
+        "woodwind",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13117,
+      "moduleCount": 9,
+      "readingTimeMins": 53,
+      "metaDescription": "How to Play Clarinet: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to play the clarinet for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T19:47:47.430Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-the-mandolin",
+      "title": "Beginner's Guide to Playing the Mandolin",
+      "goal": "How to play the mandolin for beginners",
+      "category": "music",
+      "tags": [
+        "mandolin",
+        "strings",
+        "folk"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20015,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Beginner's Guide to Playing the Mandolin — a free beginner-level guide covering how to play the mandolin for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T19:46:24.788Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-harp-for-beginners",
+      "title": "Learn to Play the Harp for Beginners",
+      "goal": "Learn to play the harp for beginners",
+      "category": "music",
+      "tags": [
+        "harp",
+        "strings",
+        "classical"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21878,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Learn to Play the Harp for Beginners — a free beginner-level guide covering learn to play the harp for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T19:44:15.459Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-bridge-a-comprehensive-guide-for-interme",
+      "title": "Mastering Bridge: A Comprehensive Guide for Intermediate Players",
+      "goal": "Learn to play bridge card game",
+      "category": "hobbies",
+      "tags": [
+        "bridge",
+        "cards",
+        "strategy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14520,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Mastering Bridge: A Comprehensive Guide for Intermediate Players — a free intermediate-level guide covering learn to play bridge card game. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T19:42:45.344Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "leather-bag-making-for-beginners-a-stepbystep-guid",
       "title": "Leather Bag Making for Beginners: A Step-by-Step Guide",
       "goal": "Learn to make leather bags for beginners",
@@ -16206,6 +16326,6 @@
       "edition": "street"
     }
   ],
-  "total": 817,
-  "generatedAt": "2026-07-30T17:00:08.499Z"
+  "total": 823,
+  "generatedAt": "2026-07-30T19:53:53.846Z"
 }
