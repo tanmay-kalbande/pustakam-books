@@ -1,6 +1,105 @@
 {
   "books": [
     {
+      "slug": "learn-to-knit-a-sweater-a-stepbystep-guide-for-beg",
+      "title": "Learn to Knit a Sweater: A Step-by-Step Guide for Beginners",
+      "goal": "Learn to knit a sweater for beginners",
+      "category": "knitting",
+      "tags": [
+        "knitting",
+        "clothing",
+        "yarn"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13605,
+      "moduleCount": 10,
+      "readingTimeMins": 55,
+      "metaDescription": "Learn to Knit a Sweater: A Step-by-Step Guide for Beginners — a free intermediate-level guide covering learn to knit a sweater for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T05:58:49.268Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-budget-for-students-a-stepbystep-gui",
+      "title": "How to Make a Budget for Students: A Step-by-Step Guide",
+      "goal": "How to make a budget for students",
+      "category": "finance",
+      "tags": [
+        "budgeting",
+        "students",
+        "money"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24862,
+      "moduleCount": 11,
+      "readingTimeMins": 100,
+      "metaDescription": "How to Make a Budget for Students: A Step-by-Step Guide — a free beginner-level guide covering how to make a budget for students. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T05:56:58.554Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-ultimate-beginners-guide-to-starting-a-side-hu",
+      "title": "The Ultimate Beginner's Guide to Starting a Side Hustle",
+      "goal": "How to start a side hustle",
+      "category": "career",
+      "tags": [
+        "income",
+        "freelance",
+        "money"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20468,
+      "moduleCount": 12,
+      "readingTimeMins": 82,
+      "metaDescription": "The Ultimate Beginner's Guide to Starting a Side Hustle — a free beginner-level guide covering how to start a side hustle. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T05:54:10.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-ride-a-bike-for-adults",
+      "title": "Learn to Ride a Bike for Adults",
+      "goal": "Learn to ride a bike for adults",
+      "category": "sports",
+      "tags": [
+        "cycling",
+        "balance",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19906,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "Learn to Ride a Bike for Adults — a free beginner-level guide covering learn to ride a bike for adults. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T05:50:30.747Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "bharatanatyam-basics-for-beginners",
+      "title": "Bharatanatyam Basics for Beginners",
+      "goal": "Bharatanatyam dance basics for beginners",
+      "category": "dance",
+      "tags": [
+        "bharatanatyam",
+        "classical"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18374,
+      "moduleCount": 10,
+      "readingTimeMins": 74,
+      "metaDescription": "Bharatanatyam Basics for Beginners — a free beginner-level guide covering bharatanatyam dance basics for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-30T05:48:39.354Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "hiking-for-beginners-a-complete-stepbystep-guide",
       "title": "Hiking for Beginners: A Complete Step-by-Step Guide",
       "goal": "How to start hiking for beginners",
@@ -15507,6 +15606,6 @@
       "edition": "street"
     }
   ],
-  "total": 782,
-  "generatedAt": "2026-07-30T05:05:09.541Z"
+  "total": 787,
+  "generatedAt": "2026-07-30T05:58:50.361Z"
 }
