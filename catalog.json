@@ -1,6 +1,125 @@
 {
   "books": [
     {
+      "slug": "advanced-breathwork-for-stress-and-nervous-system",
+      "title": "Advanced Breathwork for Stress and Nervous System Mastery",
+      "goal": "Advanced breathwork techniques for stress",
+      "category": "health",
+      "tags": [
+        "breathwork",
+        "stress relief",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11971,
+      "moduleCount": 7,
+      "readingTimeMins": 48,
+      "metaDescription": "Advanced Breathwork for Stress and Nervous System Mastery — a free advanced-level guide covering advanced breathwork techniques for stress. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T03:52:15.008Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-track-planets-beginner-guide",
+      "title": "How to Track Planets: Beginner Guide",
+      "goal": "How to track planets for beginners",
+      "category": "astronomy",
+      "tags": [
+        "planets",
+        "solar system",
+        "stargazing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24546,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Track Planets: Beginner Guide — a free beginner-level guide covering how to track planets for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T03:50:33.209Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-observing-nebulae",
+      "title": "Intermediate Guide to Observing Nebulae",
+      "goal": "Intermediate guide to observing nebulae",
+      "category": "astronomy",
+      "tags": [
+        "nebulae",
+        "deep sky",
+        "telescope"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12005,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "Intermediate Guide to Observing Nebulae — a free intermediate-level guide covering intermediate guide to observing nebulae. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T03:48:31.820Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-thriller-writing-techniques-master-suspen",
+      "title": "Advanced Thriller Writing Techniques: Master Suspense, Pacing & Plot",
+      "goal": "Advanced techniques for writing thrillers",
+      "category": "writing",
+      "tags": [
+        "thriller",
+        "suspense",
+        "novel writing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14936,
+      "moduleCount": 11,
+      "readingTimeMins": 60,
+      "metaDescription": "Advanced Thriller Writing Techniques: Master Suspense, Pacing & Plot — a free advanced-level guide covering advanced techniques for writing thrillers....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T03:47:00.960Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-cello-for-beginners-a-stepbystep-guide",
+      "title": "How to Play Cello for Beginners: A Step-by-Step Guide",
+      "goal": "How to play cello for beginners",
+      "category": "music",
+      "tags": [
+        "cello",
+        "strings",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26044,
+      "moduleCount": 12,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Play Cello for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to play cello for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T03:44:03.757Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-classical-indian-music",
+      "title": "Beginner's Guide to Learning Classical Indian Music Ragas",
+      "goal": "Learn classical Indian music ragas for beginners",
+      "category": "music",
+      "tags": [
+        "ragas",
+        "classical"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21829,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Beginner's Guide to Learning Classical Indian Music Ragas — a free beginner-level guide covering learn classical indian music ragas for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T03:41:02.085Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-lock-picking-techniques-for-professionals",
       "title": "Advanced Lock Picking Techniques for Professionals",
       "goal": "Advanced lock picking techniques for professionals",
@@ -15008,6 +15127,6 @@
       "edition": "street"
     }
   ],
-  "total": 757,
-  "generatedAt": "2026-07-30T01:28:49.263Z"
+  "total": 763,
+  "generatedAt": "2026-07-30T03:54:25.698Z"
 }
