@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "mastering-advanced-mountain-biking-techniques-for",
+      "title": "Mastering Advanced Mountain Biking: Techniques for Technical Trails",
+      "goal": "Advanced mountain biking techniques for trails",
+      "category": "outdoor",
+      "tags": [
+        "mountain-biking",
+        "cycling",
+        "trails"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 18231,
+      "moduleCount": 12,
+      "readingTimeMins": 73,
+      "metaDescription": "Mastering Advanced Mountain Biking: Techniques for Technical Trails — a free advanced-level guide covering advanced mountain biking techniques for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T14:29:05.597Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-thai-conversation-for-travelers-mastering",
+      "title": "Advanced Thai Conversation for Travelers: Mastering Nuance",
+      "goal": "Learn advanced Thai conversation for travelers",
+      "category": "language",
+      "tags": [
+        "thai",
+        "travel",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11322,
+      "moduleCount": 7,
+      "readingTimeMins": 46,
+      "metaDescription": "Advanced Thai Conversation for Travelers: Mastering Nuance — a free advanced-level guide covering learn advanced thai conversation for travelers. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T14:26:54.493Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-accordion-for-beginners-a-stepbystep",
+      "title": "Learn to Play Accordion for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to play the accordion for beginners",
+      "category": "hobbies",
+      "tags": [
+        "accordion",
+        "instrument",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22111,
+      "moduleCount": 11,
+      "readingTimeMins": 89,
+      "metaDescription": "Learn to Play Accordion for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to play the accordion for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T14:25:33.728Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-maya-for-3d-character-modeling",
+      "title": "Learn Maya for 3D Character Modeling",
+      "goal": "Learn Maya for 3D character modeling",
+      "category": "software-tools",
+      "tags": [
+        "maya",
+        "character-design",
+        "3d-art"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24412,
+      "moduleCount": 12,
+      "readingTimeMins": 98,
+      "metaDescription": "Learn Maya for 3D Character Modeling — a free intermediate-level guide covering learn maya for 3d character modeling. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T14:23:22.308Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-blog-for-profit-stepbystep-guide-fo",
+      "title": "How to Start a Blog for Profit: Step-by-Step Guide for Beginners",
+      "goal": "How to start a blog for profit",
+      "category": "business",
+      "tags": [
+        "blogging",
+        "monetization",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21401,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Start a Blog for Profit: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to start a blog for profit. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T14:20:49.496Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "indoor-plants-for-beginners-a-complete-care-guide",
+      "title": "Indoor Plants for Beginners: A Complete Care Guide",
+      "goal": "Beginner's guide to indoor plants",
+      "category": "gardening",
+      "tags": [
+        "houseplants",
+        "indoor garden",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16756,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "Indoor Plants for Beginners: A Complete Care Guide — a free beginner-level guide covering beginner's guide to indoor plants. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T14:19:17.716Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-a-balance-sheet-stepbystep-guide",
+      "title": "How to Read a Balance Sheet: Step-by-Step Guide",
+      "goal": "How to read a balance sheet",
+      "category": "finance",
+      "tags": [
+        "accounting",
+        "finance",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20629,
+      "moduleCount": 10,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Read a Balance Sheet: Step-by-Step Guide — a free intermediate-level guide covering how to read a balance sheet. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T14:17:03.632Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-knit-a-stepbystep-guide-for-absolute-begi",
+      "title": "Learn to Knit: A Step-by-Step Guide for Absolute Beginners",
+      "goal": "Learn to knit for absolute beginners",
+      "category": "knitting",
+      "tags": [
+        "knitting",
+        "yarn",
+        "crafts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11371,
+      "moduleCount": 7,
+      "readingTimeMins": 46,
+      "metaDescription": "Learn to Knit: A Step-by-Step Guide for Absolute Beginners — a free beginner-level guide covering learn to knit for absolute beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T14:15:06.125Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-chess-strategy-for-intermediate-players-inte",
+      "title": "Learn chess strategy for intermediate players",
+      "goal": "Learn chess strategy for intermediate players",
+      "category": "hobbies",
+      "tags": [
+        "chess",
+        "strategy",
+        "gaming"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23203,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "Learn chess strategy for intermediate players — a free intermediate-level guide covering learn chess strategy for intermediate players. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T14:13:22.892Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-vocal-processing-and-tuning-techniques",
       "title": "Advanced Vocal Processing and Tuning Techniques",
       "goal": "Advanced vocal processing and tuning techniques",
@@ -15846,6 +16026,6 @@
       "edition": "street"
     }
   ],
-  "total": 799,
-  "generatedAt": "2026-07-30T11:24:36.671Z"
+  "total": 808,
+  "generatedAt": "2026-07-30T14:31:11.334Z"
 }
