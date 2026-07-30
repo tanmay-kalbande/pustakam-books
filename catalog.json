@@ -1,6 +1,243 @@
 {
   "books": [
     {
+      "slug": "advanced-lock-picking-techniques-for-professionals",
+      "title": "Advanced Lock Picking Techniques for Professionals",
+      "goal": "Advanced lock picking techniques for professionals",
+      "category": "hobbies",
+      "tags": [
+        "lockpicking",
+        "security",
+        "skill"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25483,
+      "moduleCount": 11,
+      "readingTimeMins": 102,
+      "metaDescription": "Advanced Lock Picking Techniques for Professionals — a free advanced-level guide covering advanced lock picking techniques for professionals. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T01:28:48.162Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "poker-for-beginners-a-stepbystep-guide-to-masterin",
+      "title": "Poker for Beginners: A Step-by-Step Guide to Mastering the Basics",
+      "goal": "How to play poker for beginners",
+      "category": "hobbies",
+      "tags": [
+        "poker",
+        "card games",
+        "strategy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15795,
+      "moduleCount": 11,
+      "readingTimeMins": 64,
+      "metaDescription": "Poker for Beginners: A Step-by-Step Guide to Mastering the Basics — a free beginner-level guide covering how to play poker for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T01:26:40.977Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-writing-mystery-novels-craft",
+      "title": "Intermediate Guide to Writing Mystery Novels: Crafting Suspense & Plot",
+      "goal": "Intermediate guide to writing mystery novels",
+      "category": "writing",
+      "tags": [
+        "mystery",
+        "fiction",
+        "plotting"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15451,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "Intermediate Guide to Writing Mystery Novels: Crafting Suspense & Plot — a free intermediate-level guide covering intermediate guide to writing mystery...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T01:23:31.721Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-planetary-observation",
+      "title": "Intermediate Guide to Planetary Observation",
+      "goal": "Intermediate guide to planetary observation",
+      "category": "astronomy",
+      "tags": [
+        "planets",
+        "telescope",
+        "astronomy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12189,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "Intermediate Guide to Planetary Observation — a free intermediate-level guide covering intermediate guide to planetary observation. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T01:21:26.762Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "astrophotography-for-beginners-a-stepbystep-guide",
+      "title": "Astrophotography for Beginners: A Step-by-Step Guide to Capturing the Night Sky",
+      "goal": "Astrophotography for beginners: a step by step guide",
+      "category": "astronomy",
+      "tags": [
+        "astrophotography",
+        "space",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26007,
+      "moduleCount": 12,
+      "readingTimeMins": 105,
+      "metaDescription": "Astrophotography for Beginners: A Step-by-Step Guide to Capturing the Night Sky — a free beginner-level guide covering astrophotography for beginners:...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T01:19:57.354Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-kung-fu-basics-for-beginners",
+      "title": "Learn Kung Fu Basics for Beginners",
+      "goal": "Learn Kung Fu basics for beginners",
+      "category": "martial-arts",
+      "tags": [
+        "kung fu",
+        "wushu",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16472,
+      "moduleCount": 8,
+      "readingTimeMins": 66,
+      "metaDescription": "Learn Kung Fu Basics for Beginners — a free beginner-level guide covering learn kung fu basics for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-30T01:17:38.472Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "judo-for-beginners-a-stepbystep-learning-roadmap",
+      "title": "Judo for Beginners: A Step-by-Step Learning Roadmap",
+      "goal": "How to learn Judo for beginners",
+      "category": "martial-arts",
+      "tags": [
+        "judo",
+        "throwing",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19092,
+      "moduleCount": 12,
+      "readingTimeMins": 77,
+      "metaDescription": "Judo for Beginners: A Step-by-Step Learning Roadmap — a free beginner-level guide covering how to learn judo for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T01:15:45.373Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-saxophone-stepbystep-ba",
+      "title": "Beginner's Guide to Playing Saxophone: Step-by-Step Basics",
+      "goal": "Learn to play saxophone for beginners",
+      "category": "music",
+      "tags": [
+        "saxophone",
+        "wind instrument",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19309,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Beginner's Guide to Playing Saxophone: Step-by-Step Basics — a free beginner-level guide covering learn to play saxophone for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T01:13:30.376Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-drumming-for-beginners-a-stepbystep-g",
+      "title": "How to Learn Drumming for Beginners: A Step-by-Step Guide",
+      "goal": "How to learn drumming for beginners",
+      "category": "music",
+      "tags": [
+        "drums",
+        "percussion",
+        "rhythm"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17560,
+      "moduleCount": 11,
+      "readingTimeMins": 71,
+      "metaDescription": "How to Learn Drumming for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to learn drumming for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T01:11:58.836Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-hindi-typing-keyboard-shortcuts-for-beginner",
+      "title": "Learn Hindi Typing & Keyboard Shortcuts for Beginners",
+      "goal": "Learn Hindi typing and keyboard shortcuts",
+      "category": "technology",
+      "tags": [
+        "hindi",
+        "typing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19505,
+      "moduleCount": 8,
+      "readingTimeMins": 79,
+      "metaDescription": "Learn Hindi Typing & Keyboard Shortcuts for Beginners — a free beginner-level guide covering learn hindi typing and keyboard shortcuts. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T01:09:43.870Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-map-and-compass-navigation-a-practical-g",
+      "title": "Mastering Map and Compass Navigation: A Practical Guide",
+      "goal": "How to navigate with map and compass",
+      "category": "outdoor",
+      "tags": [
+        "navigation",
+        "orienteering"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11767,
+      "moduleCount": 7,
+      "readingTimeMins": 48,
+      "metaDescription": "Mastering Map and Compass Navigation: A Practical Guide — a free intermediate-level guide covering how to navigate with map and compass. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T01:08:17.801Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "speed-reading-memory-techniques-boost-speed-recall",
+      "title": "Speed Reading & Memory Techniques: Boost Speed & Recall",
+      "goal": "Speed reading and memory techniques",
+      "category": "personal-development",
+      "tags": [
+        "speed-reading",
+        "memory"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22864,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Speed Reading & Memory Techniques: Boost Speed & Recall — a free intermediate-level guide covering speed reading and memory techniques. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T01:07:15.077Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-telescope-guide-for-stargazing",
       "title": "Intermediate Telescope Guide for Stargazing",
       "goal": "Intermediate telescope guide for stargazing",
@@ -14771,6 +15008,6 @@
       "edition": "street"
     }
   ],
-  "total": 745,
-  "generatedAt": "2026-07-29T14:25:00.657Z"
+  "total": 757,
+  "generatedAt": "2026-07-30T01:28:49.263Z"
 }
