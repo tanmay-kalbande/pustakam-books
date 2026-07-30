@@ -1,6 +1,386 @@
 {
   "books": [
     {
+      "slug": "hiking-for-beginners-a-complete-stepbystep-guide",
+      "title": "Hiking for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to start hiking for beginners",
+      "category": "outdoor",
+      "tags": [
+        "hiking",
+        "nature",
+        "walking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17469,
+      "moduleCount": 10,
+      "readingTimeMins": 70,
+      "metaDescription": "Hiking for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to start hiking for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T05:03:23.202Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-starting-scuba-diving",
+      "title": "Beginner's Guide to Starting Scuba Diving",
+      "goal": "How to start scuba diving for beginners",
+      "category": "outdoor",
+      "tags": [
+        "scuba diving",
+        "ocean",
+        "diving"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23861,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Beginner's Guide to Starting Scuba Diving — a free beginner-level guide covering how to start scuba diving for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T05:01:09.426Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "skiing-for-beginners-a-complete-stepbystep-guide",
+      "title": "Skiing for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Learn skiing basics for absolute beginners",
+      "category": "outdoor",
+      "tags": [
+        "skiing",
+        "winter sports",
+        "snow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14261,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Skiing for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering learn skiing basics for absolute beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T04:58:45.576Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-snowboarding-for-beginners-a-stepbyst",
+      "title": "How to Start Snowboarding for Beginners: A Step-by-Step Guide",
+      "goal": "How to start snowboarding for beginners",
+      "category": "outdoor",
+      "tags": [
+        "snowboarding",
+        "winter sports",
+        "snow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23832,
+      "moduleCount": 12,
+      "readingTimeMins": 96,
+      "metaDescription": "How to Start Snowboarding for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to start snowboarding for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:57:17.077Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-finnish-for-beginners-easy-stepbystep-guide",
+      "title": "Learn Finnish for Beginners: Easy Step-by-Step Guide",
+      "goal": "How to learn Finnish for beginners",
+      "category": "language",
+      "tags": [
+        "finnish",
+        "scandinavia",
+        "europe"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21076,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Learn Finnish for Beginners: Easy Step-by-Step Guide — a free beginner-level guide covering how to learn finnish for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:54:56.368Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-arabic-conversation-for-beginners-a-stepbyst",
+      "title": "Learn Arabic Conversation for Beginners: A Step-by-Step Guide",
+      "goal": "Learn Arabic conversation for beginners",
+      "category": "language",
+      "tags": [
+        "arabic",
+        "middle east",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13953,
+      "moduleCount": 10,
+      "readingTimeMins": 56,
+      "metaDescription": "Learn Arabic Conversation for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn arabic conversation for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T04:53:09.985Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-audio-compression-in-mixing-advanced-tec",
+      "title": "Mastering Audio Compression in Mixing: Advanced Techniques",
+      "goal": "How to master compression in audio mixing",
+      "category": "music-production",
+      "tags": [
+        "compression",
+        "mixing",
+        "audio"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14898,
+      "moduleCount": 10,
+      "readingTimeMins": 60,
+      "metaDescription": "Mastering Audio Compression in Mixing: Advanced Techniques — a free advanced-level guide covering how to master compression in audio mixing. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T04:50:01.062Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-pro-tools-for-professional-audio-recording",
+      "title": "Master Pro Tools for Professional Audio Recording",
+      "goal": "Learn Pro Tools for professional audio recording",
+      "category": "music-production",
+      "tags": [
+        "pro tools",
+        "recording",
+        "studio"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24606,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Master Pro Tools for Professional Audio Recording — a free advanced-level guide covering learn pro tools for professional audio recording. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:48:19.841Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-hiphop-beats-from-scratch-a-beginners",
+      "title": "How to Make Hip-Hop Beats from Scratch: A Beginner's Guide",
+      "goal": "How to make hip hop beats from scratch",
+      "category": "music-production",
+      "tags": [
+        "hip hop",
+        "beats",
+        "sampling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12442,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "How to Make Hip-Hop Beats from Scratch: A Beginner's Guide — a free beginner-level guide covering how to make hip hop beats from scratch. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T04:46:04.589Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "edm-music-production-for-beginners-a-stepbystep-gu",
+      "title": "EDM Music Production for Beginners: A Step-by-Step Guide",
+      "goal": "How to produce EDM music for beginners",
+      "category": "music-production",
+      "tags": [
+        "edm",
+        "synthesizers",
+        "electronic music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17118,
+      "moduleCount": 10,
+      "readingTimeMins": 69,
+      "metaDescription": "EDM Music Production for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to produce edm music for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:43:13.301Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-zbrush-for-digital-sculpting-mastering-pr",
+      "title": "Advanced ZBrush for Digital Sculpting: Mastering Professional Techniques",
+      "goal": "Learn ZBrush for digital sculpting",
+      "category": "software-tools",
+      "tags": [
+        "zbrush",
+        "sculpting",
+        "digital art"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 18677,
+      "moduleCount": 13,
+      "readingTimeMins": 75,
+      "metaDescription": "Advanced ZBrush for Digital Sculpting: Mastering Professional Techniques — a free advanced-level guide covering learn zbrush for digital sculpting....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T04:41:41.575Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "asana-for-beginners-a-complete-guide-to-task-track",
+      "title": "Asana for Beginners: A Complete Guide to Task Tracking",
+      "goal": "How to use Asana for task tracking",
+      "category": "software-tools",
+      "tags": [
+        "asana",
+        "productivity",
+        "workflow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25247,
+      "moduleCount": 12,
+      "readingTimeMins": 101,
+      "metaDescription": "Asana for Beginners: A Complete Guide to Task Tracking — a free beginner-level guide covering how to use asana for task tracking. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:39:09.913Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-ride-a-motorcycle-a-beginners-stepbystep",
+      "title": "Learn to Ride a Motorcycle: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to ride a motorcycle for beginners",
+      "category": "automotive",
+      "tags": [
+        "motorcycle",
+        "riding",
+        "safety"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32439,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Learn to Ride a Motorcycle: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to ride a motorcycle for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:36:18.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "yoga-for-flexibility-a-beginners-guide-to-increasi",
+      "title": "Yoga for Flexibility: A Beginner's Guide to Increasing Mobility",
+      "goal": "How to do yoga for flexibility",
+      "category": "yoga",
+      "tags": [
+        "yoga",
+        "stretching",
+        "flexibility"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13901,
+      "moduleCount": 9,
+      "readingTimeMins": 56,
+      "metaDescription": "Yoga for Flexibility: A Beginner's Guide to Increasing Mobility — a free beginner-level guide covering how to do yoga for flexibility. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T04:33:09.737Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-home-plumbing-for-beginners",
+      "title": "Basic Home Plumbing for Beginners",
+      "goal": "Basic home plumbing for beginners",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "pipes",
+        "home repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22856,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Basic Home Plumbing for Beginners — a free beginner-level guide covering basic home plumbing for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:31:34.304Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-fitness-routine-a-beginners-stepbys",
+      "title": "How to Start a Fitness Routine: A Beginner's Step-by-Step Guide",
+      "goal": "How to start a fitness routine",
+      "category": "fitness",
+      "tags": [
+        "fitness",
+        "health",
+        "workout"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20056,
+      "moduleCount": 12,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Start a Fitness Routine: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a fitness routine. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-30T04:29:13.275Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-meditate-for-anxiety-a-beginners-guide",
+      "title": "How to Meditate for Anxiety: A Beginner's Guide",
+      "goal": "How to meditate for anxiety",
+      "category": "meditation",
+      "tags": [
+        "meditation",
+        "anxiety",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13708,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Meditate for Anxiety: A Beginner's Guide — a free beginner-level guide covering how to meditate for anxiety. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T04:27:32.074Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "the-complete-beginners-guide-to-starting-a-thrivin",
+      "title": "The Complete Beginner's Guide to Starting a Thriving Herb Garden",
+      "goal": "How to start a herb garden",
+      "category": "gardening",
+      "tags": [
+        "herbs",
+        "cooking",
+        "indoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29457,
+      "moduleCount": 12,
+      "readingTimeMins": 118,
+      "metaDescription": "The Complete Beginner's Guide to Starting a Thriving Herb Garden — a free beginner-level guide covering how to start a herb garden. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:26:10.996Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "candle-making-for-beginners-a-stepbystep-guide",
+      "title": "Candle Making for Beginners: A Step-by-Step Guide",
+      "goal": "Learn candle making for beginners",
+      "category": "crafts",
+      "tags": [
+        "candles",
+        "wax",
+        "home decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21692,
+      "moduleCount": 11,
+      "readingTimeMins": 87,
+      "metaDescription": "Candle Making for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn candle making for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T04:22:51.016Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-breathwork-for-stress-and-nervous-system",
       "title": "Advanced Breathwork for Stress and Nervous System Mastery",
       "goal": "Advanced breathwork techniques for stress",
@@ -15127,6 +15507,6 @@
       "edition": "street"
     }
   ],
-  "total": 763,
-  "generatedAt": "2026-07-30T03:54:25.698Z"
+  "total": 782,
+  "generatedAt": "2026-07-30T05:05:09.541Z"
 }
