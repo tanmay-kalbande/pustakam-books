@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "leather-bag-making-for-beginners-a-stepbystep-guid",
+      "title": "Leather Bag Making for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to make leather bags for beginners",
+      "category": "leatherworking",
+      "tags": [
+        "bags",
+        "leather",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18918,
+      "moduleCount": 8,
+      "readingTimeMins": 76,
+      "metaDescription": "Leather Bag Making for Beginners: A Step-by-Step Guide — a free intermediate-level guide covering learn to make leather bags for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T17:00:07.349Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-new-ceiling-light-fixture-stepbys",
+      "title": "How to Install a New Ceiling Light Fixture: Step-by-Step Guide for Beginners",
+      "goal": "How to install a new ceiling light fixture",
+      "category": "electrical",
+      "tags": [
+        "lighting",
+        "electrical",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21577,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Install a New Ceiling Light Fixture: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to install a new ceiling light...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T16:56:09.755Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "homemade-soap-making-for-beginners-a-stepbystep-gu",
+      "title": "Homemade Soap Making for Beginners: A Step-by-Step Guide",
+      "goal": "How to make homemade soap for beginners",
+      "category": "crafts",
+      "tags": [
+        "soap making",
+        "natural",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 9839,
+      "moduleCount": 7,
+      "readingTimeMins": 40,
+      "metaDescription": "Homemade Soap Making for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to make homemade soap for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T16:54:21.634Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-welding-learn-basics-techniques",
+      "title": "Beginner's Guide to Welding: Learn Basics & Techniques",
+      "goal": "Learn how to weld for beginners",
+      "category": "trades",
+      "tags": [
+        "welding",
+        "metalwork",
+        "industrial"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30568,
+      "moduleCount": 12,
+      "readingTimeMins": 123,
+      "metaDescription": "Beginner's Guide to Welding: Learn Basics & Techniques — a free beginner-level guide covering learn how to weld for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T16:53:28.627Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-budget-in-excel-a-beginners-stepbyst",
+      "title": "How to Make a Budget in Excel: A Beginner's Step-by-Step Guide",
+      "goal": "How to make a budget in Excel",
+      "category": "finance",
+      "tags": [
+        "excel",
+        "budgeting",
+        "money management"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12726,
+      "moduleCount": 9,
+      "readingTimeMins": 51,
+      "metaDescription": "How to Make a Budget in Excel: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make a budget in excel. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T16:50:41.255Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-yoga-poses-mastery-for-experienced-practi",
+      "title": "Advanced Yoga Poses: Mastery for Experienced Practitioners",
+      "goal": "Advanced yoga poses for experienced practitioners",
+      "category": "yoga",
+      "tags": [
+        "advanced yoga",
+        "flexibility",
+        "asana"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22314,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "Advanced Yoga Poses: Mastery for Experienced Practitioners — a free advanced-level guide covering advanced yoga poses for experienced practitioners....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-30T16:49:14.574Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "interior-design-for-beginners-a-stepbystep-guide",
+      "title": "Interior Design for Beginners: A Step-by-Step Guide",
+      "goal": "How to do interior design for beginners",
+      "category": "design",
+      "tags": [
+        "interior design",
+        "home decor",
+        "styling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12699,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Interior Design for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to do interior design for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T16:47:02.684Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-first-aid-cpr-guide-for-beginners",
+      "title": "Basic First Aid & CPR Guide for Beginners",
+      "goal": "Basic first aid and CPR for beginners",
+      "category": "health",
+      "tags": [
+        "first aid",
+        "CPR",
+        "emergency"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18598,
+      "moduleCount": 9,
+      "readingTimeMins": 75,
+      "metaDescription": "Basic First Aid & CPR Guide for Beginners — a free beginner-level guide covering basic first aid and cpr for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T16:45:45.295Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-knit-and-crochet-beginners-stepbystep-gui",
+      "title": "Learn to Knit and Crochet: Beginner's Step-by-Step Guide",
+      "goal": "Learn to knit crochet for beginners",
+      "category": "crochet",
+      "tags": [
+        "yarn",
+        "crochet",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22675,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "Learn to Knit and Crochet: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to knit crochet for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T16:42:25.775Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mastering-advanced-mountain-biking-techniques-for",
       "title": "Mastering Advanced Mountain Biking: Techniques for Technical Trails",
       "goal": "Advanced mountain biking techniques for trails",
@@ -16026,6 +16206,6 @@
       "edition": "street"
     }
   ],
-  "total": 808,
-  "generatedAt": "2026-07-30T14:31:11.334Z"
+  "total": 817,
+  "generatedAt": "2026-07-30T17:00:08.499Z"
 }
