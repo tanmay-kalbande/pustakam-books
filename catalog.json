@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "advanced-vocal-processing-and-tuning-techniques",
+      "title": "Advanced Vocal Processing and Tuning Techniques",
+      "goal": "Advanced vocal processing and tuning techniques",
+      "category": "music-production",
+      "tags": [
+        "vocals",
+        "AutoTune",
+        "audio editing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11998,
+      "moduleCount": 8,
+      "readingTimeMins": 48,
+      "metaDescription": "Advanced Vocal Processing and Tuning Techniques — a free advanced-level guide covering advanced vocal processing and tuning techniques. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T11:23:06.187Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-fl-studio-for-beginners",
+      "title": "How to Use FL Studio for Beginners",
+      "goal": "How to use FL Studio for beginners",
+      "category": "music-production",
+      "tags": [
+        "FL Studio",
+        "beat making",
+        "DAW"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21153,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Use FL Studio for Beginners — a free beginner-level guide covering how to use fl studio for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T11:21:42.836Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "magic-tricks-for-beginners-a-complete-stepbystep-g",
+      "title": "Magic Tricks for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to do magic tricks for beginners",
+      "category": "hobbies",
+      "tags": [
+        "magic",
+        "sleight of hand",
+        "entertainment"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13184,
+      "moduleCount": 9,
+      "readingTimeMins": 53,
+      "metaDescription": "Magic Tricks for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to do magic tricks for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-30T11:19:39.553Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-furniture-woodworking-techniques",
+      "title": "Advanced Furniture Woodworking Techniques",
+      "goal": "Advanced woodworking techniques for furniture",
+      "category": "woodworking",
+      "tags": [
+        "furniture",
+        "carpentry",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21930,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Advanced Furniture Woodworking Techniques — a free advanced-level guide covering advanced woodworking techniques for furniture. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-30T11:18:03.951Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-weightlifting-start-training-at",
+      "title": "Beginner's Guide to Weightlifting: Start Training at the Gym",
+      "goal": "Beginner's guide to weightlifting at the gym",
+      "category": "fitness",
+      "tags": [
+        "weightlifting",
+        "gym",
+        "strength"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14262,
+      "moduleCount": 8,
+      "readingTimeMins": 58,
+      "metaDescription": "Beginner's Guide to Weightlifting: Start Training at the Gym — a free beginner-level guide covering beginner's guide to weightlifting at the gym. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-30T11:15:08.550Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "managing-chronic-stress-a-comprehensive-guide-to-r",
       "title": "Managing Chronic Stress: A Comprehensive Guide to Recovery",
       "goal": "Learn how to manage chronic stress",
@@ -15746,6 +15846,6 @@
       "edition": "street"
     }
   ],
-  "total": 794,
-  "generatedAt": "2026-07-30T08:50:06.141Z"
+  "total": 799,
+  "generatedAt": "2026-07-30T11:24:36.671Z"
 }
