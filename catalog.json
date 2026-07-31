@@ -1,6 +1,346 @@
 {
   "books": [
     {
+      "slug": "how-to-knit-a-baby-hat-beginner-stepbystep-guide",
+      "title": "How to Knit a Baby Hat: Beginner Step-by-Step Guide",
+      "goal": "How to knit a baby hat",
+      "category": "knitting",
+      "tags": [
+        "yarn",
+        "baby",
+        "pattern"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18662,
+      "moduleCount": 8,
+      "readingTimeMins": 75,
+      "metaDescription": "How to Knit a Baby Hat: Beginner Step-by-Step Guide — a free beginner-level guide covering how to knit a baby hat. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T15:01:51.205Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-kitchen-backsplash-a-stepbystep-g",
+      "title": "How to Install a Kitchen Backsplash: A Step-by-Step Guide",
+      "goal": "How to install a backsplash",
+      "category": "home-improvement",
+      "tags": [
+        "kitchen",
+        "tiles",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19600,
+      "moduleCount": 8,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Install a Kitchen Backsplash: A Step-by-Step Guide — a free intermediate-level guide covering how to install a backsplash. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T15:00:31.971Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-door-hinge-step-by-step",
+      "title": "How to Fix a Door Hinge Step by Step",
+      "goal": "How to fix a door hinge",
+      "category": "home-maintenance",
+      "tags": [
+        "doors",
+        "hardware",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27085,
+      "moduleCount": 13,
+      "readingTimeMins": 109,
+      "metaDescription": "How to Fix a Door Hinge Step by Step — a free beginner-level guide covering how to fix a door hinge. Learn with clear explanations, real examples, and...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:56:20.974Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-professional-wooden-workbench",
+      "title": "How to Build a Professional Wooden Workbench",
+      "goal": "How to build a wooden workbench",
+      "category": "woodworking",
+      "tags": [
+        "shop",
+        "furniture",
+        "construction"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11188,
+      "moduleCount": 7,
+      "readingTimeMins": 45,
+      "metaDescription": "How to Build a Professional Wooden Workbench — a free intermediate-level guide covering how to build a wooden workbench. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T14:52:55.429Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-candle-scenting-and-layering-master-f",
+      "title": "Intermediate Candle Scenting and Layering: Master Fragrance Blending",
+      "goal": "Learn basic candle scenting and layering",
+      "category": "crafts",
+      "tags": [
+        "wax",
+        "fragrance",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29872,
+      "moduleCount": 13,
+      "readingTimeMins": 120,
+      "metaDescription": "Intermediate Candle Scenting and Layering: Master Fragrance Blending — a free intermediate-level guide covering learn basic candle scenting and...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:51:28.725Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-dishwasher-a-stepbystep-guide",
+      "title": "How to Install a Dishwasher: A Step-by-Step Guide",
+      "goal": "How to install a dishwasher",
+      "category": "trades",
+      "tags": [
+        "appliances",
+        "plumbing",
+        "kitchen"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13531,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Install a Dishwasher: A Step-by-Step Guide — a free intermediate-level guide covering how to install a dishwasher. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T14:48:33.444Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-change-brake-fluid-like-a-pro",
+      "title": "How to Change Brake Fluid Like a Pro",
+      "goal": "How to change brake fluid",
+      "category": "automotive",
+      "tags": [
+        "brakes",
+        "safety",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22591,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Change Brake Fluid Like a Pro — a free intermediate-level guide covering how to change brake fluid. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:46:45.941Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stain-and-seal-wood-beginners-stepbystep-gu",
+      "title": "How to Stain and Seal Wood: Beginner's Step‑by‑Step Guide",
+      "goal": "How to stain and seal wood",
+      "category": "woodworking",
+      "tags": [
+        "finishing",
+        "furniture",
+        "varnish"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19626,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Stain and Seal Wood: Beginner's Step‑by‑Step Guide — a free beginner-level guide covering how to stain and seal wood. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T14:43:30.561Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-crochet-a-beanie-beginners-stepbystep-guide",
+      "title": "How to Crochet a Beanie: Beginner's Step-by-Step Guide",
+      "goal": "Learn to make a crochet beanie",
+      "category": "crochet",
+      "tags": [
+        "winter wear",
+        "yarn",
+        "pattern"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19705,
+      "moduleCount": 10,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Crochet a Beanie: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to make a crochet beanie. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T14:41:28.200Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sew-a-button-easy-stepbystep-guide-for-begi",
+      "title": "How to Sew a Button: Easy Step-by-Step Guide for Beginners",
+      "goal": "Learn to sew a basic button",
+      "category": "sewing",
+      "tags": [
+        "mending",
+        "clothes",
+        "basic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32127,
+      "moduleCount": 14,
+      "readingTimeMins": 129,
+      "metaDescription": "How to Sew a Button: Easy Step-by-Step Guide for Beginners — a free beginner-level guide covering learn to sew a basic button. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:38:27.051Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sharpen-a-kitchen-knife-a-complete-beginner",
+      "title": "How to Sharpen a Kitchen Knife: A Complete Beginner's Guide",
+      "goal": "How to sharpen a kitchen knife",
+      "category": "culinary",
+      "tags": [
+        "knives",
+        "maintenance",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26389,
+      "moduleCount": 15,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Sharpen a Kitchen Knife: A Complete Beginner's Guide — a free beginner-level guide covering how to sharpen a kitchen knife. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T14:35:35.367Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-vinyl-record-player-stepbystep-gu",
+      "title": "How to Install a Vinyl Record Player Step-by-Step Guide",
+      "goal": "How to install a vinyl record player",
+      "category": "hobbies",
+      "tags": [
+        "audio",
+        "turntable",
+        "setup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34378,
+      "moduleCount": 14,
+      "readingTimeMins": 138,
+      "metaDescription": "How to Install a Vinyl Record Player Step-by-Step Guide — a free beginner-level guide covering how to install a vinyl record player. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:31:40.372Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "small-space-gardening-for-beginners-a-complete-gui",
+      "title": "Small Space Gardening for Beginners: A Complete Guide",
+      "goal": "How to start a garden in small spaces",
+      "category": "gardening",
+      "tags": [
+        "small space",
+        "urban garden",
+        "balcony"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17057,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "Small Space Gardening for Beginners: A Complete Guide — a free beginner-level guide covering how to start a garden in small spaces. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T14:26:47.022Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-pushup-correctly-for-beginners",
+      "title": "How to Do a Pushup Correctly for Beginners",
+      "goal": "How to do a pushup correctly for beginners",
+      "category": "fitness",
+      "tags": [
+        "pushups",
+        "strength",
+        "workout"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28088,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Do a Pushup Correctly for Beginners — a free beginner-level guide covering how to do a pushup correctly for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:24:06.417Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-sneaker-collection-a-beginners-guid",
+      "title": "How to Start a Sneaker Collection: A Beginner's Guide",
+      "goal": "How to start a collection of sneakers",
+      "category": "hobbies",
+      "tags": [
+        "sneakers",
+        "collecting",
+        "fashion"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13159,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "How to Start a Sneaker Collection: A Beginner's Guide — a free beginner-level guide covering how to start a collection of sneakers. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T14:20:12.358Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-houseplant-propagation-mastery-pro-techni",
+      "title": "Advanced Houseplant Propagation Mastery: Pro Techniques & Trade-Offs",
+      "goal": "Advanced techniques for houseplant propagation",
+      "category": "gardening",
+      "tags": [
+        "propagation",
+        "houseplants",
+        "growth"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 34494,
+      "moduleCount": 14,
+      "readingTimeMins": 138,
+      "metaDescription": "Advanced Houseplant Propagation Mastery: Pro Techniques & Trade-Offs — a free advanced-level guide covering advanced techniques for houseplant...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T14:18:47.971Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-painting-miniatures-stepbystep",
+      "title": "Beginner's Guide to Painting Miniatures: Step-by-Step Basics",
+      "goal": "How to paint miniatures for beginners",
+      "category": "hobbies",
+      "tags": [
+        "miniatures",
+        "painting",
+        "gaming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19968,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "Beginner's Guide to Painting Miniatures: Step-by-Step Basics — a free beginner-level guide covering how to paint miniatures for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T14:14:15.952Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "natural-ways-to-lower-blood-pressure-a-beginners-r",
       "title": "Natural Ways to Lower Blood Pressure: A Beginner's Roadmap",
       "goal": "How to lower blood pressure naturally",
@@ -17266,6 +17606,6 @@
       "edition": "street"
     }
   ],
-  "total": 870,
-  "generatedAt": "2026-07-31T11:48:03.352Z"
+  "total": 887,
+  "generatedAt": "2026-07-31T15:01:52.447Z"
 }
