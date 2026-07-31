@@ -1,6 +1,346 @@
 {
   "books": [
     {
+      "slug": "how-to-make-a-beaded-necklace-a-beginners-guide",
+      "title": "How to Make a Beaded Necklace: A Beginner's Guide",
+      "goal": "How to make a beaded necklace",
+      "category": "crafts",
+      "tags": [
+        "jewelry",
+        "beads",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18341,
+      "moduleCount": 10,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Make a Beaded Necklace: A Beginner's Guide — a free beginner-level guide covering how to make a beaded necklace. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T17:51:02.540Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-bake-a-perfect-chocolate-cake-stepbystep-gu",
+      "title": "How to Bake a Perfect Chocolate Cake – Step-by-Step Guide",
+      "goal": "How to bake a chocolate cake",
+      "category": "culinary",
+      "tags": [
+        "dessert",
+        "baking",
+        "sweets"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20366,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Bake a Perfect Chocolate Cake – Step-by-Step Guide — a free beginner-level guide covering how to bake a chocolate cake. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:47:07.951Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-pottery-bowl-a-beginners-guide",
+      "title": "How to Make a Pottery Bowl: A Beginner's Guide",
+      "goal": "How to make a pottery bowl",
+      "category": "pottery",
+      "tags": [
+        "clay",
+        "hand-building",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19209,
+      "moduleCount": 10,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Make a Pottery Bowl: A Beginner's Guide — a free beginner-level guide covering how to make a pottery bowl. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T17:45:46.711Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "table-saw-safety-guide",
+      "title": "Table Saw Safety Guide",
+      "goal": "How to use a table saw safely",
+      "category": "woodworking",
+      "tags": [
+        "power tools",
+        "safety",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27158,
+      "moduleCount": 12,
+      "readingTimeMins": 109,
+      "metaDescription": "Table Saw Safety Guide — a free beginner-level guide covering how to use a table saw safely. Learn with clear explanations, real examples, and hands-on...",
+      "modelUsed": "zai-glm-4.7-flash, mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:41:51.455Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-compost-pile-a-beginners-stepbystep",
+      "title": "How to Start a Compost Pile: A Beginner's Step-by-Step Guide",
+      "goal": "How to start a compost pile",
+      "category": "gardening",
+      "tags": [
+        "soil",
+        "environment",
+        "waste"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27728,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Start a Compost Pile: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a compost pile. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T17:37:02.523Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-replace-a-light-switch-a-beginners-stepbyst",
+      "title": "How to Replace a Light Switch: A Beginner's Step-by-Step Guide",
+      "goal": "How to replace a light switch",
+      "category": "electrical",
+      "tags": [
+        "wiring",
+        "home repair",
+        "safety"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32742,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "How to Replace a Light Switch: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to replace a light switch. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:32:50.997Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-pickles-stepbystep-guide-for",
+      "title": "How to Make Homemade Pickles: Step-by-Step Guide for Beginners",
+      "goal": "How to make homemade pickles",
+      "category": "culinary",
+      "tags": [
+        "preserving",
+        "fermenting",
+        "canning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22008,
+      "moduleCount": 14,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Make Homemade Pickles: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to make homemade pickles. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T17:28:08.978Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-bleed-car-brakes-complete-stepbystep-guide",
+      "title": "How to Bleed Car Brakes: Complete Step-by-Step Guide",
+      "goal": "How to bleed car brakes",
+      "category": "mechanics",
+      "tags": [
+        "safety",
+        "brakes",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19684,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Bleed Car Brakes: Complete Step-by-Step Guide — a free intermediate-level guide covering how to bleed car brakes. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T17:25:52.875Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-organic-lettuce-at-home-a-beginners-gu",
+      "title": "How to Grow Organic Lettuce at Home: A Beginner's Guide",
+      "goal": "How to grow organic lettuce at home",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "organic",
+        "homegrown"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28233,
+      "moduleCount": 15,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Grow Organic Lettuce at Home: A Beginner's Guide — a free beginner-level guide covering how to grow organic lettuce at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T17:23:17.280Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-ceramic-vase",
+      "title": "How to Make a Ceramic Vase",
+      "goal": "How to make a ceramic vase",
+      "category": "pottery",
+      "tags": [
+        "clay",
+        "wheel",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26757,
+      "moduleCount": 11,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Make a Ceramic Vase — a free intermediate-level guide covering how to make a ceramic vase. Learn with clear explanations, real examples, and...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:19:05.254Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-make-a-crochet-hat-for-absolute-begin",
+      "title": "Learn How to Make a Crochet Hat for Absolute Beginners",
+      "goal": "Learn how to make a crochet hat",
+      "category": "crochet",
+      "tags": [
+        "yarn",
+        "winter wear",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24529,
+      "moduleCount": 13,
+      "readingTimeMins": 99,
+      "metaDescription": "Learn How to Make a Crochet Hat for Absolute Beginners — a free beginner-level guide covering learn how to make a crochet hat. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T17:16:32.469Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-new-door-lock-beginner-stepbystep",
+      "title": "How to Install a New Door Lock: Beginner Step-by-Step Guide",
+      "goal": "How to install a new door lock",
+      "category": "home-maintenance",
+      "tags": [
+        "security",
+        "hardware",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18395,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Install a New Door Lock: Beginner Step-by-Step Guide — a free beginner-level guide covering how to install a new door lock. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:13:09.088Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-a-miter-saw-beginners-stepbystep-guide",
+      "title": "How to Use a Miter Saw: Beginner's Step-by-Step Guide",
+      "goal": "Learn how to use a miter saw",
+      "category": "woodworking",
+      "tags": [
+        "power tools",
+        "cutting",
+        "safety"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24631,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Use a Miter Saw: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to use a miter saw. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T17:11:35.127Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-solder-electronics-a-beginners-stepbystep-g",
+      "title": "How to Solder Electronics: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to solder electronics for beginners",
+      "category": "electronics",
+      "tags": [
+        "soldering",
+        "circuitry",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21437,
+      "moduleCount": 11,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Solder Electronics: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to solder electronics for beginners. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T17:05:36.468Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-weight-training-for-maximum-muscle-growth",
+      "title": "Advanced Weight Training for Maximum Muscle Growth",
+      "goal": "Advanced weight training for muscle growth",
+      "category": "fitness",
+      "tags": [
+        "bodybuilding",
+        "hypertrophy",
+        "gym"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 38123,
+      "moduleCount": 15,
+      "readingTimeMins": 153,
+      "metaDescription": "Advanced Weight Training for Maximum Muscle Growth — a free advanced-level guide covering advanced weight training for muscle growth. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T17:01:50.353Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-bullet-journal-beginners-stepbystep",
+      "title": "How to Start a Bullet Journal: Beginner's Step-by-Step Guide",
+      "goal": "How to start a bullet journal for beginners",
+      "category": "productivity",
+      "tags": [
+        "bujo",
+        "organization",
+        "planning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23177,
+      "moduleCount": 14,
+      "readingTimeMins": 93,
+      "metaDescription": "How to Start a Bullet Journal: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a bullet journal for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T16:56:12.127Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-jiu-jitsu-techniques-for-blue-belts",
+      "title": "Intermediate Jiu Jitsu Techniques for Blue Belts",
+      "goal": "Intermediate Jiu Jitsu techniques for blue belts",
+      "category": "martial-arts",
+      "tags": [
+        "bjj",
+        "grappling",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21365,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Intermediate Jiu Jitsu Techniques for Blue Belts — a free intermediate-level guide covering intermediate jiu jitsu techniques for blue belts. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T16:53:24.346Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-a-wooden-jewelry-box-stepbystep-beginn",
       "title": "How to Make a Wooden Jewelry Box: Step-by-Step Beginner Guide",
       "goal": "How to make a wooden jewelry box",
@@ -17826,6 +18166,6 @@
       "edition": "street"
     }
   ],
-  "total": 898,
-  "generatedAt": "2026-07-31T15:47:58.405Z"
+  "total": 915,
+  "generatedAt": "2026-07-31T17:51:21.464Z"
 }
