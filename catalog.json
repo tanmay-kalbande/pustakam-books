@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "how-to-stop-procrastinating-and-be-productive",
+      "title": "How to Stop Procrastinating and Be Productive",
+      "goal": "How to stop procrastination and be productive",
+      "category": "productivity",
+      "tags": [
+        "time management",
+        "focus",
+        "habits"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17379,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Stop Procrastinating and Be Productive — a free beginner-level guide covering how to stop procrastination and be productive. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T22:41:28.471Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-treat-a-panic-attack-fast-a-beginners-guide",
+      "title": "How to Treat a Panic Attack Fast: A Beginner's Guide",
+      "goal": "How to treat a panic attack fast",
+      "category": "wellness",
+      "tags": [
+        "mental health",
+        "anxiety",
+        "panic attack"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26767,
+      "moduleCount": 13,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Treat a Panic Attack Fast: A Beginner's Guide — a free beginner-level guide covering how to treat a panic attack fast. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T22:39:37.689Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-greek-for-beginners-complete-stepbystep-guid",
+      "title": "Learn Greek for Beginners: Complete Step-by-Step Guide",
+      "goal": "How to learn Greek for beginners",
+      "category": "language",
+      "tags": [
+        "greek",
+        "language-learning",
+        "europe"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24526,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "Learn Greek for Beginners: Complete Step-by-Step Guide — a free beginner-level guide covering how to learn greek for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T22:37:00.384Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-hosting-professional-zoom-we",
+      "title": "Intermediate Guide to Hosting Professional Zoom Webinars",
+      "goal": "Intermediate guide to using Zoom for webinars",
+      "category": "software-tools",
+      "tags": [
+        "zoom",
+        "webinars",
+        "virtual-meetings"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 10093,
+      "moduleCount": 7,
+      "readingTimeMins": 41,
+      "metaDescription": "Intermediate Guide to Hosting Professional Zoom Webinars — a free intermediate-level guide covering intermediate guide to using zoom for webinars....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T22:31:48.307Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-trumpet-a-complete-beginners-guide",
+      "title": "How to Play Trumpet: A Complete Beginner's Guide",
+      "goal": "Learn to play the trumpet for beginners",
+      "category": "music",
+      "tags": [
+        "trumpet",
+        "brass",
+        "music-theory"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16050,
+      "moduleCount": 10,
+      "readingTimeMins": 65,
+      "metaDescription": "How to Play Trumpet: A Complete Beginner's Guide — a free beginner-level guide covering learn to play the trumpet for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T22:29:11.896Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-2d-animation-a-complete-beginners-guide",
+      "title": "Learn 2D Animation: A Complete Beginner's Guide",
+      "goal": "How to create a 2D animation for beginners",
+      "category": "digital-art",
+      "tags": [
+        "animation",
+        "2d-art",
+        "motion"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34488,
+      "moduleCount": 14,
+      "readingTimeMins": 138,
+      "metaDescription": "Learn 2D Animation: A Complete Beginner's Guide — a free beginner-level guide covering how to create a 2d animation for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T22:27:10.865Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "paddleboarding-for-beginners-stepbystep-guide",
+      "title": "Paddleboarding for Beginners: Step-by-Step Guide",
+      "goal": "How to go paddleboarding for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "sup",
+        "paddleboarding",
+        "water-sports"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27282,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "Paddleboarding for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to go paddleboarding for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T22:22:59.428Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-color-grading-in-davinci-resolve-advanced",
+      "title": "Advanced color grading in DaVinci Resolve",
+      "goal": "Advanced color grading in DaVinci Resolve",
+      "category": "video-editing",
+      "tags": [
+        "davinci-resolve",
+        "color-grading",
+        "post-production"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25159,
+      "moduleCount": 10,
+      "readingTimeMins": 101,
+      "metaDescription": "Advanced color grading in DaVinci Resolve — a free advanced-level guide covering advanced color grading in davinci resolve. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T22:19:07.440Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-draw-faces-for-beginners-stepbystep-guide",
+      "title": "How to Draw Faces for Beginners: Step-by-Step Guide",
+      "goal": "How to learn to draw faces for beginners",
+      "category": "art",
+      "tags": [
+        "drawing",
+        "portraits",
+        "sketching"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26984,
+      "moduleCount": 13,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Draw Faces for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to learn to draw faces for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T22:17:03.383Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-draw-human-anatomy-for-beginners",
+      "title": "Learn to Draw Human Anatomy for Beginners",
+      "goal": "Learn to draw human anatomy for beginners",
+      "category": "art",
+      "tags": [
+        "drawing",
+        "anatomy",
+        "sketching"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21027,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Learn to Draw Human Anatomy for Beginners — a free beginner-level guide covering learn to draw human anatomy for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T22:12:41.428Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-install-a-new-bathroom-vanity-stepbystep-gu",
       "title": "How to Install a New Bathroom Vanity: Step-by-Step Guide",
       "goal": "How to install a new bathroom vanity",
@@ -18426,6 +18626,6 @@
       "edition": "street"
     }
   ],
-  "total": 928,
-  "generatedAt": "2026-07-31T20:24:07.982Z"
+  "total": 938,
+  "generatedAt": "2026-07-31T22:41:29.814Z"
 }
