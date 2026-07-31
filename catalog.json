@@ -1,6 +1,266 @@
 {
   "books": [
     {
+      "slug": "how-to-install-a-new-bathroom-vanity-stepbystep-gu",
+      "title": "How to Install a New Bathroom Vanity: Step-by-Step Guide",
+      "goal": "How to install a new bathroom vanity",
+      "category": "trades",
+      "tags": [
+        "bathroom",
+        "plumbing",
+        "remodeling"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26485,
+      "moduleCount": 13,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Install a New Bathroom Vanity: Step-by-Step Guide — a free intermediate-level guide covering how to install a new bathroom vanity. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T20:24:06.651Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-ceiling-mount-projector-a-stepbys",
+      "title": "How to Install a Ceiling Mount Projector: A Step-by-Step Guide",
+      "goal": "How to install a ceiling mount projector",
+      "category": "electronics",
+      "tags": [
+        "home theater",
+        "installation",
+        "tech"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16146,
+      "moduleCount": 10,
+      "readingTimeMins": 65,
+      "metaDescription": "How to Install a Ceiling Mount Projector: A Step-by-Step Guide — a free beginner-level guide covering how to install a ceiling mount projector. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T20:18:54.878Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-yogurt-beginner-stepbystep-gu",
+      "title": "How to Make Homemade Yogurt: Beginner Step-by-Step Guide",
+      "goal": "How to make homemade yogurt for beginners",
+      "category": "culinary",
+      "tags": [
+        "fermentation",
+        "dairy",
+        "healthy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20127,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Make Homemade Yogurt: Beginner Step-by-Step Guide — a free beginner-level guide covering how to make homemade yogurt for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T20:16:53.440Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-ceramic-mug-a-complete-beginners-gui",
+      "title": "How to Make a Ceramic Mug: A Complete Beginner's Guide",
+      "goal": "How to make a ceramic mug for beginners",
+      "category": "pottery",
+      "tags": [
+        "clay",
+        "ceramics",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34513,
+      "moduleCount": 14,
+      "readingTimeMins": 139,
+      "metaDescription": "How to Make a Ceramic Mug: A Complete Beginner's Guide — a free beginner-level guide covering how to make a ceramic mug for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T20:15:36.446Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-cheese-beginners-stepbystep-g",
+      "title": "How to Make Homemade Cheese: Beginner's Step-by-Step Guide",
+      "goal": "How to make homemade cheese for beginners",
+      "category": "culinary",
+      "tags": [
+        "dairy",
+        "cheese making",
+        "homemade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22665,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Make Homemade Cheese: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make homemade cheese for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T20:08:32.957Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-garbage-disposal-a-stepbystep-gui",
+      "title": "How to Install a Garbage Disposal: A Step-by-Step Guide",
+      "goal": "How to install a new garbage disposal",
+      "category": "trades",
+      "tags": [
+        "kitchen",
+        "plumbing",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14715,
+      "moduleCount": 10,
+      "readingTimeMins": 59,
+      "metaDescription": "How to Install a Garbage Disposal: A Step-by-Step Guide — a free beginner-level guide covering how to install a new garbage disposal. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T20:06:15.070Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-oyster-mushrooms-at-home-a-complete-be",
+      "title": "How to Grow Oyster Mushrooms at Home: A Complete Beginner's Guide",
+      "goal": "How to grow oyster mushrooms at home",
+      "category": "gardening",
+      "tags": [
+        "mushrooms",
+        "indoor gardening",
+        "fungi"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32483,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "How to Grow Oyster Mushrooms at Home: A Complete Beginner's Guide — a free beginner-level guide covering how to grow oyster mushrooms at home. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T20:04:54.873Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "home-security-systems-for-beginners-a-complete-gui",
+      "title": "Home Security Systems for Beginners: A Complete Guide",
+      "goal": "Basic guide to home security systems",
+      "category": "home-maintenance",
+      "tags": [
+        "security",
+        "home",
+        "safety"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17541,
+      "moduleCount": 10,
+      "readingTimeMins": 71,
+      "metaDescription": "Home Security Systems for Beginners: A Complete Guide — a free beginner-level guide covering basic guide to home security systems. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T20:00:40.689Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-jazz-piano-for-beginners-stepbystep-gu",
+      "title": "Learn Basic Jazz Piano for Beginners: Step-by-Step Guide",
+      "goal": "Learn basic jazz piano for beginners",
+      "category": "music",
+      "tags": [
+        "piano",
+        "jazz",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31038,
+      "moduleCount": 13,
+      "readingTimeMins": 125,
+      "metaDescription": "Learn Basic Jazz Piano for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn basic jazz piano for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T19:58:43.973Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-a-press-release-a-beginners-guide",
+      "title": "How to Write a Press Release: A Beginner's Guide",
+      "goal": "How to write a press release",
+      "category": "writing",
+      "tags": [
+        "PR",
+        "writing",
+        "marketing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26792,
+      "moduleCount": 14,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Write a Press Release: A Beginner's Guide — a free beginner-level guide covering how to write a press release. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T19:54:49.037Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-advanced-novel-writing-techniques",
+      "title": "Mastering Advanced Novel Writing Techniques",
+      "goal": "Advanced techniques for writing a novel",
+      "category": "writing",
+      "tags": [
+        "novel",
+        "fiction",
+        "storytelling"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 20864,
+      "moduleCount": 10,
+      "readingTimeMins": 84,
+      "metaDescription": "Mastering Advanced Novel Writing Techniques — a free advanced-level guide covering advanced techniques for writing a novel. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T19:50:52.364Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-astronomy-finding-distant-galaxies-stepby",
+      "title": "Advanced Astronomy: Finding Distant Galaxies Step-by-Step",
+      "goal": "Advanced astronomy: how to find galaxies",
+      "category": "astronomy",
+      "tags": [
+        "galaxies",
+        "telescope",
+        "deep sky"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28667,
+      "moduleCount": 14,
+      "readingTimeMins": 115,
+      "metaDescription": "Advanced Astronomy: Finding Distant Galaxies Step-by-Step — a free advanced-level guide covering advanced astronomy: how to find galaxies. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T19:48:38.893Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "yoga-for-athletes-intermediate-training-guide",
+      "title": "Yoga for Athletes: Intermediate Training Guide",
+      "goal": "Intermediate guide to yoga for athletes",
+      "category": "yoga",
+      "tags": [
+        "yoga",
+        "athletes",
+        "flexibility"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19678,
+      "moduleCount": 8,
+      "readingTimeMins": 79,
+      "metaDescription": "Yoga for Athletes: Intermediate Training Guide — a free intermediate-level guide covering intermediate guide to yoga for athletes. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T19:43:41.220Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-a-beaded-necklace-a-beginners-guide",
       "title": "How to Make a Beaded Necklace: A Beginner's Guide",
       "goal": "How to make a beaded necklace",
@@ -18166,6 +18426,6 @@
       "edition": "street"
     }
   ],
-  "total": 915,
-  "generatedAt": "2026-07-31T17:51:21.464Z"
+  "total": 928,
+  "generatedAt": "2026-07-31T20:24:07.982Z"
 }
