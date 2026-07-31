@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "natural-ways-to-lower-blood-pressure-a-beginners-r",
+      "title": "Natural Ways to Lower Blood Pressure: A Beginner's Roadmap",
+      "goal": "How to lower blood pressure naturally",
+      "category": "health",
+      "tags": [
+        "heart health",
+        "diet",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16492,
+      "moduleCount": 8,
+      "readingTimeMins": 66,
+      "metaDescription": "Natural Ways to Lower Blood Pressure: A Beginner's Roadmap — a free beginner-level guide covering how to lower blood pressure naturally. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T11:48:02.117Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stop-snoring-naturally-a-complete-beginners",
+      "title": "How to Stop Snoring Naturally: A Complete Beginner's Guide",
+      "goal": "How to stop snoring naturally",
+      "category": "health",
+      "tags": [
+        "sleep",
+        "wellness",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14868,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Stop Snoring Naturally: A Complete Beginner's Guide — a free beginner-level guide covering how to stop snoring naturally. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T11:46:35.859Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-ceramic-pinch-pot-beginner-guide",
+      "title": "How to Make a Ceramic Pinch Pot – Beginner Guide",
+      "goal": "How to make a ceramic pinch pot",
+      "category": "pottery",
+      "tags": [
+        "hand building",
+        "clay",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13662,
+      "moduleCount": 8,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Make a Ceramic Pinch Pot – Beginner Guide — a free beginner-level guide covering how to make a ceramic pinch pot. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T11:44:45.514Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-glaze-firing-techniques-mastering-con",
+      "title": "Intermediate Glaze Firing Techniques: Mastering Control and Creativity",
+      "goal": "Intermediate glaze firing techniques",
+      "category": "pottery",
+      "tags": [
+        "kiln",
+        "glazing",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13822,
+      "moduleCount": 9,
+      "readingTimeMins": 56,
+      "metaDescription": "Intermediate Glaze Firing Techniques: Mastering Control and Creativity — a free intermediate-level guide covering intermediate glaze firing techniques....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T11:43:42.699Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-french-cooking-techniques-learning-roadma",
+      "title": "Advanced French Cooking Techniques Learning Roadmap",
+      "goal": "Learn advanced French cooking techniques",
+      "category": "culinary",
+      "tags": [
+        "gourmet",
+        "french cuisine",
+        "chef"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23617,
+      "moduleCount": 9,
+      "readingTimeMins": 95,
+      "metaDescription": "Advanced French Cooking Techniques Learning Roadmap — a free advanced-level guide covering learn advanced french cooking techniques. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T11:40:53.288Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-street-photography-techniques-mastering-c",
+      "title": "Advanced Street Photography Techniques: Mastering Composition, Light, and Storytelling",
+      "goal": "Advanced street photography techniques",
+      "category": "photography",
+      "tags": [
+        "street photography",
+        "composition",
+        "candid"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13544,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "Advanced Street Photography Techniques: Mastering Composition, Light, and Storytelling — a free advanced-level guide covering advanced street...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T11:38:53.381Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-deep-sky-object-identification-a-practic",
+      "title": "Mastering Deep Sky Object Identification: A Practical Guide",
+      "goal": "Learn to identify deep sky objects",
+      "category": "astronomy",
+      "tags": [
+        "galaxies",
+        "nebulae",
+        "stargazing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12752,
+      "moduleCount": 9,
+      "readingTimeMins": 52,
+      "metaDescription": "Mastering Deep Sky Object Identification: A Practical Guide — a free intermediate-level guide covering learn to identify deep sky objects. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T11:36:01.046Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-breathwork-techniques-for-elite-athletic",
+      "title": "Advanced Breathwork Techniques for Elite Athletic Performance",
+      "goal": "Advanced breathwork techniques for athletes",
+      "category": "wellness",
+      "tags": [
+        "breathing",
+        "performance",
+        "recovery"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11061,
+      "moduleCount": 7,
+      "readingTimeMins": 45,
+      "metaDescription": "Advanced Breathwork Techniques for Elite Athletic Performance — a free advanced-level guide covering advanced breathwork techniques for athletes. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T11:34:33.482Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-meditating-for-beginners",
+      "title": "How to Start Meditating for Beginners",
+      "goal": "How to start meditating for beginners",
+      "category": "meditation",
+      "tags": [
+        "mindfulness",
+        "mental health",
+        "stress"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17486,
+      "moduleCount": 8,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Start Meditating for Beginners — a free beginner-level guide covering how to start meditating for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T11:33:20.569Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-pickleball-strategies-and-tips-master",
       "title": "Intermediate Pickleball Strategies and Tips: Master the Game",
       "goal": "Intermediate pickleball strategies and tips",
@@ -17086,6 +17266,6 @@
       "edition": "street"
     }
   ],
-  "total": 861,
-  "generatedAt": "2026-07-31T09:09:28.760Z"
+  "total": 870,
+  "generatedAt": "2026-07-31T11:48:03.352Z"
 }
