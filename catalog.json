@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "airtable-for-beginners-build-your-first-database",
+      "title": "Airtable for Beginners: Build Your First Database",
+      "goal": "How to use Airtable for beginners",
+      "category": "software-tools",
+      "tags": [
+        "airtable",
+        "database",
+        "organization"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19488,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Airtable for Beginners: Build Your First Database — a free beginner-level guide covering how to use airtable for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T08:34:13.104Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "jira-for-beginners-stepbystep-guide-to-mastering-a",
+      "title": "Jira for Beginners: Step-by-Step Guide to Mastering Agile Project Management",
+      "goal": "Learn to use Jira for beginners",
+      "category": "software-tools",
+      "tags": [
+        "jira",
+        "agile",
+        "project management"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18422,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "Jira for Beginners: Step-by-Step Guide to Mastering Agile Project Management — a free beginner-level guide covering learn to use jira for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T08:32:08.323Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mailchimp-for-beginners-a-stepbystep-guide-to-emai",
+      "title": "Mailchimp for Beginners: A Step-by-Step Guide to Email Marketing",
+      "goal": "How to use Mailchimp for beginners",
+      "category": "software-tools",
+      "tags": [
+        "mailchimp",
+        "email marketing",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13471,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Mailchimp for Beginners: A Step-by-Step Guide to Email Marketing — a free beginner-level guide covering how to use mailchimp for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T08:30:18.433Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "yoga-for-back-pain-relief-a-beginners-roadmap",
       "title": "Yoga for Back Pain Relief: A Beginner's Roadmap",
       "goal": "How to do yoga for back pain relief",
@@ -16886,6 +16946,6 @@
       "edition": "street"
     }
   ],
-  "total": 851,
-  "generatedAt": "2026-07-31T08:13:15.603Z"
+  "total": 854,
+  "generatedAt": "2026-07-31T08:34:14.313Z"
 }
