@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "intermediate-pickleball-strategies-and-tips-master",
+      "title": "Intermediate Pickleball Strategies and Tips: Master the Game",
+      "goal": "Intermediate pickleball strategies and tips",
+      "category": "sports",
+      "tags": [
+        "pickleball",
+        "strategy",
+        "gameplay"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24642,
+      "moduleCount": 11,
+      "readingTimeMins": 99,
+      "metaDescription": "Intermediate Pickleball Strategies and Tips: Master the Game — a free intermediate-level guide covering intermediate pickleball strategies and tips....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T09:09:27.590Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-zapier-advanced-workflow-automation-guid",
+      "title": "Mastering Zapier: Advanced Workflow Automation Guide",
+      "goal": "How to use Zapier for workflow automation",
+      "category": "software-tools",
+      "tags": [
+        "zapier",
+        "automation",
+        "productivity"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13001,
+      "moduleCount": 9,
+      "readingTimeMins": 53,
+      "metaDescription": "Mastering Zapier: Advanced Workflow Automation Guide — a free intermediate-level guide covering how to use zapier for workflow automation. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T09:07:14.785Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-figma-for-website-prototyping",
+      "title": "Learn Figma for Website Prototyping",
+      "goal": "Learn Figma for website prototyping",
+      "category": "software-tools",
+      "tags": [
+        "figma",
+        "prototyping",
+        "web design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23241,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "Learn Figma for Website Prototyping — a free beginner-level guide covering learn figma for website prototyping. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T09:05:50.411Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-salesforce-for-beginners-a-complete-guid",
+      "title": "Mastering Salesforce for Beginners: A Complete Guide",
+      "goal": "Mastering Salesforce for beginners",
+      "category": "software-tools",
+      "tags": [
+        "crm",
+        "salesforce",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12327,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "Mastering Salesforce for Beginners: A Complete Guide — a free beginner-level guide covering mastering salesforce for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-07-31T09:03:55.560Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-draw-landscapes-for-beginners-stepbystep-gu",
+      "title": "How to Draw Landscapes for Beginners: Step-by-Step Guide",
+      "goal": "Learn to draw landscapes for beginners",
+      "category": "art",
+      "tags": [
+        "drawing",
+        "landscapes",
+        "sketching"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20551,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Draw Landscapes for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn to draw landscapes for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T09:01:54.437Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-vinyl-record-collection-a-beginners",
+      "title": "How to Start a Vinyl Record Collection: A Beginner's Guide",
+      "goal": "How to start a collection of vinyl records",
+      "category": "hobbies",
+      "tags": [
+        "vinyl",
+        "records",
+        "music collection"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15205,
+      "moduleCount": 10,
+      "readingTimeMins": 61,
+      "metaDescription": "How to Start a Vinyl Record Collection: A Beginner's Guide — a free beginner-level guide covering how to start a collection of vinyl records. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T08:59:58.898Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-french-for-travel-essential-phrases-and-tips",
+      "title": "Basic French for Travel: Essential Phrases and Tips",
+      "goal": "Learn basic French for travel",
+      "category": "language",
+      "tags": [
+        "french",
+        "travel",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20223,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Basic French for Travel: Essential Phrases and Tips — a free beginner-level guide covering learn basic french for travel. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T08:58:30.309Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "airtable-for-beginners-build-your-first-database",
       "title": "Airtable for Beginners: Build Your First Database",
       "goal": "How to use Airtable for beginners",
@@ -16946,6 +17086,6 @@
       "edition": "street"
     }
   ],
-  "total": 854,
-  "generatedAt": "2026-07-31T08:34:14.313Z"
+  "total": 861,
+  "generatedAt": "2026-07-31T09:09:28.760Z"
 }
