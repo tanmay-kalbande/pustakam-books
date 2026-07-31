@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "unreal-engine-5-for-beginners-a-stepbystep-guide-t",
+      "title": "Unreal Engine 5 for Beginners: A Step-by-Step Guide to Game Development",
+      "goal": "How to use Unreal Engine 5 for beginners",
+      "category": "software-tools",
+      "tags": [
+        "game dev",
+        "3d rendering",
+        "unreal engine"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29005,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "Unreal Engine 5 for Beginners: A Step-by-Step Guide to Game Development — a free beginner-level guide covering how to use unreal engine 5 for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T03:38:16.813Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-create-a-budget-for-couples-a-stepbystep-gu",
+      "title": "How to Create a Budget for Couples: A Step-by-Step Guide",
+      "goal": "How to make a budget for couples",
+      "category": "finance",
+      "tags": [
+        "budgeting",
+        "couples",
+        "money management"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16684,
+      "moduleCount": 11,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Create a Budget for Couples: A Step-by-Step Guide — a free beginner-level guide covering how to make a budget for couples. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T03:34:43.251Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stop-dog-barking-a-comprehensive-training-g",
+      "title": "How to Stop Dog Barking: A Comprehensive Training Guide",
+      "goal": "How to train a dog to stop barking",
+      "category": "pets",
+      "tags": [
+        "dog training",
+        "behavior",
+        "puppy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12087,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "How to Stop Dog Barking: A Comprehensive Training Guide — a free intermediate-level guide covering how to train a dog to stop barking. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-07-31T03:33:06.685Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-sew-with-a-machine-a-beginners-stepbystep",
+      "title": "Learn to Sew with a Machine: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to sew for beginners with a machine",
+      "category": "sewing",
+      "tags": [
+        "sewing",
+        "sewing machine",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23386,
+      "moduleCount": 11,
+      "readingTimeMins": 94,
+      "metaDescription": "Learn to Sew with a Machine: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to sew for beginners with a machine. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T03:31:42.575Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-techniques-for-professional-food-photogra",
+      "title": "Advanced Techniques for Professional Food Photography",
+      "goal": "Advanced techniques for professional food photography",
+      "category": "photography",
+      "tags": [
+        "food photography",
+        "lighting",
+        "professional"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 26599,
+      "moduleCount": 12,
+      "readingTimeMins": 107,
+      "metaDescription": "Advanced Techniques for Professional Food Photography — a free advanced-level guide covering advanced techniques for professional food photography....",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T03:29:42.765Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-sew-for-absolute-beginners-a-stepbystep-g",
+      "title": "Learn to Sew for Absolute Beginners: A Step-by-Step Guide",
+      "goal": "Learn to sew for absolute beginners",
+      "category": "sewing",
+      "tags": [
+        "sewing",
+        "DIY",
+        "clothing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16213,
+      "moduleCount": 12,
+      "readingTimeMins": 65,
+      "metaDescription": "Learn to Sew for Absolute Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to sew for absolute beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T03:27:10.339Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-identifying-stars-and-constella",
+      "title": "Beginner's Guide to Identifying Stars and Constellations",
+      "goal": "Beginner's guide to identifying stars and constellations",
+      "category": "astronomy",
+      "tags": [
+        "stargazing",
+        "stars",
+        "night sky"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21947,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Beginner's Guide to Identifying Stars and Constellations — a free beginner-level guide covering beginner's guide to identifying stars and...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T03:25:40.908Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-your-dslr-camera-a-beginners-stepbystep",
+      "title": "Mastering Your DSLR Camera: A Beginner's Step-by-Step Guide",
+      "goal": "How to use a DSLR camera for beginners",
+      "category": "photography",
+      "tags": [
+        "DSLR",
+        "camera basics",
+        "photography"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17671,
+      "moduleCount": 11,
+      "readingTimeMins": 71,
+      "metaDescription": "Mastering Your DSLR Camera: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to use a dslr camera for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T03:24:02.265Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-astral-projection-and-lucid-dre",
+      "title": "Beginner's Guide to Astral Projection and Lucid Dreaming",
+      "goal": "Beginner's guide to astral projection and lucid dreaming",
+      "category": "wellness",
+      "tags": [
+        "sleep",
+        "lucid dreaming",
+        "mindset"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15491,
+      "moduleCount": 10,
+      "readingTimeMins": 62,
+      "metaDescription": "Beginner's Guide to Astral Projection and Lucid Dreaming — a free beginner-level guide covering beginner's guide to astral projection and lucid...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T03:22:35.884Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-sew-a-pillowcase-a-beginners-stepbystep-gui",
       "title": "How to Sew a Pillowcase: A Beginner's Step-by-Step Guide",
       "goal": "Learn to sew a pillowcase for beginners",
@@ -16446,6 +16626,6 @@
       "edition": "street"
     }
   ],
-  "total": 829,
-  "generatedAt": "2026-07-30T22:24:51.885Z"
+  "total": 838,
+  "generatedAt": "2026-07-31T03:40:01.392Z"
 }
