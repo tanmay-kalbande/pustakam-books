@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "leather-journal-making-for-beginners-a-stepbystep",
+      "title": "Leather Journal Making for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to make leather journals for beginners",
+      "category": "leatherworking",
+      "tags": [
+        "journals",
+        "leather",
+        "bookbinding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22554,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "Leather Journal Making for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to make leather journals for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T07:23:00.227Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-golf-swing-basics-for-beginners",
+      "title": "Learn Golf Swing Basics for Beginners",
+      "goal": "Learn golf swing basics for beginners",
+      "category": "sports",
+      "tags": [
+        "golf",
+        "swing",
+        "country club"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20072,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Learn Golf Swing Basics for Beginners — a free beginner-level guide covering learn golf swing basics for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T07:20:13.375Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "surfing-for-beginners-catch-your-first-wave",
+      "title": "Surfing for Beginners: Catch Your First Wave",
+      "goal": "How to start surfing for absolute beginners",
+      "category": "sports",
+      "tags": [
+        "surfing",
+        "ocean",
+        "board sports"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24287,
+      "moduleCount": 12,
+      "readingTimeMins": 98,
+      "metaDescription": "Surfing for Beginners: Catch Your First Wave — a free beginner-level guide covering how to start surfing for absolute beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T07:17:44.013Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "cinematic-sound-design-for-film-a-comprehensive-gu",
+      "title": "Cinematic Sound Design for Film: A Comprehensive Guide",
+      "goal": "How to make cinematic sound effects for film",
+      "category": "music-production",
+      "tags": [
+        "foley",
+        "sound design",
+        "cinema"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 16713,
+      "moduleCount": 11,
+      "readingTimeMins": 67,
+      "metaDescription": "Cinematic Sound Design for Film: A Comprehensive Guide — a free intermediate-level guide covering how to make cinematic sound effects for film. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T07:13:32.992Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-banjo-for-beginners-a-stepbystep",
+      "title": "Learn to Play the Banjo for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to play the banjo for beginners",
+      "category": "music",
+      "tags": [
+        "banjo",
+        "strings",
+        "folk"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18130,
+      "moduleCount": 10,
+      "readingTimeMins": 73,
+      "metaDescription": "Learn to Play the Banjo for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to play the banjo for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T07:10:40.822Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "acrylic-painting-for-beginners-stepbystep-learning",
+      "title": "Acrylic Painting for Beginners: Step-by-Step Learning Roadmap",
+      "goal": "Learn to do acrylic painting for beginners",
+      "category": "art",
+      "tags": [
+        "acrylics",
+        "painting",
+        "canvas"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28566,
+      "moduleCount": 12,
+      "readingTimeMins": 115,
+      "metaDescription": "Acrylic Painting for Beginners: Step-by-Step Learning Roadmap — a free beginner-level guide covering learn to do acrylic painting for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T07:07:58.317Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "unreal-engine-5-for-beginners-a-stepbystep-guide-t",
       "title": "Unreal Engine 5 for Beginners: A Step-by-Step Guide to Game Development",
       "goal": "How to use Unreal Engine 5 for beginners",
@@ -16626,6 +16746,6 @@
       "edition": "street"
     }
   ],
-  "total": 838,
-  "generatedAt": "2026-07-31T03:40:01.392Z"
+  "total": 844,
+  "generatedAt": "2026-07-31T07:24:06.265Z"
 }
