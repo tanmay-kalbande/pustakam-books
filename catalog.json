@@ -1,6 +1,226 @@
 {
   "books": [
     {
+      "slug": "how-to-make-a-wooden-jewelry-box-stepbystep-beginn",
+      "title": "How to Make a Wooden Jewelry Box: Step-by-Step Beginner Guide",
+      "goal": "How to make a wooden jewelry box",
+      "category": "woodworking",
+      "tags": [
+        "storage",
+        "carpentry",
+        "small projects"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33322,
+      "moduleCount": 13,
+      "readingTimeMins": 134,
+      "metaDescription": "How to Make a Wooden Jewelry Box: Step-by-Step Beginner Guide — a free beginner-level guide covering how to make a wooden jewelry box. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T15:47:57.151Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-sew-a-simple-tote-bag-stepbystep-guid",
+      "title": "Learn How to Sew a Simple Tote Bag: Step-by-Step Guide",
+      "goal": "How to sew a simple tote bag",
+      "category": "sewing",
+      "tags": [
+        "bags",
+        "fabric",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26061,
+      "moduleCount": 13,
+      "readingTimeMins": 105,
+      "metaDescription": "Learn How to Sew a Simple Tote Bag: Step-by-Step Guide — a free beginner-level guide covering how to sew a simple tote bag. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T15:43:30.836Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-dishwasher-pump-stepbystep-guide",
+      "title": "How to Fix a Dishwasher Pump: Step-by-Step Guide",
+      "goal": "How to fix a broken dishwasher pump",
+      "category": "trades",
+      "tags": [
+        "appliances",
+        "repair",
+        "plumbing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27453,
+      "moduleCount": 12,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Fix a Dishwasher Pump: Step-by-Step Guide — a free advanced-level guide covering how to fix a broken dishwasher pump. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-07-31T15:39:10.547Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-prune-roses-for-beginners-step-by-step",
+      "title": "How to Prune Roses for Beginners Step by Step",
+      "goal": "How to prune roses for beginners",
+      "category": "gardening",
+      "tags": [
+        "roses",
+        "pruning",
+        "flowers"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26602,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Prune Roses for Beginners Step by Step — a free beginner-level guide covering how to prune roses for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T15:36:39.886Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-master-the-proper-squat-beginner-guide",
+      "title": "How to Master the Proper Squat – Beginner Guide",
+      "goal": "How to do a proper squat",
+      "category": "fitness",
+      "tags": [
+        "squats",
+        "weightlifting",
+        "form"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22586,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Master the Proper Squat – Beginner Guide — a free beginner-level guide covering how to do a proper squat. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T15:31:46.001Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-ride-a-horse-a-complete-beginners-guide",
+      "title": "How to Ride a Horse: A Complete Beginner's Guide",
+      "goal": "Learn how to ride a horse",
+      "category": "sports",
+      "tags": [
+        "horseback riding",
+        "equestrian",
+        "animals"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26172,
+      "moduleCount": 13,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Ride a Horse: A Complete Beginner's Guide — a free beginner-level guide covering learn how to ride a horse. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T15:27:56.715Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-a-map-a-beginners-stepbystep-guide",
+      "title": "How to Read a Map: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to read a map",
+      "category": "outdoor",
+      "tags": [
+        "navigation",
+        "hiking",
+        "map"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29462,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Read a Map: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to read a map. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T15:24:27.575Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "kids-woodworking-basics-easy-projects-safe-tools",
+      "title": "Kids Woodworking Basics: Easy Projects & Safe Tools",
+      "goal": "Learn basic woodworking for kids",
+      "category": "woodworking",
+      "tags": [
+        "kids",
+        "woodworking",
+        "projects"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29709,
+      "moduleCount": 12,
+      "readingTimeMins": 119,
+      "metaDescription": "Kids Woodworking Basics: Easy Projects & Safe Tools — a free beginner-level guide covering learn basic woodworking for kids. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T15:19:45.057Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-crochet-stitches-for-beginners-stepbys",
+      "title": "Learn Basic Crochet Stitches for Beginners: Step-by-Step Guide",
+      "goal": "Learn basic crochet stitches for beginners",
+      "category": "crochet",
+      "tags": [
+        "crochet",
+        "yarn",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28466,
+      "moduleCount": 13,
+      "readingTimeMins": 114,
+      "metaDescription": "Learn Basic Crochet Stitches for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn basic crochet stitches for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-07-31T15:15:51.886Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-train-for-a-5k-run-a-complete-beginners-gui",
+      "title": "How to Train for a 5K Run: A Complete Beginner's Guide",
+      "goal": "How to train for a 5k run",
+      "category": "fitness",
+      "tags": [
+        "running",
+        "cardio",
+        "5k"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26624,
+      "moduleCount": 13,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Train for a 5K Run: A Complete Beginner's Guide — a free beginner-level guide covering how to train for a 5k run. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-07-31T15:13:29.129Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-jiu-jitsu-for-selfdefense-beginners-guide",
+      "title": "Basic Jiu Jitsu for Self-Defense: Beginner's Guide",
+      "goal": "Learn basic Jiu Jitsu for self defense",
+      "category": "martial-arts",
+      "tags": [
+        "grappling",
+        "self-defense",
+        "BJJ"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20717,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Basic Jiu Jitsu for Self-Defense: Beginner's Guide — a free beginner-level guide covering learn basic jiu jitsu for self defense. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-07-31T15:08:15.104Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-knit-a-baby-hat-beginner-stepbystep-guide",
       "title": "How to Knit a Baby Hat: Beginner Step-by-Step Guide",
       "goal": "How to knit a baby hat",
@@ -17606,6 +17826,6 @@
       "edition": "street"
     }
   ],
-  "total": 887,
-  "generatedAt": "2026-07-31T15:01:52.447Z"
+  "total": 898,
+  "generatedAt": "2026-07-31T15:47:58.405Z"
 }
