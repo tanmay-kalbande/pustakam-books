@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "discord-community-management-beginner-guide",
+      "title": "Discord Community Management: Beginner Guide",
+      "goal": "How to use Discord for community management",
+      "category": "software-tools",
+      "tags": [
+        "discord",
+        "community",
+        "moderation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21896,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Discord Community Management: Beginner Guide — a free beginner-level guide covering how to use discord for community management. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T14:02:59.012Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-turkish-fast-complete-beginners-guide",
+      "title": "Learn Turkish Fast: Complete Beginner's Guide",
+      "goal": "How to learn Turkish for beginners",
+      "category": "language",
+      "tags": [
+        "turkish",
+        "language learning",
+        "travel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24235,
+      "moduleCount": 14,
+      "readingTimeMins": 97,
+      "metaDescription": "Learn Turkish Fast: Complete Beginner's Guide — a free beginner-level guide covering how to learn turkish for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T13:59:19.708Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "zoom-for-business-beginners-stepbystep-guide",
+      "title": "Zoom for Business Beginners: Step-by-Step Guide",
+      "goal": "How to use Zoom for business beginners",
+      "category": "software-tools",
+      "tags": [
+        "zoom",
+        "meetings",
+        "communication"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18062,
+      "moduleCount": 8,
+      "readingTimeMins": 73,
+      "metaDescription": "Zoom for Business Beginners: Step-by-Step Guide — a free beginner-level guide covering how to use zoom for business beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T13:55:08.273Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-use-miro-for-brainstorming-a-complete-beg",
+      "title": "Learn to Use Miro for Brainstorming: A Complete Beginner's Guide",
+      "goal": "Learn to use Miro for brainstorming",
+      "category": "software-tools",
+      "tags": [
+        "miro",
+        "whiteboard",
+        "collaboration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23569,
+      "moduleCount": 12,
+      "readingTimeMins": 95,
+      "metaDescription": "Learn to Use Miro for Brainstorming: A Complete Beginner's Guide — a free beginner-level guide covering learn to use miro for brainstorming. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T13:53:29.769Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-serum-synthesis-techniques-for-music-prod",
+      "title": "Advanced Serum Synthesis Techniques for Music Producers",
+      "goal": "Advanced synthesis in Serum for producers",
+      "category": "music-production",
+      "tags": [
+        "serum",
+        "synth",
+        "sound design"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21386,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Advanced Serum Synthesis Techniques for Music Producers — a free advanced-level guide covering advanced synthesis in serum for producers. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T13:50:18.373Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-clickup-for-beginners-a-stepbystep-guid",
+      "title": "How to Use ClickUp for Beginners: A Step-by-Step Guide",
+      "goal": "How to use ClickUp for beginners",
+      "category": "software-tools",
+      "tags": [
+        "clickup",
+        "productivity",
+        "management"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24532,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Use ClickUp for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to use clickup for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T13:48:20.628Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-mondaycom-beginners-guide",
+      "title": "How to Use Monday.com: Beginner's Guide",
+      "goal": "How to use Monday.com for beginners",
+      "category": "software-tools",
+      "tags": [
+        "monday",
+        "workflow",
+        "management"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19169,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Use Monday.com: Beginner's Guide — a free beginner-level guide covering how to use monday.com for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T13:44:58.492Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-meal-prepping-for-beginners",
+      "title": "How to Start Meal Prepping for Beginners",
+      "goal": "How to start meal prepping for beginners",
+      "category": "health",
+      "tags": [
+        "meal-prep",
+        "nutrition",
+        "diet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21143,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Start Meal Prepping for Beginners — a free beginner-level guide covering how to start meal prepping for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T13:39:49.941Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-starting-a-garden-in-pots",
+      "title": "Beginner's Guide to Starting a Garden in Pots",
+      "goal": "How to start a garden in pots",
+      "category": "gardening",
+      "tags": [
+        "container-gardening",
+        "pots",
+        "urban-garden"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23680,
+      "moduleCount": 13,
+      "readingTimeMins": 95,
+      "metaDescription": "Beginner's Guide to Starting a Garden in Pots — a free beginner-level guide covering how to start a garden in pots. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T13:36:33.888Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-draw-from-scratch-a-beginners-stepbystep",
+      "title": "Learn to Draw from Scratch: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to draw for absolute beginners",
+      "category": "art",
+      "tags": [
+        "drawing",
+        "sketching",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26507,
+      "moduleCount": 12,
+      "readingTimeMins": 107,
+      "metaDescription": "Learn to Draw from Scratch: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to draw for absolute beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T13:34:09.442Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-change-spark-plugs-beginners-stepbystep-gui",
       "title": "How to Change Spark Plugs: Beginner's Step-by-Step Guide",
       "goal": "Beginner's guide to changing spark plugs",
@@ -19546,6 +19746,6 @@
       "edition": "street"
     }
   ],
-  "total": 984,
-  "generatedAt": "2026-08-01T11:30:38.747Z"
+  "total": 994,
+  "generatedAt": "2026-08-01T14:03:00.414Z"
 }
