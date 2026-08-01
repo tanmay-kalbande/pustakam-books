@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-play-viola-a-comprehensive-beginners-guide",
+      "title": "How to Play Viola: A Comprehensive Beginner's Guide",
+      "goal": "Learn to play the viola for beginners",
+      "category": "music",
+      "tags": [
+        "viola",
+        "strings",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14935,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Play Viola: A Comprehensive Beginner's Guide — a free beginner-level guide covering learn to play the viola for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T22:25:36.018Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "2d-game-asset-creation-in-photoshop-pro-techniques",
+      "title": "2D Game Asset Creation in Photoshop: Pro Techniques",
+      "goal": "How to create 2D game assets in Photoshop",
+      "category": "digital-art",
+      "tags": [
+        "Photoshop",
+        "game art",
+        "2D assets"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23011,
+      "moduleCount": 13,
+      "readingTimeMins": 93,
+      "metaDescription": "2D Game Asset Creation in Photoshop: Pro Techniques — a free intermediate-level guide covering how to create 2d game assets in photoshop. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T22:19:04.910Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-asana-for-team-collaboration-beginners",
+      "title": "How to Use Asana for Team Collaboration: Beginner's Guide",
+      "goal": "How to use Asana for team collaboration",
+      "category": "software-tools",
+      "tags": [
+        "Asana",
+        "management",
+        "workflow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19718,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Use Asana for Team Collaboration: Beginner's Guide — a free beginner-level guide covering how to use asana for team collaboration. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T22:15:51.411Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-trello-workflows-for-project-management",
+      "title": "Advanced Trello Workflows for Project Management",
+      "goal": "Advanced Trello workflows for project management",
+      "category": "software-tools",
+      "tags": [
+        "Trello",
+        "Kanban",
+        "productivity"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11343,
+      "moduleCount": 7,
+      "readingTimeMins": 46,
+      "metaDescription": "Advanced Trello Workflows for Project Management — a free advanced-level guide covering advanced trello workflows for project management. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-01T22:14:00.685Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-mixing-mastering-techniques-for-electroni",
+      "title": "Advanced Mixing & Mastering Techniques for Electronic Music",
+      "goal": "Advanced mixing and mastering for electronic music",
+      "category": "music-production",
+      "tags": [
+        "mixing",
+        "mastering",
+        "EDM"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25124,
+      "moduleCount": 9,
+      "readingTimeMins": 101,
+      "metaDescription": "Advanced Mixing & Mastering Techniques for Electronic Music — a free advanced-level guide covering advanced mixing and mastering for electronic music....",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T22:12:45.832Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-vegetable-patch-beginner-guide",
+      "title": "How to Start a Vegetable Patch – Beginner Guide",
+      "goal": "How to start a vegetable patch",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "soil",
+        "outdoors"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19286,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Start a Vegetable Patch – Beginner Guide — a free beginner-level guide covering how to start a vegetable patch. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T22:07:51.164Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-speak-french-complete-beginners-guide",
+      "title": "Learn to Speak French: Complete Beginner's Guide",
+      "goal": "Learn to speak French for beginners",
+      "category": "language",
+      "tags": [
+        "french",
+        "speaking",
+        "travel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30896,
+      "moduleCount": 14,
+      "readingTimeMins": 124,
+      "metaDescription": "Learn to Speak French: Complete Beginner's Guide — a free beginner-level guide covering learn to speak french for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T22:05:52.663Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-singles-tennis-strategies-master-the-cour",
       "title": "Advanced Singles Tennis Strategies: Master the Court",
       "goal": "Learn advanced tennis strategies for singles",
@@ -20166,6 +20306,6 @@
       "edition": "street"
     }
   ],
-  "total": 1015,
-  "generatedAt": "2026-08-01T19:41:49.393Z"
+  "total": 1022,
+  "generatedAt": "2026-08-01T22:25:37.512Z"
 }
