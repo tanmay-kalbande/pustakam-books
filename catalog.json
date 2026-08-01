@@ -1,6 +1,406 @@
 {
   "books": [
     {
+      "slug": "google-ads-for-beginners-a-complete-stepbystep-gui",
+      "title": "Google Ads for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Learn to use Google Ads for beginners",
+      "category": "marketing",
+      "tags": [
+        "google ads",
+        "ppc",
+        "advertising"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21132,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Google Ads for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering learn to use google ads for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T03:23:57.136Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-stock-portfolio-for-beginners",
+      "title": "How to Start a Stock Portfolio for Beginners",
+      "goal": "How to start a stock portfolio for beginners",
+      "category": "finance",
+      "tags": [
+        "stocks",
+        "investing",
+        "portfolio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33358,
+      "moduleCount": 14,
+      "readingTimeMins": 134,
+      "metaDescription": "How to Start a Stock Portfolio for Beginners — a free beginner-level guide covering how to start a stock portfolio for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T03:20:24.249Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-starting-a-saltwater-aquarium",
+      "title": "Beginner's Guide to Starting a Saltwater Aquarium",
+      "goal": "Beginner's guide to starting a saltwater aquarium",
+      "category": "pets",
+      "tags": [
+        "fish tank",
+        "saltwater",
+        "coral"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17220,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "Beginner's Guide to Starting a Saltwater Aquarium — a free beginner-level guide covering beginner's guide to starting a saltwater aquarium. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T03:17:09.820Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-kiteboarding-a-beginners-stepbystep-g",
+      "title": "How to Start Kiteboarding: A Beginner's Step-by-Step Guide",
+      "goal": "How to start kiteboarding for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "kiteboarding",
+        "water sports",
+        "outdoors"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31913,
+      "moduleCount": 13,
+      "readingTimeMins": 128,
+      "metaDescription": "How to Start Kiteboarding: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start kiteboarding for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T03:14:11.736Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-song-lyrics-for-beginners",
+      "title": "How to Write Song Lyrics for Beginners",
+      "goal": "Learn to write lyrics for beginners",
+      "category": "music-production",
+      "tags": [
+        "songwriting",
+        "lyrics",
+        "creative writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22774,
+      "moduleCount": 12,
+      "readingTimeMins": 92,
+      "metaDescription": "How to Write Song Lyrics for Beginners — a free beginner-level guide covering learn to write lyrics for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T03:10:37.456Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-a-condenser-microphone-a-beginners-guid",
+      "title": "How to Use a Condenser Microphone: A Beginner's Guide",
+      "goal": "How to use a condenser microphone",
+      "category": "music-production",
+      "tags": [
+        "recording",
+        "microphones",
+        "audio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13309,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Use a Condenser Microphone: A Beginner's Guide — a free beginner-level guide covering how to use a condenser microphone. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-01T03:07:12.269Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-mix-and-master-professional-podcasts",
+      "title": "Learn to Mix and Master Professional Podcasts",
+      "goal": "Learn to mix and master podcasts",
+      "category": "music-production",
+      "tags": [
+        "podcasting",
+        "audio editing",
+        "mixing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 32904,
+      "moduleCount": 13,
+      "readingTimeMins": 132,
+      "metaDescription": "Learn to Mix and Master Professional Podcasts — a free intermediate-level guide covering learn to mix and master podcasts. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T03:06:05.678Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-character-rigging-in-autodesk-maya",
+      "title": "Advanced Character Rigging in Autodesk Maya",
+      "goal": "Advanced Maya rigging for 3D characters",
+      "category": "digital-art",
+      "tags": [
+        "Maya",
+        "rigging",
+        "animation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13377,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Advanced Character Rigging in Autodesk Maya — a free advanced-level guide covering advanced maya rigging for 3d characters. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-01T03:01:22.807Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-slack-for-team-communication-a-beginner",
+      "title": "How to Use Slack for Team Communication: A Beginner's Guide",
+      "goal": "How to use Slack for team communication",
+      "category": "software-tools",
+      "tags": [
+        "Slack",
+        "communication",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17913,
+      "moduleCount": 11,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Use Slack for Team Communication: A Beginner's Guide — a free beginner-level guide covering how to use slack for team communication. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T02:56:17.552Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-google-sheets-formulas-and-automation-mas",
+      "title": "Advanced Google Sheets Formulas and Automation Mastery",
+      "goal": "Advanced Google Sheets formulas and automation",
+      "category": "software-tools",
+      "tags": [
+        "Google Sheets",
+        "spreadsheets",
+        "data"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31628,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "Advanced Google Sheets Formulas and Automation Mastery — a free advanced-level guide covering advanced google sheets formulas and automation. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T02:53:57.144Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-open-water-swimming",
+      "title": "Beginner's Guide to Open Water Swimming",
+      "goal": "Beginner's guide to open water swimming",
+      "category": "outdoor-sports",
+      "tags": [
+        "swimming",
+        "open water",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21539,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "Beginner's Guide to Open Water Swimming — a free beginner-level guide covering beginner's guide to open water swimming. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T02:50:56.053Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-mountain-biking-jumps-airs-skills-mastery",
+      "title": "Advanced Mountain Biking Jumps & Airs: Skills Mastery Guide",
+      "goal": "Advanced mountain biking skills and jumps",
+      "category": "outdoor-sports",
+      "tags": [
+        "MTB",
+        "cycling",
+        "extreme sports"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30125,
+      "moduleCount": 13,
+      "readingTimeMins": 121,
+      "metaDescription": "Advanced Mountain Biking Jumps & Airs: Skills Mastery Guide — a free advanced-level guide covering advanced mountain biking skills and jumps. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T02:47:42.088Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-polish-fast-for-beginners-a-complete-stepbys",
+      "title": "Learn Polish Fast for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to learn Polish for beginners",
+      "category": "language",
+      "tags": [
+        "Polish",
+        "language learning",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26741,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "Learn Polish Fast for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to learn polish for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T02:44:35.281Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-using-a-midi-controller",
+      "title": "Beginner's Guide to Using a MIDI Controller",
+      "goal": "How to use a MIDI controller for beginners",
+      "category": "music-production",
+      "tags": [
+        "MIDI",
+        "hardware",
+        "music gear"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23288,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "Beginner's Guide to Using a MIDI Controller — a free beginner-level guide covering how to use a midi controller for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T02:38:55.695Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "3d-asset-creation-for-games-intermediate-to-advanc",
+      "title": "3D Asset Creation for Games: Intermediate to Advanced Techniques",
+      "goal": "How to create 3D assets for games",
+      "category": "digital-art",
+      "tags": [
+        "game art",
+        "3D modeling",
+        "assets"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27618,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "3D Asset Creation for Games: Intermediate to Advanced Techniques — a free intermediate-level guide covering how to create 3d assets for games. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T02:36:19.198Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-blender-3d-lighting-and-rendering-mastery",
+      "title": "Advanced Blender 3D Lighting and Rendering Mastery",
+      "goal": "Advanced Blender 3D lighting and rendering",
+      "category": "digital-art",
+      "tags": [
+        "3D modeling",
+        "rendering",
+        "lighting"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 29002,
+      "moduleCount": 11,
+      "readingTimeMins": 117,
+      "metaDescription": "Advanced Blender 3D Lighting and Rendering Mastery — a free advanced-level guide covering advanced blender 3d lighting and rendering. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T02:31:36.457Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-natural-face-masks-at-home-the-complet",
+      "title": "How to Make Natural Face Masks at Home: The Complete Beginner's Guide",
+      "goal": "How to make a natural face mask at home",
+      "category": "skincare",
+      "tags": [
+        "skincare",
+        "natural",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24388,
+      "moduleCount": 14,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Make Natural Face Masks at Home: The Complete Beginner's Guide — a free beginner-level guide covering how to make a natural face mask at home....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T02:29:05.036Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-succulent-garden-for-beginners",
+      "title": "How to Start a Succulent Garden for Beginners",
+      "goal": "How to start a succulent garden",
+      "category": "gardening",
+      "tags": [
+        "succulents",
+        "houseplants",
+        "low-maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33985,
+      "moduleCount": 15,
+      "readingTimeMins": 136,
+      "metaDescription": "How to Start a Succulent Garden for Beginners — a free beginner-level guide covering how to start a succulent garden. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T02:25:49.749Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-professional-resume-for-beginners-st",
+      "title": "How to Make a Professional Resume for Beginners Step by Step",
+      "goal": "How to make a professional resume for beginners",
+      "category": "career",
+      "tags": [
+        "resume",
+        "job-search",
+        "career-advice"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28987,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "How to Make a Professional Resume for Beginners Step by Step — a free beginner-level guide covering how to make a professional resume for beginners....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T02:22:12.576Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-keyboard-for-beginners-a-stepbystep",
+      "title": "Learn to Play Keyboard for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to play the keyboard for beginners",
+      "category": "music",
+      "tags": [
+        "keyboard",
+        "piano",
+        "music-theory"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17749,
+      "moduleCount": 9,
+      "readingTimeMins": 71,
+      "metaDescription": "Learn to Play Keyboard for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to play the keyboard for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T02:16:59.730Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-stop-procrastinating-and-be-productive",
       "title": "How to Stop Procrastinating and Be Productive",
       "goal": "How to stop procrastination and be productive",
@@ -18626,6 +19026,6 @@
       "edition": "street"
     }
   ],
-  "total": 938,
-  "generatedAt": "2026-07-31T22:41:29.814Z"
+  "total": 958,
+  "generatedAt": "2026-08-01T03:23:58.527Z"
 }
