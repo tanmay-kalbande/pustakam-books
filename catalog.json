@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-create-a-professional-linkedin-profile",
+      "title": "How to Create a Professional LinkedIn Profile",
+      "goal": "How to make a professional LinkedIn profile",
+      "category": "career",
+      "tags": [
+        "linkedin",
+        "networking",
+        "career"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28059,
+      "moduleCount": 13,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Create a Professional LinkedIn Profile — a free beginner-level guide covering how to make a professional linkedin profile. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T03:41:23.088Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-drive-a-manual-car-beginners-stepbystep-g",
+      "title": "Learn to Drive a Manual Car: Beginner's Step-by-Step Guide",
+      "goal": "Learn to drive a manual car for beginners",
+      "category": "automotive",
+      "tags": [
+        "driving",
+        "manual",
+        "stick shift"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18752,
+      "moduleCount": 8,
+      "readingTimeMins": 76,
+      "metaDescription": "Learn to Drive a Manual Car: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to drive a manual car for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T03:37:09.909Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-piano-from-zero-to",
+      "title": "Beginner's Guide to Learning the Piano: From Zero to First Song",
+      "goal": "Beginner's guide to learning the piano",
+      "category": "music",
+      "tags": [
+        "piano",
+        "keyboard",
+        "music theory"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27747,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "Beginner's Guide to Learning the Piano: From Zero to First Song — a free beginner-level guide covering beginner's guide to learning the piano. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T03:35:52.556Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-reading-the-stars",
+      "title": "Beginner's Guide to Reading the Stars",
+      "goal": "Beginner's guide to reading the stars",
+      "category": "astronomy",
+      "tags": [
+        "stars",
+        "night sky",
+        "stargazing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18109,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "Beginner's Guide to Reading the Stars — a free beginner-level guide covering beginner's guide to reading the stars. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T03:31:23.735Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "google-ads-for-beginners-a-complete-stepbystep-gui",
       "title": "Google Ads for Beginners: A Complete Step-by-Step Guide",
       "goal": "Learn to use Google Ads for beginners",
@@ -19026,6 +19106,6 @@
       "edition": "street"
     }
   ],
-  "total": 958,
-  "generatedAt": "2026-08-01T03:23:58.527Z"
+  "total": 962,
+  "generatedAt": "2026-08-01T03:44:18.875Z"
 }
