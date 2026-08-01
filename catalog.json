@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "advanced-singles-tennis-strategies-master-the-cour",
+      "title": "Advanced Singles Tennis Strategies: Master the Court",
+      "goal": "Learn advanced tennis strategies for singles",
+      "category": "sports",
+      "tags": [
+        "tennis",
+        "strategy",
+        "athletics"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21905,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Advanced Singles Tennis Strategies: Master the Court — a free advanced-level guide covering learn advanced tennis strategies for singles. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T19:41:47.934Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "triathlon-training-for-beginners-complete-stepbyst",
+      "title": "Triathlon Training for Beginners: Complete Step-by-Step Guide",
+      "goal": "How to start triathlon training for beginners",
+      "category": "sports",
+      "tags": [
+        "triathlon",
+        "endurance",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29653,
+      "moduleCount": 14,
+      "readingTimeMins": 119,
+      "metaDescription": "Triathlon Training for Beginners: Complete Step-by-Step Guide — a free beginner-level guide covering how to start triathlon training for beginners....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T19:39:44.985Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-adobe-illustrator-a-beginners-guide-to-vecto",
+      "title": "Learn Adobe Illustrator: A Beginner's Guide to Vector Art",
+      "goal": "Learn Adobe Illustrator for vector art",
+      "category": "design",
+      "tags": [
+        "illustrator",
+        "vector",
+        "graphic design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16596,
+      "moduleCount": 10,
+      "readingTimeMins": 67,
+      "metaDescription": "Learn Adobe Illustrator: A Beginner's Guide to Vector Art — a free beginner-level guide covering learn adobe illustrator for vector art. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T19:32:30.340Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-google-analytics-4-setup-and-tracking-mas",
+      "title": "Advanced Google Analytics 4 Setup and Tracking Mastery",
+      "goal": "Advanced Google Analytics 4 setup and tracking",
+      "category": "marketing",
+      "tags": [
+        "ga4",
+        "analytics",
+        "data"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31712,
+      "moduleCount": 13,
+      "readingTimeMins": 127,
+      "metaDescription": "Advanced Google Analytics 4 Setup and Tracking Mastery — a free advanced-level guide covering advanced google analytics 4 setup and tracking. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T19:29:52.352Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-whitewater-kayaking-techniques-for-interm",
+      "title": "Advanced Whitewater Kayaking Techniques for Intermediate Paddlers",
+      "goal": "Intermediate kayaking techniques for whitewater",
+      "category": "outdoor-sports",
+      "tags": [
+        "kayaking",
+        "whitewater",
+        "paddling"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23372,
+      "moduleCount": 12,
+      "readingTimeMins": 94,
+      "metaDescription": "Advanced Whitewater Kayaking Techniques for Intermediate Paddlers — a free intermediate-level guide covering intermediate kayaking techniques for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T19:25:13.076Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-subscription-box-business-stepbyste",
+      "title": "How to Start a Subscription Box Business: Step-by-Step Guide",
+      "goal": "How to start a subscription box business",
+      "category": "business",
+      "tags": [
+        "subscription box",
+        "ecommerce",
+        "startup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25489,
+      "moduleCount": 14,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Start a Subscription Box Business: Step-by-Step Guide — a free beginner-level guide covering how to start a subscription box business. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T19:21:22.345Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-perfect-pushup-for-beginners",
+      "title": "How to Do a Perfect Push-Up for Beginners",
+      "goal": "How to do a push up for beginners",
+      "category": "fitness",
+      "tags": [
+        "strength",
+        "workout",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18539,
+      "moduleCount": 10,
+      "readingTimeMins": 75,
+      "metaDescription": "How to Do a Perfect Push-Up for Beginners — a free beginner-level guide covering how to do a push up for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T19:18:26.528Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-custom-tshirts-at-home-beginners-guide",
       "title": "How to Make Custom T-Shirts at Home: Beginner's Guide",
       "goal": "How to make customized t-shirts at home",
@@ -20026,6 +20166,6 @@
       "edition": "street"
     }
   ],
-  "total": 1008,
-  "generatedAt": "2026-08-01T16:54:19.679Z"
+  "total": 1015,
+  "generatedAt": "2026-08-01T19:41:49.393Z"
 }
