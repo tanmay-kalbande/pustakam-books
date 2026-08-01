@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "yoga-for-seniors-a-beginners-guide-to-gentle-movem",
+      "title": "Yoga for Seniors: A Beginner's Guide to Gentle Movement",
+      "goal": "Learn basic yoga for seniors",
+      "category": "yoga",
+      "tags": [
+        "yoga",
+        "seniors",
+        "mobility"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17824,
+      "moduleCount": 10,
+      "readingTimeMins": 72,
+      "metaDescription": "Yoga for Seniors: A Beginner's Guide to Gentle Movement — a free beginner-level guide covering learn basic yoga for seniors. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T09:02:58.548Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-adults-can-learn-to-swim-a-beginners-stepbyste",
+      "title": "How Adults Can Learn to Swim: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to swim for adults beginners",
+      "category": "sports",
+      "tags": [
+        "swimming",
+        "adult learning",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30206,
+      "moduleCount": 14,
+      "readingTimeMins": 121,
+      "metaDescription": "How Adults Can Learn to Swim: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to swim for adults beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T09:00:53.190Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-surf-a-complete-beginners-guide-to-surfing",
+      "title": "How to Surf: A Complete Beginner's Guide to Surfing",
+      "goal": "Learn to surf for absolute beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "surfing",
+        "ocean",
+        "water sports"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14493,
+      "moduleCount": 8,
+      "readingTimeMins": 58,
+      "metaDescription": "How to Surf: A Complete Beginner's Guide to Surfing — a free beginner-level guide covering learn to surf for absolute beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-01T08:57:30.230Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "wilderness-survival-skills-master-the-essentials",
+      "title": "Wilderness Survival Skills: Master the Essentials",
+      "goal": "How to survive in the wilderness",
+      "category": "outdoor",
+      "tags": [
+        "survival",
+        "camping",
+        "outdoors"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25483,
+      "moduleCount": 14,
+      "readingTimeMins": 102,
+      "metaDescription": "Wilderness Survival Skills: Master the Essentials — a free intermediate-level guide covering how to survive in the wilderness. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T08:52:14.710Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-b2b-sales-closing-techniques",
+      "title": "Advanced B2B Sales Closing Techniques",
+      "goal": "Advanced B2B sales closing techniques",
+      "category": "business",
+      "tags": [
+        "sales",
+        "B2B",
+        "negotiation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21181,
+      "moduleCount": 10,
+      "readingTimeMins": 85,
+      "metaDescription": "Advanced B2B Sales Closing Techniques — a free advanced-level guide covering advanced b2b sales closing techniques. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T08:48:44.809Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-beehive-at-home-for-beginners",
+      "title": "How to Start a Beehive at Home for Beginners",
+      "goal": "How to start a beehive at home",
+      "category": "science",
+      "tags": [
+        "beekeeping",
+        "bees",
+        "honey"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29390,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Start a Beehive at Home for Beginners — a free beginner-level guide covering how to start a beehive at home. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T08:44:53.634Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-vinyasa-flow-yoga-sequences-mastery",
+      "title": "Intermediate Vinyasa Flow Yoga Sequences Mastery",
+      "goal": "Intermediate vinyasa flow yoga sequences",
+      "category": "yoga",
+      "tags": [
+        "vinyasa",
+        "yoga flow",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20068,
+      "moduleCount": 13,
+      "readingTimeMins": 81,
+      "metaDescription": "Intermediate Vinyasa Flow Yoga Sequences Mastery — a free intermediate-level guide covering intermediate vinyasa flow yoga sequences. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T08:38:55.179Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-water-heater-stepbystep-guide",
+      "title": "How to Install a Water Heater: Step-by-Step Guide",
+      "goal": "How to install a water heater",
+      "category": "trades",
+      "tags": [
+        "water heater",
+        "plumbing",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24332,
+      "moduleCount": 13,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Install a Water Heater: Step-by-Step Guide — a free intermediate-level guide covering how to install a water heater. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T08:36:26.380Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-jazz-saxophone-improvisation-techniques",
+      "title": "Advanced Jazz Saxophone Improvisation Techniques",
+      "goal": "Advanced jazz improvisation techniques for saxophone",
+      "category": "music",
+      "tags": [
+        "jazz",
+        "saxophone",
+        "improvisation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24731,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Advanced Jazz Saxophone Improvisation Techniques — a free advanced-level guide covering advanced jazz improvisation techniques for saxophone. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T08:32:42.920Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-create-a-professional-linkedin-profile",
       "title": "How to Create a Professional LinkedIn Profile",
       "goal": "How to make a professional LinkedIn profile",
@@ -19106,6 +19286,6 @@
       "edition": "street"
     }
   ],
-  "total": 962,
-  "generatedAt": "2026-08-01T03:44:18.875Z"
+  "total": 971,
+  "generatedAt": "2026-08-01T09:02:59.887Z"
 }
