@@ -1,6 +1,286 @@
 {
   "books": [
     {
+      "slug": "how-to-make-custom-tshirts-at-home-beginners-guide",
+      "title": "How to Make Custom T-Shirts at Home: Beginner's Guide",
+      "goal": "How to make customized t-shirts at home",
+      "category": "crafts",
+      "tags": [
+        "printing",
+        "t-shirts",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32487,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "How to Make Custom T-Shirts at Home: Beginner's Guide — a free beginner-level guide covering how to make customized t-shirts at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T16:54:18.211Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-transmission-repair-guide-for-beginners",
+      "title": "Advanced Transmission Repair Guide for Beginners",
+      "goal": "Advanced transmission repair for beginners",
+      "category": "mechanics",
+      "tags": [
+        "transmission",
+        "gearbox",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28493,
+      "moduleCount": 12,
+      "readingTimeMins": 114,
+      "metaDescription": "Advanced Transmission Repair Guide for Beginners — a free advanced-level guide covering advanced transmission repair for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T16:48:16.057Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-clean-a-fuel-injector-for-beginners-interme",
+      "title": "How to clean a fuel injector for beginners",
+      "goal": "How to clean a fuel injector for beginners",
+      "category": "mechanics",
+      "tags": [
+        "fuel system",
+        "engine",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21512,
+      "moduleCount": 13,
+      "readingTimeMins": 87,
+      "metaDescription": "How to clean a fuel injector for beginners — a free intermediate-level guide covering how to clean a fuel injector for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T16:44:47.034Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-diagnose-engine-noises-a-beginners-guide",
+      "title": "How to Diagnose Engine Noises: A Beginner's Guide",
+      "goal": "Beginner's guide to diagnosing engine noises",
+      "category": "mechanics",
+      "tags": [
+        "diagnosis",
+        "engine",
+        "troubleshooting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20303,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Diagnose Engine Noises: A Beginner's Guide — a free beginner-level guide covering beginner's guide to diagnosing engine noises. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T16:41:29.737Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-flush-a-radiator-a-beginners-stepbystep-gui",
+      "title": "How to Flush a Radiator: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to flush a radiator for beginners",
+      "category": "mechanics",
+      "tags": [
+        "cooling system",
+        "engine",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13714,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Flush a Radiator: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to flush a radiator for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-01T16:38:42.068Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-dovetail-joint-techniques-for-woodworkers",
+      "title": "Advanced Dovetail Joint Techniques for Woodworkers",
+      "goal": "Advanced dovetail joint techniques for woodworkers",
+      "category": "woodworking",
+      "tags": [
+        "joints",
+        "precision",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23999,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Advanced Dovetail Joint Techniques for Woodworkers — a free advanced-level guide covering advanced dovetail joint techniques for woodworkers. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T16:35:20.454Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-wooden-fence-a-beginners-stepbystep",
+      "title": "How to Build a Wooden Fence: A Beginner's Step-by-Step Guide",
+      "goal": "How to build a wooden fence for beginners",
+      "category": "woodworking",
+      "tags": [
+        "fencing",
+        "outdoor",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13646,
+      "moduleCount": 8,
+      "readingTimeMins": 55,
+      "metaDescription": "How to Build a Wooden Fence: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to build a wooden fence for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-01T16:33:16.248Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-soil-nutrient-management-strategies-for-g",
+      "title": "Advanced Soil Nutrient Management Strategies for Gardeners",
+      "goal": "Advanced soil nutrient management for gardeners",
+      "category": "gardening",
+      "tags": [
+        "soil",
+        "fertilizer",
+        "composting"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 34776,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "Advanced Soil Nutrient Management Strategies for Gardeners — a free advanced-level guide covering advanced soil nutrient management for gardeners....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-01T16:32:11.469Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-orchids-for-beginners-stepbystep-guide",
+      "title": "How to Grow Orchids for Beginners: Step-by-Step Guide",
+      "goal": "How to grow orchids for beginners",
+      "category": "gardening",
+      "tags": [
+        "orchids",
+        "flowers",
+        "indoor plants"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24202,
+      "moduleCount": 13,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Grow Orchids for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to grow orchids for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T16:27:28.903Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-hydroponic-lettuce",
+      "title": "Beginner's Guide to Hydroponic Lettuce",
+      "goal": "Beginner's guide to hydroponic lettuce",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "lettuce",
+        "soilless"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27213,
+      "moduleCount": 12,
+      "readingTimeMins": 109,
+      "metaDescription": "Beginner's Guide to Hydroponic Lettuce — a free beginner-level guide covering beginner's guide to hydroponic lettuce. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T16:23:58.542Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-blueberries-at-home-simple-stepbystep",
+      "title": "How to Grow Blueberries at Home: Simple Step-by-Step Guide",
+      "goal": "Best way to grow blueberries at home",
+      "category": "gardening",
+      "tags": [
+        "berries",
+        "fruit",
+        "planting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23479,
+      "moduleCount": 14,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Grow Blueberries at Home: Simple Step-by-Step Guide — a free beginner-level guide covering best way to grow blueberries at home. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T16:20:17.015Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-brew-kombucha-for-beginners",
+      "title": "How to Brew Kombucha for Beginners",
+      "goal": "How to brew kombucha for beginners",
+      "category": "culinary",
+      "tags": [
+        "fermentation",
+        "kombucha",
+        "probiotics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21759,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Brew Kombucha for Beginners — a free beginner-level guide covering how to brew kombucha for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T16:17:22.229Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-smoke-meat-for-beginners-a-complete-guide",
+      "title": "How to Smoke Meat for Beginners: A Complete Guide",
+      "goal": "How to smoke meats for beginners",
+      "category": "culinary",
+      "tags": [
+        "bbq",
+        "smoking",
+        "grilling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29483,
+      "moduleCount": 15,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Smoke Meat for Beginners: A Complete Guide — a free beginner-level guide covering how to smoke meats for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T16:14:46.435Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "cryptocurrency-trading-for-beginners-stepbystep-gu",
+      "title": "Cryptocurrency Trading for Beginners: Step-by-Step Guide",
+      "goal": "Beginner's guide to cryptocurrency trading",
+      "category": "finance",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "trading"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24100,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Cryptocurrency Trading for Beginners: Step-by-Step Guide — a free beginner-level guide covering beginner's guide to cryptocurrency trading. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T16:10:56.134Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "discord-community-management-beginner-guide",
       "title": "Discord Community Management: Beginner Guide",
       "goal": "How to use Discord for community management",
@@ -19746,6 +20026,6 @@
       "edition": "street"
     }
   ],
-  "total": 994,
-  "generatedAt": "2026-08-01T14:03:00.414Z"
+  "total": 1008,
+  "generatedAt": "2026-08-01T16:54:19.679Z"
 }
