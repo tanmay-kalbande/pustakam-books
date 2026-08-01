@@ -1,6 +1,266 @@
 {
   "books": [
     {
+      "slug": "how-to-change-spark-plugs-beginners-stepbystep-gui",
+      "title": "How to Change Spark Plugs: Beginner's Step-by-Step Guide",
+      "goal": "Beginner's guide to changing spark plugs",
+      "category": "mechanics",
+      "tags": [
+        "engine",
+        "spark plugs",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19813,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Change Spark Plugs: Beginner's Step-by-Step Guide — a free beginner-level guide covering beginner's guide to changing spark plugs. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T11:30:37.338Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-cabinetry-for-beginners-stepbystep-gui",
+      "title": "Learn Basic Cabinetry for Beginners - Step-by-Step Guide",
+      "goal": "Learn basic cabinetry for beginners",
+      "category": "woodworking",
+      "tags": [
+        "cabinets",
+        "storage",
+        "furniture"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30899,
+      "moduleCount": 14,
+      "readingTimeMins": 124,
+      "metaDescription": "Learn Basic Cabinetry for Beginners - Step-by-Step Guide — a free beginner-level guide covering learn basic cabinetry for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T11:28:35.261Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-pickle-vegetables-at-home",
+      "title": "Learn to Pickle Vegetables at Home",
+      "goal": "Learn how to pickle vegetables at home",
+      "category": "culinary",
+      "tags": [
+        "pickling",
+        "preserving",
+        "fermentation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18800,
+      "moduleCount": 8,
+      "readingTimeMins": 76,
+      "metaDescription": "Learn to Pickle Vegetables at Home — a free beginner-level guide covering learn how to pickle vegetables at home. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T11:23:30.303Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-take-professional-headshots-at-home",
+      "title": "How to Take Professional Headshots at Home",
+      "goal": "How to take professional headshots at home",
+      "category": "photography",
+      "tags": [
+        "portraits",
+        "lighting",
+        "headshots"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26659,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Take Professional Headshots at Home — a free intermediate-level guide covering how to take professional headshots at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T11:21:20.271Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-iphone-photography-tips-tricks",
+      "title": "Beginner's Guide to iPhone Photography: Tips & Tricks",
+      "goal": "iPhone photography tips for beginners",
+      "category": "photography",
+      "tags": [
+        "mobile photography",
+        "iphone",
+        "photos"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23065,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "Beginner's Guide to iPhone Photography: Tips & Tricks — a free beginner-level guide covering iphone photography tips for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T11:17:34.710Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-plot-twisting-techniques-for-novelists",
+      "title": "Advanced Plot Twisting Techniques for Novelists",
+      "goal": "Advanced plot twisting techniques for novelists",
+      "category": "writing",
+      "tags": [
+        "fiction",
+        "plotting",
+        "novel writing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 26294,
+      "moduleCount": 14,
+      "readingTimeMins": 106,
+      "metaDescription": "Advanced Plot Twisting Techniques for Novelists — a free advanced-level guide covering advanced plot twisting techniques for novelists. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T11:15:41.687Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-write-a-captivating-short-story",
+      "title": "Learn to Write a Captivating Short Story",
+      "goal": "Learn to write a captivating short story",
+      "category": "writing",
+      "tags": [
+        "fiction",
+        "storytelling",
+        "creative writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21845,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Learn to Write a Captivating Short Story — a free beginner-level guide covering learn to write a captivating short story. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T11:11:54.399Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "identify-moon-phases-major-craters-beginner-guide",
+      "title": "Identify Moon Phases & Major Craters – Beginner Guide",
+      "goal": "Learn to identify moon phases and craters",
+      "category": "astronomy",
+      "tags": [
+        "moon",
+        "lunar",
+        "stargazing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21707,
+      "moduleCount": 10,
+      "readingTimeMins": 87,
+      "metaDescription": "Identify Moon Phases & Major Craters – Beginner Guide — a free beginner-level guide covering learn to identify moon phases and craters. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T11:04:39.749Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-judo-throwing-techniques-mastery-guid",
+      "title": "Intermediate Judo Throwing Techniques Mastery Guide",
+      "goal": "Intermediate Judo throwing techniques",
+      "category": "martial-arts",
+      "tags": [
+        "judo",
+        "grappling",
+        "throws"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20248,
+      "moduleCount": 12,
+      "readingTimeMins": 81,
+      "metaDescription": "Intermediate Judo Throwing Techniques Mastery Guide — a free intermediate-level guide covering intermediate judo throwing techniques. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T11:02:47.633Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-capoeira-beginner-stepbystep-guide",
+      "title": "How to Start Capoeira: Beginner Step-by-Step Guide",
+      "goal": "How to start Capoeira for beginners",
+      "category": "martial-arts",
+      "tags": [
+        "brazilian art",
+        "dance",
+        "martial arts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27118,
+      "moduleCount": 13,
+      "readingTimeMins": 109,
+      "metaDescription": "How to Start Capoeira: Beginner Step-by-Step Guide — a free beginner-level guide covering how to start capoeira for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-01T11:00:11.967Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-wing-chun-for-self-defense-beginners-g",
+      "title": "Learn Basic Wing Chun for Self Defense: Beginner's Guide",
+      "goal": "Learn basic Wing Chun for self defense",
+      "category": "martial-arts",
+      "tags": [
+        "kung fu",
+        "self-defense",
+        "wing chun"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26942,
+      "moduleCount": 14,
+      "readingTimeMins": 108,
+      "metaDescription": "Learn Basic Wing Chun for Self Defense: Beginner's Guide — a free beginner-level guide covering learn basic wing chun for self defense. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T10:56:43.017Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "meditation-for-sleep-and-insomnia-a-beginners-guid",
+      "title": "Meditation for Sleep and Insomnia: A Beginner's Guide",
+      "goal": "Learn to meditate for sleep and insomnia",
+      "category": "meditation",
+      "tags": [
+        "sleep",
+        "mindfulness",
+        "insomnia"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27028,
+      "moduleCount": 13,
+      "readingTimeMins": 109,
+      "metaDescription": "Meditation for Sleep and Insomnia: A Beginner's Guide — a free beginner-level guide covering learn to meditate for sleep and insomnia. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-01T10:50:38.168Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-face-yoga-for-natural-lifting",
+      "title": "Advanced Face Yoga for Natural Lifting",
+      "goal": "Advanced face yoga for natural lifting",
+      "category": "wellness",
+      "tags": [
+        "anti-aging",
+        "face yoga",
+        "beauty"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23503,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "Advanced Face Yoga for Natural Lifting — a free advanced-level guide covering advanced face yoga for natural lifting. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-01T10:47:07.459Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "yoga-for-seniors-a-beginners-guide-to-gentle-movem",
       "title": "Yoga for Seniors: A Beginner's Guide to Gentle Movement",
       "goal": "Learn basic yoga for seniors",
@@ -19286,6 +19546,6 @@
       "edition": "street"
     }
   ],
-  "total": 971,
-  "generatedAt": "2026-08-01T09:02:59.887Z"
+  "total": 984,
+  "generatedAt": "2026-08-01T11:30:38.747Z"
 }
