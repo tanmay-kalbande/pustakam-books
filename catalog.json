@@ -1,6 +1,246 @@
 {
   "books": [
     {
+      "slug": "advanced-yoga-mastery-of-strength-and-flexibility",
+      "title": "Advanced Yoga: Mastery of Strength and Flexibility",
+      "goal": "Advanced yoga poses for flexibility and strength",
+      "category": "yoga",
+      "tags": [
+        "stretching",
+        "yoga flow",
+        "advanced yoga"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13731,
+      "moduleCount": 7,
+      "readingTimeMins": 55,
+      "metaDescription": "Advanced Yoga: Mastery of Strength and Flexibility — a free advanced-level guide covering advanced yoga poses for flexibility and strength. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-02T09:07:07.993Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-cure-a-cold-naturally-at-home-safe-effectiv",
+      "title": "How to Cure a Cold Naturally at Home: Safe & Effective Remedies",
+      "goal": "How to treat a cold naturally at home",
+      "category": "health",
+      "tags": [
+        "home remedies",
+        "wellness",
+        "cold and flu"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31856,
+      "moduleCount": 14,
+      "readingTimeMins": 128,
+      "metaDescription": "How to Cure a Cold Naturally at Home: Safe & Effective Remedies — a free beginner-level guide covering how to treat a cold naturally at home. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T09:04:20.648Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stop-panic-attacks-quickly-a-stepbystep-gui",
+      "title": "How to Stop Panic Attacks Quickly: A Step-by-Step Guide",
+      "goal": "How to stop panic attacks quickly",
+      "category": "wellness",
+      "tags": [
+        "mental health",
+        "anxiety",
+        "panic attack"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13198,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "How to Stop Panic Attacks Quickly: A Step-by-Step Guide — a free beginner-level guide covering how to stop panic attacks quickly. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T09:00:30.244Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-canva-techniques-for-business-growth",
+      "title": "Advanced Canva Techniques for Business Growth",
+      "goal": "Advanced Canva techniques for business",
+      "category": "software-tools",
+      "tags": [
+        "canva",
+        "branding",
+        "marketing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27711,
+      "moduleCount": 13,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Canva Techniques for Business Growth — a free advanced-level guide covering advanced canva techniques for business. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T08:59:03.557Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-advanced-notion-database-workflows-prolevel",
+      "title": "Master Advanced Notion Database Workflows: Pro-Level Techniques",
+      "goal": "Learn advanced Notion database workflows",
+      "category": "software-tools",
+      "tags": [
+        "notion",
+        "databases",
+        "automation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28814,
+      "moduleCount": 13,
+      "readingTimeMins": 116,
+      "metaDescription": "Master Advanced Notion Database Workflows: Pro-Level Techniques — a free advanced-level guide covering learn advanced notion database workflows. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T08:53:35.340Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-ski-a-complete-guide-for-absolute-beginners",
+      "title": "How to Ski: A Complete Guide for Absolute Beginners",
+      "goal": "Learn to ski for absolute beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "skiing",
+        "winter sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15463,
+      "moduleCount": 8,
+      "readingTimeMins": 62,
+      "metaDescription": "How to Ski: A Complete Guide for Absolute Beginners — a free beginner-level guide covering learn to ski for absolute beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-02T08:50:43.446Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-snowboard-complete-beginner-guide",
+      "title": "Learn to Snowboard: Complete Beginner Guide",
+      "goal": "Learn to snowboard for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "snowboarding",
+        "winter sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36033,
+      "moduleCount": 14,
+      "readingTimeMins": 145,
+      "metaDescription": "Learn to Snowboard: Complete Beginner Guide — a free beginner-level guide covering learn to snowboard for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T08:48:37.746Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-conversational-hindi-for-foreigners",
+      "title": "Intermediate Conversational Hindi for Foreigners",
+      "goal": "Intermediate conversational Hindi for foreigners",
+      "category": "language",
+      "tags": [
+        "hindi",
+        "india",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14396,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Intermediate Conversational Hindi for Foreigners — a free intermediate-level guide covering intermediate conversational hindi for foreigners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T08:44:09.198Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-edit-tiktoks-and-reels-beginners-stepbystep",
+      "title": "How to Edit TikToks and Reels: Beginner's Step-by-Step Guide",
+      "goal": "How to edit TikToks and Reels",
+      "category": "video-editing",
+      "tags": [
+        "short form video",
+        "social media",
+        "editing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31541,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "How to Edit TikToks and Reels: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to edit tiktoks and reels. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T08:42:31.091Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "puppy-training-basics-a-beginners-guide",
+      "title": "Puppy Training Basics: A Beginner's Guide",
+      "goal": "How to train a puppy for beginners",
+      "category": "pets",
+      "tags": [
+        "dog training",
+        "puppies",
+        "behavior"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21441,
+      "moduleCount": 10,
+      "readingTimeMins": 86,
+      "metaDescription": "Puppy Training Basics: A Beginner's Guide — a free beginner-level guide covering how to train a puppy for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T08:39:50.616Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-safe-and-effective-detox-dietin",
+      "title": "Beginner's Guide to Safe and Effective Detox Dieting",
+      "goal": "How to do a detox diet for beginners",
+      "category": "health",
+      "tags": [
+        "detox",
+        "nutrition",
+        "diet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25215,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "Beginner's Guide to Safe and Effective Detox Dieting — a free beginner-level guide covering how to do a detox diet for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T08:35:28.201Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stop-procrastinating-and-get-things-done-a",
+      "title": "How to Stop Procrastinating and Get Things Done: A Beginner's Roadmap",
+      "goal": "How to stop procrastinating and get things done",
+      "category": "productivity",
+      "tags": [
+        "time-management",
+        "focus",
+        "habits"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22323,
+      "moduleCount": 11,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Stop Procrastinating and Get Things Done: A Beginner's Roadmap — a free beginner-level guide covering how to stop procrastinating and get things...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T08:32:41.410Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-play-viola-a-comprehensive-beginners-guide",
       "title": "How to Play Viola: A Comprehensive Beginner's Guide",
       "goal": "Learn to play the viola for beginners",
@@ -20306,6 +20546,6 @@
       "edition": "street"
     }
   ],
-  "total": 1022,
-  "generatedAt": "2026-08-02T03:21:32.855Z"
+  "total": 1034,
+  "generatedAt": "2026-08-02T09:07:09.432Z"
 }
