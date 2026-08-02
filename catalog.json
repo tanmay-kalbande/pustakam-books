@@ -1,6 +1,246 @@
 {
   "books": [
     {
+      "slug": "advanced-kiln-firing-techniques-and-precision-temp",
+      "title": "Advanced Kiln Firing Techniques and Precision Temperature Control",
+      "goal": "Advanced kiln firing and temperature control",
+      "category": "pottery",
+      "tags": [
+        "kiln",
+        "firing",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 36698,
+      "moduleCount": 14,
+      "readingTimeMins": 147,
+      "metaDescription": "Advanced Kiln Firing Techniques and Precision Temperature Control — a free advanced-level guide covering advanced kiln firing and temperature control....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T16:45:53.287Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "pottery-glazing-for-beginners-a-complete-guide",
+      "title": "Pottery Glazing for Beginners: A Complete Guide",
+      "goal": "Learn pottery glazing techniques for beginners",
+      "category": "pottery",
+      "tags": [
+        "glazing",
+        "ceramics",
+        "pottery"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13952,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "Pottery Glazing for Beginners: A Complete Guide — a free beginner-level guide covering learn pottery glazing techniques for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-02T16:41:36.843Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-engine-tuning-for-performance-cars",
+      "title": "Advanced Engine Tuning for Performance Cars",
+      "goal": "Advanced engine tuning for performance cars",
+      "category": "mechanics",
+      "tags": [
+        "tuning",
+        "engine",
+        "performance"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32323,
+      "moduleCount": 12,
+      "readingTimeMins": 130,
+      "metaDescription": "Advanced Engine Tuning for Performance Cars — a free advanced-level guide covering advanced engine tuning for performance cars. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T16:39:50.186Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "motorcycle-chain-maintenance-for-beginners-guide",
+      "title": "Motorcycle Chain Maintenance for Beginners Guide",
+      "goal": "Basic motorcycle chain maintenance for beginners",
+      "category": "mechanics",
+      "tags": [
+        "motorcycle",
+        "maintenance",
+        "chain"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23631,
+      "moduleCount": 14,
+      "readingTimeMins": 95,
+      "metaDescription": "Motorcycle Chain Maintenance for Beginners Guide — a free beginner-level guide covering basic motorcycle chain maintenance for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T16:37:16.677Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-drywall-finishing-taping-mastery",
+      "title": "Advanced Drywall Finishing & Taping Mastery",
+      "goal": "Advanced drywall finishing and taping techniques",
+      "category": "trades",
+      "tags": [
+        "drywall",
+        "construction",
+        "finishing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24856,
+      "moduleCount": 11,
+      "readingTimeMins": 100,
+      "metaDescription": "Advanced Drywall Finishing & Taping Mastery — a free advanced-level guide covering advanced drywall finishing and taping techniques. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T16:34:02.642Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-a-wood-lathe-intermediate-guide-to-turn",
+      "title": "How to Use a Wood Lathe: Intermediate Guide to Turning Wood",
+      "goal": "Learn how to use a wood lathe",
+      "category": "woodworking",
+      "tags": [
+        "woodturning",
+        "lathe",
+        "tools"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27809,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Use a Wood Lathe: Intermediate Guide to Turning Wood — a free intermediate-level guide covering learn how to use a wood lathe. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T16:31:10.694Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-bookshelf-from-scratch-a-beginners",
+      "title": "How to Build a Bookshelf from Scratch: A Beginner's Guide",
+      "goal": "How to build a bookshelf from scratch",
+      "category": "woodworking",
+      "tags": [
+        "bookshelf",
+        "furniture",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20756,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "How to Build a Bookshelf from Scratch: A Beginner's Guide — a free beginner-level guide covering how to build a bookshelf from scratch. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T16:27:15.688Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-organic-pest-control-strategies-for-highy",
+      "title": "Advanced Organic Pest Control Strategies for High-Yield Gardens",
+      "goal": "Advanced organic pest control for gardens",
+      "category": "gardening",
+      "tags": [
+        "pest control",
+        "organic",
+        "gardening"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23689,
+      "moduleCount": 13,
+      "readingTimeMins": 95,
+      "metaDescription": "Advanced Organic Pest Control Strategies for High-Yield Gardens — a free advanced-level guide covering advanced organic pest control for gardens. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T16:24:59.241Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-pastry-dessert-decorating-techniques",
+      "title": "Advanced Pastry & Dessert Decorating Techniques",
+      "goal": "Advanced pastry and dessert decorating techniques",
+      "category": "culinary",
+      "tags": [
+        "pastry",
+        "desserts",
+        "baking"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28418,
+      "moduleCount": 11,
+      "readingTimeMins": 114,
+      "metaDescription": "Advanced Pastry & Dessert Decorating Techniques — a free advanced-level guide covering advanced pastry and dessert decorating techniques. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T16:20:51.715Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-trade-options-for-beginners-step-by-s",
+      "title": "Learn How to Trade Options for Beginners Step by Step",
+      "goal": "Learn how to trade options for beginners",
+      "category": "finance",
+      "tags": [
+        "trading",
+        "stocks",
+        "options"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 35412,
+      "moduleCount": 14,
+      "readingTimeMins": 142,
+      "metaDescription": "Learn How to Trade Options for Beginners Step by Step — a free intermediate-level guide covering learn how to trade options for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T16:16:59.611Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-soap-from-scratch-a-beginners-complete",
+      "title": "How to Make Soap from Scratch: A Beginner's Complete Guide",
+      "goal": "Learn to make soap from scratch",
+      "category": "crafts",
+      "tags": [
+        "soap",
+        "DIY",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23975,
+      "moduleCount": 14,
+      "readingTimeMins": 96,
+      "metaDescription": "How to Make Soap from Scratch: A Beginner's Complete Guide — a free beginner-level guide covering learn to make soap from scratch. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T16:12:09.270Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-worm-farm-for-composting",
+      "title": "How to Start a Worm Farm for Composting",
+      "goal": "How to start a worm farm for composting",
+      "category": "gardening",
+      "tags": [
+        "vermicompost",
+        "soil",
+        "eco-friendly"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19205,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Start a Worm Farm for Composting — a free beginner-level guide covering how to start a worm farm for composting. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T16:09:40.536Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mountain-trekking-for-beginners-a-complete-guide",
       "title": "Mountain Trekking for Beginners: A Complete Guide",
       "goal": "Beginner's guide to mountain trekking",
@@ -20906,6 +21146,6 @@
       "edition": "street"
     }
   ],
-  "total": 1052,
-  "generatedAt": "2026-08-02T14:00:28.797Z"
+  "total": 1064,
+  "generatedAt": "2026-08-02T16:45:55.611Z"
 }
