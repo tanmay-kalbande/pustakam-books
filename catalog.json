@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "mountain-trekking-for-beginners-a-complete-guide",
+      "title": "Mountain Trekking for Beginners: A Complete Guide",
+      "goal": "Beginner's guide to mountain trekking",
+      "category": "outdoor-sports",
+      "tags": [
+        "trekking",
+        "hiking",
+        "mountains"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 38093,
+      "moduleCount": 14,
+      "readingTimeMins": 153,
+      "metaDescription": "Mountain Trekking for Beginners: A Complete Guide — a free beginner-level guide covering beginner's guide to mountain trekking. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T14:00:27.604Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-character-design-mastery-for-digital-arti",
+      "title": "Advanced Character Design Mastery for Digital Artists",
+      "goal": "Advanced character design for digital artists",
+      "category": "digital-art",
+      "tags": [
+        "concept art",
+        "character design",
+        "illustration"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30198,
+      "moduleCount": 13,
+      "readingTimeMins": 121,
+      "metaDescription": "Advanced Character Design Mastery for Digital Artists — a free advanced-level guide covering advanced character design for digital artists. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T13:55:06.342Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-organic-garden-beginner",
+      "title": "How to start an organic garden",
+      "goal": "How to start an organic garden",
+      "category": "homesteading",
+      "tags": [
+        "organic",
+        "gardening",
+        "sustainable"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21784,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "How to start an organic garden — a free beginner-level guide covering how to start an organic garden. Learn with clear explanations, real examples, and...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T13:51:30.799Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-personal-brand-a-strategic-guide",
+      "title": "How to Build a Personal Brand: A Strategic Guide",
+      "goal": "How to build a personal brand",
+      "category": "marketing",
+      "tags": [
+        "branding",
+        "social media",
+        "networking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13897,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Build a Personal Brand: A Strategic Guide — a free intermediate-level guide covering how to build a personal brand. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T13:48:49.065Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-successful-blog-stepbystep-guide-fo",
+      "title": "How to Start a Successful Blog: Step-by-Step Guide for Beginners",
+      "goal": "How to start a successful blog",
+      "category": "content-creation",
+      "tags": [
+        "blogging",
+        "writing",
+        "wordpress"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35539,
+      "moduleCount": 14,
+      "readingTimeMins": 143,
+      "metaDescription": "How to Start a Successful Blog: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to start a successful blog. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T13:47:36.623Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-public-speaking-speak-with-confidence-and-i",
+      "title": "Master Public Speaking: Speak with Confidence and Impact",
+      "goal": "Learn to speak publically with confidence",
+      "category": "soft-skills",
+      "tags": [
+        "public speaking",
+        "confidence",
+        "communication"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14785,
+      "moduleCount": 8,
+      "readingTimeMins": 60,
+      "metaDescription": "Master Public Speaking: Speak with Confidence and Impact — a free intermediate-level guide covering learn to speak publically with confidence. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T13:42:56.020Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-painting-hobby-beginners-complete-g",
+      "title": "How to Start a Painting Hobby: Beginner's Complete Guide",
+      "goal": "How to start a painting hobby for beginners",
+      "category": "art",
+      "tags": [
+        "painting",
+        "art",
+        "creative"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32620,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "How to Start a Painting Hobby: Beginner's Complete Guide — a free beginner-level guide covering how to start a painting hobby for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T13:41:21.434Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "master-intermediate-landscape-painting-techniques",
       "title": "Master Intermediate Landscape Painting Techniques with Oils",
       "goal": "Intermediate landscape painting techniques with oils",
@@ -20766,6 +20906,6 @@
       "edition": "street"
     }
   ],
-  "total": 1045,
-  "generatedAt": "2026-08-02T11:19:34.530Z"
+  "total": 1052,
+  "generatedAt": "2026-08-02T14:00:28.797Z"
 }
