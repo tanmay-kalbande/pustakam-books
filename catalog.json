@@ -1,6 +1,226 @@
 {
   "books": [
     {
+      "slug": "master-intermediate-landscape-painting-techniques",
+      "title": "Master Intermediate Landscape Painting Techniques with Oils",
+      "goal": "Intermediate landscape painting techniques with oils",
+      "category": "art",
+      "tags": [
+        "oil painting",
+        "landscape",
+        "fine art"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 32307,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Master Intermediate Landscape Painting Techniques with Oils — a free intermediate-level guide covering intermediate landscape painting techniques with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T11:19:33.032Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-spotify-for-podcasters-a-beginners-guid",
+      "title": "How to Use Spotify for Podcasters: A Beginner's Guide",
+      "goal": "How to use Spotify for Podcasters",
+      "category": "software-tools",
+      "tags": [
+        "podcasting",
+        "audio",
+        "distribution"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23738,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Use Spotify for Podcasters: A Beginner's Guide — a free beginner-level guide covering how to use spotify for podcasters. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T11:15:27.391Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hubspot-automation-workflows-mastery",
+      "title": "Advanced HubSpot Automation Workflows Mastery",
+      "goal": "Advanced HubSpot automation workflows",
+      "category": "software-tools",
+      "tags": [
+        "marketing",
+        "crm",
+        "automation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23604,
+      "moduleCount": 14,
+      "readingTimeMins": 95,
+      "metaDescription": "Advanced HubSpot Automation Workflows Mastery — a free advanced-level guide covering advanced hubspot automation workflows. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T11:13:15.932Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-windsurfing",
+      "title": "Beginner's Guide to Windsurfing",
+      "goal": "Beginner's guide to windsurfing",
+      "category": "outdoor-sports",
+      "tags": [
+        "water sports",
+        "sailing",
+        "windsurf"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19579,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Beginner's Guide to Windsurfing — a free beginner-level guide covering beginner's guide to windsurfing. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T11:10:29.109Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-basketball-shooting-and-dribbling-mastery",
+      "title": "Advanced Basketball Shooting and Dribbling Mastery Drills",
+      "goal": "Advanced basketball shooting and dribbling drills",
+      "category": "sports",
+      "tags": [
+        "basketball",
+        "training",
+        "skills"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24477,
+      "moduleCount": 14,
+      "readingTimeMins": 98,
+      "metaDescription": "Advanced Basketball Shooting and Dribbling Mastery Drills — a free advanced-level guide covering advanced basketball shooting and dribbling drills....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T11:06:55.483Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-swahili-for-beginners-stepbystep-guide",
+      "title": "Learn Swahili for Beginners: Step-by-Step Guide",
+      "goal": "Learn Swahili for beginners step by step",
+      "category": "language",
+      "tags": [
+        "africa",
+        "swahili",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19739,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Learn Swahili for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn swahili for beginners step by step. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T11:03:35.689Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-reason-daw-beginners-guide-to-music-producti",
+      "title": "Learn Reason DAW: Beginner's Guide to Music Production",
+      "goal": "Learn how to use Reason DAW",
+      "category": "music-production",
+      "tags": [
+        "music software",
+        "production",
+        "synth"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26988,
+      "moduleCount": 13,
+      "readingTimeMins": 108,
+      "metaDescription": "Learn Reason DAW: Beginner's Guide to Music Production — a free beginner-level guide covering learn how to use reason daw. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T11:01:18.244Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-final-cut-pro-beginners-stepbystep-guide",
+      "title": "Learn Final Cut Pro: Beginner's Step-by-Step Guide",
+      "goal": "Learn Final Cut Pro for beginners",
+      "category": "video-editing",
+      "tags": [
+        "apple",
+        "video editing",
+        "mac"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22131,
+      "moduleCount": 9,
+      "readingTimeMins": 89,
+      "metaDescription": "Learn Final Cut Pro: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn final cut pro for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T10:57:34.134Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-advanced-excel-formulas-and-functions",
+      "title": "Master Advanced Excel Formulas and Functions",
+      "goal": "Learn advanced Excel formulas and functions",
+      "category": "productivity",
+      "tags": [
+        "Excel",
+        "spreadsheets",
+        "data"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28603,
+      "moduleCount": 14,
+      "readingTimeMins": 115,
+      "metaDescription": "Master Advanced Excel Formulas and Functions — a free advanced-level guide covering learn advanced excel formulas and functions. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T10:55:34.451Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-learn-a-new-language-fast-a-beginners-stepb",
+      "title": "How to Learn a New Language Fast: A Beginner's Step-by-Step Guide",
+      "goal": "How to learn a new language fast",
+      "category": "language",
+      "tags": [
+        "language learning",
+        "fluency",
+        "study tips"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22459,
+      "moduleCount": 14,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Learn a New Language Fast: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to learn a new language fast. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T10:51:38.905Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-cello",
+      "title": "Beginner's Guide to Learning the Cello",
+      "goal": "Beginner's guide to learning the cello",
+      "category": "music",
+      "tags": [
+        "cello",
+        "strings",
+        "instrument"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18973,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "Beginner's Guide to Learning the Cello — a free beginner-level guide covering beginner's guide to learning the cello. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T10:48:00.578Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-yoga-mastery-of-strength-and-flexibility",
       "title": "Advanced Yoga: Mastery of Strength and Flexibility",
       "goal": "Advanced yoga poses for flexibility and strength",
@@ -20546,6 +20766,6 @@
       "edition": "street"
     }
   ],
-  "total": 1034,
-  "generatedAt": "2026-08-02T09:07:09.432Z"
+  "total": 1045,
+  "generatedAt": "2026-08-02T11:19:34.530Z"
 }
