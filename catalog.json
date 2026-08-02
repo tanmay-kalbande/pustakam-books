@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "advanced-tennis-serve-and-volley-mastery-prolevel",
+      "title": "Advanced Tennis Serve and Volley Mastery: Pro-Level Tactics",
+      "goal": "Advanced tennis serve and volley techniques",
+      "category": "sports",
+      "tags": [
+        "tennis",
+        "athletics",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30866,
+      "moduleCount": 13,
+      "readingTimeMins": 124,
+      "metaDescription": "Advanced Tennis Serve and Volley Mastery: Pro-Level Tactics — a free advanced-level guide covering advanced tennis serve and volley techniques. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T22:29:34.707Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-photoshop-compositing-and-blending",
+      "title": "Advanced Photoshop Compositing and Blending",
+      "goal": "Advanced Photoshop compositing and blending",
+      "category": "digital-art",
+      "tags": [
+        "photoshop",
+        "digital art",
+        "compositing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24965,
+      "moduleCount": 11,
+      "readingTimeMins": 100,
+      "metaDescription": "Advanced Photoshop Compositing and Blending — a free advanced-level guide covering advanced photoshop compositing and blending. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T22:26:15.411Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-safely-clean-your-car-engine-bay-stepbystep",
+      "title": "How to Safely Clean Your Car Engine Bay Step-by-Step",
+      "goal": "Learn to clean car engine bay safely",
+      "category": "mechanics",
+      "tags": [
+        "detailing",
+        "engine",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21329,
+      "moduleCount": 13,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Safely Clean Your Car Engine Bay Step-by-Step — a free beginner-level guide covering learn to clean car engine bay safely. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T22:23:25.002Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-checking-car-fluids",
+      "title": "Beginner's Guide to Checking Car Fluids",
+      "goal": "How to check car fluids for beginners",
+      "category": "mechanics",
+      "tags": [
+        "maintenance",
+        "fluids",
+        "car care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16508,
+      "moduleCount": 8,
+      "readingTimeMins": 67,
+      "metaDescription": "Beginner's Guide to Checking Car Fluids — a free beginner-level guide covering how to check car fluids for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T22:20:55.116Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-repair-a-hole-in-a-wall-stepbystep-guide-fo",
+      "title": "How to Repair a Hole in a Wall: Step-by-Step Guide for Beginners",
+      "goal": "How to repair a hole in a wall",
+      "category": "trades",
+      "tags": [
+        "drywall",
+        "repair",
+        "home"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21929,
+      "moduleCount": 12,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Repair a Hole in a Wall: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to repair a hole in a wall. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T22:17:46.671Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-floating-shelves-a-beginners-stepbyst",
+      "title": "How to Build Floating Shelves: A Beginner's Step-by-Step Guide",
+      "goal": "How to make a floating shelf for beginners",
+      "category": "woodworking",
+      "tags": [
+        "shelving",
+        "interior",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14868,
+      "moduleCount": 9,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Build Floating Shelves: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make a floating shelf for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T22:15:06.884Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-wooden-coasters-simple-beginners-guide",
+      "title": "How to Make Wooden Coasters: Simple Beginner's Guide",
+      "goal": "Learn to make wooden coasters for beginners",
+      "category": "woodworking",
+      "tags": [
+        "small projects",
+        "DIY",
+        "wood"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29898,
+      "moduleCount": 13,
+      "readingTimeMins": 120,
+      "metaDescription": "How to Make Wooden Coasters: Simple Beginner's Guide — a free beginner-level guide covering learn to make wooden coasters for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T22:13:31.762Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grill-steak-perfectly-beginners-stepbystep",
+      "title": "How to Grill Steak Perfectly: Beginner's Step-by-Step Guide",
+      "goal": "Learn how to grill steak perfectly",
+      "category": "culinary",
+      "tags": [
+        "grilling",
+        "steak",
+        "BBQ"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19188,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Grill Steak Perfectly: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to grill steak perfectly. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T22:09:47.027Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-growing-organic-garlic-stepbyst",
+      "title": "Beginner's Guide to Growing Organic Garlic: Step-by-Step",
+      "goal": "Beginner's guide to growing organic garlic",
+      "category": "gardening",
+      "tags": [
+        "garlic",
+        "organic",
+        "vegetables"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29787,
+      "moduleCount": 15,
+      "readingTimeMins": 120,
+      "metaDescription": "Beginner's Guide to Growing Organic Garlic: Step-by-Step — a free beginner-level guide covering beginner's guide to growing organic garlic. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T22:08:04.428Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-weight-lifting",
+      "title": "Beginner's Guide to Weight Lifting",
+      "goal": "Beginner's guide to weight lifting",
+      "category": "fitness",
+      "tags": [
+        "gym",
+        "weights",
+        "muscle"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20191,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Beginner's Guide to Weight Lifting — a free beginner-level guide covering beginner's guide to weight lifting. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T22:04:08.744Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-raise-baby-chicks-at-home-a-beginners-guide",
       "title": "How to Raise Baby Chicks at Home: A Beginner's Guide",
       "goal": "How to raise baby chicks at home",
@@ -21486,6 +21686,6 @@
       "edition": "street"
     }
   ],
-  "total": 1081,
-  "generatedAt": "2026-08-02T20:05:56.713Z"
+  "total": 1091,
+  "generatedAt": "2026-08-02T22:29:36.244Z"
 }
