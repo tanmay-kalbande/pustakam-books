@@ -1,6 +1,346 @@
 {
   "books": [
     {
+      "slug": "how-to-raise-baby-chicks-at-home-a-beginners-guide",
+      "title": "How to Raise Baby Chicks at Home: A Beginner's Guide",
+      "goal": "How to raise baby chicks at home",
+      "category": "pets",
+      "tags": [
+        "chickens",
+        "poultry",
+        "homestead"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26060,
+      "moduleCount": 12,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Raise Baby Chicks at Home: A Beginner's Guide — a free beginner-level guide covering how to raise baby chicks at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T20:05:54.201Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-preserve-food-by-canning-stepbystep-guide",
+      "title": "How to Preserve Food by Canning: Step-by-Step Guide",
+      "goal": "How to preserve food by canning",
+      "category": "homesteading",
+      "tags": [
+        "canning",
+        "preserving",
+        "food"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20578,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Preserve Food by Canning: Step-by-Step Guide — a free intermediate-level guide covering how to preserve food by canning. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T20:02:12.043Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-scrapbooking-hobby-for-beginners",
+      "title": "How to Start a Scrapbooking Hobby for Beginners",
+      "goal": "How to start a scrapbooking hobby",
+      "category": "hobbies",
+      "tags": [
+        "scrapbooking",
+        "DIY",
+        "memory book"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28181,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Start a Scrapbooking Hobby for Beginners — a free beginner-level guide covering how to start a scrapbooking hobby. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T20:00:19.502Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-candle-from-scratch-beginners-stepby",
+      "title": "How to Make a Candle from Scratch: Beginner's Step-by-Step Guide",
+      "goal": "How to make a candle from scratch",
+      "category": "crafts",
+      "tags": [
+        "candles",
+        "DIY",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21395,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "How to Make a Candle from Scratch: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make a candle from scratch. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T19:56:35.469Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "professional-product-photography-mastery",
+      "title": "Professional Product Photography Mastery",
+      "goal": "How to take professional product photos",
+      "category": "photography",
+      "tags": [
+        "product photography",
+        "e-commerce",
+        "lighting"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26396,
+      "moduleCount": 14,
+      "readingTimeMins": 106,
+      "metaDescription": "Professional Product Photography Mastery — a free intermediate-level guide covering how to take professional product photos. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-02T19:54:27.838Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-a-tripod-for-photography-beginner-guide",
+      "title": "How to Use a Tripod for Photography: Beginner Guide",
+      "goal": "How to use a tripod for photography",
+      "category": "photography",
+      "tags": [
+        "tripod",
+        "gear",
+        "photography"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22177,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Use a Tripod for Photography: Beginner Guide — a free beginner-level guide covering how to use a tripod for photography. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-02T19:50:39.618Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-spot-the-international-space-station-a-begi",
+      "title": "How to Spot the International Space Station: A Beginner's Guide",
+      "goal": "How to spot the International Space Station",
+      "category": "astronomy",
+      "tags": [
+        "ISS",
+        "satellites",
+        "stargazing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12324,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "How to Spot the International Space Station: A Beginner's Guide — a free beginner-level guide covering how to spot the international space station....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T19:48:11.481Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "milky-way-astrophotography-the-complete-guide",
+      "title": "Milky Way Astrophotography: The Complete Guide",
+      "goal": "How to photograph the Milky Way",
+      "category": "photography",
+      "tags": [
+        "astrophotography",
+        "night sky",
+        "milky way"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30845,
+      "moduleCount": 12,
+      "readingTimeMins": 124,
+      "metaDescription": "Milky Way Astrophotography: The Complete Guide — a free intermediate-level guide covering how to photograph the milky way. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:47:07.014Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "boxing-basics-for-beginners-how-to-punch-like-a-pr",
+      "title": "Boxing Basics for Beginners: How to Punch Like a Pro",
+      "goal": "Boxing basics for beginners: how to punch",
+      "category": "martial-arts",
+      "tags": [
+        "boxing",
+        "striking",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30247,
+      "moduleCount": 14,
+      "readingTimeMins": 121,
+      "metaDescription": "Boxing Basics for Beginners: How to Punch Like a Pro — a free beginner-level guide covering boxing basics for beginners: how to punch. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:42:03.855Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-treat-insomnia-without-medication-a-complet",
+      "title": "How to Treat Insomnia Without Medication: A Complete Guide",
+      "goal": "How to treat insomnia without medication",
+      "category": "health",
+      "tags": [
+        "sleep",
+        "insomnia",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17835,
+      "moduleCount": 8,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Treat Insomnia Without Medication: A Complete Guide — a free beginner-level guide covering how to treat insomnia without medication. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-02T19:39:15.199Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-stop-overthinking-and-anxiety-a-complete-be",
+      "title": "How to Stop Overthinking and Anxiety: A Complete Beginner's Guide",
+      "goal": "How to stop overthinking and anxiety",
+      "category": "wellness",
+      "tags": [
+        "overthinking",
+        "anxiety",
+        "mental health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30777,
+      "moduleCount": 14,
+      "readingTimeMins": 124,
+      "metaDescription": "How to Stop Overthinking and Anxiety: A Complete Beginner's Guide — a free beginner-level guide covering how to stop overthinking and anxiety. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:36:27.675Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-mindfulness-practice-a-beginners-gu",
+      "title": "How to Start a Mindfulness Practice: A Beginner's Guide",
+      "goal": "How to start a mindfulness practice",
+      "category": "meditation",
+      "tags": [
+        "mindfulness",
+        "mental health",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15859,
+      "moduleCount": 9,
+      "readingTimeMins": 64,
+      "metaDescription": "How to Start a Mindfulness Practice: A Beginner's Guide — a free beginner-level guide covering how to start a mindfulness practice. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T19:32:33.791Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-ways-to-lower-cortisol-naturally-complete",
+      "title": "Natural Ways to Lower Cortisol Naturally: Complete Guide",
+      "goal": "How to lower cortisol levels naturally",
+      "category": "wellness",
+      "tags": [
+        "cortisol",
+        "stress",
+        "hormones"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28342,
+      "moduleCount": 13,
+      "readingTimeMins": 114,
+      "metaDescription": "Natural Ways to Lower Cortisol Naturally: Complete Guide — a free intermediate-level guide covering how to lower cortisol levels naturally. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:31:00.859Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "managing-pcos-a-diet-and-lifestyle-guide",
+      "title": "Managing PCOS: A Diet and Lifestyle Guide",
+      "goal": "How to manage PCOS diet and lifestyle",
+      "category": "health",
+      "tags": [
+        "PCOS",
+        "hormones",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 16260,
+      "moduleCount": 9,
+      "readingTimeMins": 66,
+      "metaDescription": "Managing PCOS: A Diet and Lifestyle Guide — a free intermediate-level guide covering how to manage pcos diet and lifestyle. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-02T19:27:19.625Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "gua-sha-for-beginners-stepbystep-guide-to-facial-m",
+      "title": "Gua Sha for Beginners: Step-by-Step Guide to Facial Massage",
+      "goal": "How to do Gua Sha for beginners",
+      "category": "wellness",
+      "tags": [
+        "gua sha",
+        "facial massage",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33006,
+      "moduleCount": 14,
+      "readingTimeMins": 133,
+      "metaDescription": "Gua Sha for Beginners: Step-by-Step Guide to Facial Massage — a free beginner-level guide covering how to do gua sha for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:25:03.596Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "retinol-for-beginners-a-complete-guide-to-safe-use",
+      "title": "Retinol for Beginners: A Complete Guide to Safe Use",
+      "goal": "How to use retinol for beginners",
+      "category": "skincare",
+      "tags": [
+        "retinol",
+        "anti-aging",
+        "skin"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15012,
+      "moduleCount": 10,
+      "readingTimeMins": 61,
+      "metaDescription": "Retinol for Beginners: A Complete Guide to Safe Use — a free beginner-level guide covering how to use retinol for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-02T19:20:51.713Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "antiaging-skincare-for-beginners-simple-guide",
+      "title": "Anti-Aging Skincare for Beginners: Simple Guide",
+      "goal": "Anti-aging skincare guide for beginners",
+      "category": "skincare",
+      "tags": [
+        "anti-aging",
+        "wrinkles",
+        "skin"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20846,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "Anti-Aging Skincare for Beginners: Simple Guide — a free beginner-level guide covering anti-aging skincare guide for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-02T19:19:39.536Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-kiln-firing-techniques-and-precision-temp",
       "title": "Advanced Kiln Firing Techniques and Precision Temperature Control",
       "goal": "Advanced kiln firing and temperature control",
@@ -21146,6 +21486,6 @@
       "edition": "street"
     }
   ],
-  "total": 1064,
-  "generatedAt": "2026-08-02T16:45:55.611Z"
+  "total": 1081,
+  "generatedAt": "2026-08-02T20:05:56.713Z"
 }
