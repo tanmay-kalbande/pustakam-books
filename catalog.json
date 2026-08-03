@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "homemade-jam-and-jelly-making-a-complete-beginners",
+      "title": "Homemade Jam and Jelly Making: A Complete Beginner's Guide",
+      "goal": "Learn to make homemade jam and jelly",
+      "category": "culinary",
+      "tags": [
+        "preserving",
+        "fruit",
+        "jam"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29098,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "Homemade Jam and Jelly Making: A Complete Beginner's Guide — a free beginner-level guide covering learn to make homemade jam and jelly. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T22:32:25.410Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-homemade-pizza-oven-a-stepbystep-gu",
+      "title": "How to Build a Homemade Pizza Oven: A Step-by-Step Guide",
+      "goal": "How to make a homemade pizza oven",
+      "category": "home-improvement",
+      "tags": [
+        "outdoor",
+        "cooking",
+        "bricks"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15246,
+      "moduleCount": 9,
+      "readingTimeMins": 61,
+      "metaDescription": "How to Build a Homemade Pizza Oven: A Step-by-Step Guide — a free intermediate-level guide covering how to make a homemade pizza oven. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T22:29:47.823Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-weld-with-a-mig-welder-beginners-guide-to",
+      "title": "Learn to Weld with a MIG Welder: Beginner's Guide to Metal Joining",
+      "goal": "Learn to weld with a MIG welder",
+      "category": "trades",
+      "tags": [
+        "welding",
+        "metal",
+        "MIG"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35737,
+      "moduleCount": 14,
+      "readingTimeMins": 143,
+      "metaDescription": "Learn to Weld with a MIG Welder: Beginner's Guide to Metal Joining — a free beginner-level guide covering learn to weld with a mig welder. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T22:27:03.727Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-throw-pottery-on-a-wheel-a-beginners-guide",
+      "title": "How to Throw Pottery on a Wheel: A Beginner's Guide",
+      "goal": "Learn to throw pots on a wheel",
+      "category": "pottery",
+      "tags": [
+        "wheel",
+        "clay",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13314,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Throw Pottery on a Wheel: A Beginner's Guide — a free beginner-level guide covering learn to throw pots on a wheel. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T22:23:26.647Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-your-own-pottery-glaze-a-stepbystep-gu",
+      "title": "How to Make Your Own Pottery Glaze: A Step-by-Step Guide",
+      "goal": "How to make your own pottery glaze",
+      "category": "pottery",
+      "tags": [
+        "glaze",
+        "ceramics",
+        "chemistry"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21889,
+      "moduleCount": 8,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Make Your Own Pottery Glaze: A Step-by-Step Guide — a free intermediate-level guide covering how to make your own pottery glaze. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T22:21:18.770Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-plumbing-pipe-fitting-and-industrial-inst",
+      "title": "Advanced Plumbing Pipe Fitting and Industrial Installation",
+      "goal": "Advanced plumbing pipe fitting techniques",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "pipes",
+        "professional"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13881,
+      "moduleCount": 7,
+      "readingTimeMins": 56,
+      "metaDescription": "Advanced Plumbing Pipe Fitting and Industrial Installation — a free advanced-level guide covering advanced plumbing pipe fitting techniques. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T22:18:45.363Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-wooden-garden-planter-stepbystep-gu",
+      "title": "How to Build a Wooden Garden Planter – Step-by-Step Guide",
+      "goal": "How to build a wooden garden planter",
+      "category": "woodworking",
+      "tags": [
+        "outdoor",
+        "DIY",
+        "planter"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16464,
+      "moduleCount": 7,
+      "readingTimeMins": 66,
+      "metaDescription": "How to Build a Wooden Garden Planter – Step-by-Step Guide — a free beginner-level guide covering how to build a wooden garden planter. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T22:16:40.114Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-natural-lip-balm-beginner",
       "title": "How to make natural lip balm",
       "goal": "How to make natural lip balm",
@@ -22566,6 +22706,6 @@
       "edition": "street"
     }
   ],
-  "total": 1135,
-  "generatedAt": "2026-08-03T20:26:36.169Z"
+  "total": 1142,
+  "generatedAt": "2026-08-03T22:32:26.942Z"
 }
