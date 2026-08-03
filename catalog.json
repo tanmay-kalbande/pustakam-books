@@ -1,6 +1,246 @@
 {
   "books": [
     {
+      "slug": "advanced-geometry-nodes-in-blender-master-complex",
+      "title": "Advanced Geometry Nodes in Blender: Master Complex Procedural Workflows",
+      "goal": "Advanced Blender geometry nodes tutorial",
+      "category": "digital-art",
+      "tags": [
+        "blender",
+        "3d modeling",
+        "geometry nodes"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28320,
+      "moduleCount": 14,
+      "readingTimeMins": 114,
+      "metaDescription": "Advanced Geometry Nodes in Blender: Master Complex Procedural Workflows — a free advanced-level guide covering advanced blender geometry nodes...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T04:08:37.077Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-chairmaking-engineering-ergonomics-and-jo",
+      "title": "Advanced Chairmaking: Engineering, Ergonomics, and Joinery",
+      "goal": "Advanced woodworking: How to make a chair",
+      "category": "woodworking",
+      "tags": [
+        "furniture",
+        "carpentry",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14842,
+      "moduleCount": 8,
+      "readingTimeMins": 60,
+      "metaDescription": "Advanced Chairmaking: Engineering, Ergonomics, and Joinery — a free advanced-level guide covering advanced woodworking: how to make a chair. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T04:00:09.927Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-identify-common-backyard-birds-a-beginners",
+      "title": "How to Identify Common Backyard Birds: A Beginner's Guide",
+      "goal": "How to identify common backyard birds",
+      "category": "hobbies",
+      "tags": [
+        "birdwatching",
+        "nature",
+        "birds"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30707,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "How to Identify Common Backyard Birds: A Beginner's Guide — a free beginner-level guide covering how to identify common backyard birds. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:57:55.487Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-texas-holdem-gto-and-exploitative-mastery",
+      "title": "Advanced Texas Hold'em: GTO and Exploitative Mastery",
+      "goal": "Advanced Texas Hold'em strategy for pros",
+      "category": "hobbies",
+      "tags": [
+        "poker",
+        "strategy",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 16721,
+      "moduleCount": 8,
+      "readingTimeMins": 67,
+      "metaDescription": "Advanced Texas Hold'em: GTO and Exploitative Mastery — a free advanced-level guide covering advanced texas hold'em strategy for pros. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T03:54:44.442Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-storytelling-techniques-for-novelists",
+      "title": "Advanced Storytelling Techniques for Novelists",
+      "goal": "Advanced storytelling techniques for novelists",
+      "category": "writing",
+      "tags": [
+        "fiction",
+        "storytelling",
+        "novels"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 26669,
+      "moduleCount": 13,
+      "readingTimeMins": 107,
+      "metaDescription": "Advanced Storytelling Techniques for Novelists — a free advanced-level guide covering advanced storytelling techniques for novelists. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:51:49.370Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-viral-twitter-threads-a-mastery-guide",
+      "title": "How to Write Viral Twitter Threads: A Mastery Guide",
+      "goal": "How to write a viral Twitter thread",
+      "category": "content-creation",
+      "tags": [
+        "social media",
+        "writing",
+        "marketing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18497,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Write Viral Twitter Threads: A Mastery Guide — a free intermediate-level guide covering how to write a viral twitter thread. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T03:47:44.817Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-overcome-burnout-and-fatigue-practical-step",
+      "title": "How to Overcome Burnout and Fatigue: Practical Steps",
+      "goal": "How to cure burnout and fatigue",
+      "category": "wellness",
+      "tags": [
+        "burnout",
+        "stress",
+        "recovery"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25482,
+      "moduleCount": 12,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Overcome Burnout and Fatigue: Practical Steps — a free intermediate-level guide covering how to cure burnout and fatigue. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:43:37.864Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-gratitude-journal-a-beginners-guide",
+      "title": "How to Start a Gratitude Journal: A Beginner's Guide",
+      "goal": "How to start a gratitude journal",
+      "category": "wellness",
+      "tags": [
+        "mental health",
+        "journaling",
+        "happiness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16090,
+      "moduleCount": 8,
+      "readingTimeMins": 65,
+      "metaDescription": "How to Start a Gratitude Journal: A Beginner's Guide — a free beginner-level guide covering how to start a gratitude journal. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T03:41:31.804Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-zen-meditation-mastery-for-enlightenment",
+      "title": "Advanced Zen Meditation Mastery for Enlightenment",
+      "goal": "Advanced Zen meditation techniques for enlightenment",
+      "category": "meditation",
+      "tags": [
+        "zen",
+        "spirituality",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28934,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "Advanced Zen Meditation Mastery for Enlightenment — a free advanced-level guide covering advanced zen meditation techniques for enlightenment. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:38:21.389Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-ways-to-treat-acid-reflux",
+      "title": "Natural Ways to Treat Acid Reflux",
+      "goal": "How to treat acid reflux naturally",
+      "category": "health",
+      "tags": [
+        "heartburn",
+        "reflux",
+        "digestion"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18781,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "Natural Ways to Treat Acid Reflux — a free beginner-level guide covering how to treat acid reflux naturally. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:33:56.806Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-lower-cholesterol-naturally-a-complete-guid",
+      "title": "How to Lower Cholesterol Naturally: A Complete Guide",
+      "goal": "How to lower cholesterol without medication",
+      "category": "health",
+      "tags": [
+        "cholesterol",
+        "heart health",
+        "diet"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18943,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Lower Cholesterol Naturally: A Complete Guide — a free intermediate-level guide covering how to lower cholesterol without medication. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T03:32:39.213Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-serum-blending-for-professional-skincare",
+      "title": "Advanced Serum Blending for Professional Skincare",
+      "goal": "Advanced serum blending for professional skincare",
+      "category": "skincare",
+      "tags": [
+        "serums",
+        "chemistry",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25253,
+      "moduleCount": 10,
+      "readingTimeMins": 102,
+      "metaDescription": "Advanced Serum Blending for Professional Skincare — a free advanced-level guide covering advanced serum blending for professional skincare. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T03:25:34.817Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-tennis-serve-and-volley-mastery-prolevel",
       "title": "Advanced Tennis Serve and Volley Mastery: Pro-Level Tactics",
       "goal": "Advanced tennis serve and volley techniques",
@@ -21686,6 +21926,6 @@
       "edition": "street"
     }
   ],
-  "total": 1091,
-  "generatedAt": "2026-08-02T22:29:36.244Z"
+  "total": 1103,
+  "generatedAt": "2026-08-03T04:08:38.680Z"
 }
