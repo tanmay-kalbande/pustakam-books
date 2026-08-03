@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-succulent-collection-a-beginners-gu",
+      "title": "How to Start a Succulent Collection: A Beginner's Guide",
+      "goal": "How to start a succulent collection for beginners",
+      "category": "gardening",
+      "tags": [
+        "succulents",
+        "plants",
+        "indoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23622,
+      "moduleCount": 11,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Start a Succulent Collection: A Beginner's Guide — a free beginner-level guide covering how to start a succulent collection for beginners. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T15:00:00.581Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-dslr-portrait-photography-a-complete-gui",
+      "title": "Mastering DSLR Portrait Photography: A Complete Guide",
+      "goal": "How to take better portraits with DSLR",
+      "category": "photography",
+      "tags": [
+        "portraits",
+        "DSLR",
+        "lighting"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 35027,
+      "moduleCount": 14,
+      "readingTimeMins": 141,
+      "metaDescription": "Mastering DSLR Portrait Photography: A Complete Guide — a free intermediate-level guide covering how to take better portraits with dslr. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T14:54:34.673Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-treat-a-sprained-ankle-at-home-safely-and-e",
       "title": "How to Treat a Sprained Ankle at Home Safely and Effectively",
       "goal": "How to treat a sprained ankle at home",
@@ -22106,6 +22146,6 @@
       "edition": "street"
     }
   ],
-  "total": 1112,
-  "generatedAt": "2026-08-03T10:26:48.754Z"
+  "total": 1114,
+  "generatedAt": "2026-08-03T15:00:02.179Z"
 }
