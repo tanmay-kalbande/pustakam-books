@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "how-to-treat-a-sprained-ankle-at-home-safely-and-e",
+      "title": "How to Treat a Sprained Ankle at Home Safely and Effectively",
+      "goal": "How to treat a sprained ankle at home",
+      "category": "health",
+      "tags": [
+        "first aid",
+        "ankle",
+        "recovery"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27938,
+      "moduleCount": 13,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Treat a Sprained Ankle at Home Safely and Effectively — a free beginner-level guide covering how to treat a sprained ankle at home. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T10:26:45.896Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-unreal-engine-5-environment-design-master",
+      "title": "Advanced Unreal Engine 5 Environment Design Masterclass",
+      "goal": "Advanced Unreal Engine 5 environment design",
+      "category": "digital-art",
+      "tags": [
+        "Unreal Engine",
+        "game design",
+        "3D"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 15148,
+      "moduleCount": 8,
+      "readingTimeMins": 61,
+      "metaDescription": "Advanced Unreal Engine 5 Environment Design Masterclass — a free advanced-level guide covering advanced unreal engine 5 environment design. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-03T10:24:09.634Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-conversational-chinese-for-beginners",
+      "title": "Learn Conversational Chinese for Beginners",
+      "goal": "Learn conversational Chinese for beginners",
+      "category": "language",
+      "tags": [
+        "Mandarin",
+        "Chinese",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18073,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "Learn Conversational Chinese for Beginners — a free beginner-level guide covering learn conversational chinese for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T10:21:44.114Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-arabic-fast-the-ultimate-beginners-roadmap",
+      "title": "Learn Arabic Fast: The Ultimate Beginner's Roadmap",
+      "goal": "How to start learning Arabic for beginners",
+      "category": "language",
+      "tags": [
+        "Arabic",
+        "language learning",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22909,
+      "moduleCount": 14,
+      "readingTimeMins": 92,
+      "metaDescription": "Learn Arabic Fast: The Ultimate Beginner's Roadmap — a free beginner-level guide covering how to start learning arabic for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T10:19:44.936Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "team-management-for-beginners-stepbystep-guide",
+      "title": "Team Management for Beginners: Step-by-Step Guide",
+      "goal": "Learn how to manage a team for beginners",
+      "category": "soft-skills",
+      "tags": [
+        "management",
+        "leadership",
+        "career"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19685,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Team Management for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn how to manage a team for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T10:16:41.787Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-badminton-for-beginners-step-by-step-g",
+      "title": "How to Play Badminton for Beginners – Step by Step Guide",
+      "goal": "How to play badminton for beginners",
+      "category": "sports",
+      "tags": [
+        "badminton",
+        "racket sports",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21001,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Play Badminton for Beginners – Step by Step Guide — a free beginner-level guide covering how to play badminton for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T10:10:31.015Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-raise-goats-for-beginners-a-complete-stepby",
+      "title": "How to Raise Goats for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to raise goats for beginners",
+      "category": "homesteading",
+      "tags": [
+        "livestock",
+        "goats",
+        "farming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28261,
+      "moduleCount": 14,
+      "readingTimeMins": 114,
+      "metaDescription": "How to Raise Goats for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to raise goats for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T10:08:39.109Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-budget-for-freelancers",
+      "title": "How to Make a Budget for Freelancers",
+      "goal": "How to make a budget for freelancers",
+      "category": "finance",
+      "tags": [
+        "budgeting",
+        "freelance",
+        "money"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20386,
+      "moduleCount": 10,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Make a Budget for Freelancers — a free beginner-level guide covering how to make a budget for freelancers. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T10:05:04.351Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-advanced-sourdough-scoring-shaping-techn",
+      "title": "Mastering Advanced Sourdough Scoring & Shaping Techniques",
+      "goal": "Advanced sourdough scoring and shaping techniques",
+      "category": "culinary",
+      "tags": [
+        "sourdough",
+        "baking",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25665,
+      "moduleCount": 11,
+      "readingTimeMins": 103,
+      "metaDescription": "Mastering Advanced Sourdough Scoring & Shaping Techniques — a free advanced-level guide covering advanced sourdough scoring and shaping techniques....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T09:58:05.340Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-geometry-nodes-in-blender-master-complex",
       "title": "Advanced Geometry Nodes in Blender: Master Complex Procedural Workflows",
       "goal": "Advanced Blender geometry nodes tutorial",
@@ -21926,6 +22106,6 @@
       "edition": "street"
     }
   ],
-  "total": 1103,
-  "generatedAt": "2026-08-03T04:08:38.680Z"
+  "total": 1112,
+  "generatedAt": "2026-08-03T10:26:48.754Z"
 }
