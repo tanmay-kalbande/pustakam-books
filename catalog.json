@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "mastering-zendesk-beginner-guide-to-customer-suppo",
+      "title": "Mastering Zendesk: Beginner Guide to Customer Support",
+      "goal": "How to use Zendesk for customer support",
+      "category": "software-tools",
+      "tags": [
+        "Zendesk",
+        "customer-service",
+        "CRM"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20393,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Mastering Zendesk: Beginner Guide to Customer Support — a free beginner-level guide covering how to use zendesk for customer support. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T17:54:22.136Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-sailing-a-boat-start-your-first",
+      "title": "Beginner's Guide to Sailing a Boat: Start Your First Voyage Today",
+      "goal": "Beginner's guide to sailing a boat",
+      "category": "outdoor-sports",
+      "tags": [
+        "sailing",
+        "boating",
+        "ocean"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36603,
+      "moduleCount": 14,
+      "readingTimeMins": 147,
+      "metaDescription": "Beginner's Guide to Sailing a Boat: Start Your First Voyage Today — a free beginner-level guide covering beginner's guide to sailing a boat. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-03T17:51:59.348Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "ski-cross-mastery-a-guide-for-intermediate-skiers",
+      "title": "Ski Cross Mastery: A Guide for Intermediate Skiers",
+      "goal": "Learn to ski cross for intermediate skiers",
+      "category": "outdoor-sports",
+      "tags": [
+        "skiing",
+        "winter-sports",
+        "racing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14416,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Ski Cross Mastery: A Guide for Intermediate Skiers — a free intermediate-level guide covering learn to ski cross for intermediate skiers. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-03T17:43:01.468Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-cricket-a-complete-beginners-guide",
+      "title": "Learn to Play Cricket: A Complete Beginner's Guide",
+      "goal": "Learn to play cricket for beginners",
+      "category": "sports",
+      "tags": [
+        "cricket",
+        "batting",
+        "bowling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25901,
+      "moduleCount": 14,
+      "readingTimeMins": 104,
+      "metaDescription": "Learn to Play Cricket: A Complete Beginner's Guide — a free beginner-level guide covering learn to play cricket for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T17:37:28.754Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-playing-soccer-a-beginners-stepbystep",
+      "title": "How to Start Playing Soccer: A Beginner's Step-by-Step Guide",
+      "goal": "How to start playing soccer for beginners",
+      "category": "sports",
+      "tags": [
+        "soccer",
+        "football",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27383,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Start Playing Soccer: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start playing soccer for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T17:33:11.075Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-autotune-melodyne-intermediate-guide",
+      "title": "Master Auto-Tune & Melodyne: Intermediate Guide",
+      "goal": "How to master Auto-Tune and Melodyne",
+      "category": "music-production",
+      "tags": [
+        "vocal-tuning",
+        "mixing",
+        "pitch-correction"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28198,
+      "moduleCount": 12,
+      "readingTimeMins": 113,
+      "metaDescription": "Master Auto-Tune & Melodyne: Intermediate Guide — a free intermediate-level guide covering how to master auto-tune and melodyne. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T17:29:39.001Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-synth-sound-design-for-music-producers",
+      "title": "Advanced Synth Sound Design for Music Producers",
+      "goal": "Advanced synth sound design for producers",
+      "category": "music-production",
+      "tags": [
+        "synthesis",
+        "sound-design",
+        "electronic"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 15178,
+      "moduleCount": 10,
+      "readingTimeMins": 61,
+      "metaDescription": "Advanced Synth Sound Design for Music Producers — a free advanced-level guide covering advanced synth sound design for producers. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-03T17:26:27.061Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-skincare-brand-for-beginners",
+      "title": "How to Start a Skincare Brand for Beginners",
+      "goal": "How to start a skincare brand for beginners",
+      "category": "business",
+      "tags": [
+        "skincare",
+        "beauty",
+        "startup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35806,
+      "moduleCount": 15,
+      "readingTimeMins": 144,
+      "metaDescription": "How to Start a Skincare Brand for Beginners — a free beginner-level guide covering how to start a skincare brand for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-08-03T17:25:00.989Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-microsoft-teams-a-beginners-stepbystep-guide",
+      "title": "Learn Microsoft Teams: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to use Microsoft Teams for beginners",
+      "category": "software-tools",
+      "tags": [
+        "teams",
+        "collaboration",
+        "office"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23110,
+      "moduleCount": 14,
+      "readingTimeMins": 93,
+      "metaDescription": "Learn Microsoft Teams: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to use microsoft teams for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T17:19:53.118Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-use-zoom-for-online-meetings-beginner-gui",
+      "title": "Learn to Use Zoom for Online Meetings: Beginner Guide",
+      "goal": "Learn to use Zoom for online meetings",
+      "category": "software-tools",
+      "tags": [
+        "zoom",
+        "meetings",
+        "remote work"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21915,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "Learn to Use Zoom for Online Meetings: Beginner Guide — a free beginner-level guide covering learn to use zoom for online meetings. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T17:17:52.353Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-succulent-collection-a-beginners-gu",
       "title": "How to Start a Succulent Collection: A Beginner's Guide",
       "goal": "How to start a succulent collection for beginners",
@@ -22146,6 +22346,6 @@
       "edition": "street"
     }
   ],
-  "total": 1114,
-  "generatedAt": "2026-08-03T15:00:02.179Z"
+  "total": 1124,
+  "generatedAt": "2026-08-03T17:54:23.758Z"
 }
