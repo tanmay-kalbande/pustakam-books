@@ -1,6 +1,226 @@
 {
   "books": [
     {
+      "slug": "how-to-make-natural-lip-balm-beginner",
+      "title": "How to make natural lip balm",
+      "goal": "How to make natural lip balm",
+      "category": "crafts",
+      "tags": [
+        "lip balm",
+        "cosmetics",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19586,
+      "moduleCount": 10,
+      "readingTimeMins": 79,
+      "metaDescription": "How to make natural lip balm — a free beginner-level guide covering how to make natural lip balm. Learn with clear explanations, real examples, and...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T20:26:34.435Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-dreamcatcher-a-beginners-stepbystep",
+      "title": "How to Make a Dreamcatcher: A Beginner's Step-by-Step Guide",
+      "goal": "How to make a dreamcatcher for beginners",
+      "category": "crafts",
+      "tags": [
+        "dreamcatcher",
+        "decor",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13945,
+      "moduleCount": 10,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Make a Dreamcatcher: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make a dreamcatcher for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-03T20:23:26.418Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-leather-tooling-carving-mastery",
+      "title": "Advanced Leather Tooling & Carving Mastery",
+      "goal": "Advanced leather tooling and carving techniques",
+      "category": "crafts",
+      "tags": [
+        "leather",
+        "tooling",
+        "art"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22469,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "Advanced Leather Tooling & Carving Mastery — a free advanced-level guide covering advanced leather tooling and carving techniques. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506, zai-glm-4.7-flash",
+      "generatedAt": "2026-08-03T20:18:14.462Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-solder-copper-pipes-like-a-pro-beginner-to",
+      "title": "How to Solder Copper Pipes Like a Pro: Beginner to Intermediate Guide",
+      "goal": "How to solder copper pipes for beginners",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "soldering",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22055,
+      "moduleCount": 14,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Solder Copper Pipes Like a Pro: Beginner to Intermediate Guide — a free intermediate-level guide covering how to solder copper pipes for...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash, gemma-4-31b",
+      "generatedAt": "2026-08-03T20:12:05.784Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-car-radiator-leak-stepbystep-guide",
+      "title": "How to Fix a Car Radiator Leak: Step-by-Step Guide",
+      "goal": "How to fix a car radiator leak",
+      "category": "mechanics",
+      "tags": [
+        "radiator",
+        "cooling system",
+        "car repair"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22067,
+      "moduleCount": 9,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Fix a Car Radiator Leak: Step-by-Step Guide — a free intermediate-level guide covering how to fix a car radiator leak. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T20:08:26.786Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-changing-car-oil",
+      "title": "Beginner's Guide to Changing Car Oil",
+      "goal": "Beginner's guide to changing car oil",
+      "category": "mechanics",
+      "tags": [
+        "oil change",
+        "maintenance",
+        "car"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21696,
+      "moduleCount": 12,
+      "readingTimeMins": 87,
+      "metaDescription": "Beginner's Guide to Changing Car Oil — a free beginner-level guide covering beginner's guide to changing car oil. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T20:06:10.201Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-wood-router-basics-for-beginners",
+      "title": "Learn Wood Router Basics for Beginners",
+      "goal": "Learn to use a wood router for beginners",
+      "category": "woodworking",
+      "tags": [
+        "router",
+        "tools",
+        "woodwork"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23288,
+      "moduleCount": 9,
+      "readingTimeMins": 94,
+      "metaDescription": "Learn Wood Router Basics for Beginners — a free beginner-level guide covering learn to use a wood router for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T20:03:15.002Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-handcarving-techniques-for-woodworkers",
+      "title": "Advanced Hand-Carving Techniques for Woodworkers",
+      "goal": "Advanced hand-carving techniques for woodworkers",
+      "category": "woodworking",
+      "tags": [
+        "carving",
+        "art",
+        "woodwork"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24990,
+      "moduleCount": 13,
+      "readingTimeMins": 100,
+      "metaDescription": "Advanced Hand-Carving Techniques for Woodworkers — a free advanced-level guide covering advanced hand-carving techniques for woodworkers. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T20:00:44.376Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-wooden-cutting-board-beginner-guide",
+      "title": "How to Make a Wooden Cutting Board – Beginner Guide",
+      "goal": "Learn to make a wooden cutting board",
+      "category": "woodworking",
+      "tags": [
+        "cutting board",
+        "kitchen",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22598,
+      "moduleCount": 11,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Make a Wooden Cutting Board – Beginner Guide — a free beginner-level guide covering learn to make a wooden cutting board. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-03T19:55:30.960Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-pollinator-garden-for-bees-a-beginn",
+      "title": "How to Start a Pollinator Garden for Bees: A Beginner's Guide",
+      "goal": "How to start a pollinator garden for bees",
+      "category": "gardening",
+      "tags": [
+        "bees",
+        "pollinators",
+        "flowers"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27336,
+      "moduleCount": 13,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Start a Pollinator Garden for Bees: A Beginner's Guide — a free beginner-level guide covering how to start a pollinator garden for bees. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-03T19:52:44.189Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hydroponic-nutrient-mixing-for-high-yield",
+      "title": "Advanced Hydroponic Nutrient Mixing for High Yields",
+      "goal": "Advanced hydroponic nutrient mixing for high yields",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "nutrients",
+        "farming"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 26659,
+      "moduleCount": 10,
+      "readingTimeMins": 107,
+      "metaDescription": "Advanced Hydroponic Nutrient Mixing for High Yields — a free advanced-level guide covering advanced hydroponic nutrient mixing for high yields. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-03T19:48:28.668Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mastering-zendesk-beginner-guide-to-customer-suppo",
       "title": "Mastering Zendesk: Beginner Guide to Customer Support",
       "goal": "How to use Zendesk for customer support",
@@ -22346,6 +22566,6 @@
       "edition": "street"
     }
   ],
-  "total": 1124,
-  "generatedAt": "2026-08-03T17:54:23.758Z"
+  "total": 1135,
+  "generatedAt": "2026-08-03T20:26:36.169Z"
 }
