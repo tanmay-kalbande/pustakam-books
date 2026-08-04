@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "advanced-freediving-techniques-and-safety-mastery",
+      "title": "Advanced Freediving Techniques and Safety Mastery",
+      "goal": "Advanced free diving techniques and safety",
+      "category": "outdoor-sports",
+      "tags": [
+        "freediving",
+        "diving",
+        "breathwork"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27535,
+      "moduleCount": 13,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Freediving Techniques and Safety Mastery — a free advanced-level guide covering advanced free diving techniques and safety. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T22:38:52.219Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-kayaking-and-canoeing-learn-bas",
+      "title": "Beginner's Guide to Kayaking and Canoeing: Learn Basics Fast",
+      "goal": "Beginner's guide to kayaking and canoeing",
+      "category": "outdoor-sports",
+      "tags": [
+        "kayaking",
+        "canoeing",
+        "water sports"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24388,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "Beginner's Guide to Kayaking and Canoeing: Learn Basics Fast — a free beginner-level guide covering beginner's guide to kayaking and canoeing. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T22:34:36.928Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-jewelry-business-stepbystep-guide-f",
+      "title": "How to Start a Jewelry Business: Step-by-Step Guide for Beginners",
+      "goal": "How to start a jewelry business",
+      "category": "business",
+      "tags": [
+        "jewelry",
+        "entrepreneur",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26930,
+      "moduleCount": 14,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Start a Jewelry Business: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to start a jewelry business. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T22:32:17.842Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-owning-a-hamster-everything-you",
+      "title": "Beginner's Guide to Owning a Hamster: Everything You Need to Know",
+      "goal": "Beginner's guide to owning a hamster",
+      "category": "pets",
+      "tags": [
+        "hamster",
+        "small pets",
+        "care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26503,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "Beginner's Guide to Owning a Hamster: Everything You Need to Know — a free beginner-level guide covering beginner's guide to owning a hamster. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T22:24:59.606Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "babyled-weaning-for-beginners-a-stepbystep-guide",
+      "title": "Baby-Led Weaning for Beginners: A Step-by-Step Guide",
+      "goal": "Beginner's guide to baby led weaning",
+      "category": "parenting",
+      "tags": [
+        "baby",
+        "nutrition",
+        "feeding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17421,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "Baby-Led Weaning for Beginners: A Step-by-Step Guide — a free beginner-level guide covering beginner's guide to baby led weaning. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T22:21:27.957Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-surfboard-shaping-and-repair-mastery",
       "title": "Advanced Surfboard Shaping and Repair Mastery",
       "goal": "Advanced surfboard shaping and repair",
@@ -23806,6 +23906,6 @@
       "edition": "street"
     }
   ],
-  "total": 1197,
-  "generatedAt": "2026-08-04T20:08:00.264Z"
+  "total": 1202,
+  "generatedAt": "2026-08-04T22:38:53.975Z"
 }
