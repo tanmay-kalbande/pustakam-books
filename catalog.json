@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "advanced-deep-space-astrophotography-and-observati",
+      "title": "Advanced Deep Space Astrophotography and Observation",
+      "goal": "Advanced telescope techniques for deep space",
+      "category": "astronomy",
+      "tags": [
+        "telescope",
+        "space",
+        "astrophotography"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11915,
+      "moduleCount": 7,
+      "readingTimeMins": 48,
+      "metaDescription": "Advanced Deep Space Astrophotography and Observation — a free advanced-level guide covering advanced telescope techniques for deep space. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T17:20:08.673Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-trello-for-personal-productivity",
+      "title": "How to Use Trello for Personal Productivity",
+      "goal": "How to use Trello for personal productivity",
+      "category": "software-tools",
+      "tags": [
+        "Trello",
+        "organization",
+        "kanban"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17318,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Use Trello for Personal Productivity — a free beginner-level guide covering how to use trello for personal productivity. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T17:19:09.131Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-volleyball-beginners-guide-to-master",
+      "title": "Learn to Play Volleyball: Beginner's Guide to Mastering the Basics",
+      "goal": "Learn to play volleyball for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "volleyball",
+        "team-sports",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24955,
+      "moduleCount": 14,
+      "readingTimeMins": 100,
+      "metaDescription": "Learn to Play Volleyball: Beginner's Guide to Mastering the Basics — a free beginner-level guide covering learn to play volleyball for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T17:16:12.087Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-skateboarding-for-beginners",
+      "title": "How to Start Skateboarding for Beginners",
+      "goal": "How to start skateboarding for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "skateboarding",
+        "board",
+        "tricks"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30479,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "How to Start Skateboarding for Beginners — a free beginner-level guide covering how to start skateboarding for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T17:13:34.254Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-engine-rebuilding-precision-machining-and",
+      "title": "Advanced Engine Rebuilding: Precision Machining and Tuning",
+      "goal": "Advanced engine rebuilding for beginners",
+      "category": "mechanics",
+      "tags": [
+        "engine",
+        "overhaul",
+        "auto repair"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14475,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Advanced Engine Rebuilding: Precision Machining and Tuning — a free advanced-level guide covering advanced engine rebuilding for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T17:09:57.728Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-diagnose-and-replace-a-car-fuel-pump",
+      "title": "How to Diagnose and Replace a Car Fuel Pump",
+      "goal": "How to fix a car fuel pump",
+      "category": "mechanics",
+      "tags": [
+        "fuel system",
+        "auto repair",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20270,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Diagnose and Replace a Car Fuel Pump — a free intermediate-level guide covering how to fix a car fuel pump. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T17:08:32.021Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-pastry-techniques-for-professional-bakers",
+      "title": "Advanced Pastry Techniques for Professional Bakers",
+      "goal": "Advanced pastry techniques for professional bakers",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "pastry",
+        "professional"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14438,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "Advanced Pastry Techniques for Professional Bakers — a free advanced-level guide covering advanced pastry techniques for professional bakers. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T17:05:31.340Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-repair-a-drywall-ceiling-for-beginners",
+      "title": "How to Repair a Drywall Ceiling for Beginners",
+      "goal": "How to repair a drywall ceiling for beginners",
+      "category": "trades",
+      "tags": [
+        "home repair",
+        "drywall",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29190,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "How to Repair a Drywall Ceiling for Beginners — a free beginner-level guide covering how to repair a drywall ceiling for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T17:03:50.004Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-garage-workbench-a-beginners-guide",
+      "title": "How to Build a Garage Workbench: A Beginner's Guide",
+      "goal": "How to build a workbench for your garage",
+      "category": "woodworking",
+      "tags": [
+        "workshop",
+        "furniture",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15931,
+      "moduleCount": 10,
+      "readingTimeMins": 64,
+      "metaDescription": "How to Build a Garage Workbench: A Beginner's Guide — a free beginner-level guide covering how to build a workbench for your garage. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-04T17:00:02.033Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-play-the-oboe-a-complete-beginners-guide",
       "title": "How to Play the Oboe: A Complete Beginner's Guide",
       "goal": "Learn how to play the oboe for beginners",
@@ -23526,6 +23706,6 @@
       "edition": "street"
     }
   ],
-  "total": 1183,
-  "generatedAt": "2026-08-04T14:50:42.241Z"
+  "total": 1192,
+  "generatedAt": "2026-08-04T17:20:10.460Z"
 }
