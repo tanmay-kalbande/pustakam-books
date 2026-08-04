@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-play-the-oboe-a-complete-beginners-guide",
+      "title": "How to Play the Oboe: A Complete Beginner's Guide",
+      "goal": "Learn how to play the oboe for beginners",
+      "category": "music",
+      "tags": [
+        "oboe",
+        "instrument",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16641,
+      "moduleCount": 11,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Play the Oboe: A Complete Beginner's Guide — a free beginner-level guide covering learn how to play the oboe for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T14:50:40.527Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-cinema-4d-beginners-stepbystep-guide",
+      "title": "Learn Cinema 4D: Beginner's Step-by-Step Guide",
+      "goal": "Learn how to use Cinema 4D for beginners",
+      "category": "digital-art",
+      "tags": [
+        "cinema 4d",
+        "3d",
+        "motion graphics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24120,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "Learn Cinema 4D: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to use cinema 4d for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T14:49:13.978Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-learn-indonesian-for-beginners-a-comp",
+      "title": "Learn How to Learn Indonesian for Beginners: A Complete Guide",
+      "goal": "Learn how to learn Indonesian for beginners",
+      "category": "language",
+      "tags": [
+        "indonesian",
+        "language",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29306,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "Learn How to Learn Indonesian for Beginners: A Complete Guide — a free beginner-level guide covering learn how to learn indonesian for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T14:45:41.948Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-kitesurfing-mastery-of-freestyle-big-air",
+      "title": "Advanced Kitesurfing: Mastery of Freestyle, Big Air, and Wave",
+      "goal": "Advanced kitesurfing tricks and techniques",
+      "category": "outdoor-sports",
+      "tags": [
+        "kitesurfing",
+        "water sports",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 17259,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "Advanced Kitesurfing: Mastery of Freestyle, Big Air, and Wave — a free advanced-level guide covering advanced kitesurfing tricks and techniques. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-04T14:41:44.432Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-audacity-for-audio-editing-a-beginners",
+      "title": "How to Use Audacity for Audio Editing: A Beginner's Roadmap",
+      "goal": "How to use Audacity for audio editing",
+      "category": "music-production",
+      "tags": [
+        "audacity",
+        "audio editing",
+        "free software"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27645,
+      "moduleCount": 12,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Use Audacity for Audio Editing: A Beginner's Roadmap — a free beginner-level guide covering how to use audacity for audio editing. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T14:39:03.449Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "professional-cake-baking-mastery-from-scratch",
+      "title": "Professional Cake Baking Mastery From Scratch",
+      "goal": "How to bake a professional cake from scratch",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "cake",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 34986,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "Professional Cake Baking Mastery From Scratch — a free intermediate-level guide covering how to bake a professional cake from scratch. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T14:35:26.761Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-tie-sailing-knots-beginners-guide-to-esse",
+      "title": "Learn to Tie Sailing Knots: Beginner's Guide to Essential Knots",
+      "goal": "How to tie knots for sailing beginners",
+      "category": "outdoor",
+      "tags": [
+        "knots",
+        "sailing",
+        "boating"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25442,
+      "moduleCount": 14,
+      "readingTimeMins": 102,
+      "metaDescription": "Learn to Tie Sailing Knots: Beginner's Guide to Essential Knots — a free beginner-level guide covering how to tie knots for sailing beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T14:30:29.409Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-jira-workflows-for-project-managers-advan",
       "title": "Advanced Jira workflows for project managers",
       "goal": "Advanced Jira workflows for project managers",
@@ -23386,6 +23526,6 @@
       "edition": "street"
     }
   ],
-  "total": 1176,
-  "generatedAt": "2026-08-04T11:57:31.744Z"
+  "total": 1183,
+  "generatedAt": "2026-08-04T14:50:42.241Z"
 }
