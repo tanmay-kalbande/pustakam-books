@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "learn-persian-fast-beginners-stepbystep-guide",
+      "title": "Learn Persian Fast: Beginner's Step-by-Step Guide",
+      "goal": "How to learn Persian for beginners",
+      "category": "language",
+      "tags": [
+        "persian",
+        "farsi",
+        "language learning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31074,
+      "moduleCount": 14,
+      "readingTimeMins": 125,
+      "metaDescription": "Learn Persian Fast: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to learn persian for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T09:08:45.049Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "zbrush-3d-modeling-mastery-an-intermediate-guide",
+      "title": "ZBrush 3D Modeling Mastery: An Intermediate Guide",
+      "goal": "How to create 3D models in ZBrush",
+      "category": "digital-art",
+      "tags": [
+        "zbrush",
+        "3d sculpting",
+        "modeling"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21826,
+      "moduleCount": 14,
+      "readingTimeMins": 88,
+      "metaDescription": "ZBrush 3D Modeling Mastery: An Intermediate Guide — a free intermediate-level guide covering how to create 3d models in zbrush. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T09:04:08.198Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-solder-electrical-wires-a-complete-beginner",
+      "title": "How to Solder Electrical Wires: A Complete Beginner's Guide",
+      "goal": "How to solder electrical wires for beginners",
+      "category": "trades",
+      "tags": [
+        "soldering",
+        "electrical",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26213,
+      "moduleCount": 15,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Solder Electrical Wires: A Complete Beginner's Guide — a free beginner-level guide covering how to solder electrical wires for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T09:00:38.406Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-wooden-deck-beginner-stepbystep-gui",
+      "title": "How to Build a Wooden Deck: Beginner Step-by-Step Guide",
+      "goal": "Learn to build a wooden deck for beginners",
+      "category": "woodworking",
+      "tags": [
+        "decking",
+        "outdoor",
+        "construction"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23396,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "How to Build a Wooden Deck: Beginner Step-by-Step Guide — a free beginner-level guide covering learn to build a wooden deck for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T08:56:57.135Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-sourdough-hydration-and-crumb-control",
+      "title": "Advanced Sourdough Hydration and Crumb Control",
+      "goal": "Advanced sourdough hydration and crumb control",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "sourdough",
+        "expert"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31299,
+      "moduleCount": 14,
+      "readingTimeMins": 126,
+      "metaDescription": "Advanced Sourdough Hydration and Crumb Control — a free advanced-level guide covering advanced sourdough hydration and crumb control. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T08:53:02.789Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "birdwatching-for-beginners-stepbystep-guide",
+      "title": "Birdwatching for Beginners: Step-by-Step Guide",
+      "goal": "Beginner's guide to bird watching",
+      "category": "hobbies",
+      "tags": [
+        "birding",
+        "nature",
+        "wildlife"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24730,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Birdwatching for Beginners: Step-by-Step Guide — a free beginner-level guide covering beginner's guide to bird watching. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T08:48:00.321Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-sourdough-fermentation-hydration-mastery",
       "title": "Advanced Sourdough Fermentation & Hydration Mastery",
       "goal": "Advanced sourdough fermentation and hydration techniques",
@@ -23066,6 +23186,6 @@
       "edition": "street"
     }
   ],
-  "total": 1160,
-  "generatedAt": "2026-08-04T06:17:17.708Z"
+  "total": 1166,
+  "generatedAt": "2026-08-04T09:08:46.687Z"
 }
