@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "advanced-jira-workflows-for-project-managers-advan",
+      "title": "Advanced Jira workflows for project managers",
+      "goal": "Advanced Jira workflows for project managers",
+      "category": "software-tools",
+      "tags": [
+        "Jira",
+        "Agile",
+        "project management"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21796,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Advanced Jira workflows for project managers — a free advanced-level guide covering advanced jira workflows for project managers. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T11:57:30.015Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-car-suspension-tuning-guide",
+      "title": "Intermediate Car Suspension Tuning Guide",
+      "goal": "Intermediate guide to car suspension tuning",
+      "category": "mechanics",
+      "tags": [
+        "suspension",
+        "tuning",
+        "performance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29435,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "Intermediate Car Suspension Tuning Guide — a free intermediate-level guide covering intermediate guide to car suspension tuning. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T11:55:20.568Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-wood-staining-and-finishing-guide",
+      "title": "Intermediate Wood Staining and Finishing Guide",
+      "goal": "Intermediate guide to wood staining and finishing",
+      "category": "woodworking",
+      "tags": [
+        "staining",
+        "varnish",
+        "finishing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13988,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "Intermediate Wood Staining and Finishing Guide — a free intermediate-level guide covering intermediate guide to wood staining and finishing. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T11:50:27.221Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-soil-nutrient-testing-and-correction",
+      "title": "Advanced Soil Nutrient Testing and Correction",
+      "goal": "Advanced soil nutrient testing and correction",
+      "category": "gardening",
+      "tags": [
+        "soil",
+        "nutrients",
+        "fertilizer"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27597,
+      "moduleCount": 11,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Soil Nutrient Testing and Correction — a free advanced-level guide covering advanced soil nutrient testing and correction. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T11:48:46.122Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-tile-grouting-and-sealing-mastery",
+      "title": "Advanced Tile Grouting and Sealing Mastery",
+      "goal": "Advanced tile grouting and sealing techniques",
+      "category": "trades",
+      "tags": [
+        "tiling",
+        "grouting",
+        "finishing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 9721,
+      "moduleCount": 6,
+      "readingTimeMins": 39,
+      "metaDescription": "Advanced Tile Grouting and Sealing Mastery — a free advanced-level guide covering advanced tile grouting and sealing techniques. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T11:46:29.558Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-brake-caliper-rebuilding-pro-techniques-t",
+      "title": "Advanced Brake Caliper Rebuilding: Pro Techniques & Troubleshooting",
+      "goal": "Advanced brake caliper rebuilding guide",
+      "category": "mechanics",
+      "tags": [
+        "brakes",
+        "car repair",
+        "calipers"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32973,
+      "moduleCount": 13,
+      "readingTimeMins": 132,
+      "metaDescription": "Advanced Brake Caliper Rebuilding: Pro Techniques & Troubleshooting — a free advanced-level guide covering advanced brake caliper rebuilding guide....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T11:45:28.367Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-guide-to-tempering-chocolate",
+      "title": "Intermediate Guide to Tempering Chocolate",
+      "goal": "Intermediate guide to tempering chocolate",
+      "category": "culinary",
+      "tags": [
+        "chocolate",
+        "confectionery",
+        "tempering"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12454,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "Intermediate Guide to Tempering Chocolate — a free intermediate-level guide covering intermediate guide to tempering chocolate. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T11:40:06.179Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-carve-a-wooden-spoon-beginners-stepbystep-g",
+      "title": "How to Carve a Wooden Spoon: Beginner's Step-by-Step Guide",
+      "goal": "How to carve a wooden spoon",
+      "category": "woodworking",
+      "tags": [
+        "carving",
+        "spoon",
+        "hand tools"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28690,
+      "moduleCount": 13,
+      "readingTimeMins": 115,
+      "metaDescription": "How to Carve a Wooden Spoon: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to carve a wooden spoon. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T11:38:32.806Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hvac-ductwork-design-and-installation",
+      "title": "Advanced HVAC Ductwork Design and Installation",
+      "goal": "Advanced HVAC ductwork design and installation",
+      "category": "trades",
+      "tags": [
+        "HVAC",
+        "ventilation",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 16903,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "Advanced HVAC Ductwork Design and Installation — a free advanced-level guide covering advanced hvac ductwork design and installation. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-04T11:35:36.688Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-seo-strategies-for-ecommerce-sites",
+      "title": "Advanced SEO Strategies for E‑Commerce Sites",
+      "goal": "Advanced SEO for e-commerce websites",
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "ecommerce",
+        "traffic"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22762,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Advanced SEO Strategies for E‑Commerce Sites — a free advanced-level guide covering advanced seo for e-commerce websites. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T11:33:03.347Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-persian-fast-beginners-stepbystep-guide",
       "title": "Learn Persian Fast: Beginner's Step-by-Step Guide",
       "goal": "How to learn Persian for beginners",
@@ -23186,6 +23386,6 @@
       "edition": "street"
     }
   ],
-  "total": 1166,
-  "generatedAt": "2026-08-04T09:08:46.687Z"
+  "total": 1176,
+  "generatedAt": "2026-08-04T11:57:31.744Z"
 }
