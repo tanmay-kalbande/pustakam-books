@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "advanced-sourdough-fermentation-hydration-mastery",
+      "title": "Advanced Sourdough Fermentation & Hydration Mastery",
+      "goal": "Advanced sourdough fermentation and hydration techniques",
+      "category": "culinary",
+      "tags": [
+        "sourdough",
+        "fermentation",
+        "bread"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24164,
+      "moduleCount": 14,
+      "readingTimeMins": 97,
+      "metaDescription": "Advanced Sourdough Fermentation & Hydration Mastery — a free advanced-level guide covering advanced sourdough fermentation and hydration techniques....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T06:17:16.053Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-seo-strategies-for-organic-growth",
+      "title": "Advanced SEO Strategies for Organic Growth",
+      "goal": "Advanced SEO strategies for organic growth",
+      "category": "marketing",
+      "tags": [
+        "seo",
+        "google search",
+        "traffic"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21358,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Advanced SEO Strategies for Organic Growth — a free advanced-level guide covering advanced seo strategies for organic growth. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T06:13:29.252Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-blender-3d-character-sculpting-mastery",
+      "title": "Advanced Blender 3D Character Sculpting Mastery",
+      "goal": "Advanced Blender 3D character sculpting techniques",
+      "category": "digital-art",
+      "tags": [
+        "blender",
+        "3d sculpting",
+        "character art"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32418,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Advanced Blender 3D Character Sculpting Mastery — a free advanced-level guide covering advanced blender 3d character sculpting techniques. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T06:10:59.642Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-taekwondo-sparring-elite-strategy-and-tec",
+      "title": "Advanced Taekwondo Sparring: Elite Strategy and Technique",
+      "goal": "Advanced Taekwondo sparring techniques",
+      "category": "martial-arts",
+      "tags": [
+        "taekwondo",
+        "sparring",
+        "fighting"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12731,
+      "moduleCount": 7,
+      "readingTimeMins": 51,
+      "metaDescription": "Advanced Taekwondo Sparring: Elite Strategy and Technique — a free advanced-level guide covering advanced taekwondo sparring techniques. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-04T06:07:14.513Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-ceramic-sculpture-and-hand-building-maste",
+      "title": "Advanced Ceramic Sculpture and Hand Building Mastery",
+      "goal": "Advanced ceramic sculpture and hand building",
+      "category": "pottery",
+      "tags": [
+        "sculpture",
+        "handbuilding",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23772,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Advanced Ceramic Sculpture and Hand Building Mastery — a free advanced-level guide covering advanced ceramic sculpture and hand building. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T06:05:28.467Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "wire-jewelry-making-for-beginners-a-stepbystep-gui",
+      "title": "Wire Jewelry Making for Beginners: A Step-by-Step Guide",
+      "goal": "How to make custom jewelry with wire",
+      "category": "crafts",
+      "tags": [
+        "jewelry",
+        "wire wrapping",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 10980,
+      "moduleCount": 7,
+      "readingTimeMins": 44,
+      "metaDescription": "Wire Jewelry Making for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to make custom jewelry with wire. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-04T06:03:21.479Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hvac-troubleshooting-and-repair-mastery",
+      "title": "Advanced HVAC Troubleshooting and Repair Mastery",
+      "goal": "Advanced HVAC troubleshooting and repair",
+      "category": "trades",
+      "tags": [
+        "HVAC",
+        "heating",
+        "cooling"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 33567,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "Advanced HVAC Troubleshooting and Repair Mastery — a free advanced-level guide covering advanced hvac troubleshooting and repair. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T06:02:12.568Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-stock-trading-stepbystep-basics",
+      "title": "Beginner's Guide to Stock Trading: Step-by-Step Basics",
+      "goal": "Beginner's guide to stock trading",
+      "category": "finance",
+      "tags": [
+        "trading",
+        "stocks",
+        "market"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23877,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Beginner's Guide to Stock Trading: Step-by-Step Basics — a free beginner-level guide covering beginner's guide to stock trading. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T05:57:24.566Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-pottery-teapot-mastery-from-concept-to-ki",
       "title": "Advanced Pottery Teapot Mastery: From Concept to Kiln",
       "goal": "How to make a pottery teapot",
@@ -22906,6 +23066,6 @@
       "edition": "street"
     }
   ],
-  "total": 1152,
-  "generatedAt": "2026-08-04T03:26:24.584Z"
+  "total": 1160,
+  "generatedAt": "2026-08-04T06:17:17.708Z"
 }
