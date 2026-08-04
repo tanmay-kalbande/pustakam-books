@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "advanced-pottery-teapot-mastery-from-concept-to-ki",
+      "title": "Advanced Pottery Teapot Mastery: From Concept to Kiln",
+      "goal": "How to make a pottery teapot",
+      "category": "pottery",
+      "tags": [
+        "ceramics",
+        "clay",
+        "functional art"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23388,
+      "moduleCount": 13,
+      "readingTimeMins": 94,
+      "metaDescription": "Advanced Pottery Teapot Mastery: From Concept to Kiln — a free advanced-level guide covering how to make a pottery teapot. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T03:26:22.080Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-homemade-macaron-mastery",
+      "title": "Advanced Homemade Macaron Mastery",
+      "goal": "Learn to make homemade macarons",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "french",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22942,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Advanced Homemade Macaron Mastery — a free advanced-level guide covering learn to make homemade macarons. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T03:22:53.919Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-square-foot-gardening-guide-for-small-spa",
+      "title": "Beginner Square Foot Gardening Guide for Small Spaces",
+      "goal": "Beginner's guide to square foot gardening",
+      "category": "gardening",
+      "tags": [
+        "vegetables",
+        "efficiency",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27059,
+      "moduleCount": 14,
+      "readingTimeMins": 109,
+      "metaDescription": "Beginner Square Foot Gardening Guide for Small Spaces — a free beginner-level guide covering beginner's guide to square foot gardening. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T03:21:02.511Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-pottery-platter-stepbystep-guide",
+      "title": "How to Make a Pottery Platter: Step-by-Step Guide",
+      "goal": "Learn to make a pottery platter",
+      "category": "pottery",
+      "tags": [
+        "ceramics",
+        "slab building",
+        "clay"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 32061,
+      "moduleCount": 14,
+      "readingTimeMins": 129,
+      "metaDescription": "How to Make a Pottery Platter: Step-by-Step Guide — a free intermediate-level guide covering learn to make a pottery platter. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T03:17:19.765Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-growing-bonsai-trees",
+      "title": "Beginner's Guide to Growing Bonsai Trees",
+      "goal": "Beginner's guide to growing bonsai trees",
+      "category": "gardening",
+      "tags": [
+        "bonsai",
+        "trees",
+        "pruning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18536,
+      "moduleCount": 10,
+      "readingTimeMins": 75,
+      "metaDescription": "Beginner's Guide to Growing Bonsai Trees — a free beginner-level guide covering beginner's guide to growing bonsai trees. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-04T03:13:46.005Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-guide-to-building-a-highquality-garden-sh",
+      "title": "Advanced Guide to Building a High-Quality Garden Shed",
+      "goal": "How to build a garden shed",
+      "category": "trades",
+      "tags": [
+        "construction",
+        "outdoor",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32464,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Advanced Guide to Building a High-Quality Garden Shed — a free advanced-level guide covering how to build a garden shed. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T03:10:39.244Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "hydroponic-strawberries-for-beginners-a-complete-s",
+      "title": "Hydroponic Strawberries for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Beginner's guide to hydroponic strawberries",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "strawberries",
+        "indoor garden"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28146,
+      "moduleCount": 15,
+      "readingTimeMins": 113,
+      "metaDescription": "Hydroponic Strawberries for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering beginner's guide to hydroponic...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T03:06:38.108Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-indoor-mushroom-farm",
+      "title": "How to Start an Indoor Mushroom Farm",
+      "goal": "How to start an indoor mushroom farm",
+      "category": "gardening",
+      "tags": [
+        "mushrooms",
+        "fungi",
+        "indoor"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20837,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "How to Start an Indoor Mushroom Farm — a free intermediate-level guide covering how to start an indoor mushroom farm. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T03:00:58.655Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-lightroom-presets-and-color-grading-maste",
+      "title": "Advanced Lightroom Presets and Color Grading Mastery",
+      "goal": "Advanced Lightroom presets and color grading",
+      "category": "photography",
+      "tags": [
+        "lightroom",
+        "editing",
+        "presets"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27775,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "Advanced Lightroom Presets and Color Grading Mastery — a free advanced-level guide covering advanced lightroom presets and color grading. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T02:58:27.000Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-techniques-for-long-exposure-photography",
+      "title": "Advanced techniques for long exposure photography",
+      "goal": "Advanced techniques for long exposure photography",
+      "category": "photography",
+      "tags": [
+        "shutter speed",
+        "night photography",
+        "landscape"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30532,
+      "moduleCount": 12,
+      "readingTimeMins": 123,
+      "metaDescription": "Advanced techniques for long exposure photography — a free advanced-level guide covering advanced techniques for long exposure photography. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-04T02:54:20.392Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "homemade-jam-and-jelly-making-a-complete-beginners",
       "title": "Homemade Jam and Jelly Making: A Complete Beginner's Guide",
       "goal": "Learn to make homemade jam and jelly",
@@ -22706,6 +22906,6 @@
       "edition": "street"
     }
   ],
-  "total": 1142,
-  "generatedAt": "2026-08-03T22:32:26.942Z"
+  "total": 1152,
+  "generatedAt": "2026-08-04T03:26:24.584Z"
 }
