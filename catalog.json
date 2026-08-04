@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "advanced-surfboard-shaping-and-repair-mastery",
+      "title": "Advanced Surfboard Shaping and Repair Mastery",
+      "goal": "Advanced surfboard shaping and repair",
+      "category": "outdoor-sports",
+      "tags": [
+        "surfing",
+        "surfboard",
+        "craft"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31023,
+      "moduleCount": 12,
+      "readingTimeMins": 125,
+      "metaDescription": "Advanced Surfboard Shaping and Repair Mastery — a free advanced-level guide covering advanced surfboard shaping and repair. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T20:07:29.566Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-flower-garden-for-beginners",
+      "title": "How to Start a Flower Garden for Beginners",
+      "goal": "How to start a flower garden for beginners",
+      "category": "gardening",
+      "tags": [
+        "flowers",
+        "landscaping",
+        "nature"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32107,
+      "moduleCount": 14,
+      "readingTimeMins": 129,
+      "metaDescription": "How to Start a Flower Garden for Beginners — a free beginner-level guide covering how to start a flower garden for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-04T19:59:56.571Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-restore-old-furniture-a-beginners-stepbyste",
+      "title": "How to Restore Old Furniture: A Beginner's Step-by-Step Guide",
+      "goal": "How to restore old furniture for beginners",
+      "category": "woodworking",
+      "tags": [
+        "restoration",
+        "furniture",
+        "upcycling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31012,
+      "moduleCount": 14,
+      "readingTimeMins": 125,
+      "metaDescription": "How to Restore Old Furniture: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to restore old furniture for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T19:56:26.620Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-making-natural-skincare-at-home",
+      "title": "Beginner's Guide to Making Natural Skincare at Home",
+      "goal": "How to make natural skincare products at home",
+      "category": "crafts",
+      "tags": [
+        "skincare",
+        "natural",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25029,
+      "moduleCount": 15,
+      "readingTimeMins": 101,
+      "metaDescription": "Beginner's Guide to Making Natural Skincare at Home — a free beginner-level guide covering how to make natural skincare products at home. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-04T19:50:41.633Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-home-workouts",
+      "title": "Beginner's Guide to Home Workouts",
+      "goal": "Beginner's guide to home workout",
+      "category": "fitness",
+      "tags": [
+        "home-workout",
+        "exercise",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22954,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Beginner's Guide to Home Workouts — a free beginner-level guide covering beginner's guide to home workout. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-04T19:48:20.618Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-deep-space-astrophotography-and-observati",
       "title": "Advanced Deep Space Astrophotography and Observation",
       "goal": "Advanced telescope techniques for deep space",
@@ -23706,6 +23806,6 @@
       "edition": "street"
     }
   ],
-  "total": 1192,
-  "generatedAt": "2026-08-04T17:20:10.460Z"
+  "total": 1197,
+  "generatedAt": "2026-08-04T20:08:00.264Z"
 }
