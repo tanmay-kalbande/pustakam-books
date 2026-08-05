@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "obsidian-for-personal-knowledge-management-beginne",
+      "title": "Obsidian for Personal Knowledge Management: Beginner's Guide",
+      "goal": "How to use Obsidian for personal knowledge management",
+      "category": "software-tools",
+      "tags": [
+        "obsidian",
+        "productivity",
+        "zettelkasten"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25115,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "Obsidian for Personal Knowledge Management: Beginner's Guide — a free beginner-level guide covering how to use obsidian for personal knowledge...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T06:01:10.174Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-racquetball-basics-skil",
+      "title": "Beginner's Guide to Playing Racquetball: Basics, Skills, and Strategies",
+      "goal": "Learn to play racquetball for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "racquetball",
+        "sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19838,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "Beginner's Guide to Playing Racquetball: Basics, Skills, and Strategies — a free beginner-level guide covering learn to play racquetball for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-05T05:57:49.267Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-your-own-soap-a-complete-beginners-gui",
+      "title": "How to Make Your Own Soap: A Complete Beginner's Guide",
+      "goal": "How to make your own soap",
+      "category": "crafts",
+      "tags": [
+        "soap-making",
+        "natural",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26356,
+      "moduleCount": 14,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Make Your Own Soap: A Complete Beginner's Guide — a free beginner-level guide covering how to make your own soap. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T05:56:09.367Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-tennis-footwork-and-movement-mastery-guid",
       "title": "Advanced Tennis Footwork and Movement Mastery Guide",
       "goal": "Advanced tennis footwork and movement drills",
@@ -24006,6 +24066,6 @@
       "edition": "street"
     }
   ],
-  "total": 1207,
-  "generatedAt": "2026-08-05T03:07:04.160Z"
+  "total": 1210,
+  "generatedAt": "2026-08-05T06:04:34.395Z"
 }
