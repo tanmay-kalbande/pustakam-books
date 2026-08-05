@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "advanced-tennis-footwork-and-movement-mastery-guid",
+      "title": "Advanced Tennis Footwork and Movement Mastery Guide",
+      "goal": "Advanced tennis footwork and movement drills",
+      "category": "sports",
+      "tags": [
+        "tennis",
+        "footwork",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30497,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "Advanced Tennis Footwork and Movement Mastery Guide — a free advanced-level guide covering advanced tennis footwork and movement drills. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T03:07:01.437Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-pickleball-a-complete-beginners-guide",
+      "title": "How to Play Pickleball: A Complete Beginner's Guide",
+      "goal": "Learn to play pickleball for beginners",
+      "category": "sports",
+      "tags": [
+        "pickleball",
+        "racket sports",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18078,
+      "moduleCount": 11,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Play Pickleball: A Complete Beginner's Guide — a free beginner-level guide covering learn to play pickleball for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T03:03:17.891Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-thai-language-for-beginners-stepbystep-guide",
+      "title": "Learn Thai Language for Beginners: Step-by-Step Guide",
+      "goal": "Learn Thai language for beginners",
+      "category": "language",
+      "tags": [
+        "thai",
+        "asia",
+        "language learning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31544,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "Learn Thai Language for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn thai language for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T03:01:05.643Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "c-for-beginners-a-comprehensive-stepbystep-guide",
+      "title": "C++ for Beginners: A Comprehensive Step-by-Step Guide",
+      "goal": "How to learn C++ for beginners",
+      "category": "programming",
+      "tags": [
+        "cpp",
+        "coding",
+        "software"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20026,
+      "moduleCount": 12,
+      "readingTimeMins": 81,
+      "metaDescription": "C++ for Beginners: A Comprehensive Step-by-Step Guide — a free beginner-level guide covering how to learn c++ for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T02:56:20.186Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-terrarium-a-stepbystep-beginners-gu",
+      "title": "How to Start a Terrarium: A Step-by-Step Beginner's Guide",
+      "goal": "How to start a terrarium for beginners",
+      "category": "gardening",
+      "tags": [
+        "terrarium",
+        "indoor plants",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17971,
+      "moduleCount": 10,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Start a Terrarium: A Step-by-Step Beginner's Guide — a free beginner-level guide covering how to start a terrarium for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T02:54:41.319Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-freediving-techniques-and-safety-mastery",
       "title": "Advanced Freediving Techniques and Safety Mastery",
       "goal": "Advanced free diving techniques and safety",
@@ -23906,6 +24006,6 @@
       "edition": "street"
     }
   ],
-  "total": 1202,
-  "generatedAt": "2026-08-04T22:38:53.975Z"
+  "total": 1207,
+  "generatedAt": "2026-08-05T03:07:04.160Z"
 }
