@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-fix-your-cars-heating-system-a-complete-gui",
+      "title": "How to Fix Your Car's Heating System: A Complete Guide",
+      "goal": "How to fix a car's heating system",
+      "category": "mechanics",
+      "tags": [
+        "HVAC",
+        "car repair",
+        "winter"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14935,
+      "moduleCount": 8,
+      "readingTimeMins": 60,
+      "metaDescription": "How to Fix Your Car's Heating System: A Complete Guide — a free intermediate-level guide covering how to fix a car's heating system. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T17:06:53.315Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-garden-pest-control-a-practical-guide",
+      "title": "Natural Garden Pest Control: A Practical Guide",
+      "goal": "How to control garden pests naturally",
+      "category": "gardening",
+      "tags": [
+        "pest control",
+        "organic",
+        "gardening"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29928,
+      "moduleCount": 13,
+      "readingTimeMins": 120,
+      "metaDescription": "Natural Garden Pest Control: A Practical Guide — a free intermediate-level guide covering how to control garden pests naturally. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T17:04:50.596Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-growing-orchids-indoors-stepbys",
+      "title": "Beginner's Guide to Growing Orchids Indoors: Step-by-Step Care",
+      "goal": "Beginner's guide to growing orchids indoors",
+      "category": "gardening",
+      "tags": [
+        "flowers",
+        "indoor plants",
+        "orchids"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24645,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "Beginner's Guide to Growing Orchids Indoors: Step-by-Step Care — a free beginner-level guide covering beginner's guide to growing orchids indoors....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T17:02:00.814Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-time-management-for-highperformance-profe",
+      "title": "Advanced Time Management for High-Performance Professionals",
+      "goal": "Advanced time management for working professionals",
+      "category": "time-management",
+      "tags": [
+        "productivity",
+        "work-life",
+        "efficiency"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 16115,
+      "moduleCount": 8,
+      "readingTimeMins": 65,
+      "metaDescription": "Advanced Time Management for High-Performance Professionals — a free advanced-level guide covering advanced time management for working professionals....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T16:57:15.100Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-plan-a-budget-trip-to-europe-stepbystep-gui",
+      "title": "How to Plan a Budget Trip to Europe: Step-by-Step Guide",
+      "goal": "How to plan a budget trip to Europe",
+      "category": "travel-planning",
+      "tags": [
+        "budget",
+        "europe",
+        "vacation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31681,
+      "moduleCount": 13,
+      "readingTimeMins": 127,
+      "metaDescription": "How to Plan a Budget Trip to Europe: Step-by-Step Guide — a free beginner-level guide covering how to plan a budget trip to europe. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T16:54:16.620Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-read-a-telescope-a-beginners-guide",
       "title": "How to Read a Telescope: A Beginner's Guide",
       "goal": "How to read a telescope for beginners",
@@ -24626,6 +24726,6 @@
       "edition": "street"
     }
   ],
-  "total": 1238,
-  "generatedAt": "2026-08-05T14:55:59.868Z"
+  "total": 1243,
+  "generatedAt": "2026-08-05T17:07:11.473Z"
 }
