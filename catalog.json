@@ -1,6 +1,266 @@
 {
   "books": [
     {
+      "slug": "master-coffee-brewing-like-a-professional-barista",
+      "title": "Master Coffee Brewing Like a Professional Barista",
+      "goal": "Learn to brew coffee like a barista",
+      "category": "culinary",
+      "tags": [
+        "coffee",
+        "brewing",
+        "barista"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30595,
+      "moduleCount": 12,
+      "readingTimeMins": 123,
+      "metaDescription": "Master Coffee Brewing Like a Professional Barista — a free intermediate-level guide covering learn to brew coffee like a barista. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T20:23:14.978Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-sql-for-data-analysts-mastering-complex-q",
+      "title": "Advanced SQL for Data Analysts: Mastering Complex Queries",
+      "goal": "Advanced SQL queries for data analysts",
+      "category": "programming",
+      "tags": [
+        "sql",
+        "data-analysis",
+        "database"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14417,
+      "moduleCount": 8,
+      "readingTimeMins": 58,
+      "metaDescription": "Advanced SQL for Data Analysts: Mastering Complex Queries — a free advanced-level guide covering advanced sql queries for data analysts. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T20:18:37.210Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-jira-administration-and-configuration-mas",
+      "title": "Advanced Jira Administration and Configuration Mastery",
+      "goal": "Advanced Jira administration and configuration",
+      "category": "software-tools",
+      "tags": [
+        "jira",
+        "project-management",
+        "admin"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 33549,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "Advanced Jira Administration and Configuration Mastery — a free advanced-level guide covering advanced jira administration and configuration. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T20:16:55.575Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "3d-animation-for-beginners-a-complete-stepbystep-g",
+      "title": "3D Animation for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Learn 3D animation for beginners",
+      "category": "digital-art",
+      "tags": [
+        "animation",
+        "3d-art",
+        "cgi"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14259,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "3D Animation for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering learn 3d animation for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T20:12:24.020Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-polish-for-travelers-speak-confidentl",
+      "title": "Intermediate Polish for Travelers: Speak Confidently Abroad",
+      "goal": "Intermediate conversational Polish for travelers",
+      "category": "language",
+      "tags": [
+        "polish",
+        "travel",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28084,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "Intermediate Polish for Travelers: Speak Confidently Abroad — a free intermediate-level guide covering intermediate conversational polish for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T20:10:40.658Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hvac-refrigerant-recovery-techniques",
+      "title": "Advanced HVAC Refrigerant Recovery Techniques",
+      "goal": "Advanced HVAC refrigerant recovery techniques",
+      "category": "trades",
+      "tags": [
+        "HVAC",
+        "refrigerant",
+        "technician"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14004,
+      "moduleCount": 8,
+      "readingTimeMins": 57,
+      "metaDescription": "Advanced HVAC Refrigerant Recovery Techniques — a free advanced-level guide covering advanced hvac refrigerant recovery techniques. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T20:06:17.904Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-house-wiring-for-beginners-stepbystep-guide",
+      "title": "Basic House Wiring for Beginners: Step-by-Step Guide",
+      "goal": "Learn basic house wiring for beginners",
+      "category": "trades",
+      "tags": [
+        "electricity",
+        "wiring",
+        "home repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24648,
+      "moduleCount": 10,
+      "readingTimeMins": 99,
+      "metaDescription": "Basic House Wiring for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn basic house wiring for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T20:04:28.378Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-furniture-design-and-technical-drafting",
+      "title": "Advanced Furniture Design and Technical Drafting",
+      "goal": "Advanced furniture design and drafting",
+      "category": "woodworking",
+      "tags": [
+        "design",
+        "blueprints",
+        "furniture"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12700,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Advanced Furniture Design and Technical Drafting — a free advanced-level guide covering advanced furniture design and drafting. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T20:00:35.225Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-perfect-dovetail-joints-stepbystep-gui",
+      "title": "How to Make Perfect Dovetail Joints – Step-by-Step Guide",
+      "goal": "Learn how to make dovetail joints",
+      "category": "woodworking",
+      "tags": [
+        "joinery",
+        "woodworking",
+        "craftsmanship"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19140,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Make Perfect Dovetail Joints – Step-by-Step Guide — a free intermediate-level guide covering learn how to make dovetail joints. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T19:59:28.834Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-dining-table-a-stepbystep-guide",
+      "title": "How to Build a Dining Table: A Step-by-Step Guide",
+      "goal": "How to build a dining table",
+      "category": "woodworking",
+      "tags": [
+        "furniture",
+        "DIY",
+        "table"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27524,
+      "moduleCount": 13,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Build a Dining Table: A Step-by-Step Guide — a free intermediate-level guide covering how to build a dining table. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T19:55:41.718Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-professional-chef-knife-skills-stepbystep",
+      "title": "Master Professional Chef Knife Skills Step-by-Step",
+      "goal": "Learn professional knife skills for chefs",
+      "category": "culinary",
+      "tags": [
+        "knife skills",
+        "chopping",
+        "cooking basics"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30800,
+      "moduleCount": 14,
+      "readingTimeMins": 124,
+      "metaDescription": "Master Professional Chef Knife Skills Step-by-Step — a free intermediate-level guide covering learn professional knife skills for chefs. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T19:51:21.134Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-meditation-habit-a-beginners-guide",
+      "title": "How to Start a Meditation Habit: A Beginner's Guide",
+      "goal": "How to start a meditation habit",
+      "category": "wellness",
+      "tags": [
+        "mindfulness",
+        "habit",
+        "peace"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12490,
+      "moduleCount": 7,
+      "readingTimeMins": 50,
+      "metaDescription": "How to Start a Meditation Habit: A Beginner's Guide — a free beginner-level guide covering how to start a meditation habit. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T19:48:13.758Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-read-financial-statements-a-practical-guide",
+      "title": "How to Read Financial Statements: A Practical Guide",
+      "goal": "How to read financial statements",
+      "category": "accounting",
+      "tags": [
+        "finance",
+        "balance-sheet",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 26516,
+      "moduleCount": 11,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Read Financial Statements: A Practical Guide — a free intermediate-level guide covering how to read financial statements. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-05T19:45:59.414Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-fix-your-cars-heating-system-a-complete-gui",
       "title": "How to Fix Your Car's Heating System: A Complete Guide",
       "goal": "How to fix a car's heating system",
@@ -24726,6 +24986,6 @@
       "edition": "street"
     }
   ],
-  "total": 1243,
-  "generatedAt": "2026-08-05T17:07:11.473Z"
+  "total": 1256,
+  "generatedAt": "2026-08-05T20:23:16.805Z"
 }
