@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-make-lofi-beats-a-beginners-stepbystep-guid",
+      "title": "How to Make Lo‑Fi Beats: A Beginner's Step‑by‑Step Guide",
+      "goal": "How to make lo-fi beats for beginners",
+      "category": "music-production",
+      "tags": [
+        "lo-fi",
+        "beat making",
+        "chillhop"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25576,
+      "moduleCount": 12,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Make Lo‑Fi Beats: A Beginner's Step‑by‑Step Guide — a free beginner-level guide covering how to make lo-fi beats for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T11:44:22.923Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-art-collection-a-beginners-guide",
+      "title": "How to Start an Art Collection: A Beginner's Guide",
+      "goal": "How to start a collection of art",
+      "category": "hobbies",
+      "tags": [
+        "art",
+        "collecting",
+        "investing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32760,
+      "moduleCount": 14,
+      "readingTimeMins": 132,
+      "metaDescription": "How to Start an Art Collection: A Beginner's Guide — a free beginner-level guide covering how to start a collection of art. Learn with clear...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-08-05T11:40:43.484Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-makeup-tutorial-for-beginners",
+      "title": "Natural Makeup Tutorial for Beginners",
+      "goal": "Learn how to do makeup naturally",
+      "category": "makeup",
+      "tags": [
+        "makeup",
+        "beauty",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23254,
+      "moduleCount": 14,
+      "readingTimeMins": 94,
+      "metaDescription": "Natural Makeup Tutorial for Beginners — a free beginner-level guide covering learn how to do makeup naturally. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T11:34:57.507Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "time-management-for-students-a-beginners-guide",
+      "title": "Time Management for Students: A Beginner's Guide",
+      "goal": "How to manage time effectively for students",
+      "category": "productivity",
+      "tags": [
+        "time management",
+        "students",
+        "study"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18709,
+      "moduleCount": 9,
+      "readingTimeMins": 75,
+      "metaDescription": "Time Management for Students: A Beginner's Guide — a free beginner-level guide covering how to manage time effectively for students. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T11:32:38.084Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-coin-collecting-a-beginners-guide-to",
       "title": "How to Start Coin Collecting: A Beginner's Guide to Numismatics",
       "goal": "How to start a coin collecting hobby",
@@ -24386,6 +24466,6 @@
       "edition": "street"
     }
   ],
-  "total": 1226,
-  "generatedAt": "2026-08-05T09:34:08.473Z"
+  "total": 1230,
+  "generatedAt": "2026-08-05T11:44:38.517Z"
 }
