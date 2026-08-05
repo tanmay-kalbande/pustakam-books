@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "how-to-read-a-telescope-a-beginners-guide",
+      "title": "How to Read a Telescope: A Beginner's Guide",
+      "goal": "How to read a telescope for beginners",
+      "category": "astronomy",
+      "tags": [
+        "telescope",
+        "stargazing",
+        "space"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33122,
+      "moduleCount": 14,
+      "readingTimeMins": 133,
+      "metaDescription": "How to Read a Telescope: A Beginner's Guide — a free beginner-level guide covering how to read a telescope for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T14:55:58.035Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-paddleboard-complete-beginners-guide",
+      "title": "Learn to Paddleboard: Complete Beginner's Guide",
+      "goal": "Learn to paddleboard for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "sup",
+        "paddleboarding",
+        "water sports"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30234,
+      "moduleCount": 15,
+      "readingTimeMins": 121,
+      "metaDescription": "Learn to Paddleboard: Complete Beginner's Guide — a free beginner-level guide covering learn to paddleboard for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T14:50:57.921Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-didgeridoo-beginners-guide-from",
+      "title": "Learn to Play the Didgeridoo: Beginner's Guide from First Notes to Rhythms",
+      "goal": "Learn to play the didgeridoo for beginners",
+      "category": "music",
+      "tags": [
+        "didgeridoo",
+        "percussion",
+        "indigenous"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30572,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Learn to Play the Didgeridoo: Beginner's Guide from First Notes to Rhythms — a free beginner-level guide covering learn to play the didgeridoo for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T14:46:30.488Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-engine-timing-synchronization-mastery",
+      "title": "Advanced Engine Timing & Synchronization Mastery",
+      "goal": "Advanced guide to engine timing and synchronization",
+      "category": "mechanics",
+      "tags": [
+        "engine",
+        "tuning",
+        "mechanic"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25238,
+      "moduleCount": 13,
+      "readingTimeMins": 101,
+      "metaDescription": "Advanced Engine Timing & Synchronization Mastery — a free advanced-level guide covering advanced guide to engine timing and synchronization. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T14:42:50.685Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-transmission-fluid-flush-refill-technique",
+      "title": "Advanced Transmission Fluid Flush & Refill Techniques",
+      "goal": "Advanced transmission fluid flush and refill",
+      "category": "mechanics",
+      "tags": [
+        "transmission",
+        "maintenance",
+        "car"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 29040,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "Advanced Transmission Fluid Flush & Refill Techniques — a free advanced-level guide covering advanced transmission fluid flush and refill. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T14:35:36.158Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hvac-system-troubleshooting-guide-for-tec",
+      "title": "Advanced HVAC System Troubleshooting Guide for Technicians",
+      "goal": "Advanced HVAC system troubleshooting for technicians",
+      "category": "trades",
+      "tags": [
+        "HVAC",
+        "repair",
+        "technical"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22954,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Advanced HVAC System Troubleshooting Guide for Technicians — a free advanced-level guide covering advanced hvac system troubleshooting for technicians....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-05T14:29:23.558Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-antique-collection-a-beginners-ste",
+      "title": "How to Start an Antique Collection: A Beginner's Step-by-Step Guide",
+      "goal": "How to start a collection of antiques",
+      "category": "hobbies",
+      "tags": [
+        "antiques",
+        "collecting",
+        "vintage"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28518,
+      "moduleCount": 13,
+      "readingTimeMins": 115,
+      "metaDescription": "How to Start an Antique Collection: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a collection of antiques. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T14:27:04.515Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-stock-photography-shoot-edit-an",
+      "title": "Beginner's Guide to Stock Photography: Shoot, Edit, and Sell",
+      "goal": "Beginner's guide to stock photography",
+      "category": "photography",
+      "tags": [
+        "stock photos",
+        "money",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31125,
+      "moduleCount": 13,
+      "readingTimeMins": 125,
+      "metaDescription": "Beginner's Guide to Stock Photography: Shoot, Edit, and Sell — a free beginner-level guide covering beginner's guide to stock photography. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-05T14:22:54.626Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-lofi-beats-a-beginners-stepbystep-guid",
       "title": "How to Make Lo‑Fi Beats: A Beginner's Step‑by‑Step Guide",
       "goal": "How to make lo-fi beats for beginners",
@@ -24466,6 +24626,6 @@
       "edition": "street"
     }
   ],
-  "total": 1230,
-  "generatedAt": "2026-08-05T11:44:38.517Z"
+  "total": 1238,
+  "generatedAt": "2026-08-05T14:55:59.868Z"
 }
