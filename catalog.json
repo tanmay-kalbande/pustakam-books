@@ -1,6 +1,326 @@
 {
   "books": [
     {
+      "slug": "how-to-start-coin-collecting-a-beginners-guide-to",
+      "title": "How to Start Coin Collecting: A Beginner's Guide to Numismatics",
+      "goal": "How to start a coin collecting hobby",
+      "category": "hobbies",
+      "tags": [
+        "numismatics",
+        "collecting",
+        "coins"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13762,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Start Coin Collecting: A Beginner's Guide to Numismatics — a free beginner-level guide covering how to start a coin collecting hobby. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T09:34:06.667Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hook-writing-techniques-for-writers",
+      "title": "Advanced Hook Writing Techniques for Writers",
+      "goal": "Advanced techniques for writing a compelling hook",
+      "category": "writing",
+      "tags": [
+        "copywriting",
+        "storytelling",
+        "editing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21094,
+      "moduleCount": 10,
+      "readingTimeMins": 85,
+      "metaDescription": "Advanced Hook Writing Techniques for Writers — a free advanced-level guide covering advanced techniques for writing a compelling hook. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:33:21.723Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-identify-planets-in-the-night-sky-a-beginne",
+      "title": "How to Identify Planets in the Night Sky: A Beginner's Guide",
+      "goal": "How to identify planets in the night sky",
+      "category": "astronomy",
+      "tags": [
+        "planets",
+        "stargazing",
+        "astronomy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23698,
+      "moduleCount": 15,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Identify Planets in the Night Sky: A Beginner's Guide — a free beginner-level guide covering how to identify planets in the night sky. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T09:29:13.886Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-techniques-for-capturing-deep-sky-nebulae",
+      "title": "Advanced Techniques for Capturing Deep Sky Nebulae",
+      "goal": "Advanced techniques for capturing deep sky nebulae",
+      "category": "astronomy",
+      "tags": [
+        "astrophotography",
+        "nebula",
+        "space"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27687,
+      "moduleCount": 11,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Techniques for Capturing Deep Sky Nebulae — a free advanced-level guide covering advanced techniques for capturing deep sky nebulae. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:26:31.148Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-aikido-basics-a-stepbystep-road",
+      "title": "Beginner's Guide to Aikido Basics: A Step-by-Step Roadmap",
+      "goal": "Beginner's guide to Aikido basics",
+      "category": "martial-arts",
+      "tags": [
+        "Aikido",
+        "martial arts",
+        "defense"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16436,
+      "moduleCount": 8,
+      "readingTimeMins": 66,
+      "metaDescription": "Beginner's Guide to Aikido Basics: A Step-by-Step Roadmap — a free beginner-level guide covering beginner's guide to aikido basics. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:22:25.004Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-improve-sleep-hygiene-for-deeper-restorativ",
+      "title": "How to Improve Sleep Hygiene for Deeper, Restorative Sleep",
+      "goal": "How to improve sleep hygiene for deep sleep",
+      "category": "wellness",
+      "tags": [
+        "sleep",
+        "insomnia",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19188,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "How to Improve Sleep Hygiene for Deeper, Restorative Sleep — a free beginner-level guide covering how to improve sleep hygiene for deep sleep. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-05T09:18:58.694Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "forest-bathing-for-beginners-a-guide-to-stress-rel",
+      "title": "Forest Bathing for Beginners: A Guide to Stress Relief",
+      "goal": "Beginner's guide to forest bathing for stress relief",
+      "category": "wellness",
+      "tags": [
+        "nature",
+        "stress relief",
+        "shinrin-yoku"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16810,
+      "moduleCount": 8,
+      "readingTimeMins": 68,
+      "metaDescription": "Forest Bathing for Beginners: A Guide to Stress Relief — a free beginner-level guide covering beginner's guide to forest bathing for stress relief....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:17:39.136Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-journaling-for-better-mental-health",
+      "title": "How to Start Journaling for Better Mental Health",
+      "goal": "How to start a journaling practice for mental health",
+      "category": "wellness",
+      "tags": [
+        "journaling",
+        "mental health",
+        "self-care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26556,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Start Journaling for Better Mental Health — a free beginner-level guide covering how to start a journaling practice for mental health. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T09:14:26.912Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-mindfulness-techniques-for-chronic-pain-m",
+      "title": "Advanced Mindfulness Techniques for Chronic Pain Management",
+      "goal": "Advanced mindfulness techniques for chronic pain",
+      "category": "wellness",
+      "tags": [
+        "mindfulness",
+        "chronic pain",
+        "mental health"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12673,
+      "moduleCount": 7,
+      "readingTimeMins": 51,
+      "metaDescription": "Advanced Mindfulness Techniques for Chronic Pain Management — a free advanced-level guide covering advanced mindfulness techniques for chronic pain....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-05T09:10:57.497Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-manage-type-2-diabetes-diet-effectively",
+      "title": "How to Manage Type 2 Diabetes Diet Effectively",
+      "goal": "How to manage Type 2 diabetes diet",
+      "category": "health",
+      "tags": [
+        "diabetes",
+        "nutrition",
+        "blood sugar"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 31711,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "How to Manage Type 2 Diabetes Diet Effectively — a free intermediate-level guide covering how to manage type 2 diabetes diet. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T09:09:25.890Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-rugby-learn-the-basics",
+      "title": "Beginner's Guide to Playing Rugby: Learn the Basics",
+      "goal": "Beginner's guide to playing rugby",
+      "category": "sports",
+      "tags": [
+        "rugby",
+        "team sports",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23133,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "Beginner's Guide to Playing Rugby: Learn the Basics — a free beginner-level guide covering beginner's guide to playing rugby. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:06:43.223Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-golf-a-beginners-stepbystep-guide",
+      "title": "How to Play Golf: A Beginner's Step-by-Step Guide",
+      "goal": "How to play golf for beginners",
+      "category": "sports",
+      "tags": [
+        "golf",
+        "swing",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34173,
+      "moduleCount": 14,
+      "readingTimeMins": 137,
+      "metaDescription": "How to Play Golf: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to play golf for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T09:03:11.368Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-mixing-techniques-for-rap-and-hip-hop",
+      "title": "Advanced Mixing Techniques for Rap and Hip Hop",
+      "goal": "Advanced mixing techniques for rap and hip hop",
+      "category": "music-production",
+      "tags": [
+        "mixing",
+        "hip hop",
+        "audio engineering"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 17049,
+      "moduleCount": 8,
+      "readingTimeMins": 69,
+      "metaDescription": "Advanced Mixing Techniques for Rap and Hip Hop — a free advanced-level guide covering advanced mixing techniques for rap and hip hop. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-05T09:00:13.717Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-raise-rabbits-for-beginners-stepbystep-guid",
+      "title": "How to Raise Rabbits for Beginners: Step-by-Step Guide",
+      "goal": "How to raise rabbits for beginners",
+      "category": "pets",
+      "tags": [
+        "rabbits",
+        "small-pets",
+        "care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27844,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Raise Rabbits for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to raise rabbits for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-05T08:56:25.185Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-caring-for-bearded-dragons",
+      "title": "Beginner's Guide to Caring for Bearded Dragons",
+      "goal": "Beginner's guide to caring for bearded dragons",
+      "category": "pets",
+      "tags": [
+        "reptiles",
+        "lizards",
+        "bearded-dragon"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30380,
+      "moduleCount": 13,
+      "readingTimeMins": 122,
+      "metaDescription": "Beginner's Guide to Caring for Bearded Dragons — a free beginner-level guide covering beginner's guide to caring for bearded dragons. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-05T08:52:23.121Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-natural-soap-for-beginners",
+      "title": "How to Make Natural Soap for Beginners",
+      "goal": "How to make natural soap for beginners",
+      "category": "crafts",
+      "tags": [
+        "soap",
+        "natural",
+        "skincare"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22731,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Make Natural Soap for Beginners — a free beginner-level guide covering how to make natural soap for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-05T08:49:28.417Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "obsidian-for-personal-knowledge-management-beginne",
       "title": "Obsidian for Personal Knowledge Management: Beginner's Guide",
       "goal": "How to use Obsidian for personal knowledge management",
@@ -24066,6 +24386,6 @@
       "edition": "street"
     }
   ],
-  "total": 1210,
-  "generatedAt": "2026-08-05T06:04:34.395Z"
+  "total": 1226,
+  "generatedAt": "2026-08-05T09:34:08.473Z"
 }
