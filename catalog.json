@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-vintage-watch-collection-beginner-t",
+      "title": "How to Start a Vintage Watch Collection: Beginner to Advanced",
+      "goal": "How to start a collection of vintage watches",
+      "category": "hobbies",
+      "tags": [
+        "watches",
+        "collecting",
+        "vintage"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 27896,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Start a Vintage Watch Collection: Beginner to Advanced — a free intermediate-level guide covering how to start a collection of vintage watches....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-06T11:45:47.758Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-workout-plan-for-beginners",
+      "title": "How to Start a Workout Plan for Beginners",
+      "goal": "How to start a workout plan for beginners",
+      "category": "fitness",
+      "tags": [
+        "workout",
+        "exercise",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19529,
+      "moduleCount": 10,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Start a Workout Plan for Beginners — a free beginner-level guide covering how to start a workout plan for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-06T11:41:15.626Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-pilates-for-core-strength-masterclass-roa",
+      "title": "Advanced Pilates for Core Strength: Masterclass Roadmap",
+      "goal": "Advanced Pilates for core strength",
+      "category": "fitness",
+      "tags": [
+        "Pilates",
+        "core",
+        "flexibility"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11502,
+      "moduleCount": 7,
+      "readingTimeMins": 47,
+      "metaDescription": "Advanced Pilates for Core Strength: Masterclass Roadmap — a free advanced-level guide covering advanced pilates for core strength. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-06T11:39:03.294Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-soccer-skills-and-drills-master-the-g",
+      "title": "Intermediate Soccer Skills and Drills: Master the Game",
+      "goal": "Intermediate soccer skills and drills",
+      "category": "sports",
+      "tags": [
+        "soccer",
+        "football",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18724,
+      "moduleCount": 8,
+      "readingTimeMins": 75,
+      "metaDescription": "Intermediate Soccer Skills and Drills: Master the Game — a free intermediate-level guide covering intermediate soccer skills and drills. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T11:38:19.821Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-sketchup-fast-a-complete-beginners-guide",
+      "title": "Learn SketchUp Fast: A Complete Beginner's Guide",
+      "goal": "How to use SketchUp for beginners",
+      "category": "software-tools",
+      "tags": [
+        "SketchUp",
+        "3D modeling",
+        "design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23852,
+      "moduleCount": 13,
+      "readingTimeMins": 96,
+      "metaDescription": "Learn SketchUp Fast: A Complete Beginner's Guide — a free beginner-level guide covering how to use sketchup for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-06T11:34:13.825Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-candles-beginner-stepbystep-g",
+      "title": "How to Make Homemade Candles: Beginner Step-by-Step Guide",
+      "goal": "How to make homemade candles for beginners",
+      "category": "crafts",
+      "tags": [
+        "candles",
+        "wax",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25993,
+      "moduleCount": 12,
+      "readingTimeMins": 104,
+      "metaDescription": "How to Make Homemade Candles: Beginner Step-by-Step Guide — a free beginner-level guide covering how to make homemade candles for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-06T11:31:18.035Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-zbrush-sculpting-for-game-assets",
       "title": "Advanced ZBrush Sculpting for Game Assets",
       "goal": "Advanced ZBrush sculpting for game assets",
@@ -25446,6 +25566,6 @@
       "edition": "street"
     }
   ],
-  "total": 1279,
-  "generatedAt": "2026-08-06T09:06:40.868Z"
+  "total": 1285,
+  "generatedAt": "2026-08-06T11:45:49.685Z"
 }
