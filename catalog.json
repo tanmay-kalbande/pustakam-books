@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "c-for-beginners-a-complete-stepbystep-guide",
+      "title": "C# for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to learn C# for beginners",
+      "category": "programming",
+      "tags": [
+        "c#",
+        "coding",
+        "dotnet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25049,
+      "moduleCount": 12,
+      "readingTimeMins": 101,
+      "metaDescription": "C# for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to learn c# for beginners. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T06:04:39.488Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "personal-finance-basics-a-beginners-guide-to-money",
+      "title": "Personal Finance Basics: A Beginner's Guide to Money Mastery",
+      "goal": "Beginner's guide to personal finance",
+      "category": "finance",
+      "tags": [
+        "money",
+        "budgeting",
+        "savings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 39439,
+      "moduleCount": 15,
+      "readingTimeMins": 158,
+      "metaDescription": "Personal Finance Basics: A Beginner's Guide to Money Mastery — a free beginner-level guide covering beginner's guide to personal finance. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T06:00:24.081Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-kayaking-skills-and-safety-mastery",
       "title": "Intermediate Kayaking Skills and Safety Mastery",
       "goal": "Intermediate kayaking skills and safety",
@@ -25266,6 +25306,6 @@
       "edition": "street"
     }
   ],
-  "total": 1270,
-  "generatedAt": "2026-08-06T03:03:54.028Z"
+  "total": 1272,
+  "generatedAt": "2026-08-06T06:04:41.420Z"
 }
