@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "intermediate-kayaking-skills-and-safety-mastery",
+      "title": "Intermediate Kayaking Skills and Safety Mastery",
+      "goal": "Intermediate kayaking skills and safety",
+      "category": "outdoor-sports",
+      "tags": [
+        "kayaking",
+        "paddling",
+        "water"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28365,
+      "moduleCount": 12,
+      "readingTimeMins": 114,
+      "metaDescription": "Intermediate Kayaking Skills and Safety Mastery — a free intermediate-level guide covering intermediate kayaking skills and safety. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T03:03:52.115Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-notion-setup-for-maximum-productivity",
+      "title": "Advanced Notion Setup for Maximum Productivity",
+      "goal": "Advanced Notion setup for productivity",
+      "category": "software-tools",
+      "tags": [
+        "notion",
+        "organization",
+        "workflow"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 29740,
+      "moduleCount": 13,
+      "readingTimeMins": 119,
+      "metaDescription": "Advanced Notion Setup for Maximum Productivity — a free advanced-level guide covering advanced notion setup for productivity. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T02:59:41.792Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-record-professional-vocals-at-home-a-beginn",
+      "title": "How to Record Professional Vocals at Home: A Beginner's Guide",
+      "goal": "How to record vocals at home",
+      "category": "music-production",
+      "tags": [
+        "vocals",
+        "recording",
+        "home studio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17014,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Record Professional Vocals at Home: A Beginner's Guide — a free beginner-level guide covering how to record vocals at home. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T02:56:29.139Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-candle-business-beginners-stepbyste",
+      "title": "How to Start a Candle Business: Beginner's Step-by-Step Guide",
+      "goal": "How to start a candle business",
+      "category": "business",
+      "tags": [
+        "candles",
+        "handmade",
+        "startup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26197,
+      "moduleCount": 10,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Start a Candle Business: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a candle business. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-06T02:54:14.237Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-transcendental-meditation-mastery-esoteri",
       "title": "Advanced Transcendental Meditation Mastery: Esoteric Techniques",
       "goal": "Advanced transcendental meditation techniques",
@@ -25186,6 +25266,6 @@
       "edition": "street"
     }
   ],
-  "total": 1266,
-  "generatedAt": "2026-08-05T22:48:52.904Z"
+  "total": 1270,
+  "generatedAt": "2026-08-06T03:03:54.028Z"
 }
