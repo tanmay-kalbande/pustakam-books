@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-playing-the-accordion",
+      "title": "Beginner's Guide to Playing the Accordion",
+      "goal": "Beginner's guide to playing the accordion",
+      "category": "music",
+      "tags": [
+        "accordion",
+        "instrument",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24788,
+      "moduleCount": 12,
+      "readingTimeMins": 100,
+      "metaDescription": "Beginner's Guide to Playing the Accordion — a free beginner-level guide covering beginner's guide to playing the accordion. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-06T14:42:42.083Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-use-slack-for-teams-a-beginners-guide",
+      "title": "Learn to Use Slack for Teams: A Beginner's Guide",
+      "goal": "Learn to use Slack for teams",
+      "category": "software-tools",
+      "tags": [
+        "slack",
+        "communication",
+        "collaboration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28458,
+      "moduleCount": 14,
+      "readingTimeMins": 114,
+      "metaDescription": "Learn to Use Slack for Teams: A Beginner's Guide — a free beginner-level guide covering learn to use slack for teams. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-06T14:40:03.150Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-microsoft-powerpoint-for-beginners-step-by-s",
+      "title": "Learn Microsoft PowerPoint for Beginners Step by Step",
+      "goal": "Learn Microsoft PowerPoint for beginners",
+      "category": "software-tools",
+      "tags": [
+        "powerpoint",
+        "presentations",
+        "office"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30473,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "Learn Microsoft PowerPoint for Beginners Step by Step — a free beginner-level guide covering learn microsoft powerpoint for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T14:34:15.410Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "balcony-gardening-for-beginners-start-your-urban-g",
+      "title": "Balcony Gardening for Beginners: Start Your Urban Garden Today",
+      "goal": "How to start a garden on a balcony",
+      "category": "gardening",
+      "tags": [
+        "balcony garden",
+        "small space",
+        "urban"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32542,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "Balcony Gardening for Beginners: Start Your Urban Garden Today — a free beginner-level guide covering how to start a garden on a balcony. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-06T14:31:20.178Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-comic-book-collection-beginners-roa",
+      "title": "How to Start a Comic Book Collection: Beginner's Roadmap",
+      "goal": "How to start a collection of comic books",
+      "category": "hobbies",
+      "tags": [
+        "comics",
+        "collecting",
+        "pop culture"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22538,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "How to Start a Comic Book Collection: Beginner's Roadmap — a free beginner-level guide covering how to start a collection of comic books. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-06T14:25:12.634Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-vintage-watch-collection-beginner-t",
       "title": "How to Start a Vintage Watch Collection: Beginner to Advanced",
       "goal": "How to start a collection of vintage watches",
@@ -25566,6 +25666,6 @@
       "edition": "street"
     }
   ],
-  "total": 1285,
-  "generatedAt": "2026-08-06T11:45:49.685Z"
+  "total": 1290,
+  "generatedAt": "2026-08-06T14:42:43.904Z"
 }
