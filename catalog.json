@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "advanced-zbrush-sculpting-for-game-assets",
+      "title": "Advanced ZBrush Sculpting for Game Assets",
+      "goal": "Advanced ZBrush sculpting for game assets",
+      "category": "digital-art",
+      "tags": [
+        "zbrush",
+        "sculpting",
+        "game-dev"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 15520,
+      "moduleCount": 7,
+      "readingTimeMins": 63,
+      "metaDescription": "Advanced ZBrush Sculpting for Game Assets — a free advanced-level guide covering advanced zbrush sculpting for game assets. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T09:06:38.984Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-compost-at-home-beginner",
+      "title": "Learn how to compost at home",
+      "goal": "Learn how to compost at home",
+      "category": "gardening",
+      "tags": [
+        "composting",
+        "soil",
+        "eco-friendly"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30403,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "Learn how to compost at home — a free beginner-level guide covering learn how to compost at home. Learn with clear explanations, real examples, and...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T09:02:49.833Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-authentic-thai-curry-from-paste-to-plate",
+      "title": "Mastering Authentic Thai Curry: From Paste to Plate",
+      "goal": "How to make authentic Thai curry",
+      "category": "culinary",
+      "tags": [
+        "thai",
+        "curry",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13886,
+      "moduleCount": 9,
+      "readingTimeMins": 56,
+      "metaDescription": "Mastering Authentic Thai Curry: From Paste to Plate — a free intermediate-level guide covering how to make authentic thai curry. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T08:59:13.911Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-roast-a-whole-chicken-a-beginners-stepbyste",
+      "title": "How to Roast a Whole Chicken: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to roast a whole chicken",
+      "category": "culinary",
+      "tags": [
+        "poultry",
+        "roasting",
+        "dinner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34981,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "How to Roast a Whole Chicken: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to roast a whole chicken. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T08:57:09.527Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-guide-to-engineering-and-building-custom",
+      "title": "Advanced Guide to Engineering and Building Custom Pergolas",
+      "goal": "How to build a wooden pergola",
+      "category": "woodworking",
+      "tags": [
+        "outdoor",
+        "structure",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12522,
+      "moduleCount": 7,
+      "readingTimeMins": 51,
+      "metaDescription": "Advanced Guide to Engineering and Building Custom Pergolas — a free advanced-level guide covering how to build a wooden pergola. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-06T08:53:17.732Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-french-macarons-advanced-techniques-perfect",
+      "title": "Master French Macarons: Advanced Techniques & Perfection",
+      "goal": "Master the art of French macarons",
+      "category": "culinary",
+      "tags": [
+        "pastry",
+        "baking",
+        "macarons"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 30231,
+      "moduleCount": 13,
+      "readingTimeMins": 121,
+      "metaDescription": "Master French Macarons: Advanced Techniques & Perfection — a free advanced-level guide covering master the art of french macarons. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-06T08:51:12.853Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "organic-composting-for-beginners-stepbystep-guide",
+      "title": "Organic Composting for Beginners: Step-by-Step Guide",
+      "goal": "Beginner's guide to organic composting",
+      "category": "gardening",
+      "tags": [
+        "compost",
+        "soil",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16681,
+      "moduleCount": 8,
+      "readingTimeMins": 67,
+      "metaDescription": "Organic Composting for Beginners: Step-by-Step Guide — a free beginner-level guide covering beginner's guide to organic composting. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-06T08:47:42.805Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "c-for-beginners-a-complete-stepbystep-guide",
       "title": "C# for Beginners: A Complete Step-by-Step Guide",
       "goal": "How to learn C# for beginners",
@@ -25306,6 +25446,6 @@
       "edition": "street"
     }
   ],
-  "total": 1272,
-  "generatedAt": "2026-08-06T06:04:41.420Z"
+  "total": 1279,
+  "generatedAt": "2026-08-06T09:06:40.868Z"
 }
