@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "baseball-for-beginners-a-complete-stepbystep-guide",
+      "title": "Baseball for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Beginner's guide to playing baseball",
+      "category": "sports",
+      "tags": [
+        "baseball",
+        "ball-games",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32992,
+      "moduleCount": 14,
+      "readingTimeMins": 132,
+      "metaDescription": "Baseball for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering beginner's guide to playing baseball. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T11:12:13.471Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-car-windshield-wiper-motor",
+      "title": "How to Fix a Car Windshield Wiper Motor",
+      "goal": "How to fix a car windshield wiper motor",
+      "category": "mechanics",
+      "tags": [
+        "wipers",
+        "car repair",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17454,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Fix a Car Windshield Wiper Motor — a free intermediate-level guide covering how to fix a car windshield wiper motor. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-07T11:07:42.204Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "homemade-granola-for-beginners-easy-stepbystep-gui",
+      "title": "Homemade Granola for Beginners: Easy Step-by-Step Guide",
+      "goal": "How to make homemade granola for beginners",
+      "category": "culinary",
+      "tags": [
+        "granola",
+        "breakfast",
+        "healthy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30446,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "Homemade Granola for Beginners: Easy Step-by-Step Guide — a free beginner-level guide covering how to make homemade granola for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T11:05:33.643Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-garlic-in-your-garden-a-complete-begin",
+      "title": "How to Grow Garlic in Your Garden: A Complete Beginner's Guide",
+      "goal": "How to grow garlic in the garden",
+      "category": "gardening",
+      "tags": [
+        "garlic",
+        "vegetables",
+        "planting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36368,
+      "moduleCount": 15,
+      "readingTimeMins": 146,
+      "metaDescription": "How to Grow Garlic in Your Garden: A Complete Beginner's Guide — a free beginner-level guide covering how to grow garlic in the garden. Learn with...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-08-07T11:01:34.059Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-sharpen-woodworking-chisels-and-planes",
+      "title": "How to Sharpen Woodworking Chisels and Planes",
+      "goal": "How to sharpen woodworking chisels and planes",
+      "category": "woodworking",
+      "tags": [
+        "tools",
+        "sharpening",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19559,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "How to Sharpen Woodworking Chisels and Planes — a free intermediate-level guide covering how to sharpen woodworking chisels and planes. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T10:52:19.162Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-replace-an-electrical-outlet-a-beginners-gu",
+      "title": "How to Replace an Electrical Outlet: A Beginner's Guide",
+      "goal": "Basic electrical outlet replacement for beginners",
+      "category": "trades",
+      "tags": [
+        "electrical",
+        "outlets",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16657,
+      "moduleCount": 8,
+      "readingTimeMins": 67,
+      "metaDescription": "How to Replace an Electrical Outlet: A Beginner's Guide — a free beginner-level guide covering basic electrical outlet replacement for beginners. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T10:51:03.709Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-make-a-wooden-picture-frame-beginner-guid",
+      "title": "Learn to Make a Wooden Picture Frame - Beginner Guide",
+      "goal": "Learn to make a wooden picture frame",
+      "category": "woodworking",
+      "tags": [
+        "frames",
+        "wood",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31532,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "Learn to Make a Wooden Picture Frame - Beginner Guide — a free beginner-level guide covering learn to make a wooden picture frame. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T10:47:35.890Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-traditional-french-pastry-a-professional",
+      "title": "Mastering Traditional French Pastry: A Professional Guide",
+      "goal": "Learn to make traditional French pastries",
+      "category": "culinary",
+      "tags": [
+        "pastry",
+        "french",
+        "baking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 14497,
+      "moduleCount": 7,
+      "readingTimeMins": 58,
+      "metaDescription": "Mastering Traditional French Pastry: A Professional Guide — a free intermediate-level guide covering learn to make traditional french pastries. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T10:44:44.698Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "mastering-homemade-cheesecake-from-crust-to-garnis",
       "title": "Mastering Homemade Cheesecake: From Crust to Garnish",
       "goal": "Learn how to make a cheesecake from scratch",
@@ -26366,6 +26526,6 @@
       "edition": "street"
     }
   ],
-  "total": 1325,
-  "generatedAt": "2026-08-07T10:26:10.162Z"
+  "total": 1333,
+  "generatedAt": "2026-08-07T11:12:15.464Z"
 }
