@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "learn-revit-for-architecture-from-basics-to-profes",
+      "title": "Learn Revit for Architecture: From Basics to Professional Projects",
+      "goal": "Learn how to use Revit for architecture",
+      "category": "software-tools",
+      "tags": [
+        "revit",
+        "bim",
+        "architecture"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24369,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "Learn Revit for Architecture: From Basics to Professional Projects — a free intermediate-level guide covering learn how to use revit for architecture....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T04:06:29.039Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-zbrush-sculpting-for-organic-characters",
+      "title": "Advanced ZBrush Sculpting for Organic Characters",
+      "goal": "Advanced ZBrush sculpting for organic characters",
+      "category": "digital-art",
+      "tags": [
+        "zbrush",
+        "sculpting",
+        "characters"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 18149,
+      "moduleCount": 8,
+      "readingTimeMins": 73,
+      "metaDescription": "Advanced ZBrush Sculpting for Organic Characters — a free advanced-level guide covering advanced zbrush sculpting for organic characters. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T04:04:27.381Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-peppers-step-by-step-for-beginners",
+      "title": "How to Grow Peppers Step by Step for Beginners",
+      "goal": "How to grow peppers for beginners",
+      "category": "gardening",
+      "tags": [
+        "peppers",
+        "vegetables",
+        "homegrown"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26107,
+      "moduleCount": 15,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Grow Peppers Step by Step for Beginners — a free beginner-level guide covering how to grow peppers for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-07T04:00:24.487Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-sitar-stepbystep-basic",
+      "title": "Beginner's Guide to Learning Sitar: Step-by-Step Basics",
+      "goal": "Learn to play the sitar for beginners",
+      "category": "music",
+      "tags": [
+        "sitar",
+        "indian music",
+        "strings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19415,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Beginner's Guide to Learning Sitar: Step-by-Step Basics — a free beginner-level guide covering learn to play the sitar for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T03:56:52.562Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "acrylic-pouring-for-beginners-a-stepbystep-guide",
+      "title": "Acrylic Pouring for Beginners: A Step-by-Step Guide",
+      "goal": "How to do acrylic pouring for beginners",
+      "category": "art",
+      "tags": [
+        "acrylic pouring",
+        "abstract art",
+        "painting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16767,
+      "moduleCount": 11,
+      "readingTimeMins": 68,
+      "metaDescription": "Acrylic Pouring for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to do acrylic pouring for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T03:55:03.479Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-bagpipes-beginners-stepbystep-gu",
+      "title": "Learn to Play the Bagpipes: Beginner's Step-by-Step Guide",
+      "goal": "Learn to play the bagpipes for beginners",
+      "category": "music",
+      "tags": [
+        "bagpipes",
+        "traditional",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27621,
+      "moduleCount": 12,
+      "readingTimeMins": 111,
+      "metaDescription": "Learn to Play the Bagpipes: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to play the bagpipes for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-07T03:53:51.887Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "charcoal-sketching-for-beginners-a-complete-stepby",
+      "title": "Charcoal Sketching for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to do charcoal sketching for beginners",
+      "category": "art",
+      "tags": [
+        "charcoal",
+        "sketching",
+        "drawing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23038,
+      "moduleCount": 14,
+      "readingTimeMins": 93,
+      "metaDescription": "Charcoal Sketching for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to do charcoal sketching for beginners....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-07T03:49:16.535Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-koi-pond-for-beginners",
+      "title": "How to Start a Koi Pond for Beginners",
+      "goal": "How to start a koi pond for beginners",
+      "category": "gardening",
+      "tags": [
+        "koi pond",
+        "fish pond",
+        "backyard"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30012,
+      "moduleCount": 12,
+      "readingTimeMins": 121,
+      "metaDescription": "How to Start a Koi Pond for Beginners — a free beginner-level guide covering how to start a koi pond for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-07T03:46:55.837Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-wordpress-security-and-optimization-maste",
       "title": "Advanced WordPress Security and Optimization Mastery",
       "goal": "Advanced WordPress security and optimization guide",
@@ -25846,6 +26006,6 @@
       "edition": "street"
     }
   ],
-  "total": 1299,
-  "generatedAt": "2026-08-07T03:15:43.366Z"
+  "total": 1307,
+  "generatedAt": "2026-08-07T04:06:30.242Z"
 }
