@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-make-a-quilted-blanket-a-complete-guide",
+      "title": "How to Make a Quilted Blanket: A Complete Guide",
+      "goal": "How to make a quilted blanket",
+      "category": "crafts",
+      "tags": [
+        "quilting",
+        "sewing",
+        "textiles"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 10722,
+      "moduleCount": 7,
+      "readingTimeMins": 43,
+      "metaDescription": "How to Make a Quilted Blanket: A Complete Guide — a free intermediate-level guide covering how to make a quilted blanket. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T07:37:36.868Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-spark-plug-replacement",
+      "title": "Beginner's Guide to Spark Plug Replacement",
+      "goal": "Beginner's guide to spark plug replacement",
+      "category": "mechanics",
+      "tags": [
+        "spark-plugs",
+        "engine",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30640,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Beginner's Guide to Spark Plug Replacement — a free beginner-level guide covering beginner's guide to spark plug replacement. Learn with clear...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-08-07T07:34:56.761Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-workout-routine-for-weight-loss",
+      "title": "How to Start a Workout Routine for Weight Loss",
+      "goal": "How to start a workout routine for weight loss",
+      "category": "fitness",
+      "tags": [
+        "weight loss",
+        "exercise",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18059,
+      "moduleCount": 10,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Start a Workout Routine for Weight Loss — a free beginner-level guide covering how to start a workout routine for weight loss. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T07:29:41.684Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-meditation-practice-a-beginners-gui",
+      "title": "How to Start a Meditation Practice: A Beginner's Guide",
+      "goal": "How to start a meditation practice",
+      "category": "meditation",
+      "tags": [
+        "meditation",
+        "zen",
+        "mindfulness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27367,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Start a Meditation Practice: A Beginner's Guide — a free beginner-level guide covering how to start a meditation practice. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T07:27:27.777Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-sail-complete-beginners-guide-to-sailing",
       "title": "Learn to Sail: Complete Beginner's Guide to Sailing a Boat",
       "goal": "Learn to sail a boat for beginners",
@@ -26166,6 +26246,6 @@
       "edition": "street"
     }
   ],
-  "total": 1315,
-  "generatedAt": "2026-08-07T05:28:12.370Z"
+  "total": 1319,
+  "generatedAt": "2026-08-07T07:37:52.651Z"
 }
