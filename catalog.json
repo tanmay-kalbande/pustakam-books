@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "mastering-homemade-cheesecake-from-crust-to-garnis",
+      "title": "Mastering Homemade Cheesecake: From Crust to Garnish",
+      "goal": "Learn how to make a cheesecake from scratch",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "dessert",
+        "cheesecake"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12094,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "Mastering Homemade Cheesecake: From Crust to Garnish — a free intermediate-level guide covering learn how to make a cheesecake from scratch. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T10:25:16.794Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-growing-blueberries-at-home",
+      "title": "Beginner's Guide to Growing Blueberries at Home",
+      "goal": "Beginner's guide to growing blueberries",
+      "category": "gardening",
+      "tags": [
+        "berries",
+        "fruit",
+        "planting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32892,
+      "moduleCount": 14,
+      "readingTimeMins": 132,
+      "metaDescription": "Beginner's Guide to Growing Blueberries at Home — a free beginner-level guide covering beginner's guide to growing blueberries. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T10:23:33.940Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-make-homemade-sushi-stepbystep-guide",
+      "title": "Learn How to Make Homemade Sushi: Step-by-Step Guide",
+      "goal": "Learn how to make homemade sushi",
+      "category": "culinary",
+      "tags": [
+        "sushi",
+        "japanese food",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22427,
+      "moduleCount": 13,
+      "readingTimeMins": 90,
+      "metaDescription": "Learn How to Make Homemade Sushi: Step-by-Step Guide — a free intermediate-level guide covering learn how to make homemade sushi. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-07T10:20:09.331Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-macarons-from-scratch-to-gourmet-flavors",
+      "title": "Mastering Macarons: From Scratch to Gourmet Flavors",
+      "goal": "Learn how to make macarons from scratch",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "french pastry",
+        "dessert"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24377,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "Mastering Macarons: From Scratch to Gourmet Flavors — a free advanced-level guide covering learn how to make macarons from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-07T10:16:19.614Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "professional-beef-stew-mastery-classic-techniques",
+      "title": "Professional Beef Stew Mastery: Classic Techniques Unlocked",
+      "goal": "How to make a professional beef stew",
+      "category": "culinary",
+      "tags": [
+        "stew",
+        "cooking",
+        "comfort food"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22581,
+      "moduleCount": 14,
+      "readingTimeMins": 91,
+      "metaDescription": "Professional Beef Stew Mastery: Classic Techniques Unlocked — a free intermediate-level guide covering how to make a professional beef stew. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-07T10:13:24.117Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-ketogenic-dieting-metabolic-optimization",
+      "title": "Advanced Ketogenic Dieting: Metabolic Optimization Guide",
+      "goal": "Advanced guide to keto dieting",
+      "category": "health",
+      "tags": [
+        "keto",
+        "diet",
+        "nutrition"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13657,
+      "moduleCount": 8,
+      "readingTimeMins": 55,
+      "metaDescription": "Advanced Ketogenic Dieting: Metabolic Optimization Guide — a free advanced-level guide covering advanced guide to keto dieting. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T10:10:03.797Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-a-quilted-blanket-a-complete-guide",
       "title": "How to Make a Quilted Blanket: A Complete Guide",
       "goal": "How to make a quilted blanket",
@@ -26246,6 +26366,6 @@
       "edition": "street"
     }
   ],
-  "total": 1319,
-  "generatedAt": "2026-08-07T07:37:52.651Z"
+  "total": 1325,
+  "generatedAt": "2026-08-07T10:26:10.162Z"
 }
