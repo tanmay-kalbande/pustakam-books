@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "instagram-for-business-the-complete-beginners-guid",
+      "title": "Instagram for Business: The Complete Beginner's Guide",
+      "goal": "Learn how to use Instagram for business",
+      "category": "marketing",
+      "tags": [
+        "instagram",
+        "social-media",
+        "growth"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18170,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "Instagram for Business: The Complete Beginner's Guide — a free beginner-level guide covering learn how to use instagram for business. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T00:25:40.784Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-blog-on-wordpress-for-beginners",
+      "title": "How to Start a Blog on WordPress for Beginners",
+      "goal": "How to start a blog on WordPress",
+      "category": "content-creation",
+      "tags": [
+        "wordpress",
+        "blogging",
+        "website"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33585,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "How to Start a Blog on WordPress for Beginners — a free beginner-level guide covering how to start a blog on wordpress. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T00:23:01.449Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-billiards-a-complete-beginners-guide",
+      "title": "How to Play Billiards: A Complete Beginner's Guide",
+      "goal": "Learn how to play billiards for beginners",
+      "category": "sports",
+      "tags": [
+        "billiards",
+        "pool",
+        "cues"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18130,
+      "moduleCount": 10,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Play Billiards: A Complete Beginner's Guide — a free beginner-level guide covering learn how to play billiards for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T00:19:43.380Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "shopify-for-beginners-complete-ecommerce-guide",
+      "title": "Shopify for Beginners: Complete Ecommerce Guide",
+      "goal": "Learn how to use Shopify for ecommerce",
+      "category": "software-tools",
+      "tags": [
+        "shopify",
+        "ecommerce",
+        "online-store"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32826,
+      "moduleCount": 13,
+      "readingTimeMins": 132,
+      "metaDescription": "Shopify for Beginners: Complete Ecommerce Guide — a free beginner-level guide covering learn how to use shopify for ecommerce. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T00:16:59.243Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-the-drums-stepbystep-ro",
+      "title": "Beginner's Guide to Playing the Drums: Step-by-Step Roadmap",
+      "goal": "Beginner's guide to playing the drums",
+      "category": "music",
+      "tags": [
+        "drums",
+        "percussion",
+        "rhythm"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14866,
+      "moduleCount": 8,
+      "readingTimeMins": 60,
+      "metaDescription": "Beginner's Guide to Playing the Drums: Step-by-Step Roadmap — a free beginner-level guide covering beginner's guide to playing the drums. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T00:14:07.188Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-playing-the-accordion",
       "title": "Beginner's Guide to Playing the Accordion",
       "goal": "Beginner's guide to playing the accordion",
@@ -25666,6 +25766,6 @@
       "edition": "street"
     }
   ],
-  "total": 1290,
-  "generatedAt": "2026-08-06T14:42:43.904Z"
+  "total": 1295,
+  "generatedAt": "2026-08-07T00:25:42.629Z"
 }
