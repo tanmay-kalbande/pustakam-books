@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-make-traditional-kimchi-stepbystep-guide",
+      "title": "How to Make Traditional Kimchi: Step-by-Step Guide",
+      "goal": "How to make traditional kimchi",
+      "category": "culinary",
+      "tags": [
+        "kimchi",
+        "fermentation",
+        "korean"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19966,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Make Traditional Kimchi: Step-by-Step Guide — a free intermediate-level guide covering how to make traditional kimchi. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-07T21:50:35.646Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "baby-care-basics-a-beginners-guide-to-newborn-pare",
+      "title": "Baby Care Basics: A Beginner's Guide to Newborn Parenting",
+      "goal": "Beginner's guide to baby care",
+      "category": "parenting",
+      "tags": [
+        "baby",
+        "parenting",
+        "care"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18911,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "Baby Care Basics: A Beginner's Guide to Newborn Parenting — a free beginner-level guide covering beginner's guide to baby care. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T21:46:44.191Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "master-advanced-surfing-maneuvers-wave-reading-tec",
       "title": "Master Advanced Surfing Maneuvers & Wave Reading Techniques",
       "goal": "Advanced surfing maneuvers and wave reading",
@@ -26766,6 +26806,6 @@
       "edition": "street"
     }
   ],
-  "total": 1345,
-  "generatedAt": "2026-08-07T19:12:26.811Z"
+  "total": 1347,
+  "generatedAt": "2026-08-07T21:50:37.559Z"
 }
