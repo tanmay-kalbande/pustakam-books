@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "master-advanced-surfing-maneuvers-wave-reading-tec",
+      "title": "Master Advanced Surfing Maneuvers & Wave Reading Techniques",
+      "goal": "Advanced surfing maneuvers and wave reading",
+      "category": "outdoor-sports",
+      "tags": [
+        "surfing",
+        "advanced",
+        "ocean"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32378,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Master Advanced Surfing Maneuvers & Wave Reading Techniques — a free advanced-level guide covering advanced surfing maneuvers and wave reading. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T19:12:24.856Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-hebrew-for-beginners-a-stepbystep-guide",
+      "title": "Learn Hebrew for Beginners: A Step-by-Step Guide",
+      "goal": "Learn Hebrew for beginners step by step",
+      "category": "language",
+      "tags": [
+        "hebrew",
+        "language-learning",
+        "israel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18111,
+      "moduleCount": 10,
+      "readingTimeMins": 73,
+      "metaDescription": "Learn Hebrew for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn hebrew for beginners step by step. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T19:09:18.575Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-use-miro-a-beginners-guide-to-digital-white",
       "title": "How to Use Miro: A Beginner's Guide to Digital Whiteboarding",
       "goal": "Learn to use Miro for digital whiteboarding",
@@ -26726,6 +26766,6 @@
       "edition": "street"
     }
   ],
-  "total": 1343,
-  "generatedAt": "2026-08-07T16:24:29.103Z"
+  "total": 1345,
+  "generatedAt": "2026-08-07T19:12:26.811Z"
 }
