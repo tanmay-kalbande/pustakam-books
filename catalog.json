@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "learn-to-sail-complete-beginners-guide-to-sailing",
+      "title": "Learn to Sail: Complete Beginner's Guide to Sailing a Boat",
+      "goal": "Learn to sail a boat for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "sailing",
+        "boating",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36906,
+      "moduleCount": 14,
+      "readingTimeMins": 148,
+      "metaDescription": "Learn to Sail: Complete Beginner's Guide to Sailing a Boat — a free beginner-level guide covering learn to sail a boat for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T05:28:10.441Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-concept-art-for-environment-design",
+      "title": "Intermediate Concept Art for Environment Design",
+      "goal": "Intermediate concept art for environment design",
+      "category": "digital-art",
+      "tags": [
+        "concept art",
+        "environments",
+        "intermediate"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18796,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "Intermediate Concept Art for Environment Design — a free intermediate-level guide covering intermediate concept art for environment design. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T05:24:09.245Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "pixel-art-for-beginners-a-stepbystep-guide",
+      "title": "Pixel Art for Beginners: A Step-by-Step Guide",
+      "goal": "Learn pixel art for beginners step by step",
+      "category": "digital-art",
+      "tags": [
+        "pixel art",
+        "game art",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13842,
+      "moduleCount": 9,
+      "readingTimeMins": 56,
+      "metaDescription": "Pixel Art for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn pixel art for beginners step by step. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T05:22:30.305Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-vfx-and-compositing-mastery-for-professio",
+      "title": "Advanced VFX and Compositing Mastery for Professionals",
+      "goal": "Advanced VFX and compositing for beginners",
+      "category": "video-editing",
+      "tags": [
+        "VFX",
+        "compositing",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31345,
+      "moduleCount": 13,
+      "readingTimeMins": 126,
+      "metaDescription": "Advanced VFX and Compositing Mastery for Professionals — a free advanced-level guide covering advanced vfx and compositing for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T05:21:14.960Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-sound-design-for-game-audio",
+      "title": "Intermediate Sound Design for Game Audio",
+      "goal": "Intermediate sound design for game audio",
+      "category": "music-production",
+      "tags": [
+        "sound design",
+        "game audio",
+        "intermediate"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12980,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Intermediate Sound Design for Game Audio — a free intermediate-level guide covering intermediate sound design for game audio. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T05:16:44.722Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-techno-music-stepbystep-beginner-guide",
+      "title": "How to Make Techno Music: Step-by-Step Beginner Guide",
+      "goal": "How to make techno music for beginners",
+      "category": "music-production",
+      "tags": [
+        "techno",
+        "electronic music",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36042,
+      "moduleCount": 14,
+      "readingTimeMins": 145,
+      "metaDescription": "How to Make Techno Music: Step-by-Step Beginner Guide — a free beginner-level guide covering how to make techno music for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T05:15:14.366Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-piano-chords-and-progressions-mastery",
+      "title": "Intermediate Piano Chords and Progressions Mastery",
+      "goal": "Intermediate piano chords and progression mastery",
+      "category": "music",
+      "tags": [
+        "piano",
+        "music theory",
+        "chords"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12585,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Intermediate Piano Chords and Progressions Mastery — a free intermediate-level guide covering intermediate piano chords and progression mastery. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T05:10:41.702Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-guide-to-organic-farming",
+      "title": "Advanced Guide to Organic Farming",
+      "goal": "Advanced guide to organic farming",
+      "category": "agriculture",
+      "tags": [
+        "organic",
+        "farming",
+        "sustainable"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27717,
+      "moduleCount": 11,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Guide to Organic Farming — a free advanced-level guide covering advanced guide to organic farming. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-07T05:08:48.023Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-revit-for-architecture-from-basics-to-profes",
       "title": "Learn Revit for Architecture: From Basics to Professional Projects",
       "goal": "Learn how to use Revit for architecture",
@@ -26006,6 +26166,6 @@
       "edition": "street"
     }
   ],
-  "total": 1307,
-  "generatedAt": "2026-08-07T04:06:30.242Z"
+  "total": 1315,
+  "generatedAt": "2026-08-07T05:28:12.370Z"
 }
