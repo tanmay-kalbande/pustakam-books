@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "intermediate-piano-techniques-and-scales-mastercla",
+      "title": "Intermediate Piano Techniques and Scales Masterclass",
+      "goal": "Intermediate piano techniques and scales",
+      "category": "music",
+      "tags": [
+        "piano",
+        "scales",
+        "intermediate"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11604,
+      "moduleCount": 8,
+      "readingTimeMins": 47,
+      "metaDescription": "Intermediate Piano Techniques and Scales Masterclass — a free intermediate-level guide covering intermediate piano techniques and scales. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T13:21:04.034Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "authentic-homemade-dim-sum-intermediate-guide",
+      "title": "Authentic Homemade Dim Sum: Intermediate Guide",
+      "goal": "How to make authentic dim sum at home",
+      "category": "culinary",
+      "tags": [
+        "dim sum",
+        "chinese food",
+        "steaming"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 31536,
+      "moduleCount": 13,
+      "readingTimeMins": 127,
+      "metaDescription": "Authentic Homemade Dim Sum: Intermediate Guide — a free intermediate-level guide covering how to make authentic dim sum at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T13:19:34.314Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-sous-vide-the-complete-guide-to-precisio",
+      "title": "Mastering Sous Vide: The Complete Guide to Precision Cooking",
+      "goal": "Mastering the art of sous vide cooking",
+      "category": "culinary",
+      "tags": [
+        "sous vide",
+        "precision cooking",
+        "meat"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15430,
+      "moduleCount": 9,
+      "readingTimeMins": 62,
+      "metaDescription": "Mastering Sous Vide: The Complete Guide to Precision Cooking — a free intermediate-level guide covering mastering the art of sous vide cooking. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T13:16:02.445Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "baseball-for-beginners-a-complete-stepbystep-guide",
       "title": "Baseball for Beginners: A Complete Step-by-Step Guide",
       "goal": "Beginner's guide to playing baseball",
@@ -26526,6 +26586,6 @@
       "edition": "street"
     }
   ],
-  "total": 1333,
-  "generatedAt": "2026-08-07T11:12:15.464Z"
+  "total": 1336,
+  "generatedAt": "2026-08-07T13:21:05.988Z"
 }
