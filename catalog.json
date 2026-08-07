@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "advanced-wordpress-security-and-optimization-maste",
+      "title": "Advanced WordPress Security and Optimization Mastery",
+      "goal": "Advanced WordPress security and optimization guide",
+      "category": "software-tools",
+      "tags": [
+        "wordpress",
+        "security",
+        "optimization"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 33930,
+      "moduleCount": 13,
+      "readingTimeMins": 136,
+      "metaDescription": "Advanced WordPress Security and Optimization Mastery — a free advanced-level guide covering advanced wordpress security and optimization guide. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T03:15:41.465Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "adobe-xd-for-beginners-a-complete-ui-design-guide",
+      "title": "Adobe XD for Beginners: A Complete UI Design Guide",
+      "goal": "Learn Adobe XD for UI design beginners",
+      "category": "software-tools",
+      "tags": [
+        "adobe xd",
+        "ui design",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13655,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "Adobe XD for Beginners: A Complete UI Design Guide — a free beginner-level guide covering learn adobe xd for ui design beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T03:11:06.367Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-kayak-a-beginners-guide-to-getting-st",
+      "title": "Learn How to Kayak: A Beginner's Guide to Getting Started",
+      "goal": "Learn how to kayak for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "kayaking",
+        "paddling",
+        "outdoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34141,
+      "moduleCount": 14,
+      "readingTimeMins": 137,
+      "metaDescription": "Learn How to Kayak: A Beginner's Guide to Getting Started — a free beginner-level guide covering learn how to kayak for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T03:09:25.892Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-spice-garden-a-beginners-guide",
+      "title": "How to Start a Spice Garden: A Beginner's Guide",
+      "goal": "How to start a spice garden",
+      "category": "gardening",
+      "tags": [
+        "herbs",
+        "spices",
+        "gardening"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21182,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Start a Spice Garden: A Beginner's Guide — a free beginner-level guide covering how to start a spice garden. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T03:06:52.889Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "instagram-for-business-the-complete-beginners-guid",
       "title": "Instagram for Business: The Complete Beginner's Guide",
       "goal": "Learn how to use Instagram for business",
@@ -25766,6 +25846,6 @@
       "edition": "street"
     }
   ],
-  "total": 1295,
-  "generatedAt": "2026-08-07T00:25:42.629Z"
+  "total": 1299,
+  "generatedAt": "2026-08-07T03:15:43.366Z"
 }
