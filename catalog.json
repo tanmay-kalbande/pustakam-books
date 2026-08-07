@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-use-miro-a-beginners-guide-to-digital-white",
+      "title": "How to Use Miro: A Beginner's Guide to Digital Whiteboarding",
+      "goal": "Learn to use Miro for digital whiteboarding",
+      "category": "software-tools",
+      "tags": [
+        "miro",
+        "brainstorming",
+        "collaboration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13353,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "How to Use Miro: A Beginner's Guide to Digital Whiteboarding — a free beginner-level guide covering learn to use miro for digital whiteboarding. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T16:24:27.188Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-home-canning-and-preserving",
+      "title": "Beginner's Guide to Home Canning and Preserving",
+      "goal": "Beginner's guide to home canning and preserving",
+      "category": "homesteading",
+      "tags": [
+        "canning",
+        "preserving",
+        "food"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19622,
+      "moduleCount": 9,
+      "readingTimeMins": 79,
+      "metaDescription": "Beginner's Guide to Home Canning and Preserving — a free beginner-level guide covering beginner's guide to home canning and preserving. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T16:22:47.488Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-recorder-a-beginners-stepbystep",
+      "title": "Learn to Play the Recorder: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to play the recorder for beginners",
+      "category": "music",
+      "tags": [
+        "recorder",
+        "woodwind",
+        "music basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32470,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Learn to Play the Recorder: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to play the recorder for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T16:19:19.007Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-leather-stitching-for-beginners-a-stepbystep",
+      "title": "Basic Leather Stitching for Beginners: A Step-by-Step Guide",
+      "goal": "Learn basic leather stitching for beginners",
+      "category": "leatherworking",
+      "tags": [
+        "leather",
+        "stitching",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12359,
+      "moduleCount": 7,
+      "readingTimeMins": 50,
+      "metaDescription": "Basic Leather Stitching for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn basic leather stitching for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-07T16:15:26.259Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-trumpet-from-scratch-a-complete-beginners-gu",
+      "title": "Learn Trumpet from Scratch: A Complete Beginner's Guide",
+      "goal": "Beginner's guide to learning the trumpet",
+      "category": "music",
+      "tags": [
+        "trumpet",
+        "brass",
+        "music basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33563,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "Learn Trumpet from Scratch: A Complete Beginner's Guide — a free beginner-level guide covering beginner's guide to learning the trumpet. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-07T16:13:56.058Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-harp-a-stepbystep",
+      "title": "Beginner's Guide to Learning the Harp: A Step-by-Step Roadmap",
+      "goal": "Beginner's guide to learning the harp",
+      "category": "music",
+      "tags": [
+        "harp",
+        "strings",
+        "classical"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15045,
+      "moduleCount": 9,
+      "readingTimeMins": 61,
+      "metaDescription": "Beginner's Guide to Learning the Harp: A Step-by-Step Roadmap — a free beginner-level guide covering beginner's guide to learning the harp. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-07T16:10:08.485Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-saxophone-learning-guide-play-your-first",
+      "title": "Beginner's Saxophone Learning Guide: Play Your First Notes Today",
+      "goal": "Beginner's guide to learning the saxophone",
+      "category": "music",
+      "tags": [
+        "saxophone",
+        "jazz",
+        "wind instrument"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35171,
+      "moduleCount": 15,
+      "readingTimeMins": 141,
+      "metaDescription": "Beginner's Saxophone Learning Guide: Play Your First Notes Today — a free beginner-level guide covering beginner's guide to learning the saxophone....",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash, gpt-oss-120b",
+      "generatedAt": "2026-08-07T16:08:01.443Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-piano-techniques-and-scales-mastercla",
       "title": "Intermediate Piano Techniques and Scales Masterclass",
       "goal": "Intermediate piano techniques and scales",
@@ -26586,6 +26726,6 @@
       "edition": "street"
     }
   ],
-  "total": 1336,
-  "generatedAt": "2026-08-07T13:21:05.988Z"
+  "total": 1343,
+  "generatedAt": "2026-08-07T16:24:29.103Z"
 }
