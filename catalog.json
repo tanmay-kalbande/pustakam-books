@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "learn-procreate-on-ipad-complete-beginners-guide",
+      "title": "Learn Procreate on iPad: Complete Beginner's Guide",
+      "goal": "Learn to use Procreate on iPad for beginners",
+      "category": "digital-art",
+      "tags": [
+        "procreate",
+        "digital painting",
+        "ipad"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22867,
+      "moduleCount": 14,
+      "readingTimeMins": 92,
+      "metaDescription": "Learn Procreate on iPad: Complete Beginner's Guide — a free beginner-level guide covering learn to use procreate on ipad for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T13:19:08.272Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-conversational-french-for-beginners",
+      "title": "Learn Conversational French for Beginners",
+      "goal": "Learn conversational French for beginners",
+      "category": "language",
+      "tags": [
+        "french",
+        "language learning",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20757,
+      "moduleCount": 10,
+      "readingTimeMins": 84,
+      "metaDescription": "Learn Conversational French for Beginners — a free beginner-level guide covering learn conversational french for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T13:12:26.022Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-handmade-ceramic-bowl-a-complete-beg",
+      "title": "How to Make a Handmade Ceramic Bowl: A Complete Beginner's Guide",
+      "goal": "How to make a handmade ceramic bowl",
+      "category": "pottery",
+      "tags": [
+        "ceramics",
+        "hand-building",
+        "clay"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27040,
+      "moduleCount": 14,
+      "readingTimeMins": 109,
+      "metaDescription": "How to Make a Handmade Ceramic Bowl: A Complete Beginner's Guide — a free beginner-level guide covering how to make a handmade ceramic bowl. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T13:10:34.628Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-paper-mache-mask-stepbystep-guide-fo",
+      "title": "How to Make a Paper Mache Mask: Step-by-Step Guide for Beginners",
+      "goal": "How to make a paper mache mask",
+      "category": "crafts",
+      "tags": [
+        "paper mache",
+        "masks",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31971,
+      "moduleCount": 14,
+      "readingTimeMins": 128,
+      "metaDescription": "How to Make a Paper Mache Mask: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to make a paper mache mask. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T13:06:46.552Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-crochet-a-granny-square-for-beginners",
+      "title": "Learn to Crochet a Granny Square for Beginners",
+      "goal": "Learn to crochet a granny square",
+      "category": "crochet",
+      "tags": [
+        "granny square",
+        "basics",
+        "crochet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26046,
+      "moduleCount": 14,
+      "readingTimeMins": 105,
+      "metaDescription": "Learn to Crochet a Granny Square for Beginners — a free beginner-level guide covering learn to crochet a granny square. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T13:03:44.774Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-backyard-greenhouse-a-stepbystep-gu",
+      "title": "How to Build a Backyard Greenhouse: A Step-by-Step Guide",
+      "goal": "How to build a backyard greenhouse",
+      "category": "gardening",
+      "tags": [
+        "greenhouse",
+        "vegetables",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14749,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "How to Build a Backyard Greenhouse: A Step-by-Step Guide — a free beginner-level guide covering how to build a backyard greenhouse. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-08T12:59:18.813Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-backyard-chicken-coop-a-beginners-g",
       "title": "How to Start a Backyard Chicken Coop: A Beginner's Guide",
       "goal": "How to start a backyard chicken coop",
@@ -27186,6 +27306,6 @@
       "edition": "street"
     }
   ],
-  "total": 1366,
-  "generatedAt": "2026-08-08T09:51:03.133Z"
+  "total": 1372,
+  "generatedAt": "2026-08-08T13:19:10.261Z"
 }
