@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "learn-to-knit-scarves-complete-beginners-guide",
+      "title": "Learn to Knit Scarves: Complete Beginner's Guide",
+      "goal": "Learn to knit scarves for beginners",
+      "category": "knitting",
+      "tags": [
+        "knitting",
+        "wool",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29586,
+      "moduleCount": 12,
+      "readingTimeMins": 119,
+      "metaDescription": "Learn to Knit Scarves: Complete Beginner's Guide — a free beginner-level guide covering learn to knit scarves for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T04:21:31.963Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-powerlifting-programming-for-elite-streng",
+      "title": "Advanced Powerlifting Programming for Elite Strength",
+      "goal": "Advanced powerlifting programs for strength",
+      "category": "fitness",
+      "tags": [
+        "powerlifting",
+        "strength",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12893,
+      "moduleCount": 7,
+      "readingTimeMins": 52,
+      "metaDescription": "Advanced Powerlifting Programming for Elite Strength — a free advanced-level guide covering advanced powerlifting programs for strength. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-08T04:17:47.307Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-install-vinyl-flooring-in-a-room",
       "title": "How to Install Vinyl Flooring in a Room",
       "goal": "How to install a vinyl floor in a room",
@@ -26906,6 +26946,6 @@
       "edition": "street"
     }
   ],
-  "total": 1352,
-  "generatedAt": "2026-08-08T02:09:03.632Z"
+  "total": 1354,
+  "generatedAt": "2026-08-08T04:21:34.156Z"
 }
