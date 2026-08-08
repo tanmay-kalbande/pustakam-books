@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-make-handmade-paper-from-scratch-a-complete",
+      "title": "How to Make Handmade Paper from Scratch: A Complete Beginner's Guide",
+      "goal": "How to make handmade paper from scratch",
+      "category": "crafts",
+      "tags": [
+        "papermaking",
+        "recycled",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33568,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "How to Make Handmade Paper from Scratch: A Complete Beginner's Guide — a free beginner-level guide covering how to make handmade paper from scratch....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T21:49:30.225Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-crochet-a-scarf-a-stepbystep-beginners-guid",
+      "title": "How to Crochet a Scarf: A Step-by-Step Beginner's Guide",
+      "goal": "How to make a crochet scarf for beginners",
+      "category": "crochet",
+      "tags": [
+        "scarf",
+        "winter wear",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 11894,
+      "moduleCount": 8,
+      "readingTimeMins": 48,
+      "metaDescription": "How to Crochet a Scarf: A Step-by-Step Beginner's Guide — a free beginner-level guide covering how to make a crochet scarf for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-08T21:45:00.802Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-dry-and-preserve-herbs-at-home-a-beginners",
+      "title": "How to Dry and Preserve Herbs at Home: A Beginner's Guide",
+      "goal": "How to dry and preserve herbs at home",
+      "category": "gardening",
+      "tags": [
+        "herbs",
+        "preservation",
+        "drying"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28952,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "How to Dry and Preserve Herbs at Home: A Beginner's Guide — a free beginner-level guide covering how to dry and preserve herbs at home. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T21:43:35.694Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-advanced-french-sauce-techniques",
+      "title": "Mastering Advanced French Sauce Techniques",
+      "goal": "Mastering advanced French sauce techniques",
+      "category": "culinary",
+      "tags": [
+        "sauces",
+        "french cuisine",
+        "chef"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 11726,
+      "moduleCount": 7,
+      "readingTimeMins": 47,
+      "metaDescription": "Mastering Advanced French Sauce Techniques — a free advanced-level guide covering mastering advanced french sauce techniques. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-08T21:40:38.453Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-obsidian-for-notetaking-a-complete-beginners",
       "title": "Learn Obsidian for Note-Taking: A Complete Beginner's Guide",
       "goal": "Learn how to use Obsidian for note-taking",
@@ -27466,6 +27546,6 @@
       "edition": "street"
     }
   ],
-  "total": 1380,
-  "generatedAt": "2026-08-08T18:54:05.359Z"
+  "total": 1384,
+  "generatedAt": "2026-08-08T21:49:33.685Z"
 }
