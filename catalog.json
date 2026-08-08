@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "selfdefense-for-women-a-beginners-guide-to-persona",
+      "title": "Self-Defense for Women: A Beginner's Guide to Personal Safety",
+      "goal": "Self-defense moves for women beginners",
+      "category": "martial-arts",
+      "tags": [
+        "self-defense",
+        "safety",
+        "protection"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22287,
+      "moduleCount": 11,
+      "readingTimeMins": 90,
+      "metaDescription": "Self-Defense for Women: A Beginner's Guide to Personal Safety — a free beginner-level guide covering self-defense moves for women beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-08T07:33:02.861Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-track-a-solar-eclipse-a-complete-guide",
+      "title": "How to Track a Solar Eclipse: A Complete Guide",
+      "goal": "How to track a solar eclipse",
+      "category": "astronomy",
+      "tags": [
+        "eclipse",
+        "sun",
+        "observation"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29600,
+      "moduleCount": 13,
+      "readingTimeMins": 119,
+      "metaDescription": "How to Track a Solar Eclipse: A Complete Guide — a free intermediate-level guide covering how to track a solar eclipse. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T07:29:37.314Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "types-of-galaxies-explained-a-beginners-guide",
+      "title": "Types of Galaxies Explained: A Beginner's Guide",
+      "goal": "Learn about the different types of galaxies",
+      "category": "astronomy",
+      "tags": [
+        "space",
+        "galaxies",
+        "science"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25051,
+      "moduleCount": 15,
+      "readingTimeMins": 101,
+      "metaDescription": "Types of Galaxies Explained: A Beginner's Guide — a free beginner-level guide covering learn about the different types of galaxies. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T07:25:27.571Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-find-the-north-star-beginner",
+      "title": "How to find the North Star",
+      "goal": "How to find the North Star",
+      "category": "astronomy",
+      "tags": [
+        "navigation",
+        "stars",
+        "night sky"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19404,
+      "moduleCount": 10,
+      "readingTimeMins": 78,
+      "metaDescription": "How to find the North Star — a free beginner-level guide covering how to find the north star. Learn with clear explanations, real examples, and...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-08T07:23:04.179Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-take-great-photos-a-beginners-guide-to-comp",
+      "title": "How to Take Great Photos: A Beginner's Guide to Composition",
+      "goal": "How to compose a great photograph",
+      "category": "photography",
+      "tags": [
+        "composition",
+        "rules of thirds",
+        "art"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28127,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Take Great Photos: A Beginner's Guide to Composition — a free beginner-level guide covering how to compose a great photograph. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T07:20:17.023Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-edit-photos-in-adobe-lightroom-beginners-st",
+      "title": "How to Edit Photos in Adobe Lightroom – Beginner's Step-by-Step Guide",
+      "goal": "How to edit photos in Adobe Lightroom",
+      "category": "photography",
+      "tags": [
+        "editing",
+        "lightroom",
+        "post-processing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21980,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Edit Photos in Adobe Lightroom – Beginner's Step-by-Step Guide — a free beginner-level guide covering how to edit photos in adobe lightroom....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T07:16:41.992Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-portrait-flash-photography-a-comprehensi",
+      "title": "Mastering Portrait Flash Photography: A Comprehensive Guide",
+      "goal": "How to use a camera flash for portraits",
+      "category": "photography",
+      "tags": [
+        "lighting",
+        "portrait",
+        "flash"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 13359,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Mastering Portrait Flash Photography: A Comprehensive Guide — a free intermediate-level guide covering how to use a camera flash for portraits. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-08T07:14:22.592Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-breathwork-mastery-for-deep-relaxation-ad",
+      "title": "Advanced Breathwork Mastery for Deep Relaxation: Advanced Techniques",
+      "goal": "Advanced breathwork techniques for deep relaxation",
+      "category": "wellness",
+      "tags": [
+        "breathing",
+        "stress relief",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32347,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Advanced Breathwork Mastery for Deep Relaxation: Advanced Techniques — a free advanced-level guide covering advanced breathwork techniques for deep...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T07:09:19.750Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-treat-a-sinus-infection-naturally",
+      "title": "How to Treat a Sinus Infection Naturally",
+      "goal": "How to treat a sinus infection naturally",
+      "category": "health",
+      "tags": [
+        "sinusitis",
+        "cold",
+        "natural health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13213,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "How to Treat a Sinus Infection Naturally — a free beginner-level guide covering how to treat a sinus infection naturally. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-08T07:04:32.513Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-manage-chronic-fatigue-syndrome-a-practical",
+      "title": "How to Manage Chronic Fatigue Syndrome – A Practical Roadmap",
+      "goal": "How to manage chronic fatigue syndrome",
+      "category": "health",
+      "tags": [
+        "energy",
+        "wellness",
+        "chronic illness"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23802,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "How to Manage Chronic Fatigue Syndrome – A Practical Roadmap — a free intermediate-level guide covering how to manage chronic fatigue syndrome. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T07:02:57.611Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-knit-scarves-complete-beginners-guide",
       "title": "Learn to Knit Scarves: Complete Beginner's Guide",
       "goal": "Learn to knit scarves for beginners",
@@ -26946,6 +27146,6 @@
       "edition": "street"
     }
   ],
-  "total": 1354,
-  "generatedAt": "2026-08-08T04:21:34.156Z"
+  "total": 1364,
+  "generatedAt": "2026-08-08T07:33:16.431Z"
 }
