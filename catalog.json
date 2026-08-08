@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "intermediate-surfing-techniques-for-better-waves",
+      "title": "Intermediate Surfing Techniques for Better Waves",
+      "goal": "Intermediate surfing techniques for better waves",
+      "category": "outdoor-sports",
+      "tags": [
+        "surfing",
+        "ocean",
+        "intermediate"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19402,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Intermediate Surfing Techniques for Better Waves — a free intermediate-level guide covering intermediate surfing techniques for better waves. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T15:46:39.450Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-banjo",
+      "title": "Beginner's Guide to Learning the Banjo",
+      "goal": "Beginner's guide to learning the banjo",
+      "category": "music",
+      "tags": [
+        "banjo",
+        "strings",
+        "folk music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18436,
+      "moduleCount": 9,
+      "readingTimeMins": 74,
+      "metaDescription": "Beginner's Guide to Learning the Banjo — a free beginner-level guide covering beginner's guide to learning the banjo. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-08T15:45:24.778Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-sustainable-living-simple-steps",
+      "title": "Beginner's Guide to Sustainable Living: Simple Steps to Help the Planet",
+      "goal": "Beginner's guide to sustainable living",
+      "category": "wellness",
+      "tags": [
+        "sustainability",
+        "eco-friendly",
+        "lifestyle"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26806,
+      "moduleCount": 13,
+      "readingTimeMins": 108,
+      "metaDescription": "Beginner's Guide to Sustainable Living: Simple Steps to Help the Planet — a free beginner-level guide covering beginner's guide to sustainable living....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T15:41:33.033Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-calligraphic-lettering-for-beginners",
+      "title": "Basic Calligraphic Lettering for Beginners",
+      "goal": "Learn basic calligraphic lettering for beginners",
+      "category": "art",
+      "tags": [
+        "calligraphy",
+        "lettering",
+        "handwriting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20633,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Basic Calligraphic Lettering for Beginners — a free beginner-level guide covering learn basic calligraphic lettering for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T15:37:32.945Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-procreate-on-ipad-complete-beginners-guide",
       "title": "Learn Procreate on iPad: Complete Beginner's Guide",
       "goal": "Learn to use Procreate on iPad for beginners",
@@ -27306,6 +27386,6 @@
       "edition": "street"
     }
   ],
-  "total": 1372,
-  "generatedAt": "2026-08-08T13:19:10.261Z"
+  "total": 1376,
+  "generatedAt": "2026-08-08T15:47:21.401Z"
 }
