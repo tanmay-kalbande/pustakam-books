@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-install-vinyl-flooring-in-a-room",
+      "title": "How to Install Vinyl Flooring in a Room",
+      "goal": "How to install a vinyl floor in a room",
+      "category": "trades",
+      "tags": [
+        "flooring",
+        "home-improvement",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20038,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Install Vinyl Flooring in a Room — a free beginner-level guide covering how to install a vinyl floor in a room. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T02:08:32.495Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-authentic-guacamole-stepbystep-guide-f",
+      "title": "How to Make Authentic Guacamole: Step-by-Step Guide for Beginners",
+      "goal": "Learn to make authentic guacamole for beginners",
+      "category": "culinary",
+      "tags": [
+        "mexican",
+        "appetizers",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24544,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Make Authentic Guacamole: Step-by-Step Guide for Beginners — a free beginner-level guide covering learn to make authentic guacamole for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T02:06:29.920Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-repair-a-leaky-toilet-tank-stepbystep-guide",
+      "title": "How to Repair a Leaky Toilet Tank – Step-by-Step Guide",
+      "goal": "How to repair a leaky toilet tank",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "bathroom",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18896,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Repair a Leaky Toilet Tank – Step-by-Step Guide — a free beginner-level guide covering how to repair a leaky toilet tank. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T02:03:20.213Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-leather-phone-case-from-scratch-for",
+      "title": "How to Make a Leather Phone Case from Scratch for Beginners",
+      "goal": "How to make a leather phone case",
+      "category": "leatherworking",
+      "tags": [
+        "leather",
+        "accessories",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25069,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "How to Make a Leather Phone Case from Scratch for Beginners — a free beginner-level guide covering how to make a leather phone case. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T02:01:23.032Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "organic-skincare-101-beginners-guide-to-natural-be",
+      "title": "Organic Skincare 101: Beginner's Guide to Natural Beauty",
+      "goal": "Beginner's guide to organic skincare",
+      "category": "skincare",
+      "tags": [
+        "organic",
+        "skincare",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20108,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Organic Skincare 101: Beginner's Guide to Natural Beauty — a free beginner-level guide covering beginner's guide to organic skincare. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T01:58:07.359Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-traditional-kimchi-stepbystep-guide",
       "title": "How to Make Traditional Kimchi: Step-by-Step Guide",
       "goal": "How to make traditional kimchi",
@@ -26806,6 +26906,6 @@
       "edition": "street"
     }
   ],
-  "total": 1347,
-  "generatedAt": "2026-08-07T21:50:37.559Z"
+  "total": 1352,
+  "generatedAt": "2026-08-08T02:09:03.632Z"
 }
