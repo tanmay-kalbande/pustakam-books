@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-backyard-chicken-coop-a-beginners-g",
+      "title": "How to Start a Backyard Chicken Coop: A Beginner's Guide",
+      "goal": "How to start a backyard chicken coop",
+      "category": "homesteading",
+      "tags": [
+        "chickens",
+        "farming",
+        "eggs"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21974,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Start a Backyard Chicken Coop: A Beginner's Guide — a free beginner-level guide covering how to start a backyard chicken coop. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T09:50:58.551Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-make-handmade-jewelry-beginners-stepb",
+      "title": "Learn How to Make Handmade Jewelry: Beginner's Step-by-Step Guide",
+      "goal": "Learn how to make handmade jewelry",
+      "category": "crafts",
+      "tags": [
+        "jewelry",
+        "beading",
+        "accessories"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35891,
+      "moduleCount": 14,
+      "readingTimeMins": 144,
+      "metaDescription": "Learn How to Make Handmade Jewelry: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to make handmade jewelry. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-08T09:49:01.616Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "selfdefense-for-women-a-beginners-guide-to-persona",
       "title": "Self-Defense for Women: A Beginner's Guide to Personal Safety",
       "goal": "Self-defense moves for women beginners",
@@ -27146,6 +27186,6 @@
       "edition": "street"
     }
   ],
-  "total": 1364,
-  "generatedAt": "2026-08-08T07:33:16.431Z"
+  "total": 1366,
+  "generatedAt": "2026-08-08T09:51:03.133Z"
 }
