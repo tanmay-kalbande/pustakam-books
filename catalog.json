@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "learn-obsidian-for-notetaking-a-complete-beginners",
+      "title": "Learn Obsidian for Note-Taking: A Complete Beginner's Guide",
+      "goal": "Learn how to use Obsidian for note-taking",
+      "category": "software-tools",
+      "tags": [
+        "obsidian",
+        "pkm",
+        "notes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25028,
+      "moduleCount": 15,
+      "readingTimeMins": 101,
+      "metaDescription": "Learn Obsidian for Note-Taking: A Complete Beginner's Guide — a free beginner-level guide covering learn how to use obsidian for note-taking. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-08T18:54:03.157Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-basketball-beginners-stepbystep-guide",
+      "title": "How to Play Basketball: Beginner's Step-by-Step Guide",
+      "goal": "How to play basketball for beginners",
+      "category": "sports",
+      "tags": [
+        "basketball",
+        "hoops",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27285,
+      "moduleCount": 12,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Play Basketball: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to play basketball for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-08T18:51:31.398Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-cabinet-making-and-master-joinery-techniq",
+      "title": "Advanced Cabinet Making and Master Joinery Techniques",
+      "goal": "Advanced cabinet making and joinery techniques",
+      "category": "woodworking",
+      "tags": [
+        "cabinets",
+        "furniture",
+        "joinery"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13256,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Advanced Cabinet Making and Master Joinery Techniques — a free advanced-level guide covering advanced cabinet making and joinery techniques. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-08T18:47:35.232Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "facial-yoga-for-beginners-simple-exercises-for-glo",
+      "title": "Facial Yoga for Beginners: Simple Exercises for Glowing Skin",
+      "goal": "Beginner's guide to facial yoga for skin",
+      "category": "wellness",
+      "tags": [
+        "facial yoga",
+        "skincare",
+        "anti-aging"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17463,
+      "moduleCount": 8,
+      "readingTimeMins": 70,
+      "metaDescription": "Facial Yoga for Beginners: Simple Exercises for Glowing Skin — a free beginner-level guide covering beginner's guide to facial yoga for skin. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-08T18:46:31.501Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-surfing-techniques-for-better-waves",
       "title": "Intermediate Surfing Techniques for Better Waves",
       "goal": "Intermediate surfing techniques for better waves",
@@ -27386,6 +27466,6 @@
       "edition": "street"
     }
   ],
-  "total": 1376,
-  "generatedAt": "2026-08-08T15:47:21.401Z"
+  "total": 1380,
+  "generatedAt": "2026-08-08T18:54:05.359Z"
 }
