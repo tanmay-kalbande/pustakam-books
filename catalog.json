@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-make-your-own-clothes-a-beginners-guide",
+      "title": "How to Make Your Own Clothes: A Beginner's Guide",
+      "goal": "How to make your own clothes for beginners",
+      "category": "sewing",
+      "tags": [
+        "fashion",
+        "DIY",
+        "clothing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18374,
+      "moduleCount": 10,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Make Your Own Clothes: A Beginner's Guide — a free beginner-level guide covering how to make your own clothes for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T07:25:27.077Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-steel-pan-for-beginners-a-stepbystep",
+      "title": "Learn to Play Steel Pan for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to play the steel pan for beginners",
+      "category": "music",
+      "tags": [
+        "steel pan",
+        "caribbean",
+        "percussion"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32868,
+      "moduleCount": 14,
+      "readingTimeMins": 132,
+      "metaDescription": "Learn to Play Steel Pan for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to play the steel pan for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T07:22:50.769Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-a-pumpkin-patch-for-beginners",
+      "title": "How to Grow a Pumpkin Patch for Beginners",
+      "goal": "How to grow a pumpkin patch for beginners",
+      "category": "gardening",
+      "tags": [
+        "pumpkins",
+        "autumn",
+        "vegetables"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18955,
+      "moduleCount": 10,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Grow a Pumpkin Patch for Beginners — a free beginner-level guide covering how to grow a pumpkin patch for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T07:19:57.479Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-theremin-for-beginners-stepbyste",
+      "title": "Learn to Play the Theremin for Beginners: Step-by-Step Guide",
+      "goal": "Learn to play the theremin for beginners",
+      "category": "music",
+      "tags": [
+        "theremin",
+        "electronic",
+        "experimental"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31171,
+      "moduleCount": 14,
+      "readingTimeMins": 125,
+      "metaDescription": "Learn to Play the Theremin for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn to play the theremin for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T07:17:02.467Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-the-koto-a-complete-beginners-guide",
+      "title": "How to Play the Koto: A Complete Beginner's Guide",
+      "goal": "Learn to play the koto for beginners",
+      "category": "music",
+      "tags": [
+        "koto",
+        "japanese music",
+        "strings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23250,
+      "moduleCount": 13,
+      "readingTimeMins": 93,
+      "metaDescription": "How to Play the Koto: A Complete Beginner's Guide — a free beginner-level guide covering learn to play the koto for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T07:12:44.974Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "homemade-gnocchi-recipe-for-beginners-step-by-step",
+      "title": "Homemade Gnocchi Recipe for Beginners Step by Step",
+      "goal": "How to make homemade gnocchi for beginners",
+      "category": "culinary",
+      "tags": [
+        "gnocchi",
+        "italian",
+        "potato pasta"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27071,
+      "moduleCount": 13,
+      "readingTimeMins": 109,
+      "metaDescription": "Homemade Gnocchi Recipe for Beginners Step by Step — a free beginner-level guide covering how to make homemade gnocchi for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T07:09:20.175Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-a-lemon-tree-indoors-beginner-roadmap",
+      "title": "How to Grow a Lemon Tree Indoors – Beginner Roadmap",
+      "goal": "How to grow a lemon tree indoors",
+      "category": "gardening",
+      "tags": [
+        "citrus",
+        "indoor plants",
+        "lemon tree"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25799,
+      "moduleCount": 12,
+      "readingTimeMins": 104,
+      "metaDescription": "How to Grow a Lemon Tree Indoors – Beginner Roadmap — a free beginner-level guide covering how to grow a lemon tree indoors. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-09T07:06:35.559Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "the-ultimate-guide-to-deep-cleaning-your-home",
       "title": "The Ultimate Guide to Deep Cleaning Your Home",
       "goal": "How to do a deep house clean",
@@ -27686,6 +27826,6 @@
       "edition": "street"
     }
   ],
-  "total": 1391,
-  "generatedAt": "2026-08-09T04:42:11.910Z"
+  "total": 1398,
+  "generatedAt": "2026-08-09T07:26:25.288Z"
 }
