@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "advanced-mixing-and-mastering-for-producers",
+      "title": "Advanced Mixing and Mastering for Producers",
+      "goal": "Advanced mixing and mastering for producers",
+      "category": "music-production",
+      "tags": [
+        "audio engineering",
+        "studio",
+        "mixing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 33878,
+      "moduleCount": 13,
+      "readingTimeMins": 136,
+      "metaDescription": "Advanced Mixing and Mastering for Producers — a free advanced-level guide covering advanced mixing and mastering for producers. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T10:08:03.128Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-excel-techniques-for-business-analysts",
+      "title": "Advanced Excel Techniques for Business Analysts",
+      "goal": "How to learn advanced Excel for business",
+      "category": "productivity",
+      "tags": [
+        "excel",
+        "spreadsheets",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24604,
+      "moduleCount": 12,
+      "readingTimeMins": 99,
+      "metaDescription": "Advanced Excel Techniques for Business Analysts — a free advanced-level guide covering how to learn advanced excel for business. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T10:05:12.424Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "diy-face-mask-for-acne-stepbystep-beginner-guide",
+      "title": "DIY Face Mask for Acne: Step-by-Step Beginner Guide",
+      "goal": "How to make a DIY face mask for acne",
+      "category": "skincare",
+      "tags": [
+        "acne",
+        "skin",
+        "natural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18936,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "DIY Face Mask for Acne: Step-by-Step Beginner Guide — a free beginner-level guide covering how to make a diy face mask for acne. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T10:00:15.586Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-get-rid-of-anxiety-and-panic-attacks-natura",
+      "title": "How to Get Rid of Anxiety and Panic Attacks Naturally",
+      "goal": "How to get rid of anxiety and panic attacks",
+      "category": "wellness",
+      "tags": [
+        "anxiety",
+        "mental health",
+        "relief"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27295,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Get Rid of Anxiety and Panic Attacks Naturally — a free beginner-level guide covering how to get rid of anxiety and panic attacks. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T09:58:30.527Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "excel-for-budgeting-a-complete-beginners-guide",
+      "title": "Excel for Budgeting: A Complete Beginner's Guide",
+      "goal": "Learn how to use Excel for budgeting",
+      "category": "finance",
+      "tags": [
+        "Excel",
+        "budget",
+        "money"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28554,
+      "moduleCount": 13,
+      "readingTimeMins": 115,
+      "metaDescription": "Excel for Budgeting: A Complete Beginner's Guide — a free beginner-level guide covering learn how to use excel for budgeting. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T09:54:50.900Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "professional-powerpoint-presentations-stepbystep-g",
+      "title": "Professional PowerPoint Presentations: Step-by-Step Guide",
+      "goal": "How to make a professional PowerPoint presentation",
+      "category": "software-tools",
+      "tags": [
+        "slides",
+        "presentation",
+        "business"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19493,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "Professional PowerPoint Presentations: Step-by-Step Guide — a free intermediate-level guide covering how to make a professional powerpoint...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-09T09:47:47.845Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-your-own-clothes-a-beginners-guide",
       "title": "How to Make Your Own Clothes: A Beginner's Guide",
       "goal": "How to make your own clothes for beginners",
@@ -27826,6 +27946,6 @@
       "edition": "street"
     }
   ],
-  "total": 1398,
-  "generatedAt": "2026-08-09T07:26:25.288Z"
+  "total": 1404,
+  "generatedAt": "2026-08-09T10:12:29.343Z"
 }
