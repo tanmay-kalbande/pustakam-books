@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "the-ultimate-guide-to-deep-cleaning-your-home",
+      "title": "The Ultimate Guide to Deep Cleaning Your Home",
+      "goal": "How to do a deep house clean",
+      "category": "home-maintenance",
+      "tags": [
+        "cleaning",
+        "organization",
+        "home"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17315,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "The Ultimate Guide to Deep Cleaning Your Home — a free beginner-level guide covering how to do a deep house clean. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T04:42:09.933Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-drip-coffee-system-a-beginners-guid",
+      "title": "How to Start a Drip Coffee System: A Beginner's Guide",
+      "goal": "How to start a drip coffee system",
+      "category": "culinary",
+      "tags": [
+        "coffee",
+        "brewing",
+        "caffeine"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30829,
+      "moduleCount": 14,
+      "readingTimeMins": 124,
+      "metaDescription": "How to Start a Drip Coffee System: A Beginner's Guide — a free beginner-level guide covering how to start a drip coffee system. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T04:39:39.723Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "garageband-for-beginners-a-stepbystep-guide-to-mus",
+      "title": "GarageBand for Beginners: A Step-by-Step Guide to Music Production",
+      "goal": "Learn how to use GarageBand for beginners",
+      "category": "music-production",
+      "tags": [
+        "garageband",
+        "apple",
+        "songwriting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17689,
+      "moduleCount": 9,
+      "readingTimeMins": 71,
+      "metaDescription": "GarageBand for Beginners: A Step-by-Step Guide to Music Production — a free beginner-level guide covering learn how to use garageband for beginners....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T04:36:45.798Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-wix-beginners-stepbystep-guide",
+      "title": "How to Use Wix: Beginner's Step-by-Step Guide",
+      "goal": "How to use Wix for beginners",
+      "category": "design",
+      "tags": [
+        "wix",
+        "website builder",
+        "small business"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25561,
+      "moduleCount": 11,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Use Wix: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to use wix for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T04:34:15.189Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-webflow-for-beginners-stepbystep-website-bui",
+      "title": "Learn Webflow for Beginners: Step-by-Step Website Building",
+      "goal": "How to use Webflow for beginners",
+      "category": "design",
+      "tags": [
+        "webflow",
+        "web design",
+        "no-code"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32690,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "Learn Webflow for Beginners: Step-by-Step Website Building — a free beginner-level guide covering how to use webflow for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T04:28:41.300Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-skincare-line-beginners-stepbystep",
+      "title": "How to Start a Skincare Line: Beginner's Step-by-Step Guide",
+      "goal": "How to start a skincare line for beginners",
+      "category": "business",
+      "tags": [
+        "skincare",
+        "beauty",
+        "startup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31481,
+      "moduleCount": 12,
+      "readingTimeMins": 126,
+      "metaDescription": "How to Start a Skincare Line: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a skincare line for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T04:24:50.757Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-use-melodyne-for-vocal-pitch-correction-int",
       "title": "How to Use Melodyne for Vocal Pitch Correction – Intermediate Guide",
       "goal": "How to use Melodyne for vocal pitch correction",
@@ -27566,6 +27686,6 @@
       "edition": "street"
     }
   ],
-  "total": 1385,
-  "generatedAt": "2026-08-09T02:03:58.989Z"
+  "total": 1391,
+  "generatedAt": "2026-08-09T04:42:11.910Z"
 }
