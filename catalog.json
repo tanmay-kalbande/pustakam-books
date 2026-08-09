@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "slug": "how-to-use-melodyne-for-vocal-pitch-correction-int",
+      "title": "How to Use Melodyne for Vocal Pitch Correction – Intermediate Guide",
+      "goal": "How to use Melodyne for vocal pitch correction",
+      "category": "music-production",
+      "tags": [
+        "melodyne",
+        "vocal tuning",
+        "audio editing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22112,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Use Melodyne for Vocal Pitch Correction – Intermediate Guide — a free intermediate-level guide covering how to use melodyne for vocal pitch...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T02:03:56.916Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-handmade-paper-from-scratch-a-complete",
       "title": "How to Make Handmade Paper from Scratch: A Complete Beginner's Guide",
       "goal": "How to make handmade paper from scratch",
@@ -27546,6 +27566,6 @@
       "edition": "street"
     }
   ],
-  "total": 1384,
-  "generatedAt": "2026-08-08T21:49:33.685Z"
+  "total": 1385,
+  "generatedAt": "2026-08-09T02:03:58.989Z"
 }
