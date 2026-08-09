@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "advanced-unreal-engine-lighting-and-rendering-mast",
+      "title": "Advanced Unreal Engine Lighting and Rendering Mastery",
+      "goal": "Advanced Unreal Engine lighting and rendering",
+      "category": "digital-art",
+      "tags": [
+        "unreal engine",
+        "rendering",
+        "lighting"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 27695,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "Advanced Unreal Engine Lighting and Rendering Mastery — a free advanced-level guide covering advanced unreal engine lighting and rendering. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T18:58:42.111Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-trello-for-beginners-a-complete-guide-t",
+      "title": "How to Use Trello for Beginners: A Complete Guide to Organization",
+      "goal": "Learn how to use Trello for organization",
+      "category": "productivity",
+      "tags": [
+        "trello",
+        "organization",
+        "workflow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27062,
+      "moduleCount": 14,
+      "readingTimeMins": 109,
+      "metaDescription": "How to Use Trello for Beginners: A Complete Guide to Organization — a free beginner-level guide covering learn how to use trello for organization....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T18:53:57.839Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-brew-coffee-with-a-french-press-a-beginners",
+      "title": "How to Brew Coffee with a French Press: A Beginner's Guide",
+      "goal": "Learn how to brew coffee with a French press",
+      "category": "culinary",
+      "tags": [
+        "coffee",
+        "brewing",
+        "French press"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16944,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Brew Coffee with a French Press: A Beginner's Guide — a free beginner-level guide covering learn how to brew coffee with a french press. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T18:51:33.317Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-competitive-swimming-techniques-for-races",
       "title": "Advanced Competitive Swimming Techniques for Races",
       "goal": "Advanced swimming techniques for competitive racing",
@@ -28066,6 +28126,6 @@
       "edition": "street"
     }
   ],
-  "total": 1410,
-  "generatedAt": "2026-08-09T15:53:59.069Z"
+  "total": 1413,
+  "generatedAt": "2026-08-09T18:58:44.336Z"
 }
