@@ -1,6 +1,266 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-practicing-tai-chi",
+      "title": "Beginner's Guide to Practicing Tai Chi",
+      "goal": "Beginner's guide to practicing Tai Chi",
+      "category": "martial-arts",
+      "tags": [
+        "tai-chi",
+        "mindfulness",
+        "balance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20219,
+      "moduleCount": 10,
+      "readingTimeMins": 81,
+      "metaDescription": "Beginner's Guide to Practicing Tai Chi — a free beginner-level guide covering beginner's guide to practicing tai chi. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-09T22:20:07.516Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-trading-card-collection-beginners-s",
+      "title": "How to Start a Trading Card Collection: Beginner's Step-by-Step Guide",
+      "goal": "How to start a collection of trading cards",
+      "category": "hobbies",
+      "tags": [
+        "collecting",
+        "TCG",
+        "investing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29800,
+      "moduleCount": 14,
+      "readingTimeMins": 120,
+      "metaDescription": "How to Start a Trading Card Collection: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a collection of trading...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T22:16:31.365Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-house-painting-guide-for-beginners",
+      "title": "Basic House Painting Guide for Beginners",
+      "goal": "How to do basic house painting for beginners",
+      "category": "painting",
+      "tags": [
+        "painting",
+        "walls",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21940,
+      "moduleCount": 9,
+      "readingTimeMins": 88,
+      "metaDescription": "Basic House Painting Guide for Beginners — a free beginner-level guide covering how to do basic house painting for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T22:12:08.655Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-zither-beginners-guide-from-zero",
+      "title": "Learn to Play the Zither: Beginner's Guide from Zero to First Songs",
+      "goal": "Learn to play the zither for beginners",
+      "category": "music",
+      "tags": [
+        "zither",
+        "strings",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26584,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "Learn to Play the Zither: Beginner's Guide from Zero to First Songs — a free beginner-level guide covering learn to play the zither for beginners....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T22:09:57.415Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-tofu-from-scratch-for-beginne",
+      "title": "How to Make Homemade Tofu from Scratch for Beginners",
+      "goal": "How to make homemade tofu for beginners",
+      "category": "culinary",
+      "tags": [
+        "tofu",
+        "vegan",
+        "homemade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28437,
+      "moduleCount": 14,
+      "readingTimeMins": 114,
+      "metaDescription": "How to Make Homemade Tofu from Scratch for Beginners — a free beginner-level guide covering how to make homemade tofu for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T22:06:30.278Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-lute",
+      "title": "Beginner's Guide to Learning the Lute",
+      "goal": "Beginner's guide to learning the lute",
+      "category": "music",
+      "tags": [
+        "lute",
+        "strings",
+        "renaissance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15653,
+      "moduleCount": 9,
+      "readingTimeMins": 63,
+      "metaDescription": "Beginner's Guide to Learning the Lute — a free beginner-level guide covering beginner's guide to learning the lute. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-09T22:03:52.497Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-the-kora-a-complete-beginners-guide",
+      "title": "How to Play the Kora: A Complete Beginner's Guide",
+      "goal": "Learn to play the kora for beginners",
+      "category": "music",
+      "tags": [
+        "kora",
+        "african music",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30448,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "How to Play the Kora: A Complete Beginner's Guide — a free beginner-level guide covering learn to play the kora for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-09T22:01:37.960Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-nut-butter-a-beginners-guide",
+      "title": "How to Make Homemade Nut Butter: A Beginner's Guide",
+      "goal": "How to make homemade nut butter for beginners",
+      "category": "culinary",
+      "tags": [
+        "nut butter",
+        "healthy",
+        "homemade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24555,
+      "moduleCount": 14,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Make Homemade Nut Butter: A Beginner's Guide — a free beginner-level guide covering how to make homemade nut butter for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T21:58:31.678Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-beginner-mushroom-garden",
+      "title": "How to Start a Beginner Mushroom Garden",
+      "goal": "How to start a mushroom garden for beginners",
+      "category": "gardening",
+      "tags": [
+        "mushrooms",
+        "fungi",
+        "growing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21999,
+      "moduleCount": 10,
+      "readingTimeMins": 88,
+      "metaDescription": "How to Start a Beginner Mushroom Garden — a free beginner-level guide covering how to start a mushroom garden for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-09T21:54:23.978Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-mandolin-from-scratch-beginners-stepbystep-g",
+      "title": "Learn Mandolin from Scratch: Beginner's Step-by-Step Guide",
+      "goal": "Beginner's guide to learning the mandolin",
+      "category": "music",
+      "tags": [
+        "mandolin",
+        "strings",
+        "folk"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28913,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "Learn Mandolin from Scratch: Beginner's Step-by-Step Guide — a free beginner-level guide covering beginner's guide to learning the mandolin. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T21:51:56.055Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-the-trombone",
+      "title": "Beginner's Guide to Playing the Trombone",
+      "goal": "Learn to play the trombone for beginners",
+      "category": "music",
+      "tags": [
+        "trombone",
+        "brass",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23032,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "Beginner's Guide to Playing the Trombone — a free beginner-level guide covering learn to play the trombone for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-09T21:47:32.500Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-clarinet-from-scra",
+      "title": "Beginner's Guide to Learning the Clarinet from Scratch",
+      "goal": "Beginner's guide to learning the clarinet",
+      "category": "music",
+      "tags": [
+        "clarinet",
+        "woodwind",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26897,
+      "moduleCount": 14,
+      "readingTimeMins": 108,
+      "metaDescription": "Beginner's Guide to Learning the Clarinet from Scratch — a free beginner-level guide covering beginner's guide to learning the clarinet. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-09T21:45:37.270Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-the-flute",
+      "title": "Beginner's Guide to Learning the Flute",
+      "goal": "Beginner's guide to learning the flute",
+      "category": "music",
+      "tags": [
+        "flute",
+        "wind instrument",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27302,
+      "moduleCount": 12,
+      "readingTimeMins": 110,
+      "metaDescription": "Beginner's Guide to Learning the Flute — a free beginner-level guide covering beginner's guide to learning the flute. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-09T21:42:29.967Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-unreal-engine-lighting-and-rendering-mast",
       "title": "Advanced Unreal Engine Lighting and Rendering Mastery",
       "goal": "Advanced Unreal Engine lighting and rendering",
@@ -28126,6 +28386,6 @@
       "edition": "street"
     }
   ],
-  "total": 1413,
-  "generatedAt": "2026-08-09T18:58:44.336Z"
+  "total": 1426,
+  "generatedAt": "2026-08-09T22:20:09.640Z"
 }
