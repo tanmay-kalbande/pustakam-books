@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-stop-nail-biting-a-complete-guide-for-adult",
+      "title": "How to Stop Nail Biting: A Complete Guide for Adults",
+      "goal": "How to stop nail biting for adults",
+      "category": "health",
+      "tags": [
+        "habits",
+        "wellness",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18225,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Stop Nail Biting: A Complete Guide for Adults — a free beginner-level guide covering how to stop nail biting for adults. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-10T13:44:07.602Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-professional-logo-step-by-step",
+      "title": "How to Make a Professional Logo Step by Step",
+      "goal": "Learn how to make a professional logo",
+      "category": "design",
+      "tags": [
+        "logo",
+        "branding",
+        "graphic design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30738,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "How to Make a Professional Logo Step by Step — a free beginner-level guide covering learn how to make a professional logo. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T13:37:36.555Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "managing-work-stress-and-burnout-practical-strateg",
+      "title": "Managing Work Stress and Burnout: Practical Strategies",
+      "goal": "How to manage stress and burnout at work",
+      "category": "wellness",
+      "tags": [
+        "stress",
+        "burnout",
+        "mental health"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22722,
+      "moduleCount": 10,
+      "readingTimeMins": 91,
+      "metaDescription": "Managing Work Stress and Burnout: Practical Strategies — a free intermediate-level guide covering how to manage stress and burnout at work. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T13:32:01.324Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-kubernetes-cluster-management-for-develop",
+      "title": "Advanced Kubernetes Cluster Management for Developers",
+      "goal": "Advanced Kubernetes cluster management for developers",
+      "category": "technology",
+      "tags": [
+        "kubernetes",
+        "devops",
+        "cloud"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 17614,
+      "moduleCount": 8,
+      "readingTimeMins": 71,
+      "metaDescription": "Advanced Kubernetes Cluster Management for Developers — a free advanced-level guide covering advanced kubernetes cluster management for developers....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-10T13:30:15.252Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-professional-website-a-beginners-gu",
+      "title": "How to Build a Professional Website: A Beginner's Guide",
+      "goal": "How to make a professional website for beginners",
+      "category": "design",
+      "tags": [
+        "website",
+        "web design",
+        "online"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17962,
+      "moduleCount": 10,
+      "readingTimeMins": 72,
+      "metaDescription": "How to Build a Professional Website: A Beginner's Guide — a free beginner-level guide covering how to make a professional website for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-10T13:26:03.941Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-crochet-patterns-for-experienced-makers",
+      "title": "Advanced Crochet Patterns for Experienced Makers",
+      "goal": "Advanced crochet patterns for experienced makers",
+      "category": "crochet",
+      "tags": [
+        "crochet",
+        "patterns",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23048,
+      "moduleCount": 9,
+      "readingTimeMins": 93,
+      "metaDescription": "Advanced Crochet Patterns for Experienced Makers — a free advanced-level guide covering advanced crochet patterns for experienced makers. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-10T13:24:38.872Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "budgetfriendly-meal-planning-for-beginners",
       "title": "Budget-Friendly Meal Planning for Beginners",
       "goal": "How to start a budget-friendly meal plan",
@@ -28646,6 +28766,6 @@
       "edition": "street"
     }
   ],
-  "total": 1439,
-  "generatedAt": "2026-08-10T10:28:54.756Z"
+  "total": 1445,
+  "generatedAt": "2026-08-10T13:44:09.743Z"
 }
