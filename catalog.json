@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-home-bakery-stepbystep-guide",
+      "title": "How to Start a Home Bakery: Step-by-Step Guide",
+      "goal": "How to start a bakery from home",
+      "category": "business",
+      "tags": [
+        "bakery",
+        "baking",
+        "startup"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22321,
+      "moduleCount": 9,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Start a Home Bakery: Step-by-Step Guide — a free beginner-level guide covering how to start a bakery from home. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T19:19:56.417Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-tutoring-business-from-s",
+      "title": "How to Start a Profitable Tutoring Business From Scratch",
+      "goal": "How to start a tutoring business",
+      "category": "business",
+      "tags": [
+        "tutoring",
+        "education",
+        "service"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29459,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Start a Profitable Tutoring Business From Scratch — a free beginner-level guide covering how to start a tutoring business. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T19:15:35.375Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-profitable-pet-grooming-business",
+      "title": "How to Start a Profitable Pet Grooming Business",
+      "goal": "How to start a pet grooming business",
+      "category": "business",
+      "tags": [
+        "pets",
+        "grooming",
+        "service"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34973,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "How to Start a Profitable Pet Grooming Business — a free beginner-level guide covering how to start a pet grooming business. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-10T19:11:06.754Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-grow-pumpkins-beginners-stepbystep-guide",
       "title": "How to Grow Pumpkins: Beginner's Step-by-Step Guide",
       "goal": "How to grow pumpkins for beginners",
@@ -28886,6 +28946,6 @@
       "edition": "street"
     }
   ],
-  "total": 1451,
-  "generatedAt": "2026-08-10T16:23:16.698Z"
+  "total": 1454,
+  "generatedAt": "2026-08-10T19:19:58.776Z"
 }
