@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "how-to-start-kite-surfing-beginners-stepbystep-gui",
+      "title": "How to Start Kite Surfing: Beginner's Step-by-Step Guide",
+      "goal": "How to start kite surfing for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "kitesurfing",
+        "water sports",
+        "wind"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30030,
+      "moduleCount": 14,
+      "readingTimeMins": 121,
+      "metaDescription": "How to Start Kite Surfing: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start kite surfing for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T02:14:42.648Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-houdini-for-beginners-a-complete-stepbystep",
+      "title": "Learn Houdini for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to use Houdini for beginners",
+      "category": "digital-art",
+      "tags": [
+        "houdini",
+        "vfx",
+        "procedural"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26752,
+      "moduleCount": 13,
+      "readingTimeMins": 108,
+      "metaDescription": "Learn Houdini for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to use houdini for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-10T02:10:16.439Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-blackjack-a-beginners-complete-guide",
+      "title": "How to Play Blackjack: A Beginner's Complete Guide",
+      "goal": "Learn how to play blackjack for beginners",
+      "category": "hobbies",
+      "tags": [
+        "blackjack",
+        "casino",
+        "cards"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15079,
+      "moduleCount": 8,
+      "readingTimeMins": 61,
+      "metaDescription": "How to Play Blackjack: A Beginner's Complete Guide — a free beginner-level guide covering learn how to play blackjack for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-10T02:07:06.459Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-practicing-tai-chi",
       "title": "Beginner's Guide to Practicing Tai Chi",
       "goal": "Beginner's guide to practicing Tai Chi",
@@ -28386,6 +28446,6 @@
       "edition": "street"
     }
   ],
-  "total": 1426,
-  "generatedAt": "2026-08-09T22:20:09.640Z"
+  "total": 1429,
+  "generatedAt": "2026-08-10T02:14:44.755Z"
 }
