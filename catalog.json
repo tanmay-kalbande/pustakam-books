@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "advanced-mountain-bike-jumping-and-air-mastery",
+      "title": "Advanced Mountain Bike Jumping and Air Mastery",
+      "goal": "Learn advanced mountain bike jumping",
+      "category": "outdoor-sports",
+      "tags": [
+        "mountain biking",
+        "stunts",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12325,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "Advanced Mountain Bike Jumping and Air Mastery — a free advanced-level guide covering learn advanced mountain bike jumping. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-10T04:56:41.381Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "high-blood-pressure-for-beginners-a-complete-guide",
+      "title": "High Blood Pressure for Beginners: A Complete Guide to Managing Hypertension",
+      "goal": "Beginner's guide to managing high blood pressure",
+      "category": "health",
+      "tags": [
+        "hypertension",
+        "wellness",
+        "diet"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30312,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "High Blood Pressure for Beginners: A Complete Guide to Managing Hypertension — a free beginner-level guide covering beginner's guide to managing high...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-10T04:55:12.852Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-automatic-transmission-rebuilding-masterc",
+      "title": "Advanced Automatic Transmission Rebuilding Masterclass",
+      "goal": "Advanced transmission rebuilding for beginners",
+      "category": "mechanics",
+      "tags": [
+        "transmission",
+        "gearbox",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14719,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Advanced Automatic Transmission Rebuilding Masterclass — a free advanced-level guide covering advanced transmission rebuilding for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-10T04:51:23.353Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-yoga-inversions-mastery-safety-flow",
+      "title": "Advanced Yoga Inversions: Mastery, Safety, Flow",
+      "goal": "How to do advanced yoga inversions",
+      "category": "yoga",
+      "tags": [
+        "yoga",
+        "inversions",
+        "flexibility"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21473,
+      "moduleCount": 9,
+      "readingTimeMins": 86,
+      "metaDescription": "Advanced Yoga Inversions: Mastery, Safety, Flow — a free advanced-level guide covering how to do advanced yoga inversions. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-10T04:49:47.654Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-kite-surfing-beginners-stepbystep-gui",
       "title": "How to Start Kite Surfing: Beginner's Step-by-Step Guide",
       "goal": "How to start kite surfing for beginners",
@@ -28446,6 +28526,6 @@
       "edition": "street"
     }
   ],
-  "total": 1429,
-  "generatedAt": "2026-08-10T02:14:44.755Z"
+  "total": 1433,
+  "generatedAt": "2026-08-10T04:56:43.396Z"
 }
