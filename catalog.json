@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-playing-the-cello-start-your-mu",
+      "title": "Beginner's Guide to Playing the Cello: Start Your Musical Journey",
+      "goal": "Beginner's guide to playing the cello",
+      "category": "music",
+      "tags": [
+        "cello",
+        "strings",
+        "instruments"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34782,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "Beginner's Guide to Playing the Cello: Start Your Musical Journey — a free beginner-level guide covering beginner's guide to playing the cello. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-10T21:59:22.158Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-indoor-plant-collection-for-beginn",
+      "title": "How to Start an Indoor Plant Collection for Beginners",
+      "goal": "How to start an indoor plant collection",
+      "category": "gardening",
+      "tags": [
+        "houseplants",
+        "indoor",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24270,
+      "moduleCount": 14,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Start an Indoor Plant Collection for Beginners — a free beginner-level guide covering how to start an indoor plant collection. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T21:54:59.697Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "microsoft-word-for-beginners-a-stepbystep-guide",
+      "title": "Microsoft Word for Beginners: A Step-by-Step Guide",
+      "goal": "Beginner's guide to using Microsoft Word",
+      "category": "software-tools",
+      "tags": [
+        "word",
+        "office",
+        "typing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16776,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "Microsoft Word for Beginners: A Step-by-Step Guide — a free beginner-level guide covering beginner's guide to using microsoft word. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-10T21:52:44.469Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-manual-camera-basics-for-beginners",
+      "title": "Learn Manual Camera Basics for Beginners",
+      "goal": "Learn to use a manual camera for beginners",
+      "category": "photography",
+      "tags": [
+        "DSLR",
+        "exposure",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32693,
+      "moduleCount": 13,
+      "readingTimeMins": 131,
+      "metaDescription": "Learn Manual Camera Basics for Beginners — a free beginner-level guide covering learn to use a manual camera for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T21:50:26.681Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-home-bakery-stepbystep-guide",
       "title": "How to Start a Home Bakery: Step-by-Step Guide",
       "goal": "How to start a bakery from home",
@@ -28946,6 +29026,6 @@
       "edition": "street"
     }
   ],
-  "total": 1454,
-  "generatedAt": "2026-08-10T19:19:58.776Z"
+  "total": 1458,
+  "generatedAt": "2026-08-10T21:59:49.013Z"
 }
