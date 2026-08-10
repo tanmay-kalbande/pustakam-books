@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "budgetfriendly-meal-planning-for-beginners",
+      "title": "Budget-Friendly Meal Planning for Beginners",
+      "goal": "How to start a budget-friendly meal plan",
+      "category": "wellness",
+      "tags": [
+        "meal prep",
+        "budgeting",
+        "nutrition"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19778,
+      "moduleCount": 8,
+      "readingTimeMins": 80,
+      "metaDescription": "Budget-Friendly Meal Planning for Beginners — a free beginner-level guide covering how to start a budget-friendly meal plan. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T10:28:52.704Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-saxophone-techniques-and-exercises-ma",
+      "title": "Intermediate Saxophone Techniques and Exercises Mastery",
+      "goal": "Intermediate saxophone techniques and exercises",
+      "category": "music",
+      "tags": [
+        "saxophone",
+        "woodwind",
+        "music-theory"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 28691,
+      "moduleCount": 13,
+      "readingTimeMins": 115,
+      "metaDescription": "Intermediate Saxophone Techniques and Exercises Mastery — a free intermediate-level guide covering intermediate saxophone techniques and exercises....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-10T10:26:55.535Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-techniques-for-writing-a-nonfiction-book",
+      "title": "Advanced Techniques for Writing a Non-Fiction Book",
+      "goal": "Advanced techniques for writing a non-fiction book",
+      "category": "writing",
+      "tags": [
+        "non-fiction",
+        "author",
+        "publishing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 20528,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Advanced Techniques for Writing a Non-Fiction Book — a free advanced-level guide covering advanced techniques for writing a non-fiction book. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T10:23:06.219Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-jazz-harmony-and-theory-mastery",
       "title": "Advanced Jazz Harmony and Theory Mastery",
       "goal": "Advanced jazz harmony and theory",
@@ -28586,6 +28646,6 @@
       "edition": "street"
     }
   ],
-  "total": 1436,
-  "generatedAt": "2026-08-10T08:00:03.112Z"
+  "total": 1439,
+  "generatedAt": "2026-08-10T10:28:54.756Z"
 }
