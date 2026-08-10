@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "advanced-jazz-harmony-and-theory-mastery",
+      "title": "Advanced Jazz Harmony and Theory Mastery",
+      "goal": "Advanced jazz harmony and theory",
+      "category": "music",
+      "tags": [
+        "jazz",
+        "theory",
+        "composition"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24892,
+      "moduleCount": 14,
+      "readingTimeMins": 100,
+      "metaDescription": "Advanced Jazz Harmony and Theory Mastery — a free advanced-level guide covering advanced jazz harmony and theory. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T08:00:01.017Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-piano-improvisation-techniques",
+      "title": "Intermediate Piano Improvisation Techniques",
+      "goal": "Intermediate piano improvisation techniques",
+      "category": "music",
+      "tags": [
+        "piano",
+        "improv",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22969,
+      "moduleCount": 9,
+      "readingTimeMins": 92,
+      "metaDescription": "Intermediate Piano Improvisation Techniques — a free intermediate-level guide covering intermediate piano improvisation techniques. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-10T07:56:00.374Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-tarot-card-reading-guide-learn-the-basic",
+      "title": "Beginner's Tarot Card Reading Guide: Learn the Basics Fast",
+      "goal": "Beginner's guide to tarot card reading",
+      "category": "hobbies",
+      "tags": [
+        "tarot",
+        "divination",
+        "spirituality"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26598,
+      "moduleCount": 12,
+      "readingTimeMins": 107,
+      "metaDescription": "Beginner's Tarot Card Reading Guide: Learn the Basics Fast — a free beginner-level guide covering beginner's guide to tarot card reading. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T07:53:01.717Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-mountain-bike-jumping-and-air-mastery",
       "title": "Advanced Mountain Bike Jumping and Air Mastery",
       "goal": "Learn advanced mountain bike jumping",
@@ -28526,6 +28586,6 @@
       "edition": "street"
     }
   ],
-  "total": 1433,
-  "generatedAt": "2026-08-10T04:56:43.396Z"
+  "total": 1436,
+  "generatedAt": "2026-08-10T08:00:03.112Z"
 }
