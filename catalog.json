@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-grow-pumpkins-beginners-stepbystep-guide",
+      "title": "How to Grow Pumpkins: Beginner's Step-by-Step Guide",
+      "goal": "How to grow pumpkins for beginners",
+      "category": "gardening",
+      "tags": [
+        "pumpkins",
+        "squash",
+        "autumn"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26096,
+      "moduleCount": 14,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Grow Pumpkins: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to grow pumpkins for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T16:22:51.329Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-learning-french-horn-stepbystep",
+      "title": "Beginner's Guide to Learning French Horn: Step-by-Step Basics",
+      "goal": "Learn to play the french horn for beginners",
+      "category": "music",
+      "tags": [
+        "french horn",
+        "brass",
+        "orchestra"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18697,
+      "moduleCount": 8,
+      "readingTimeMins": 75,
+      "metaDescription": "Beginner's Guide to Learning French Horn: Step-by-Step Basics — a free beginner-level guide covering learn to play the french horn for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-10T16:19:26.261Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-aquaponics-system-a-beginners-step",
+      "title": "How to Start an Aquaponics System: A Beginner's Step-by-Step Guide",
+      "goal": "How to start an aquaponics system for beginners",
+      "category": "gardening",
+      "tags": [
+        "aquaponics",
+        "fish",
+        "vegetables"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25990,
+      "moduleCount": 15,
+      "readingTimeMins": 104,
+      "metaDescription": "How to Start an Aquaponics System: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start an aquaponics system for...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T16:17:33.939Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-sunflowers-beginners-stepbystep-guide",
+      "title": "How to Grow Sunflowers: Beginner's Step-by-Step Guide",
+      "goal": "How to grow sunflowers for beginners",
+      "category": "gardening",
+      "tags": [
+        "sunflowers",
+        "flowers",
+        "outdoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16867,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Grow Sunflowers: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to grow sunflowers for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-10T16:14:43.828Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-vertical-garden-for-beginners",
+      "title": "How to Start a Vertical Garden for Beginners",
+      "goal": "How to start a vertical garden for beginners",
+      "category": "gardening",
+      "tags": [
+        "vertical gardening",
+        "small space",
+        "urban"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24800,
+      "moduleCount": 14,
+      "readingTimeMins": 100,
+      "metaDescription": "How to Start a Vertical Garden for Beginners — a free beginner-level guide covering how to start a vertical garden for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-10T16:12:20.158Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-hydroponic-system-for-beginners",
+      "title": "How to Start a Hydroponic System for Beginners",
+      "goal": "How to start a hydroponic system for beginners",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "soilless",
+        "indoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20751,
+      "moduleCount": 9,
+      "readingTimeMins": 84,
+      "metaDescription": "How to Start a Hydroponic System for Beginners — a free beginner-level guide covering how to start a hydroponic system for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-10T16:10:01.700Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-stop-nail-biting-a-complete-guide-for-adult",
       "title": "How to Stop Nail Biting: A Complete Guide for Adults",
       "goal": "How to stop nail biting for adults",
@@ -28766,6 +28886,6 @@
       "edition": "street"
     }
   ],
-  "total": 1445,
-  "generatedAt": "2026-08-10T13:44:09.743Z"
+  "total": 1451,
+  "generatedAt": "2026-08-10T16:23:16.698Z"
 }
