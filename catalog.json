@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "learn-rock-climbing-from-scratch-a-beginners-guide",
+      "title": "Learn Rock Climbing From Scratch: A Beginner's Guide",
+      "goal": "Learn to rock climb for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "rock climbing",
+        "bouldering",
+        "outdoors"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32423,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Learn Rock Climbing From Scratch: A Beginner's Guide — a free beginner-level guide covering learn to rock climb for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T07:33:35.502Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "handbuild-pottery-for-beginners",
+      "title": "Hand-Build Pottery for Beginners",
+      "goal": "Learn how to hand-build pottery",
+      "category": "pottery",
+      "tags": [
+        "hand-building",
+        "clay",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20384,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Hand-Build Pottery for Beginners — a free beginner-level guide covering learn how to hand-build pottery. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-11T07:28:25.185Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-leather-coasters-beginner",
+      "title": "How to make leather coasters",
+      "goal": "How to make leather coasters",
+      "category": "crafts",
+      "tags": [
+        "leather",
+        "home decor",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21924,
+      "moduleCount": 12,
+      "readingTimeMins": 88,
+      "metaDescription": "How to make leather coasters — a free beginner-level guide covering how to make leather coasters. Learn with clear explanations, real examples, and...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T07:26:15.822Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-make-origami-cranes-step-by-step",
+      "title": "Learn How to Make Origami Cranes Step by Step",
+      "goal": "Learn how to make origami cranes",
+      "category": "crafts",
+      "tags": [
+        "origami",
+        "paper",
+        "folding"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30183,
+      "moduleCount": 14,
+      "readingTimeMins": 121,
+      "metaDescription": "Learn How to Make Origami Cranes Step by Step — a free beginner-level guide covering learn how to make origami cranes. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-11T07:23:12.356Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-poach-eggs-perfectly-beginners-stepbystep-g",
+      "title": "How to Poach Eggs Perfectly: Beginner's Step-by-Step Guide",
+      "goal": "Learn how to poach eggs perfectly",
+      "category": "culinary",
+      "tags": [
+        "eggs",
+        "breakfast",
+        "cooking basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19427,
+      "moduleCount": 9,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Poach Eggs Perfectly: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to poach eggs perfectly. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-11T07:19:55.472Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-do-a-split-beginner-stepbystep-guide",
       "title": "How to Do a Split: Beginner Step-by-Step Guide",
       "goal": "Learn to do a split for beginners",
@@ -29246,6 +29346,6 @@
       "edition": "street"
     }
   ],
-  "total": 1469,
-  "generatedAt": "2026-08-11T04:39:46.973Z"
+  "total": 1474,
+  "generatedAt": "2026-08-11T07:33:52.051Z"
 }
