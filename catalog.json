@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "advanced-midi-sequencing-mastery-for-producers",
+      "title": "Advanced MIDI Sequencing Mastery for Producers",
+      "goal": "Advanced MIDI sequencing for music producers",
+      "category": "music-production",
+      "tags": [
+        "midi",
+        "sequencing",
+        "composition"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 19969,
+      "moduleCount": 13,
+      "readingTimeMins": 80,
+      "metaDescription": "Advanced MIDI Sequencing Mastery for Producers — a free advanced-level guide covering advanced midi sequencing for music producers. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T02:18:59.608Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-fix-a-leaking-shower-head",
+      "title": "How to Fix a Leaking Shower Head",
+      "goal": "How to fix a leaking shower head",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "bathroom",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18592,
+      "moduleCount": 10,
+      "readingTimeMins": 75,
+      "metaDescription": "How to Fix a Leaking Shower Head — a free beginner-level guide covering how to fix a leaking shower head. Learn with clear explanations, real examples,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-11T02:16:55.630Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-carve-wood-for-beginners-stepbystep-woodc",
+      "title": "Learn to Carve Wood for Beginners: Step-by-Step Woodcarving Guide",
+      "goal": "Learn to carve wood for beginners",
+      "category": "woodworking",
+      "tags": [
+        "whittling",
+        "carving",
+        "art"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24943,
+      "moduleCount": 14,
+      "readingTimeMins": 100,
+      "metaDescription": "Learn to Carve Wood for Beginners: Step-by-Step Woodcarving Guide — a free beginner-level guide covering learn to carve wood for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T02:14:06.881Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-replace-a-garbage-disposal-unit-stepbystep",
+      "title": "How to Replace a Garbage Disposal Unit: Step-by-Step Guide for Beginners",
+      "goal": "How to replace a garbage disposal unit",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "kitchen",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25662,
+      "moduleCount": 12,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Replace a Garbage Disposal Unit: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to replace a garbage disposal unit....",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-11T02:10:56.548Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-install-a-toilet-for-beginners-stepbystep",
+      "title": "How to Install a Toilet for Beginners Step-by-Step",
+      "goal": "How to install a toilet for beginners",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "bathroom",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20972,
+      "moduleCount": 11,
+      "readingTimeMins": 84,
+      "metaDescription": "How to Install a Toilet for Beginners Step-by-Step — a free beginner-level guide covering how to install a toilet for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T02:08:03.734Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-bake-cupcakes-for-beginners",
+      "title": "How to Bake Cupcakes for Beginners",
+      "goal": "Learn to bake cupcakes for beginners",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "desserts",
+        "cupcakes"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16882,
+      "moduleCount": 8,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Bake Cupcakes for Beginners — a free beginner-level guide covering learn to bake cupcakes for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-11T02:05:52.109Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-playing-the-cello-start-your-mu",
       "title": "Beginner's Guide to Playing the Cello: Start Your Musical Journey",
       "goal": "Beginner's guide to playing the cello",
@@ -29026,6 +29146,6 @@
       "edition": "street"
     }
   ],
-  "total": 1458,
-  "generatedAt": "2026-08-10T21:59:49.013Z"
+  "total": 1464,
+  "generatedAt": "2026-08-11T02:19:01.710Z"
 }
