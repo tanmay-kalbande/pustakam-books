@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "excel-for-bookkeeping-a-beginners-stepbystep-guide",
+      "title": "Excel for Bookkeeping: A Beginner's Step-by-Step Guide",
+      "goal": "Learn how to use Excel for bookkeeping",
+      "category": "software-tools",
+      "tags": [
+        "excel",
+        "bookkeeping",
+        "finance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23330,
+      "moduleCount": 13,
+      "readingTimeMins": 94,
+      "metaDescription": "Excel for Bookkeeping: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn how to use excel for bookkeeping. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T10:15:08.793Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-clip-studio-paint-for-beginners-complete-gui",
+      "title": "Learn Clip Studio Paint for Beginners: Complete Guide",
+      "goal": "How to use Clip Studio Paint",
+      "category": "digital-art",
+      "tags": [
+        "Clip Studio Paint",
+        "digital art",
+        "illustration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28805,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "Learn Clip Studio Paint for Beginners: Complete Guide — a free beginner-level guide covering how to use clip studio paint. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T10:12:12.614Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-serum-synth-for-beginners",
+      "title": "How to Use Serum Synth for Beginners",
+      "goal": "How to use Serum synth for beginners",
+      "category": "music-production",
+      "tags": [
+        "Serum",
+        "sound design",
+        "synthesizer"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29674,
+      "moduleCount": 13,
+      "readingTimeMins": 119,
+      "metaDescription": "How to Use Serum Synth for Beginners — a free beginner-level guide covering how to use serum synth for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-11T10:07:42.066Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-rock-climbing-from-scratch-a-beginners-guide",
       "title": "Learn Rock Climbing From Scratch: A Beginner's Guide",
       "goal": "Learn to rock climb for beginners",
@@ -29346,6 +29406,6 @@
       "edition": "street"
     }
   ],
-  "total": 1474,
-  "generatedAt": "2026-08-11T07:33:52.051Z"
+  "total": 1477,
+  "generatedAt": "2026-08-11T10:15:11.036Z"
 }
