@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-clothing-line-beginners-stepbystep",
+      "title": "How to Start a Clothing Line: Beginner's Step-by-Step Guide",
+      "goal": "How to start a clothing line for beginners",
+      "category": "business",
+      "tags": [
+        "fashion",
+        "startup",
+        "apparel"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32641,
+      "moduleCount": 13,
+      "readingTimeMins": 131,
+      "metaDescription": "How to Start a Clothing Line: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a clothing line for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T22:16:52.637Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-herbs-in-a-window-box-a-complete-begin",
+      "title": "How to Grow Herbs in a Window Box: A Complete Beginner's Guide",
+      "goal": "How to grow herbs in a window box",
+      "category": "gardening",
+      "tags": [
+        "herbs",
+        "indoor gardening",
+        "small space"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31928,
+      "moduleCount": 14,
+      "readingTimeMins": 128,
+      "metaDescription": "How to Grow Herbs in a Window Box: A Complete Beginner's Guide — a free beginner-level guide covering how to grow herbs in a window box. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-11T22:11:41.347Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-knit-a-simple-beanie-for-beginners",
+      "title": "How to Knit a Simple Beanie for Beginners",
+      "goal": "How to knit a simple beanie for beginners",
+      "category": "crafts",
+      "tags": [
+        "knitting",
+        "hats",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12262,
+      "moduleCount": 8,
+      "readingTimeMins": 50,
+      "metaDescription": "How to Knit a Simple Beanie for Beginners — a free beginner-level guide covering how to knit a simple beanie for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-11T22:07:42.425Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-friendship-bracelet-for-beginners",
+      "title": "How to Make a Friendship Bracelet for Beginners",
+      "goal": "How to make a friendship bracelet",
+      "category": "crafts",
+      "tags": [
+        "jewelry",
+        "weaving",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19260,
+      "moduleCount": 8,
+      "readingTimeMins": 78,
+      "metaDescription": "How to Make a Friendship Bracelet for Beginners — a free beginner-level guide covering how to make a friendship bracelet. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-11T22:06:17.875Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-dog-house-a-stepbystep-guide-for-be",
+      "title": "How to Build a Dog House: A Step-by-Step Guide for Beginners",
+      "goal": "How to build a dog house from wood",
+      "category": "woodworking",
+      "tags": [
+        "pets",
+        "DIY",
+        "outdoor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18972,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Build a Dog House: A Step-by-Step Guide for Beginners — a free beginner-level guide covering how to build a dog house from wood. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-11T22:05:01.068Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-quilted-pillow-beginner-stepbystep-g",
+      "title": "How to Make a Quilted Pillow: Beginner Step-by-Step Guide",
+      "goal": "Learn to make a quilted pillow",
+      "category": "crafts",
+      "tags": [
+        "quilting",
+        "sewing",
+        "home decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26083,
+      "moduleCount": 11,
+      "readingTimeMins": 105,
+      "metaDescription": "How to Make a Quilted Pillow: Beginner Step-by-Step Guide — a free beginner-level guide covering learn to make a quilted pillow. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-11T22:00:54.570Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-mix-and-master-edm-tracks-like-a-pro",
       "title": "Learn to Mix and Master EDM Tracks Like a Pro",
       "goal": "Learn to mix and master EDM tracks",
@@ -29626,6 +29746,6 @@
       "edition": "street"
     }
   ],
-  "total": 1488,
-  "generatedAt": "2026-08-11T19:24:29.328Z"
+  "total": 1494,
+  "generatedAt": "2026-08-11T22:16:54.617Z"
 }
