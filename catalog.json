@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "learn-cubase-for-beginners-stepbystep-guide",
+      "title": "Learn Cubase for Beginners: Step-by-Step Guide",
+      "goal": "Learn to use Cubase for beginners",
+      "category": "music-production",
+      "tags": [
+        "cubase",
+        "daw",
+        "recording"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22512,
+      "moduleCount": 14,
+      "readingTimeMins": 91,
+      "metaDescription": "Learn Cubase for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn to use cubase for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T16:18:59.623Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-roast-coffee-beans-at-home-a-beginners-guid",
+      "title": "How to Roast Coffee Beans at Home: A Beginner's Guide",
+      "goal": "How to roast your own coffee beans at home",
+      "category": "culinary",
+      "tags": [
+        "coffee",
+        "roasting",
+        "beverages"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17234,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Roast Coffee Beans at Home: A Beginner's Guide — a free beginner-level guide covering how to roast your own coffee beans at home. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-11T16:16:36.702Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hydroponic-nutrient-management-for-profes",
+      "title": "Advanced Hydroponic Nutrient Management for Professional Growers",
+      "goal": "Advanced hydroponic nutrient management for growers",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "nutrients",
+        "farming"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13382,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Advanced Hydroponic Nutrient Management for Professional Growers — a free advanced-level guide covering advanced hydroponic nutrient management for...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-11T16:13:13.166Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-astronomical-photography",
+      "title": "Beginner's Guide to Astronomical Photography",
+      "goal": "Beginner's guide to astronomical photography",
+      "category": "photography",
+      "tags": [
+        "astrophotography",
+        "stars",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 42351,
+      "moduleCount": 15,
+      "readingTimeMins": 170,
+      "metaDescription": "Beginner's Guide to Astronomical Photography — a free beginner-level guide covering beginner's guide to astronomical photography. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-11T16:11:46.974Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-conversational-turkish-for-beginners-easy-sp",
       "title": "Learn Conversational Turkish for Beginners Easy Speaking",
       "goal": "Learn conversational Turkish for beginners",
@@ -29446,6 +29526,6 @@
       "edition": "street"
     }
   ],
-  "total": 1479,
-  "generatedAt": "2026-08-11T13:22:40.962Z"
+  "total": 1483,
+  "generatedAt": "2026-08-11T16:19:01.385Z"
 }
