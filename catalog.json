@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-do-a-split-beginner-stepbystep-guide",
+      "title": "How to Do a Split: Beginner Step-by-Step Guide",
+      "goal": "Learn to do a split for beginners",
+      "category": "fitness",
+      "tags": [
+        "stretching",
+        "flexibility",
+        "yoga"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18764,
+      "moduleCount": 9,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Do a Split: Beginner Step-by-Step Guide — a free beginner-level guide covering learn to do a split for beginners. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-11T04:39:44.644Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-tennis-strategies-for-competitive-match-p",
+      "title": "Advanced Tennis Strategies for Competitive Match Play",
+      "goal": "Advanced tennis strategies for competitive players",
+      "category": "sports",
+      "tags": [
+        "tennis",
+        "strategy",
+        "competition"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13088,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "Advanced Tennis Strategies for Competitive Match Play — a free advanced-level guide covering advanced tennis strategies for competitive players. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-11T04:38:04.243Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-seo-tactics-for-hightraffic-blog-growth",
+      "title": "Advanced SEO Tactics for High-Traffic Blog Growth",
+      "goal": "Advanced SEO for high traffic blogs",
+      "category": "marketing",
+      "tags": [
+        "SEO",
+        "traffic",
+        "google ranking"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32259,
+      "moduleCount": 13,
+      "readingTimeMins": 130,
+      "metaDescription": "Advanced SEO Tactics for High-Traffic Blog Growth — a free advanced-level guide covering advanced seo for high traffic blogs. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-11T04:37:00.958Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-an-organic-chicken-farm-beginners-gui",
+      "title": "How to Start an Organic Chicken Farm: Beginner's Guide",
+      "goal": "How to start an organic chicken farm",
+      "category": "homesteading",
+      "tags": [
+        "chickens",
+        "farming",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27286,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "How to Start an Organic Chicken Farm: Beginner's Guide — a free beginner-level guide covering how to start an organic chicken farm. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-11T04:31:54.267Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hiit-workouts-for-fat-loss-sciencebased-p",
+      "title": "Advanced HIIT Workouts for Fat Loss – Science-Based Protocols",
+      "goal": "Advanced HIIT workouts for fat loss",
+      "category": "fitness",
+      "tags": [
+        "HIIT",
+        "cardio",
+        "weight-loss"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 20306,
+      "moduleCount": 9,
+      "readingTimeMins": 82,
+      "metaDescription": "Advanced HIIT Workouts for Fat Loss – Science-Based Protocols — a free advanced-level guide covering advanced hiit workouts for fat loss. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-11T04:27:33.833Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-midi-sequencing-mastery-for-producers",
       "title": "Advanced MIDI Sequencing Mastery for Producers",
       "goal": "Advanced MIDI sequencing for music producers",
@@ -29146,6 +29246,6 @@
       "edition": "street"
     }
   ],
-  "total": 1464,
-  "generatedAt": "2026-08-11T02:19:01.710Z"
+  "total": 1469,
+  "generatedAt": "2026-08-11T04:39:46.973Z"
 }
