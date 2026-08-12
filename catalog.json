@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "advanced-vocal-mixing-techniques-for-professional",
+      "title": "Advanced Vocal Mixing Techniques for Professional Sound",
+      "goal": "Advanced mixing techniques for vocals",
+      "category": "music-production",
+      "tags": [
+        "mixing",
+        "vocals",
+        "audio engineering"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 21034,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Advanced Vocal Mixing Techniques for Professional Sound — a free advanced-level guide covering advanced mixing techniques for vocals. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506, zai-glm-4.7-flash",
+      "generatedAt": "2026-08-12T19:32:49.162Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-sump-pump-installation-and-basement-drain",
+      "title": "Advanced Sump Pump Installation and Basement Drainage",
+      "goal": "Advanced plumbing: How to install a sump pump",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "sump pump",
+        "basement"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13403,
+      "moduleCount": 8,
+      "readingTimeMins": 54,
+      "metaDescription": "Advanced Sump Pump Installation and Basement Drainage — a free advanced-level guide covering advanced plumbing: how to install a sump pump. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-12T19:29:28.556Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-properly-caulk-a-bathtub-stepbystep-guide-f",
+      "title": "How to Properly Caulk a Bathtub: Step-by-Step Guide for Beginners",
+      "goal": "How to caulk a bathtub properly",
+      "category": "trades",
+      "tags": [
+        "caulking",
+        "bathroom",
+        "sealant"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18875,
+      "moduleCount": 10,
+      "readingTimeMins": 76,
+      "metaDescription": "How to Properly Caulk a Bathtub: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to caulk a bathtub properly. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T19:28:24.377Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-finish-wood-with-oil-and-wax-a-beginners-gu",
+      "title": "How to Finish Wood with Oil and Wax: A Beginner's Guide",
+      "goal": "How to finish wood with oil and wax",
+      "category": "woodworking",
+      "tags": [
+        "finishing",
+        "staining",
+        "woodcare"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27515,
+      "moduleCount": 15,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Finish Wood with Oil and Wax: A Beginner's Guide — a free beginner-level guide covering how to finish wood with oil and wax. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T19:25:18.138Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-composting-techniques-for-large-gardens",
+      "title": "Advanced Composting Techniques for Large Gardens",
+      "goal": "Advanced composting techniques for large gardens",
+      "category": "gardening",
+      "tags": [
+        "composting",
+        "soil",
+        "organic"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28841,
+      "moduleCount": 11,
+      "readingTimeMins": 116,
+      "metaDescription": "Advanced Composting Techniques for Large Gardens — a free advanced-level guide covering advanced composting techniques for large gardens. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T19:21:56.928Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "quantum-physics-for-beginners-a-stepbystep-guide",
+      "title": "Quantum Physics for Beginners: A Step-by-Step Guide",
+      "goal": "Learn the basics of quantum physics for beginners",
+      "category": "science",
+      "tags": [
+        "quantum physics",
+        "science",
+        "basics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14701,
+      "moduleCount": 9,
+      "readingTimeMins": 59,
+      "metaDescription": "Quantum Physics for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn the basics of quantum physics for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-12T19:18:03.157Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-track-asteroids-a-beginners-practical-guide",
+      "title": "How to Track Asteroids: A Beginner's Practical Guide",
+      "goal": "How to track asteroids for beginners",
+      "category": "astronomy",
+      "tags": [
+        "asteroids",
+        "tracking",
+        "space"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 36133,
+      "moduleCount": 14,
+      "readingTimeMins": 145,
+      "metaDescription": "How to Track Asteroids: A Beginner's Practical Guide — a free intermediate-level guide covering how to track asteroids for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T19:16:53.348Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "black-holes-for-beginners-a-comprehensive-guide",
+      "title": "Black Holes for Beginners: A Comprehensive Guide",
+      "goal": "Learn about black holes for beginners",
+      "category": "astronomy",
+      "tags": [
+        "black holes",
+        "physics",
+        "space"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16285,
+      "moduleCount": 9,
+      "readingTimeMins": 66,
+      "metaDescription": "Black Holes for Beginners: A Comprehensive Guide — a free beginner-level guide covering learn about black holes for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T19:12:49.210Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-sushigrade-rice-for-beginners",
+      "title": "How to Make Sushi-Grade Rice for Beginners",
+      "goal": "Learn to make sushi grade rice for beginners",
+      "category": "culinary",
+      "tags": [
+        "rice",
+        "sushi",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17309,
+      "moduleCount": 8,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Make Sushi-Grade Rice for Beginners — a free beginner-level guide covering learn to make sushi grade rice for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T19:10:29.204Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-paint-a-fence-stepbystep-guide-for-beginner",
       "title": "How to Paint a Fence: Step-by-Step Guide for Beginners",
       "goal": "Learn how to paint a fence",
@@ -30426,6 +30606,6 @@
       "edition": "street"
     }
   ],
-  "total": 1528,
-  "generatedAt": "2026-08-12T16:04:09.120Z"
+  "total": 1537,
+  "generatedAt": "2026-08-12T19:32:51.246Z"
 }
