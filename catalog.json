@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-sell-on-etsy-for-beginners-stepbystep-guide",
+      "title": "How to Sell on Etsy for Beginners: Step-by-Step Guide",
+      "goal": "How to sell on Etsy for beginners",
+      "category": "business",
+      "tags": [
+        "etsy",
+        "ecommerce",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34784,
+      "moduleCount": 13,
+      "readingTimeMins": 140,
+      "metaDescription": "How to Sell on Etsy for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to sell on etsy for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-08-12T08:07:39.665Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-dungeons-dragons",
+      "title": "Beginner's Guide to Playing Dungeons & Dragons",
+      "goal": "How to play Dungeons and Dragons for beginners",
+      "category": "hobbies",
+      "tags": [
+        "dnd",
+        "tabletop games",
+        "rpg"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22686,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "Beginner's Guide to Playing Dungeons & Dragons — a free beginner-level guide covering how to play dungeons and dragons for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T08:00:11.187Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-muscle-up-complete-training-guide",
+      "title": "How to Do a Muscle Up: Complete Training Guide",
+      "goal": "Learn how to do a muscle up",
+      "category": "fitness",
+      "tags": [
+        "calisthenics",
+        "upper body",
+        "strength"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17286,
+      "moduleCount": 10,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Do a Muscle Up: Complete Training Guide — a free intermediate-level guide covering learn how to do a muscle up. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T07:57:56.663Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-color-grading-for-cinematic-videos-master",
+      "title": "Advanced Color Grading for Cinematic Videos: Mastering Professional Techniques",
+      "goal": "Advanced color grading for cinematic videos",
+      "category": "video-editing",
+      "tags": [
+        "cinematography",
+        "color grading",
+        "film"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 33636,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "Advanced Color Grading for Cinematic Videos: Mastering Professional Techniques — a free advanced-level guide covering advanced color grading for...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T07:53:40.597Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-raising-goats-for-milk",
+      "title": "Beginner's Guide to Raising Goats for Milk",
+      "goal": "Beginner's guide to raising goats for milk",
+      "category": "homesteading",
+      "tags": [
+        "livestock",
+        "dairy",
+        "farming"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18476,
+      "moduleCount": 9,
+      "readingTimeMins": 74,
+      "metaDescription": "Beginner's Guide to Raising Goats for Milk — a free beginner-level guide covering beginner's guide to raising goats for milk. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T07:49:36.429Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "multimeter-mastery-for-absolute-beginners-a-stepby",
+      "title": "Multimeter Mastery for Absolute Beginners: A Step-by-Step Guide",
+      "goal": "How to use a multimeter for beginners",
+      "category": "electronics",
+      "tags": [
+        "multimeter",
+        "electricity",
+        "testing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28762,
+      "moduleCount": 14,
+      "readingTimeMins": 116,
+      "metaDescription": "Multimeter Mastery for Absolute Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to use a multimeter for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T07:46:35.544Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-headstand-a-beginners-stepbystep-guide",
+      "title": "How to Do a Headstand: A Beginner's Step-by-Step Guide",
+      "goal": "How to do a headstand for beginners",
+      "category": "fitness",
+      "tags": [
+        "headstand",
+        "balance",
+        "strength"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15988,
+      "moduleCount": 9,
+      "readingTimeMins": 64,
+      "metaDescription": "How to Do a Headstand: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to do a headstand for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T07:43:55.200Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-basic-latin-a-comprehensive-beginners-guide",
       "title": "Learn Basic Latin: A Comprehensive Beginner's Guide",
       "goal": "How to learn basic Latin for beginners",
@@ -30006,6 +30146,6 @@
       "edition": "street"
     }
   ],
-  "total": 1507,
-  "generatedAt": "2026-08-12T05:19:21.819Z"
+  "total": 1514,
+  "generatedAt": "2026-08-12T08:07:43.345Z"
 }
