@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "learn-basic-latin-a-comprehensive-beginners-guide",
+      "title": "Learn Basic Latin: A Comprehensive Beginner's Guide",
+      "goal": "How to learn basic Latin for beginners",
+      "category": "language",
+      "tags": [
+        "latin",
+        "classical languages",
+        "grammar"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19186,
+      "moduleCount": 11,
+      "readingTimeMins": 77,
+      "metaDescription": "Learn Basic Latin: A Comprehensive Beginner's Guide — a free beginner-level guide covering how to learn basic latin for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T05:19:20.052Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hydroponics-mastery-for-maximum-yield",
+      "title": "Advanced Hydroponics Mastery for Maximum Yield",
+      "goal": "Advanced hydroponic gardening for maximum yield",
+      "category": "gardening",
+      "tags": [
+        "hydroponics",
+        "farming",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 18510,
+      "moduleCount": 10,
+      "readingTimeMins": 75,
+      "metaDescription": "Advanced Hydroponics Mastery for Maximum Yield — a free advanced-level guide covering advanced hydroponic gardening for maximum yield. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T05:15:12.979Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-leather-wallets-stepbystep-guide-for-b",
+      "title": "How to Make Leather Wallets: Step-by-Step Guide for Beginners",
+      "goal": "Learn to make leather wallets for beginners",
+      "category": "crafts",
+      "tags": [
+        "leather",
+        "accessories",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30483,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "How to Make Leather Wallets: Step-by-Step Guide for Beginners — a free beginner-level guide covering learn to make leather wallets for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T05:11:51.845Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-the-oud-a-complete-beginners-guide",
+      "title": "How to Play the Oud: A Complete Beginner's Guide",
+      "goal": "Learn to play the oud for beginners",
+      "category": "music",
+      "tags": [
+        "oud",
+        "arabic",
+        "strings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16863,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "How to Play the Oud: A Complete Beginner's Guide — a free beginner-level guide covering learn to play the oud for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T05:08:47.561Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-tortillas-beginner-stepbystep",
+      "title": "How to Make Homemade Tortillas: Beginner Step-by-Step Guide",
+      "goal": "How to make homemade tortillas for beginners",
+      "category": "culinary",
+      "tags": [
+        "tortillas",
+        "mexican",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18274,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Make Homemade Tortillas: Beginner Step-by-Step Guide — a free beginner-level guide covering how to make homemade tortillas for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T05:06:12.440Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-cauliflower-beginners-stepbystep-guide",
+      "title": "How to Grow Cauliflower: Beginner's Step-by-Step Guide",
+      "goal": "How to grow cauliflower for beginners",
+      "category": "gardening",
+      "tags": [
+        "cauliflower",
+        "vegetables",
+        "winter"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25018,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "How to Grow Cauliflower: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to grow cauliflower for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T05:04:32.696Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-homemade-pretzels-a-beginners-stepbyst",
+      "title": "How to Make Homemade Pretzels: A Beginner's Step-by-Step Guide",
+      "goal": "How to make homemade pretzels for beginners",
+      "category": "culinary",
+      "tags": [
+        "pretzels",
+        "baking",
+        "snacks"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15398,
+      "moduleCount": 8,
+      "readingTimeMins": 62,
+      "metaDescription": "How to Make Homemade Pretzels: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make homemade pretzels for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T05:01:16.857Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-grapes-a-beginners-stepbystep-guide",
+      "title": "How to Grow Grapes: A Beginner's Step-by-Step Guide",
+      "goal": "How to grow grapes for beginners",
+      "category": "gardening",
+      "tags": [
+        "grapes",
+        "vineyard",
+        "fruit"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26687,
+      "moduleCount": 14,
+      "readingTimeMins": 107,
+      "metaDescription": "How to Grow Grapes: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to grow grapes for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T04:59:41.948Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-bake-cinnamon-rolls-a-beginners-stepbystep",
+      "title": "How to Bake Cinnamon Rolls: A Beginner's Step-by-Step Guide",
+      "goal": "How to bake cinnamon rolls for beginners",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "cinnamon rolls",
+        "dessert"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16143,
+      "moduleCount": 8,
+      "readingTimeMins": 65,
+      "metaDescription": "How to Bake Cinnamon Rolls: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to bake cinnamon rolls for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T04:56:39.971Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-read-nutrition-labels-a-beginners-guide",
       "title": "How to Read Nutrition Labels: A Beginner's Guide",
       "goal": "How to read a nutrition label for beginners",
@@ -29826,6 +30006,6 @@
       "edition": "street"
     }
   ],
-  "total": 1498,
-  "generatedAt": "2026-08-12T02:26:53.862Z"
+  "total": 1507,
+  "generatedAt": "2026-08-12T05:19:21.819Z"
 }
