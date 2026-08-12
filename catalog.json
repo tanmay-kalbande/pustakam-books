@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-read-nutrition-labels-a-beginners-guide",
+      "title": "How to Read Nutrition Labels: A Beginner's Guide",
+      "goal": "How to read a nutrition label for beginners",
+      "category": "health",
+      "tags": [
+        "nutrition",
+        "diet",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17235,
+      "moduleCount": 11,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Read Nutrition Labels: A Beginner's Guide — a free beginner-level guide covering how to read a nutrition label for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-12T02:26:51.625Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-python-projects-for-portfolio-buildin",
+      "title": "Intermediate Python Projects for Portfolio Building",
+      "goal": "Intermediate Python projects for portfolio building",
+      "category": "programming",
+      "tags": [
+        "python",
+        "coding",
+        "portfolio"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 32485,
+      "moduleCount": 14,
+      "readingTimeMins": 130,
+      "metaDescription": "Intermediate Python Projects for Portfolio Building — a free intermediate-level guide covering intermediate python projects for portfolio building....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T02:25:11.199Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-studio-lighting-for-professional-portrait",
+      "title": "Advanced Studio Lighting for Professional Portraiture",
+      "goal": "Advanced photography lighting for studio portraits",
+      "category": "photography",
+      "tags": [
+        "lighting",
+        "studio",
+        "portraits"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12822,
+      "moduleCount": 7,
+      "readingTimeMins": 52,
+      "metaDescription": "Advanced Studio Lighting for Professional Portraiture — a free advanced-level guide covering advanced photography lighting for studio portraits. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T02:20:26.288Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-perfect-macaroons",
+      "title": "Beginner's Guide to Perfect Macaroons",
+      "goal": "How to make macaroons for beginners",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "pastry",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22084,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "Beginner's Guide to Perfect Macaroons — a free beginner-level guide covering how to make macaroons for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T02:18:45.555Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-clothing-line-beginners-stepbystep",
       "title": "How to Start a Clothing Line: Beginner's Step-by-Step Guide",
       "goal": "How to start a clothing line for beginners",
@@ -29746,6 +29826,6 @@
       "edition": "street"
     }
   ],
-  "total": 1494,
-  "generatedAt": "2026-08-11T22:16:54.617Z"
+  "total": 1498,
+  "generatedAt": "2026-08-12T02:26:53.862Z"
 }
