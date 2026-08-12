@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "learn-hungarian-fast-complete-beginner-course",
+      "title": "Learn Hungarian Fast: Complete Beginner Course",
+      "goal": "How to learn Hungarian for beginners",
+      "category": "language",
+      "tags": [
+        "hungarian",
+        "language learning",
+        "europe"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27708,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "Learn Hungarian Fast: Complete Beginner Course — a free beginner-level guide covering how to learn hungarian for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T10:28:22.908Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "ableton-push-for-beginners-stepbystep-guide-to-mak",
+      "title": "Ableton Push for Beginners: Step-by-Step Guide to Making Music",
+      "goal": "How to use Ableton Push for beginners",
+      "category": "music-production",
+      "tags": [
+        "ableton push",
+        "controller",
+        "live performance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28009,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "Ableton Push for Beginners: Step-by-Step Guide to Making Music — a free beginner-level guide covering how to use ableton push for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T10:24:33.708Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "synthesizer-basics-a-beginners-guide-to-sound-desi",
+      "title": "Synthesizer Basics: A Beginner's Guide to Sound Design",
+      "goal": "Learn to use a synthesizer for beginners",
+      "category": "music-production",
+      "tags": [
+        "synth",
+        "sound design",
+        "electronic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16092,
+      "moduleCount": 7,
+      "readingTimeMins": 65,
+      "metaDescription": "Synthesizer Basics: A Beginner's Guide to Sound Design — a free beginner-level guide covering learn to use a synthesizer for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T10:21:42.601Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "handmade-soap-making-for-beginners-a-complete-guid",
+      "title": "Handmade Soap Making for Beginners: A Complete Guide",
+      "goal": "Learn to make handmade soap for beginners",
+      "category": "crafts",
+      "tags": [
+        "soap making",
+        "DIY",
+        "skincare"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13854,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "Handmade Soap Making for Beginners: A Complete Guide — a free beginner-level guide covering learn to make handmade soap for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-12T10:18:14.294Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "treating-anxiety-with-cognitive-behavioral-therapy",
+      "title": "Treating Anxiety with Cognitive Behavioral Therapy: A Practical Guide",
+      "goal": "How to treat anxiety with cognitive behavioral therapy",
+      "category": "wellness",
+      "tags": [
+        "cbt",
+        "anxiety",
+        "mental health"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19833,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "Treating Anxiety with Cognitive Behavioral Therapy: A Practical Guide — a free intermediate-level guide covering how to treat anxiety with cognitive...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T10:17:35.205Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-sell-on-etsy-for-beginners-stepbystep-guide",
       "title": "How to Sell on Etsy for Beginners: Step-by-Step Guide",
       "goal": "How to sell on Etsy for beginners",
@@ -30146,6 +30246,6 @@
       "edition": "street"
     }
   ],
-  "total": 1514,
-  "generatedAt": "2026-08-12T08:07:43.345Z"
+  "total": 1519,
+  "generatedAt": "2026-08-12T10:29:50.171Z"
 }
