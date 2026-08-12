@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "how-to-host-on-airbnb-complete-guide-for-new-hosts",
+      "title": "How to Host on Airbnb: Complete Guide for New Hosts",
+      "goal": "Learn how to use Airbnb for hosts",
+      "category": "business",
+      "tags": [
+        "airbnb",
+        "hosting",
+        "rental"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25490,
+      "moduleCount": 10,
+      "readingTimeMins": 102,
+      "metaDescription": "How to Host on Airbnb: Complete Guide for New Hosts — a free intermediate-level guide covering learn how to use airbnb for hosts. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T22:14:07.449Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-scuba-dive-for-beginners-a-stepbystep-gui",
+      "title": "Learn to Scuba Dive for Beginners: A Step-by-Step Guide",
+      "goal": "Learn to scuba dive for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "scuba diving",
+        "diving",
+        "ocean"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25146,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "Learn to Scuba Dive for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn to scuba dive for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T22:12:03.798Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-perfect-pushup-stepbystep-guide",
+      "title": "How to Do a Perfect Push‑up: Step‑by‑Step Guide",
+      "goal": "How to do a pushup with perfect form",
+      "category": "fitness",
+      "tags": [
+        "strength",
+        "pushups",
+        "workout"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22781,
+      "moduleCount": 11,
+      "readingTimeMins": 92,
+      "metaDescription": "How to Do a Perfect Push‑up: Step‑by‑Step Guide — a free beginner-level guide covering how to do a pushup with perfect form. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T22:09:11.966Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-train-your-dog-to-sit-and-stay-stepbystep-g",
+      "title": "How to Train Your Dog to Sit and Stay: Step-by-Step Guide",
+      "goal": "How to train a dog to sit and stay",
+      "category": "pets",
+      "tags": [
+        "dog-training",
+        "puppy",
+        "behavior"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24493,
+      "moduleCount": 14,
+      "readingTimeMins": 98,
+      "metaDescription": "How to Train Your Dog to Sit and Stay: Step-by-Step Guide — a free beginner-level guide covering how to train a dog to sit and stay. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T22:05:42.848Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "photoshop-basics-for-absolute-beginners-stepbystep",
+      "title": "Photoshop Basics for Absolute Beginners: Step-by-Step Guide",
+      "goal": "Learn to use Photoshop for absolute beginners",
+      "category": "software-tools",
+      "tags": [
+        "photoshop",
+        "editing",
+        "design"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21249,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "Photoshop Basics for Absolute Beginners: Step-by-Step Guide — a free beginner-level guide covering learn to use photoshop for absolute beginners. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T22:02:16.051Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-skincare-business-for-beginners",
+      "title": "How to Start a Skincare Business for Beginners",
+      "goal": "How to start a skincare business for beginners",
+      "category": "business",
+      "tags": [
+        "beauty",
+        "startup",
+        "entrepreneur"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30532,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "How to Start a Skincare Business for Beginners — a free beginner-level guide covering how to start a skincare business for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T22:00:06.108Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-paint-with-acrylics-a-beginners-roadmap",
+      "title": "Learn to Paint with Acrylics: A Beginner's Roadmap",
+      "goal": "Learn to paint with acrylics for beginners",
+      "category": "painting",
+      "tags": [
+        "acrylics",
+        "canvas",
+        "painting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19219,
+      "moduleCount": 8,
+      "readingTimeMins": 77,
+      "metaDescription": "Learn to Paint with Acrylics: A Beginner's Roadmap — a free beginner-level guide covering learn to paint with acrylics for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T21:55:26.750Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-vocal-mixing-techniques-for-professional",
       "title": "Advanced Vocal Mixing Techniques for Professional Sound",
       "goal": "Advanced mixing techniques for vocals",
@@ -30606,6 +30746,6 @@
       "edition": "street"
     }
   ],
-  "total": 1537,
-  "generatedAt": "2026-08-12T19:32:51.246Z"
+  "total": 1544,
+  "generatedAt": "2026-08-12T22:14:09.699Z"
 }
