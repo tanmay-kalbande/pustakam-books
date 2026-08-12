@@ -1,6 +1,186 @@
 {
   "books": [
     {
+      "slug": "how-to-paint-a-fence-stepbystep-guide-for-beginner",
+      "title": "How to Paint a Fence: Step-by-Step Guide for Beginners",
+      "goal": "Learn how to paint a fence",
+      "category": "home-improvement",
+      "tags": [
+        "painting",
+        "outdoor",
+        "fence"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23060,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "How to Paint a Fence: Step-by-Step Guide for Beginners — a free beginner-level guide covering learn how to paint a fence. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-12T13:53:11.023Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-dishwasher-repair-handson-troubleshoo",
+      "title": "Intermediate Dishwasher Repair: Hands-On Troubleshooting Guide",
+      "goal": "Intermediate guide to repairing a dishwasher",
+      "category": "trades",
+      "tags": [
+        "appliances",
+        "repair",
+        "plumbing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23511,
+      "moduleCount": 13,
+      "readingTimeMins": 95,
+      "metaDescription": "Intermediate Dishwasher Repair: Hands-On Troubleshooting Guide — a free intermediate-level guide covering intermediate guide to repairing a dishwasher....",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T13:49:31.576Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-computer-desk-from-scratch-for-begi",
+      "title": "How to Build a Computer Desk from Scratch for Beginners",
+      "goal": "How to build a computer desk from scratch",
+      "category": "woodworking",
+      "tags": [
+        "furniture",
+        "DIY",
+        "desk"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31136,
+      "moduleCount": 13,
+      "readingTimeMins": 125,
+      "metaDescription": "How to Build a Computer Desk from Scratch for Beginners — a free beginner-level guide covering how to build a computer desk from scratch. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-12T13:45:47.326Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "architectural-photography-for-beginners-a-complete",
+      "title": "Architectural Photography for Beginners: A Complete Guide",
+      "goal": "How to do architectural photography for beginners",
+      "category": "photography",
+      "tags": [
+        "architecture",
+        "buildings",
+        "composition"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22290,
+      "moduleCount": 8,
+      "readingTimeMins": 90,
+      "metaDescription": "Architectural Photography for Beginners: A Complete Guide — a free beginner-level guide covering how to do architectural photography for beginners....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-12T13:43:16.249Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-an-academic-essay-beginners-guide",
+      "title": "How to Write an Academic Essay: Beginner's Guide",
+      "goal": "Learn to write an academic essay for beginners",
+      "category": "writing",
+      "tags": [
+        "academic writing",
+        "essays",
+        "students"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21179,
+      "moduleCount": 9,
+      "readingTimeMins": 85,
+      "metaDescription": "How to Write an Academic Essay: Beginner's Guide — a free beginner-level guide covering learn to write an academic essay for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T13:39:14.744Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "wildlife-photography-for-beginners-a-complete-guid",
+      "title": "Wildlife Photography for Beginners: A Complete Guide",
+      "goal": "How to do wildlife photography for beginners",
+      "category": "photography",
+      "tags": [
+        "wildlife",
+        "animals",
+        "nature"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33704,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "Wildlife Photography for Beginners: A Complete Guide — a free beginner-level guide covering how to do wildlife photography for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T13:37:55.058Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "fashion-photography-for-beginners-stepbystep-guide",
+      "title": "Fashion Photography for Beginners: Step-by-Step Guide",
+      "goal": "How to do fashion photography for beginners",
+      "category": "photography",
+      "tags": [
+        "fashion",
+        "models",
+        "studio lighting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34085,
+      "moduleCount": 13,
+      "readingTimeMins": 137,
+      "metaDescription": "Fashion Photography for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to do fashion photography for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-12T13:28:17.296Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-a-technical-manual-stepbystep-guide-f",
+      "title": "How to Write a Technical Manual: Step-by-Step Guide for Beginners",
+      "goal": "Learn to write a technical manual for beginners",
+      "category": "writing",
+      "tags": [
+        "technical writing",
+        "documentation",
+        "guides"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 21545,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Write a Technical Manual: Step-by-Step Guide for Beginners — a free intermediate-level guide covering learn to write a technical manual for...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-12T13:23:23.279Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "succulents-for-beginners-a-complete-guide-to-growi",
+      "title": "Succulents for Beginners: A Complete Guide to Growing",
+      "goal": "How to grow succulents for beginners",
+      "category": "gardening",
+      "tags": [
+        "succulents",
+        "cacti",
+        "indoor plants"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17472,
+      "moduleCount": 11,
+      "readingTimeMins": 70,
+      "metaDescription": "Succulents for Beginners: A Complete Guide to Growing — a free beginner-level guide covering how to grow succulents for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-12T13:21:27.298Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-hungarian-fast-complete-beginner-course",
       "title": "Learn Hungarian Fast: Complete Beginner Course",
       "goal": "How to learn Hungarian for beginners",
@@ -30246,6 +30426,6 @@
       "edition": "street"
     }
   ],
-  "total": 1519,
-  "generatedAt": "2026-08-12T10:29:50.171Z"
+  "total": 1528,
+  "generatedAt": "2026-08-12T13:53:14.955Z"
 }
