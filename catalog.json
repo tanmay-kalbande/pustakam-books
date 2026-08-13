@@ -1,6 +1,146 @@
 {
   "books": [
     {
+      "slug": "gymnastics-for-beginners-a-stepbystep-guide",
+      "title": "Gymnastics for Beginners: A Step-by-Step Guide",
+      "goal": "Learn basic gymnastics for beginners",
+      "category": "sports",
+      "tags": [
+        "gymnastics",
+        "flexibility",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15813,
+      "moduleCount": 8,
+      "readingTimeMins": 64,
+      "metaDescription": "Gymnastics for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn basic gymnastics for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T19:30:39.702Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-digital-stickers-for-beginners-stepbys",
+      "title": "How to Make Digital Stickers for Beginners: Step-by-Step Guide",
+      "goal": "How to make digital stickers for beginners",
+      "category": "digital-art",
+      "tags": [
+        "stickers",
+        "digital art",
+        "illustration"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31289,
+      "moduleCount": 13,
+      "readingTimeMins": 126,
+      "metaDescription": "How to Make Digital Stickers for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to make digital stickers for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T19:27:27.817Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-drums-and-percussion-techniques-mastercla",
+      "title": "Advanced Drums and Percussion Techniques Masterclass",
+      "goal": "Advanced drums and percussion techniques",
+      "category": "music",
+      "tags": [
+        "drums",
+        "percussion",
+        "rhythm"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12793,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Advanced Drums and Percussion Techniques Masterclass — a free advanced-level guide covering advanced drums and percussion techniques. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T19:23:11.319Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-volleyball-techniques-and-drills",
+      "title": "Intermediate Volleyball Techniques and Drills",
+      "goal": "Intermediate volleyball techniques and drills",
+      "category": "sports",
+      "tags": [
+        "volleyball",
+        "team",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20501,
+      "moduleCount": 8,
+      "readingTimeMins": 83,
+      "metaDescription": "Intermediate Volleyball Techniques and Drills — a free intermediate-level guide covering intermediate volleyball techniques and drills. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T19:22:06.381Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-advanced-piano-compositions-performance-tec",
+      "title": "Master Advanced Piano Compositions & Performance Techniques",
+      "goal": "Advanced piano compositions and performance",
+      "category": "music",
+      "tags": [
+        "piano",
+        "classical",
+        "performance"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 29269,
+      "moduleCount": 13,
+      "readingTimeMins": 118,
+      "metaDescription": "Master Advanced Piano Compositions & Performance Techniques — a free advanced-level guide covering advanced piano compositions and performance. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T19:17:46.772Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-embroidery-and-advanced-stitching-pat",
+      "title": "Intermediate Embroidery and Advanced Stitching Patterns",
+      "goal": "Intermediate embroidery and stitching patterns",
+      "category": "crafts",
+      "tags": [
+        "embroidery",
+        "needlework",
+        "art"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12138,
+      "moduleCount": 7,
+      "readingTimeMins": 49,
+      "metaDescription": "Intermediate Embroidery and Advanced Stitching Patterns — a free intermediate-level guide covering intermediate embroidery and stitching patterns....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T19:13:54.329Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-plumbing-for-bathroom-renovations",
+      "title": "Advanced Plumbing for Bathroom Renovations",
+      "goal": "Advanced plumbing for bathroom renovations",
+      "category": "trades",
+      "tags": [
+        "plumbing",
+        "renovation",
+        "bathroom"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 28106,
+      "moduleCount": 11,
+      "readingTimeMins": 113,
+      "metaDescription": "Advanced Plumbing for Bathroom Renovations — a free advanced-level guide covering advanced plumbing for bathroom renovations. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-13T19:11:59.024Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-water-ski-beginners-stepbystep-guide",
       "title": "Learn to Water Ski: Beginner's Step-by-Step Guide",
       "goal": "Learn to ski water for beginners",
@@ -31286,6 +31426,6 @@
       "edition": "street"
     }
   ],
-  "total": 1571,
-  "generatedAt": "2026-08-13T16:17:49.955Z"
+  "total": 1578,
+  "generatedAt": "2026-08-13T19:30:42.124Z"
 }
