@@ -1,6 +1,166 @@
 {
   "books": [
     {
+      "slug": "intermediate-crochet-baby-clothes-patterns-and-tec",
+      "title": "Intermediate Crochet Baby Clothes: Patterns and Techniques",
+      "goal": "Intermediate crochet patterns for baby clothes",
+      "category": "crochet",
+      "tags": [
+        "crochet",
+        "baby clothes",
+        "patterns"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 11426,
+      "moduleCount": 7,
+      "readingTimeMins": 46,
+      "metaDescription": "Intermediate Crochet Baby Clothes: Patterns and Techniques — a free intermediate-level guide covering intermediate crochet patterns for baby clothes....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T13:59:35.080Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-conversational-arabic-for-beginners-stepbyst",
+      "title": "Learn Conversational Arabic for Beginners: Step-by-Step Guide",
+      "goal": "Learn conversational Arabic for beginners",
+      "category": "language",
+      "tags": [
+        "arabic",
+        "speaking",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29751,
+      "moduleCount": 14,
+      "readingTimeMins": 120,
+      "metaDescription": "Learn Conversational Arabic for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn conversational arabic for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T13:57:59.952Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-intermediate-glaze-application-and-firin",
+      "title": "Mastering Intermediate Glaze Application and Firing Techniques",
+      "goal": "Intermediate glaze application and firing methods",
+      "category": "pottery",
+      "tags": [
+        "glazing",
+        "kiln",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22472,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "Mastering Intermediate Glaze Application and Firing Techniques — a free intermediate-level guide covering intermediate glaze application and firing...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T13:49:48.433Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-tie-macram-plant-hangers-beginner-guide",
+      "title": "How to Tie Macramé Plant Hangers: Beginner Guide",
+      "goal": "How to tie macrame plant hangers for beginners",
+      "category": "crafts",
+      "tags": [
+        "macrame",
+        "knots",
+        "decor"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18384,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Tie Macramé Plant Hangers: Beginner Guide — a free beginner-level guide covering how to tie macrame plant hangers for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T13:45:53.939Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-crochet-lace-pattern-design-mastery",
+      "title": "Advanced Crochet Lace & Pattern Design Mastery",
+      "goal": "Advanced crochet lace and pattern design",
+      "category": "crochet",
+      "tags": [
+        "lace",
+        "design",
+        "patterns"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 24422,
+      "moduleCount": 13,
+      "readingTimeMins": 98,
+      "metaDescription": "Advanced Crochet Lace & Pattern Design Mastery — a free advanced-level guide covering advanced crochet lace and pattern design. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T13:42:13.436Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-troubleshoot-a-cars-electrical-system-stepb",
+      "title": "How to Troubleshoot a Car's Electrical System Step-by-Step",
+      "goal": "How to troubleshoot a car's electrical system",
+      "category": "mechanics",
+      "tags": [
+        "electrical",
+        "diagnostics",
+        "wiring"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 33813,
+      "moduleCount": 14,
+      "readingTimeMins": 136,
+      "metaDescription": "How to Troubleshoot a Car's Electrical System Step-by-Step — a free intermediate-level guide covering how to troubleshoot a car's electrical system....",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-08-13T13:38:39.532Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-brake-rotor-resurfacing-and-installat",
+      "title": "Intermediate Brake Rotor Resurfacing and Installation Guide",
+      "goal": "Intermediate brake rotor resurfacing and installation",
+      "category": "mechanics",
+      "tags": [
+        "brakes",
+        "rotors",
+        "repair"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24298,
+      "moduleCount": 13,
+      "readingTimeMins": 98,
+      "metaDescription": "Intermediate Brake Rotor Resurfacing and Installation Guide — a free intermediate-level guide covering intermediate brake rotor resurfacing and...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T13:31:09.410Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-chatgpt-for-productivity-a-beginners-ro",
+      "title": "How to Use ChatGPT for Productivity: A Beginner's Roadmap",
+      "goal": "How to use ChatGPT for productivity",
+      "category": "technology",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "efficiency"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24203,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Use ChatGPT for Productivity: A Beginner's Roadmap — a free beginner-level guide covering how to use chatgpt for productivity. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T13:26:23.764Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-do-a-backflip-for-beginners-stepbystep-guid",
       "title": "How to Do a Backflip for Beginners - Step-by-Step Guide",
       "goal": "How to do a backflip for beginners",
@@ -31066,6 +31226,6 @@
       "edition": "street"
     }
   ],
-  "total": 1560,
-  "generatedAt": "2026-08-13T10:29:55.609Z"
+  "total": 1568,
+  "generatedAt": "2026-08-13T13:59:37.438Z"
 }
