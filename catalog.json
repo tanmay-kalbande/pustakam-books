@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "learn-to-use-slack-for-business-a-beginners-guide",
+      "title": "Learn to Use Slack for Business: A Beginner's Guide",
+      "goal": "Learn to use Slack for business",
+      "category": "software-tools",
+      "tags": [
+        "slack",
+        "communication",
+        "teamwork"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24422,
+      "moduleCount": 14,
+      "readingTimeMins": 98,
+      "metaDescription": "Learn to Use Slack for Business: A Beginner's Guide — a free beginner-level guide covering learn to use slack for business. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T02:27:11.027Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-custom-leather-sandals-a-professional",
+      "title": "How to Make Custom Leather Sandals: A Professional Guide",
+      "goal": "Learn to make leather sandals",
+      "category": "leatherworking",
+      "tags": [
+        "footwear",
+        "leather",
+        "crafts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 12062,
+      "moduleCount": 8,
+      "readingTimeMins": 49,
+      "metaDescription": "How to Make Custom Leather Sandals: A Professional Guide — a free intermediate-level guide covering learn to make leather sandals. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T02:23:36.815Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-dressmaking-pattern-drafting-mastery",
+      "title": "Advanced Dressmaking & Pattern Drafting Mastery",
+      "goal": "Advanced dressmaking and pattern drafting",
+      "category": "sewing",
+      "tags": [
+        "fashion",
+        "patterns",
+        "tailoring"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 37928,
+      "moduleCount": 15,
+      "readingTimeMins": 152,
+      "metaDescription": "Advanced Dressmaking & Pattern Drafting Mastery — a free advanced-level guide covering advanced dressmaking and pattern drafting. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T02:22:05.034Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-perfect-pushups-stepbystep",
+      "title": "Beginner's Guide to Perfect Push-Ups: Step-by-Step",
+      "goal": "How to do a pushup for absolute beginners",
+      "category": "fitness",
+      "tags": [
+        "pushups",
+        "strength",
+        "exercise"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16791,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "Beginner's Guide to Perfect Push-Ups: Step-by-Step — a free beginner-level guide covering how to do a pushup for absolute beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T02:18:00.813Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-host-on-airbnb-complete-guide-for-new-hosts",
       "title": "How to Host on Airbnb: Complete Guide for New Hosts",
       "goal": "Learn how to use Airbnb for hosts",
@@ -30746,6 +30826,6 @@
       "edition": "street"
     }
   ],
-  "total": 1544,
-  "generatedAt": "2026-08-12T22:14:09.699Z"
+  "total": 1548,
+  "generatedAt": "2026-08-13T02:27:13.287Z"
 }
