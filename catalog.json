@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-make-beaded-bracelets-a-beginners-stepbyste",
+      "title": "How to Make Beaded Bracelets: A Beginner's Step-by-Step Guide",
+      "goal": "How to make beaded bracelets for beginners",
+      "category": "crafts",
+      "tags": [
+        "beading",
+        "jewelry",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22490,
+      "moduleCount": 10,
+      "readingTimeMins": 90,
+      "metaDescription": "How to Make Beaded Bracelets: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make beaded bracelets for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-13T07:50:34.661Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-safe-wooden-toys-for-kids-beginner-gui",
+      "title": "How to Make Safe Wooden Toys for Kids – Beginner Guide",
+      "goal": "Learn to make wooden toys for kids",
+      "category": "woodworking",
+      "tags": [
+        "toys",
+        "kids",
+        "crafts"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24039,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Make Safe Wooden Toys for Kids – Beginner Guide — a free beginner-level guide covering learn to make wooden toys for kids. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T07:49:14.033Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grill-the-perfect-steak-a-beginners-guide",
+      "title": "How to Grill the Perfect Steak: A Beginner's Guide",
+      "goal": "Learn to grill steaks for beginners",
+      "category": "culinary",
+      "tags": [
+        "grilling",
+        "steak",
+        "bbq"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 14300,
+      "moduleCount": 9,
+      "readingTimeMins": 58,
+      "metaDescription": "How to Grill the Perfect Steak: A Beginner's Guide — a free beginner-level guide covering learn to grill steaks for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T07:44:56.766Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-traditional-ramen-from-scratch",
+      "title": "How to Make Traditional Ramen from Scratch",
+      "goal": "How to make traditional ramen from scratch",
+      "category": "culinary",
+      "tags": [
+        "ramen",
+        "japanese",
+        "noodles"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 20656,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Make Traditional Ramen from Scratch — a free intermediate-level guide covering how to make traditional ramen from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-13T07:43:51.568Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-paint-with-oils-beginner-stepbystep-guide",
       "title": "How to Paint with Oils: Beginner Step-by-Step Guide",
       "goal": "Learn to paint with oils for beginners",
@@ -30866,6 +30946,6 @@
       "edition": "street"
     }
   ],
-  "total": 1550,
-  "generatedAt": "2026-08-13T05:01:19.285Z"
+  "total": 1554,
+  "generatedAt": "2026-08-13T07:50:36.919Z"
 }
