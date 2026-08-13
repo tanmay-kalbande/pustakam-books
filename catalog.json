@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-do-a-backflip-for-beginners-stepbystep-guid",
+      "title": "How to Do a Backflip for Beginners - Step-by-Step Guide",
+      "goal": "How to do a backflip for beginners",
+      "category": "fitness",
+      "tags": [
+        "acrobatics",
+        "gymnastics",
+        "flip"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18371,
+      "moduleCount": 12,
+      "readingTimeMins": 74,
+      "metaDescription": "How to Do a Backflip for Beginners - Step-by-Step Guide — a free intermediate-level guide covering how to do a backflip for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T10:29:53.301Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-mastering-pullups",
+      "title": "Beginner's Guide to Mastering Pull-Ups",
+      "goal": "How to do a pull up for beginners",
+      "category": "fitness",
+      "tags": [
+        "strength",
+        "upper body",
+        "gym"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25329,
+      "moduleCount": 12,
+      "readingTimeMins": 102,
+      "metaDescription": "Beginner's Guide to Mastering Pull-Ups — a free beginner-level guide covering how to do a pull up for beginners. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T10:27:55.822Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "kontakt-for-beginners-a-complete-stepbystep-guide",
+      "title": "Kontakt for Beginners: A Complete Step-by-Step Guide",
+      "goal": "How to use Kontakt for beginners",
+      "category": "music-production",
+      "tags": [
+        "kontakt",
+        "sampling",
+        "VST"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13646,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "Kontakt for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering how to use kontakt for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T10:24:42.686Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-soccer-tactical-analysis-mastery-for-coac",
+      "title": "Advanced Soccer Tactical Analysis Mastery for Coaches",
+      "goal": "Advanced soccer tactical analysis for coaches",
+      "category": "sports",
+      "tags": [
+        "soccer",
+        "tactics",
+        "coaching"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32219,
+      "moduleCount": 13,
+      "readingTimeMins": 129,
+      "metaDescription": "Advanced Soccer Tactical Analysis Mastery for Coaches — a free advanced-level guide covering advanced soccer tactical analysis for coaches. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T10:23:27.115Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-badminton-techniques-and-drills-guide",
+      "title": "Intermediate Badminton Techniques and Drills Guide",
+      "goal": "Intermediate badminton techniques and drills",
+      "category": "sports",
+      "tags": [
+        "badminton",
+        "racket",
+        "training"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 15250,
+      "moduleCount": 9,
+      "readingTimeMins": 61,
+      "metaDescription": "Intermediate Badminton Techniques and Drills Guide — a free intermediate-level guide covering intermediate badminton techniques and drills. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T10:19:14.999Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-beef-wellington-from-scratch",
+      "title": "Mastering Beef Wellington from Scratch",
+      "goal": "How to make a beef Wellington from scratch",
+      "category": "culinary",
+      "tags": [
+        "gourmet",
+        "beef",
+        "dinner"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23350,
+      "moduleCount": 10,
+      "readingTimeMins": 94,
+      "metaDescription": "Mastering Beef Wellington from Scratch — a free advanced-level guide covering how to make a beef wellington from scratch. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-13T10:17:25.839Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-beaded-bracelets-a-beginners-stepbyste",
       "title": "How to Make Beaded Bracelets: A Beginner's Step-by-Step Guide",
       "goal": "How to make beaded bracelets for beginners",
@@ -30946,6 +31066,6 @@
       "edition": "street"
     }
   ],
-  "total": 1554,
-  "generatedAt": "2026-08-13T07:50:36.919Z"
+  "total": 1560,
+  "generatedAt": "2026-08-13T10:29:55.609Z"
 }
