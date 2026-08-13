@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "learn-to-water-ski-beginners-stepbystep-guide",
+      "title": "Learn to Water Ski: Beginner's Step-by-Step Guide",
+      "goal": "Learn to ski water for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "waterskiing",
+        "water sports",
+        "summer"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35913,
+      "moduleCount": 14,
+      "readingTimeMins": 144,
+      "metaDescription": "Learn to Water Ski: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to ski water for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T16:17:47.663Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "clay-sculpting-for-beginners-a-stepbystep-guide",
+      "title": "Clay Sculpting for Beginners: A Step-by-Step Guide",
+      "goal": "How to make a clay sculpture for beginners",
+      "category": "pottery",
+      "tags": [
+        "sculpting",
+        "clay",
+        "art"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17177,
+      "moduleCount": 10,
+      "readingTimeMins": 69,
+      "metaDescription": "Clay Sculpting for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to make a clay sculpture for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-13T16:13:36.787Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-authentic-macarons-beginners-stepbyste",
+      "title": "How to Make Authentic Macarons: Beginner's Step-by-Step Guide",
+      "goal": "How to make authentic macarons for beginners",
+      "category": "culinary",
+      "tags": [
+        "french pastry",
+        "baking",
+        "dessert"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25828,
+      "moduleCount": 12,
+      "readingTimeMins": 104,
+      "metaDescription": "How to Make Authentic Macarons: Beginner's Step-by-Step Guide — a free intermediate-level guide covering how to make authentic macarons for beginners....",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T16:11:27.938Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-crochet-baby-clothes-patterns-and-tec",
       "title": "Intermediate Crochet Baby Clothes: Patterns and Techniques",
       "goal": "Intermediate crochet patterns for baby clothes",
@@ -31226,6 +31286,6 @@
       "edition": "street"
     }
   ],
-  "total": 1568,
-  "generatedAt": "2026-08-13T13:59:37.438Z"
+  "total": 1571,
+  "generatedAt": "2026-08-13T16:17:49.955Z"
 }
