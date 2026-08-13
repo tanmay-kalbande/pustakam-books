@@ -1,6 +1,126 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-moneymaking-blog-stepbystep-guide-f",
+      "title": "How to Start a Money-Making Blog: Step-by-Step Guide for Beginners",
+      "goal": "How to start a blog for making money",
+      "category": "content-creation",
+      "tags": [
+        "blogging",
+        "monetization",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27929,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Start a Money-Making Blog: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to start a blog for making money. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-13T22:11:44.900Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-repair-a-drywall-hole-stepbystep-guide-for",
+      "title": "How to Repair a Drywall Hole – Step-by-Step Guide for Beginners",
+      "goal": "How to fix a hole in drywall",
+      "category": "trades",
+      "tags": [
+        "drywall",
+        "patching",
+        "walls"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20737,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Repair a Drywall Hole – Step-by-Step Guide for Beginners — a free beginner-level guide covering how to fix a hole in drywall. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-13T22:08:07.399Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-making-fresh-cheese-at-home",
+      "title": "Beginner's Guide to Making Fresh Cheese at Home",
+      "goal": "Beginner's guide to making fresh cheese at home",
+      "category": "culinary",
+      "tags": [
+        "cheese",
+        "dairy",
+        "cooking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13577,
+      "moduleCount": 9,
+      "readingTimeMins": 55,
+      "metaDescription": "Beginner's Guide to Making Fresh Cheese at Home — a free beginner-level guide covering beginner's guide to making fresh cheese at home. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T22:05:50.699Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-furniture-finishing-and-polishing-mastery",
+      "title": "Advanced Furniture Finishing and Polishing Mastery",
+      "goal": "Advanced furniture finishing and polishing techniques",
+      "category": "woodworking",
+      "tags": [
+        "finishing",
+        "varnish",
+        "furniture"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 35858,
+      "moduleCount": 14,
+      "readingTimeMins": 144,
+      "metaDescription": "Advanced Furniture Finishing and Polishing Mastery — a free advanced-level guide covering advanced furniture finishing and polishing techniques. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-13T22:04:39.204Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mindfulness-at-work-a-beginners-guide-to-workplace",
+      "title": "Mindfulness at Work: A Beginner's Guide to Workplace Calm",
+      "goal": "Beginner's guide to practicing mindfulness at work",
+      "category": "wellness",
+      "tags": [
+        "mindfulness",
+        "work stress",
+        "focus"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12564,
+      "moduleCount": 7,
+      "readingTimeMins": 51,
+      "metaDescription": "Mindfulness at Work: A Beginner's Guide to Workplace Calm — a free beginner-level guide covering beginner's guide to practicing mindfulness at work....",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-13T21:59:17.002Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-python-automation-scripts-for-beginne",
+      "title": "Intermediate Python Automation Scripts for Beginners",
+      "goal": "Intermediate Python automation scripts for beginners",
+      "category": "programming",
+      "tags": [
+        "Python",
+        "automation",
+        "coding"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25729,
+      "moduleCount": 11,
+      "readingTimeMins": 103,
+      "metaDescription": "Intermediate Python Automation Scripts for Beginners — a free intermediate-level guide covering intermediate python automation scripts for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-13T21:57:57.213Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "gymnastics-for-beginners-a-stepbystep-guide",
       "title": "Gymnastics for Beginners: A Step-by-Step Guide",
       "goal": "Learn basic gymnastics for beginners",
@@ -31426,6 +31546,6 @@
       "edition": "street"
     }
   ],
-  "total": 1578,
-  "generatedAt": "2026-08-13T19:30:42.124Z"
+  "total": 1584,
+  "generatedAt": "2026-08-13T22:11:46.762Z"
 }
