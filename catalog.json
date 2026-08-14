@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "advanced-music-composition-and-orchestration-roadm",
+      "title": "Advanced Music Composition and Orchestration Roadmap",
+      "goal": "Advanced music composition and orchestration",
+      "category": "music",
+      "tags": [
+        "composition",
+        "orchestra",
+        "writing"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23625,
+      "moduleCount": 9,
+      "readingTimeMins": 95,
+      "metaDescription": "Advanced Music Composition and Orchestration Roadmap — a free advanced-level guide covering advanced music composition and orchestration. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-14T07:48:20.106Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-hvac-troubleshooting-guide-for-homeowners",
+      "title": "Advanced HVAC Troubleshooting Guide for Homeowners",
+      "goal": "Advanced HVAC troubleshooting for home owners",
+      "category": "trades",
+      "tags": [
+        "HVAC",
+        "heating",
+        "cooling"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 14147,
+      "moduleCount": 7,
+      "readingTimeMins": 57,
+      "metaDescription": "Advanced HVAC Troubleshooting Guide for Homeowners — a free advanced-level guide covering advanced hvac troubleshooting for home owners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-14T07:46:14.611Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-clean-and-gap-spark-plugs-for-beginners",
+      "title": "How to Clean and Gap Spark Plugs for Beginners",
+      "goal": "How to clean and gap spark plugs",
+      "category": "mechanics",
+      "tags": [
+        "spark plugs",
+        "ignition",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29002,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "How to Clean and Gap Spark Plugs for Beginners — a free beginner-level guide covering how to clean and gap spark plugs. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-14T07:42:06.908Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-3d-texturing-and-shading-roadmap",
       "title": "Intermediate 3D Texturing and Shading Roadmap",
       "goal": "Intermediate 3D texturing and shading techniques",
@@ -31706,6 +31766,6 @@
       "edition": "street"
     }
   ],
-  "total": 1592,
-  "generatedAt": "2026-08-14T05:02:35.846Z"
+  "total": 1595,
+  "generatedAt": "2026-08-14T07:48:22.454Z"
 }
