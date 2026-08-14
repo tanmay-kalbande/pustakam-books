@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-train-your-cat-a-beginners-guide-to-cat-tra",
+      "title": "How to Train Your Cat: A Beginner's Guide to Cat Training",
+      "goal": "How to train a cat for beginners",
+      "category": "pets",
+      "tags": [
+        "cats",
+        "training",
+        "behavior"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13946,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Train Your Cat: A Beginner's Guide to Cat Training — a free beginner-level guide covering how to train a cat for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-14T13:28:29.287Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-google-drive-a-beginners-stepbystep-guide",
+      "title": "Learn Google Drive: A Beginner's Step‑by‑Step Guide",
+      "goal": "Learn how to use Google Drive for beginners",
+      "category": "software-tools",
+      "tags": [
+        "google drive",
+        "cloud storage",
+        "productivity"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25190,
+      "moduleCount": 12,
+      "readingTimeMins": 101,
+      "metaDescription": "Learn Google Drive: A Beginner's Step‑by‑Step Guide — a free beginner-level guide covering learn how to use google drive for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T13:26:55.689Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-reading-habit-for-beginners",
+      "title": "How to Start a Reading Habit for Beginners",
+      "goal": "How to start a habit of reading for beginners",
+      "category": "personal-development",
+      "tags": [
+        "reading",
+        "habits",
+        "learning"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24080,
+      "moduleCount": 13,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Start a Reading Habit for Beginners — a free beginner-level guide covering how to start a habit of reading for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-14T13:23:16.134Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-shopify-business-for-beginners",
+      "title": "How to Start a Shopify Business for Beginners",
+      "goal": "How to start a business on Shopify for beginners",
+      "category": "business",
+      "tags": [
+        "shopify",
+        "ecommerce",
+        "online store"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20684,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "How to Start a Shopify Business for Beginners — a free beginner-level guide covering how to start a business on shopify for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T13:19:53.030Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "master-capture-one-for-photographers-prolevel-edit",
       "title": "Master Capture One for Photographers: Pro-Level Editing Workflow",
       "goal": "Learn to use Capture One for photographers",
@@ -31846,6 +31926,6 @@
       "edition": "street"
     }
   ],
-  "total": 1599,
-  "generatedAt": "2026-08-14T10:24:54.065Z"
+  "total": 1603,
+  "generatedAt": "2026-08-14T13:28:44.332Z"
 }
