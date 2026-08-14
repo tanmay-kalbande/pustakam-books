@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "intermediate-3d-texturing-and-shading-roadmap",
+      "title": "Intermediate 3D Texturing and Shading Roadmap",
+      "goal": "Intermediate 3D texturing and shading techniques",
+      "category": "digital-art",
+      "tags": [
+        "texturing",
+        "shading",
+        "3d art"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30067,
+      "moduleCount": 13,
+      "readingTimeMins": 121,
+      "metaDescription": "Intermediate 3D Texturing and Shading Roadmap — a free intermediate-level guide covering intermediate 3d texturing and shading techniques. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T05:02:33.332Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-write-a-resume-for-students-step-by-step",
+      "title": "How to Write a Resume for Students Step by Step",
+      "goal": "How to make a resume for students",
+      "category": "career",
+      "tags": [
+        "resume",
+        "students",
+        "jobs"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25758,
+      "moduleCount": 14,
+      "readingTimeMins": 104,
+      "metaDescription": "How to Write a Resume for Students Step by Step — a free beginner-level guide covering how to make a resume for students. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-14T04:59:18.715Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-woodworking-projects-for-home-dcor",
+      "title": "Intermediate Woodworking Projects for Home Décor",
+      "goal": "Intermediate woodworking projects for home decor",
+      "category": "woodworking",
+      "tags": [
+        "DIY",
+        "home-decor",
+        "carpentry"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19239,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Intermediate Woodworking Projects for Home Décor — a free intermediate-level guide covering intermediate woodworking projects for home decor. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T04:55:57.234Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-trade-stocks-for-beginners-stepbystep-guide",
       "title": "How to Trade Stocks for Beginners: Step-by-Step Guide",
       "goal": "How to trade stocks for beginners",
@@ -31646,6 +31706,6 @@
       "edition": "street"
     }
   ],
-  "total": 1589,
-  "generatedAt": "2026-08-14T02:29:52.064Z"
+  "total": 1592,
+  "generatedAt": "2026-08-14T05:02:35.846Z"
 }
