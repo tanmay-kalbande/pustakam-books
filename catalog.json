@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "master-capture-one-for-photographers-prolevel-edit",
+      "title": "Master Capture One for Photographers: Pro-Level Editing Workflow",
+      "goal": "Learn to use Capture One for photographers",
+      "category": "photography",
+      "tags": [
+        "capture one",
+        "tethering",
+        "editing"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 29514,
+      "moduleCount": 14,
+      "readingTimeMins": 119,
+      "metaDescription": "Master Capture One for Photographers: Pro-Level Editing Workflow — a free intermediate-level guide covering learn to use capture one for photographers....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-14T10:21:16.022Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-sketch-for-macos-ui-design-a-beginners-guide",
+      "title": "Learn Sketch for macOS UI Design: A Beginner's Guide",
+      "goal": "Learn Sketch for macOS UI design",
+      "category": "design",
+      "tags": [
+        "sketch",
+        "ui design",
+        "prototyping"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16941,
+      "moduleCount": 9,
+      "readingTimeMins": 68,
+      "metaDescription": "Learn Sketch for macOS UI Design: A Beginner's Guide — a free beginner-level guide covering learn sketch for macos ui design. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-14T10:18:47.974Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-asana-for-teams-a-beginners-stepbystep",
+      "title": "How to Use Asana for Teams: A Beginner's Step-by-Step Guide",
+      "goal": "How to use Asana for teams",
+      "category": "software-tools",
+      "tags": [
+        "asana",
+        "project management",
+        "workflow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29776,
+      "moduleCount": 14,
+      "readingTimeMins": 120,
+      "metaDescription": "How to Use Asana for Teams: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to use asana for teams. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-14T10:16:29.632Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-whitewater-rafting-a-complete-r",
+      "title": "Beginner's Guide to Whitewater Rafting: A Complete Roadmap",
+      "goal": "Beginner's guide to whitewater rafting",
+      "category": "outdoor-sports",
+      "tags": [
+        "rafting",
+        "river",
+        "adventure"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16610,
+      "moduleCount": 10,
+      "readingTimeMins": 67,
+      "metaDescription": "Beginner's Guide to Whitewater Rafting: A Complete Roadmap — a free beginner-level guide covering beginner's guide to whitewater rafting. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-14T10:13:04.669Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-music-composition-and-orchestration-roadm",
       "title": "Advanced Music Composition and Orchestration Roadmap",
       "goal": "Advanced music composition and orchestration",
@@ -31766,6 +31846,6 @@
       "edition": "street"
     }
   ],
-  "total": 1595,
-  "generatedAt": "2026-08-14T07:48:22.454Z"
+  "total": 1599,
+  "generatedAt": "2026-08-14T10:24:54.065Z"
 }
