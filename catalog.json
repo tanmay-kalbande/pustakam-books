@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-patch-a-roof-leak-a-beginners-stepbystep-gu",
+      "title": "How to Patch a Roof Leak: A Beginner's Step-by-Step Guide",
+      "goal": "How to patch a roof leak for beginners",
+      "category": "trades",
+      "tags": [
+        "roofing",
+        "repair",
+        "home maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19932,
+      "moduleCount": 9,
+      "readingTimeMins": 80,
+      "metaDescription": "How to Patch a Roof Leak: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to patch a roof leak for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-14T16:14:09.704Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-weightlifting-at-home",
+      "title": "Beginner's Guide to Weightlifting at Home",
+      "goal": "Beginner's guide to weightlifting at home",
+      "category": "fitness",
+      "tags": [
+        "weightlifting",
+        "strength",
+        "home workout"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 35415,
+      "moduleCount": 14,
+      "readingTimeMins": 142,
+      "metaDescription": "Beginner's Guide to Weightlifting at Home — a free beginner-level guide covering beginner's guide to weightlifting at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash",
+      "generatedAt": "2026-08-14T16:10:14.378Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-train-your-cat-a-beginners-guide-to-cat-tra",
       "title": "How to Train Your Cat: A Beginner's Guide to Cat Training",
       "goal": "How to train a cat for beginners",
@@ -31926,6 +31966,6 @@
       "edition": "street"
     }
   ],
-  "total": 1603,
-  "generatedAt": "2026-08-14T13:28:44.332Z"
+  "total": 1605,
+  "generatedAt": "2026-08-14T16:14:12.127Z"
 }
