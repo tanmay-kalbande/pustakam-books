@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-trade-stocks-for-beginners-stepbystep-guide",
+      "title": "How to Trade Stocks for Beginners: Step-by-Step Guide",
+      "goal": "How to trade stocks for beginners",
+      "category": "finance",
+      "tags": [
+        "investing",
+        "stocks",
+        "trading"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33669,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "How to Trade Stocks for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to trade stocks for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-14T02:29:49.750Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-playing-padel-rules-techniques",
+      "title": "Beginner's Guide to Playing Padel: Rules, Techniques & Strategy",
+      "goal": "How to play padel for beginners",
+      "category": "sports",
+      "tags": [
+        "padel",
+        "racket sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24390,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "Beginner's Guide to Playing Padel: Rules, Techniques & Strategy — a free beginner-level guide covering how to play padel for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T02:26:25.456Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-pickleball-strategies-and-drills-for-inte",
+      "title": "Advanced Pickleball Strategies and Drills for Intermediate Players",
+      "goal": "Intermediate pickleball strategies and drills",
+      "category": "sports",
+      "tags": [
+        "pickleball",
+        "paddle sports",
+        "strategy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 23794,
+      "moduleCount": 13,
+      "readingTimeMins": 96,
+      "metaDescription": "Advanced Pickleball Strategies and Drills for Intermediate Players — a free intermediate-level guide covering intermediate pickleball strategies and...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-14T02:23:00.611Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-improve-posture-for-office-workers-a-comple",
+      "title": "How to Improve Posture for Office Workers: A Complete Guide",
+      "goal": "How to improve posture for office workers",
+      "category": "wellness",
+      "tags": [
+        "posture",
+        "ergonomics",
+        "back pain"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25246,
+      "moduleCount": 14,
+      "readingTimeMins": 101,
+      "metaDescription": "How to Improve Posture for Office Workers: A Complete Guide — a free beginner-level guide covering how to improve posture for office workers. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-14T02:19:58.976Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermediate-screenwriting-for-short-films",
+      "title": "Intermediate Screenwriting for Short Films",
+      "goal": "Intermediate screenwriting for short films",
+      "category": "writing",
+      "tags": [
+        "screenplay",
+        "film",
+        "scriptwriting"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 19130,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Intermediate Screenwriting for Short Films — a free intermediate-level guide covering intermediate screenwriting for short films. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T02:16:20.090Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-moneymaking-blog-stepbystep-guide-f",
       "title": "How to Start a Money-Making Blog: Step-by-Step Guide for Beginners",
       "goal": "How to start a blog for making money",
@@ -31546,6 +31646,6 @@
       "edition": "street"
     }
   ],
-  "total": 1584,
-  "generatedAt": "2026-08-13T22:11:46.762Z"
+  "total": 1589,
+  "generatedAt": "2026-08-14T02:29:52.064Z"
 }
