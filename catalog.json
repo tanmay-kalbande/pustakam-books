@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "learn-to-solve-a-rubiks-cube-beginners-stepbystep",
+      "title": "Learn to Solve a Rubik's Cube: Beginner's Step-by-Step Guide",
+      "goal": "Learn to solve a Rubik's cube for beginners",
+      "category": "hobbies",
+      "tags": [
+        "rubiks cube",
+        "puzzles",
+        "logic"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20078,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "Learn to Solve a Rubik's Cube: Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to solve a rubik's cube for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-14T21:48:07.647Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-arabic-grammar-and-writing-mastery-guide",
+      "title": "Advanced Arabic Grammar and Writing Mastery Guide",
+      "goal": "Advanced Arabic grammar and writing guide",
+      "category": "language",
+      "tags": [
+        "arabic",
+        "grammar",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32511,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "Advanced Arabic Grammar and Writing Mastery Guide — a free advanced-level guide covering advanced arabic grammar and writing guide. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-14T21:45:48.715Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-polish-language-for-beginners-a-stepbystep-c",
+      "title": "Learn Polish Language for Beginners: A Step-by-Step Course",
+      "goal": "Learn Polish language for beginners",
+      "category": "language",
+      "tags": [
+        "polish",
+        "language learning",
+        "europe"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20118,
+      "moduleCount": 14,
+      "readingTimeMins": 81,
+      "metaDescription": "Learn Polish Language for Beginners: A Step-by-Step Course — a free beginner-level guide covering learn polish language for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-14T21:40:07.297Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-sushi-artistry-master-fish-fabrication-an",
+      "title": "Advanced Sushi Artistry: Master Fish Fabrication and Rolling",
+      "goal": "Advanced sushi rolling and fish preparation",
+      "category": "culinary",
+      "tags": [
+        "sushi",
+        "japanese food",
+        "raw fish"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12964,
+      "moduleCount": 8,
+      "readingTimeMins": 52,
+      "metaDescription": "Advanced Sushi Artistry: Master Fish Fabrication and Rolling — a free advanced-level guide covering advanced sushi rolling and fish preparation. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-14T21:35:48.530Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-pastry-tart-techniques-for-intermediate",
+      "title": "Mastering Pastry & Tart Techniques for Intermediate Bakers",
+      "goal": "Intermediate pastry making and tart techniques",
+      "category": "culinary",
+      "tags": [
+        "pastry",
+        "baking",
+        "desserts"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 22586,
+      "moduleCount": 9,
+      "readingTimeMins": 91,
+      "metaDescription": "Mastering Pastry & Tart Techniques for Intermediate Bakers — a free intermediate-level guide covering intermediate pastry making and tart techniques....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-14T21:34:00.035Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-patch-a-roof-leak-a-beginners-stepbystep-gu",
       "title": "How to Patch a Roof Leak: A Beginner's Step-by-Step Guide",
       "goal": "How to patch a roof leak for beginners",
@@ -31966,6 +32066,6 @@
       "edition": "street"
     }
   ],
-  "total": 1605,
-  "generatedAt": "2026-08-14T19:04:07.159Z"
+  "total": 1610,
+  "generatedAt": "2026-08-14T21:48:10.033Z"
 }
