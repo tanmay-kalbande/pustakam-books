@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-rekordbox-dj-software",
+      "title": "Beginner's Guide to Rekordbox DJ Software",
+      "goal": "Learn to use Rekordek {DJ} software",
+      "category": "music-production",
+      "tags": [
+        "djing",
+        "rekordbox",
+        "mixing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30779,
+      "moduleCount": 13,
+      "readingTimeMins": 124,
+      "metaDescription": "Beginner's Guide to Rekordbox DJ Software — a free beginner-level guide covering learn to use rekordek {dj} software. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-15T03:55:44.466Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-a-garden-bench-stepbystep-for-beginne",
+      "title": "How to Build a Garden Bench: Step-by-Step for Beginners",
+      "goal": "How to build a garden bench for beginners",
+      "category": "woodworking",
+      "tags": [
+        "bench",
+        "outdoor furniture",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30356,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "How to Build a Garden Bench: Step-by-Step for Beginners — a free beginner-level guide covering how to build a garden bench for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-15T03:52:02.184Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-city-composting",
+      "title": "Beginner's Guide to City Composting",
+      "goal": "Beginner's guide to composting in the city",
+      "category": "gardening",
+      "tags": [
+        "compost",
+        "urban gardening",
+        "waste"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22908,
+      "moduleCount": 10,
+      "readingTimeMins": 92,
+      "metaDescription": "Beginner's Guide to City Composting — a free beginner-level guide covering beginner's guide to composting in the city. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T03:48:12.108Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-soap-with-lye-a-complete-intermediate",
       "title": "How to Make Soap with Lye: A Complete Intermediate Guide",
       "goal": "How to make soap with lye",
@@ -32126,6 +32186,6 @@
       "edition": "street"
     }
   ],
-  "total": 1613,
-  "generatedAt": "2026-08-15T01:36:38.804Z"
+  "total": 1616,
+  "generatedAt": "2026-08-15T03:55:47.098Z"
 }
