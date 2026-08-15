@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "how-to-use-xero-for-bookkeeping-beginner-roadmap",
+      "title": "How to Use Xero for Bookkeeping: Beginner Roadmap",
+      "goal": "How to use Xero for bookkeeping",
+      "category": "accounting",
+      "tags": [
+        "xero",
+        "accounting",
+        "finance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23510,
+      "moduleCount": 10,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Use Xero for Bookkeeping: Beginner Roadmap — a free beginner-level guide covering how to use xero for bookkeeping. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T15:34:57.685Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-hubspot-crm-for-sales-and-marketing-suc",
+      "title": "How to Use HubSpot CRM for Sales and Marketing Success",
+      "goal": "Learn to use HubSpot for CRM",
+      "category": "marketing",
+      "tags": [
+        "hubspot",
+        "crm",
+        "sales"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24697,
+      "moduleCount": 13,
+      "readingTimeMins": 99,
+      "metaDescription": "How to Use HubSpot CRM for Sales and Marketing Success — a free intermediate-level guide covering learn to use hubspot for crm. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-15T15:32:48.743Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-zbrush-hard-surface-sculpting",
+      "title": "Advanced ZBrush Hard Surface Sculpting",
+      "goal": "Advanced ZBrush sculpting for hard surface",
+      "category": "digital-art",
+      "tags": [
+        "zbrush",
+        "hard surface",
+        "sculpting"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23782,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "Advanced ZBrush Hard Surface Sculpting — a free advanced-level guide covering advanced zbrush sculpting for hard surface. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T15:29:10.038Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-playing-the-banjo",
       "title": "Beginner's Guide to Playing the Banjo",
       "goal": "Beginner's guide to playing the banjo",
@@ -32426,6 +32486,6 @@
       "edition": "street"
     }
   ],
-  "total": 1628,
-  "generatedAt": "2026-08-15T12:55:28.438Z"
+  "total": 1631,
+  "generatedAt": "2026-08-15T15:35:00.036Z"
 }
