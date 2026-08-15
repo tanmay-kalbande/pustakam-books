@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "how-to-play-a-basic-drum-beat-stepbystep-guide-for",
+      "title": "How to Play a Basic Drum Beat: Step-by-Step Guide for Beginners",
+      "goal": "How to play a basic drum beat",
+      "category": "music",
+      "tags": [
+        "drums",
+        "percussion",
+        "rhythm"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20026,
+      "moduleCount": 9,
+      "readingTimeMins": 81,
+      "metaDescription": "How to Play a Basic Drum Beat: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to play a basic drum beat. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-15T09:41:20.434Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-resin-coasters-a-complete-beginners-gu",
+      "title": "How to Make Resin Coasters: A Complete Beginner's Guide",
+      "goal": "How to make a resin coaster",
+      "category": "crafts",
+      "tags": [
+        "resin",
+        "epoxy",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26290,
+      "moduleCount": 15,
+      "readingTimeMins": 106,
+      "metaDescription": "How to Make Resin Coasters: A Complete Beginner's Guide — a free beginner-level guide covering how to make a resin coaster. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-15T09:37:58.781Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "drywall-installation-for-beginners-a-stepbystep-gu",
+      "title": "Drywall Installation for Beginners: A Step-by-Step Guide",
+      "goal": "Learn how to install drywall for beginners",
+      "category": "trades",
+      "tags": [
+        "drywall",
+        "walls",
+        "construction"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15097,
+      "moduleCount": 10,
+      "readingTimeMins": 61,
+      "metaDescription": "Drywall Installation for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn how to install drywall for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-15T09:34:26.766Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "conversational-mandarin-for-beginners-a-stepbystep",
       "title": "Conversational Mandarin for Beginners: A Step-by-Step Guide",
       "goal": "Learn conversational Mandarin for beginners",
@@ -32286,6 +32346,6 @@
       "edition": "street"
     }
   ],
-  "total": 1621,
-  "generatedAt": "2026-08-15T06:58:45.772Z"
+  "total": 1624,
+  "generatedAt": "2026-08-15T09:41:22.899Z"
 }
