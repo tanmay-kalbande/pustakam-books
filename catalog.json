@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-playing-the-banjo",
+      "title": "Beginner's Guide to Playing the Banjo",
+      "goal": "Beginner's guide to playing the banjo",
+      "category": "music",
+      "tags": [
+        "banjo",
+        "folk",
+        "strings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20471,
+      "moduleCount": 11,
+      "readingTimeMins": 82,
+      "metaDescription": "Beginner's Guide to Playing the Banjo — a free beginner-level guide covering beginner's guide to playing the banjo. Learn with clear explanations, real...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-15T12:55:11.592Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-a-clay-vase-a-beginners-stepbystep-gui",
+      "title": "How to Make a Clay Vase: A Beginner's Step-by-Step Guide",
+      "goal": "How to make a clay vase",
+      "category": "pottery",
+      "tags": [
+        "vase",
+        "clay",
+        "ceramics"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32182,
+      "moduleCount": 14,
+      "readingTimeMins": 129,
+      "metaDescription": "How to Make a Clay Vase: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make a clay vase. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-15T12:52:04.094Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-tile-layout-and-installation-mastery",
+      "title": "Advanced Tile Layout and Installation Mastery",
+      "goal": "Advanced tile layout and installation",
+      "category": "trades",
+      "tags": [
+        "tiling",
+        "flooring",
+        "installation"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 12273,
+      "moduleCount": 7,
+      "readingTimeMins": 50,
+      "metaDescription": "Advanced Tile Layout and Installation Mastery — a free advanced-level guide covering advanced tile layout and installation. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-15T12:48:06.438Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-personal-blog-stepbystep-beginner-g",
+      "title": "How to Start a Personal Blog: Step-by-Step Beginner Guide",
+      "goal": "How to start a personal blog",
+      "category": "content-creation",
+      "tags": [
+        "blogging",
+        "writing",
+        "wordpress"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 21559,
+      "moduleCount": 9,
+      "readingTimeMins": 87,
+      "metaDescription": "How to Start a Personal Blog: Step-by-Step Beginner Guide — a free beginner-level guide covering how to start a personal blog. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T12:46:42.667Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-play-a-basic-drum-beat-stepbystep-guide-for",
       "title": "How to Play a Basic Drum Beat: Step-by-Step Guide for Beginners",
       "goal": "How to play a basic drum beat",
@@ -32346,6 +32426,6 @@
       "edition": "street"
     }
   ],
-  "total": 1624,
-  "generatedAt": "2026-08-15T09:41:22.899Z"
+  "total": 1628,
+  "generatedAt": "2026-08-15T12:55:28.438Z"
 }
