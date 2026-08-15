@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "slug": "basic-arabic-for-travelers-essential-phrases-and-t",
+      "title": "Basic Arabic for Travelers: Essential Phrases and Tips",
+      "goal": "Learn basic Arabic for travelers",
+      "category": "language",
+      "tags": [
+        "arabic",
+        "travel",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18117,
+      "moduleCount": 8,
+      "readingTimeMins": 73,
+      "metaDescription": "Basic Arabic for Travelers: Essential Phrases and Tips — a free beginner-level guide covering learn basic arabic for travelers. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T18:41:17.648Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-use-xero-for-bookkeeping-beginner-roadmap",
       "title": "How to Use Xero for Bookkeeping: Beginner Roadmap",
       "goal": "How to use Xero for bookkeeping",
@@ -32486,6 +32506,6 @@
       "edition": "street"
     }
   ],
-  "total": 1631,
-  "generatedAt": "2026-08-15T15:35:00.036Z"
+  "total": 1632,
+  "generatedAt": "2026-08-15T18:41:30.558Z"
 }
