@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "slug": "advanced-woodworking-joints-precise-cuts-strong-bo",
+      "title": "Advanced Woodworking Joints: Precise Cuts & Strong Bonds",
+      "goal": "Advanced woodworking joint techniques",
+      "category": "woodworking",
+      "tags": [
+        "joinery",
+        "fine woodworking",
+        "advanced"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 23400,
+      "moduleCount": 9,
+      "readingTimeMins": 94,
+      "metaDescription": "Advanced Woodworking Joints: Precise Cuts & Strong Bonds — a free advanced-level guide covering advanced woodworking joint techniques. Learn with clear...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T21:33:38.978Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "basic-arabic-for-travelers-essential-phrases-and-t",
       "title": "Basic Arabic for Travelers: Essential Phrases and Tips",
       "goal": "Learn basic Arabic for travelers",
@@ -32506,6 +32526,6 @@
       "edition": "street"
     }
   ],
-  "total": 1632,
-  "generatedAt": "2026-08-15T18:41:30.558Z"
+  "total": 1633,
+  "generatedAt": "2026-08-15T21:33:55.726Z"
 }
