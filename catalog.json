@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "conversational-mandarin-for-beginners-a-stepbystep",
+      "title": "Conversational Mandarin for Beginners: A Step-by-Step Guide",
+      "goal": "Learn conversational Mandarin for beginners",
+      "category": "language",
+      "tags": [
+        "mandarin",
+        "chinese",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13784,
+      "moduleCount": 10,
+      "readingTimeMins": 56,
+      "metaDescription": "Conversational Mandarin for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn conversational mandarin for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-15T06:58:43.381Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-candle-wax-for-beginners-stepbystep-gu",
+      "title": "How to Make Candle Wax for Beginners: Step-by-Step Guide",
+      "goal": "How to make candle wax for beginners",
+      "category": "crafts",
+      "tags": [
+        "candles",
+        "wax",
+        "homemade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31519,
+      "moduleCount": 13,
+      "readingTimeMins": 127,
+      "metaDescription": "How to Make Candle Wax for Beginners: Step-by-Step Guide — a free beginner-level guide covering how to make candle wax for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-15T06:57:20.596Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-pottery-at-home-a-beginners-guide",
+      "title": "How to Make Pottery at Home: A Beginner's Guide",
+      "goal": "Learn how to make pottery at home",
+      "category": "pottery",
+      "tags": [
+        "pottery",
+        "clay",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17264,
+      "moduleCount": 10,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Make Pottery at Home: A Beginner's Guide — a free beginner-level guide covering learn how to make pottery at home. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-15T06:53:37.797Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-mushroom-grow-kit-beginners-guide",
+      "title": "How to Start a Mushroom Grow Kit: Beginners Guide",
+      "goal": "How to start a mushroom grow kit",
+      "category": "gardening",
+      "tags": [
+        "mushrooms",
+        "fungi",
+        "growing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31592,
+      "moduleCount": 14,
+      "readingTimeMins": 127,
+      "metaDescription": "How to Start a Mushroom Grow Kit: Beginners Guide — a free beginner-level guide covering how to start a mushroom grow kit. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-15T06:51:37.904Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "weaving-for-beginners-a-stepbystep-guide-to-handwe",
+      "title": "Weaving for Beginners: A Step-by-Step Guide to Handweaving",
+      "goal": "Learn how to weave for beginners",
+      "category": "crafts",
+      "tags": [
+        "weaving",
+        "loom",
+        "textiles"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12738,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "Weaving for Beginners: A Step-by-Step Guide to Handweaving — a free beginner-level guide covering learn how to weave for beginners. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-15T06:47:12.918Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-rekordbox-dj-software",
       "title": "Beginner's Guide to Rekordbox DJ Software",
       "goal": "Learn to use Rekordek {DJ} software",
@@ -32186,6 +32286,6 @@
       "edition": "street"
     }
   ],
-  "total": 1616,
-  "generatedAt": "2026-08-15T03:55:47.098Z"
+  "total": 1621,
+  "generatedAt": "2026-08-15T06:58:45.772Z"
 }
