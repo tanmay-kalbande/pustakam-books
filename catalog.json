@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "how-to-make-soap-with-lye-a-complete-intermediate",
+      "title": "How to Make Soap with Lye: A Complete Intermediate Guide",
+      "goal": "How to make soap with lye",
+      "category": "crafts",
+      "tags": [
+        "soap making",
+        "cold process",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 34628,
+      "moduleCount": 14,
+      "readingTimeMins": 139,
+      "metaDescription": "How to Make Soap with Lye: A Complete Intermediate Guide — a free intermediate-level guide covering how to make soap with lye. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-15T01:36:34.591Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "soldering-for-beginners-a-complete-stepbystep-guid",
+      "title": "Soldering for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Learn to use a soldering iron",
+      "category": "electronics",
+      "tags": [
+        "soldering",
+        "circuitry",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16223,
+      "moduleCount": 9,
+      "readingTimeMins": 65,
+      "metaDescription": "Soldering for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering learn to use a soldering iron. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-15T01:33:01.809Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-vintage-clothing-store-beginners-st",
+      "title": "How to Start a Vintage Clothing Store: Beginner's Step‑by‑Step Guide",
+      "goal": "How to start a vintage clothing store",
+      "category": "business",
+      "tags": [
+        "vintage",
+        "fashion",
+        "reselling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29331,
+      "moduleCount": 12,
+      "readingTimeMins": 118,
+      "metaDescription": "How to Start a Vintage Clothing Store: Beginner's Step‑by‑Step Guide — a free beginner-level guide covering how to start a vintage clothing store....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-15T01:30:45.354Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-to-solve-a-rubiks-cube-beginners-stepbystep",
       "title": "Learn to Solve a Rubik's Cube: Beginner's Step-by-Step Guide",
       "goal": "Learn to solve a Rubik's cube for beginners",
@@ -32066,6 +32126,6 @@
       "edition": "street"
     }
   ],
-  "total": 1610,
-  "generatedAt": "2026-08-14T21:48:10.033Z"
+  "total": 1613,
+  "generatedAt": "2026-08-15T01:36:38.804Z"
 }
