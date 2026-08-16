@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-kindle-publishing-business-stepbyst",
+      "title": "How to Start a Kindle Publishing Business: Step-by-Step Guide",
+      "goal": "How to start a Kindle publishing business",
+      "category": "business",
+      "tags": [
+        "kdp",
+        "amazon",
+        "publishing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31889,
+      "moduleCount": 16,
+      "readingTimeMins": 128,
+      "metaDescription": "How to Start a Kindle Publishing Business: Step-by-Step Guide — a free beginner-level guide covering how to start a kindle publishing business. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T09:40:37.080Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-investing-in-gold-beginners-stepbyste",
+      "title": "How to Start Investing in Gold: Beginner's Step-by-Step Guide",
+      "goal": "How to start investing in gold for beginners",
+      "category": "finance",
+      "tags": [
+        "gold",
+        "investing",
+        "assets"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24910,
+      "moduleCount": 10,
+      "readingTimeMins": 100,
+      "metaDescription": "How to Start Investing in Gold: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start investing in gold for beginners....",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T09:36:21.362Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "houseplant-care-for-beginners-a-complete-guide",
       "title": "Houseplant Care for Beginners: A Complete Guide",
       "goal": "Beginner's guide to houseplant care",
@@ -32666,6 +32706,6 @@
       "edition": "street"
     }
   ],
-  "total": 1640,
-  "generatedAt": "2026-08-16T06:52:56.801Z"
+  "total": 1642,
+  "generatedAt": "2026-08-16T09:40:51.679Z"
 }
