@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "houseplant-care-for-beginners-a-complete-guide",
+      "title": "Houseplant Care for Beginners: A Complete Guide",
+      "goal": "Beginner's guide to houseplant care",
+      "category": "gardening",
+      "tags": [
+        "houseplants",
+        "indoor",
+        "botany"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16859,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "Houseplant Care for Beginners: A Complete Guide — a free beginner-level guide covering beginner's guide to houseplant care. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T04:02:55.772Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-make-your-own-jewelry-beginner-stepbystep-g",
+      "title": "How to Make Your Own Jewelry: Beginner Step-by-Step Guide",
+      "goal": "How to make your own jewelry for beginners",
+      "category": "crafts",
+      "tags": [
+        "jewelry",
+        "beads",
+        "handmade"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23190,
+      "moduleCount": 10,
+      "readingTimeMins": 93,
+      "metaDescription": "How to Make Your Own Jewelry: Beginner Step-by-Step Guide — a free beginner-level guide covering how to make your own jewelry for beginners. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-16T04:00:59.867Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "master-advanced-french-pronunciation-accent-traini",
       "title": "Master Advanced French Pronunciation & Accent Training",
       "goal": "Advanced French pronunciation and accent training",
@@ -32626,6 +32666,6 @@
       "edition": "street"
     }
   ],
-  "total": 1638,
-  "generatedAt": "2026-08-16T01:55:09.547Z"
+  "total": 1640,
+  "generatedAt": "2026-08-16T04:03:44.453Z"
 }
