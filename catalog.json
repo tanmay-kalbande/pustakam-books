@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "how-to-make-your-own-perfume-a-complete-guide",
+      "title": "How to Make Your Own Perfume: A Complete Guide",
+      "goal": "How to make your own perfume",
+      "category": "crafts",
+      "tags": [
+        "perfume",
+        "scent",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 33660,
+      "moduleCount": 14,
+      "readingTimeMins": 135,
+      "metaDescription": "How to Make Your Own Perfume: A Complete Guide — a free intermediate-level guide covering how to make your own perfume. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T18:57:23.443Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-skin-care-routine-beginners-stepbys",
+      "title": "How to Start a Skin Care Routine: Beginner's Step-by-Step Guide",
+      "goal": "How to start a skin care routine",
+      "category": "skincare",
+      "tags": [
+        "beauty",
+        "skin care",
+        "glow"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20482,
+      "moduleCount": 10,
+      "readingTimeMins": 82,
+      "metaDescription": "How to Start a Skin Care Routine: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start a skin care routine. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T18:49:46.667Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-how-to-trade-cryptocurrency-for-beginners",
+      "title": "Learn How to Trade Cryptocurrency for Beginners",
+      "goal": "Learn how to trade crypto for beginners",
+      "category": "finance",
+      "tags": [
+        "bitcoin",
+        "crypto",
+        "investing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29844,
+      "moduleCount": 14,
+      "readingTimeMins": 120,
+      "metaDescription": "Learn How to Trade Cryptocurrency for Beginners — a free beginner-level guide covering learn how to trade crypto for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T18:46:33.763Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "natural-remedies-for-sore-throat-relief",
+      "title": "Natural Remedies for Sore Throat Relief",
+      "goal": "How to treat a sore throat naturally",
+      "category": "health",
+      "tags": [
+        "sore throat",
+        "natural remedies",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28283,
+      "moduleCount": 13,
+      "readingTimeMins": 114,
+      "metaDescription": "Natural Remedies for Sore Throat Relief — a free beginner-level guide covering how to treat a sore throat naturally. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T18:42:18.070Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-treat-insect-bites-and-stings-at-home",
+      "title": "How to Treat Insect Bites and Stings at Home",
+      "goal": "How to treat an insect bite at home",
+      "category": "health",
+      "tags": [
+        "insect bite",
+        "first aid",
+        "remedies"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 12625,
+      "moduleCount": 8,
+      "readingTimeMins": 51,
+      "metaDescription": "How to Treat Insect Bites and Stings at Home — a free beginner-level guide covering how to treat an insect bite at home. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T18:39:13.700Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-use-an-oscilloscope-a-practical-guide-for-b",
       "title": "How to Use an Oscilloscope: A Practical Guide for Beginners",
       "goal": "How to use an oscilloscope for beginners",
@@ -32986,6 +33086,6 @@
       "edition": "street"
     }
   ],
-  "total": 1656,
-  "generatedAt": "2026-08-16T15:41:09.308Z"
+  "total": 1661,
+  "generatedAt": "2026-08-16T18:57:25.985Z"
 }
