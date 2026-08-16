@@ -1,6 +1,86 @@
 {
   "books": [
     {
+      "slug": "how-to-use-an-oscilloscope-a-practical-guide-for-b",
+      "title": "How to Use an Oscilloscope: A Practical Guide for Beginners",
+      "goal": "How to use an oscilloscope for beginners",
+      "category": "electronics",
+      "tags": [
+        "oscilloscope",
+        "testing",
+        "electronics"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 32703,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "How to Use an Oscilloscope: A Practical Guide for Beginners — a free intermediate-level guide covering how to use an oscilloscope for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T15:41:06.946Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-basic-volleyball-skills-for-beginners",
+      "title": "Learn Basic Volleyball Skills for Beginners",
+      "goal": "Learn basic volleyball skills for beginners",
+      "category": "sports",
+      "tags": [
+        "volleyball",
+        "team sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20697,
+      "moduleCount": 9,
+      "readingTimeMins": 83,
+      "metaDescription": "Learn Basic Volleyball Skills for Beginners — a free beginner-level guide covering learn basic volleyball skills for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T15:37:13.637Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-playing-golf-a-beginners-stepbystep-g",
+      "title": "How to Start Playing Golf: A Beginner's Step-by-Step Guide",
+      "goal": "How to start playing golf for beginners",
+      "category": "sports",
+      "tags": [
+        "golf",
+        "swing",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28408,
+      "moduleCount": 14,
+      "readingTimeMins": 114,
+      "metaDescription": "How to Start Playing Golf: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to start playing golf for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T15:35:04.601Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-take-a-great-headshot-at-home",
+      "title": "How to Take a Great Headshot at Home",
+      "goal": "How to take a great headshot at home",
+      "category": "photography",
+      "tags": [
+        "portrait",
+        "lighting",
+        "camera"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23843,
+      "moduleCount": 10,
+      "readingTimeMins": 96,
+      "metaDescription": "How to Take a Great Headshot at Home — a free beginner-level guide covering how to take a great headshot at home. Learn with clear explanations, real...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-16T15:31:14.952Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-lead-a-productive-meeting-a-practical-guide",
       "title": "How to Lead a Productive Meeting: A Practical Guide for Leaders",
       "goal": "How to lead a productive meeting",
@@ -32906,6 +32986,6 @@
       "edition": "street"
     }
   ],
-  "total": 1652,
-  "generatedAt": "2026-08-16T13:16:17.681Z"
+  "total": 1656,
+  "generatedAt": "2026-08-16T15:41:09.308Z"
 }
