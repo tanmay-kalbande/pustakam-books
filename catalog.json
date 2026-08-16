@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "learn-basic-asl-signs-for-beginners-a-complete-gui",
+      "title": "Learn Basic ASL Signs for Beginners: A Complete Guide",
+      "goal": "Learn basic ASL signs for beginners",
+      "category": "language",
+      "tags": [
+        "asl",
+        "sign language",
+        "communication"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31937,
+      "moduleCount": 14,
+      "readingTimeMins": 128,
+      "metaDescription": "Learn Basic ASL Signs for Beginners: A Complete Guide — a free beginner-level guide covering learn basic asl signs for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T21:41:33.740Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-sketching-and-drawing-for-beginners-a-stepby",
+      "title": "Basic Sketching and Drawing for Beginners: A Step-by-Step Guide",
+      "goal": "Learn basic sketching and drawing for beginners",
+      "category": "art",
+      "tags": [
+        "sketching",
+        "drawing",
+        "pencil"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13239,
+      "moduleCount": 8,
+      "readingTimeMins": 53,
+      "metaDescription": "Basic Sketching and Drawing for Beginners: A Step-by-Step Guide — a free beginner-level guide covering learn basic sketching and drawing for beginners....",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T21:38:22.630Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-play-the-tuba-a-beginners-guide-to-master",
+      "title": "Learn to Play the Tuba: A Beginner's Guide to Mastering the Instrument",
+      "goal": "Learn to play the tuba for beginners",
+      "category": "music",
+      "tags": [
+        "tuba",
+        "brass",
+        "music"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31052,
+      "moduleCount": 14,
+      "readingTimeMins": 125,
+      "metaDescription": "Learn to Play the Tuba: A Beginner's Guide to Mastering the Instrument — a free beginner-level guide covering learn to play the tuba for beginners....",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T21:36:38.369Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-coaching-business-for-beginners",
+      "title": "How to Start a Coaching Business for Beginners",
+      "goal": "How to start a coaching business for beginners",
+      "category": "business",
+      "tags": [
+        "coaching",
+        "business",
+        "mentorship"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27845,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Start a Coaching Business for Beginners — a free beginner-level guide covering how to start a coaching business for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T21:32:54.012Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-consulting-business-beginners-roadm",
+      "title": "How to Start a Consulting Business: Beginner's Roadmap",
+      "goal": "How to start a consulting business for beginners",
+      "category": "business",
+      "tags": [
+        "consulting",
+        "business",
+        "expert"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27507,
+      "moduleCount": 12,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Start a Consulting Business: Beginner's Roadmap — a free beginner-level guide covering how to start a consulting business for beginners. Learn...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T21:30:03.011Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-your-own-perfume-a-complete-guide",
       "title": "How to Make Your Own Perfume: A Complete Guide",
       "goal": "How to make your own perfume",
@@ -33086,6 +33186,6 @@
       "edition": "street"
     }
   ],
-  "total": 1661,
-  "generatedAt": "2026-08-16T18:57:25.985Z"
+  "total": 1666,
+  "generatedAt": "2026-08-16T21:41:36.075Z"
 }
