@@ -1,6 +1,106 @@
 {
   "books": [
     {
+      "slug": "master-advanced-french-pronunciation-accent-traini",
+      "title": "Master Advanced French Pronunciation & Accent Training",
+      "goal": "Advanced French pronunciation and accent training",
+      "category": "language",
+      "tags": [
+        "french",
+        "accent",
+        "fluency"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 31271,
+      "moduleCount": 14,
+      "readingTimeMins": 126,
+      "metaDescription": "Master Advanced French Pronunciation & Accent Training — a free advanced-level guide covering advanced french pronunciation and accent training. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T01:55:07.138Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-reupholster-a-chair-a-beginners-stepbystep",
+      "title": "How to Reupholster a Chair: A Beginner's Step-by-Step Guide",
+      "goal": "How to reupholster a chair for beginners",
+      "category": "crafts",
+      "tags": [
+        "upholstery",
+        "furniture",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17101,
+      "moduleCount": 9,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Reupholster a Chair: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to reupholster a chair for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T01:51:39.092Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-build-bookshelves-for-beginners-a-stepbyste",
+      "title": "How to Build Bookshelves for Beginners: A Step-by-Step Guide",
+      "goal": "How to build a bookshelves for beginners",
+      "category": "woodworking",
+      "tags": [
+        "shelving",
+        "carpentry",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34530,
+      "moduleCount": 14,
+      "readingTimeMins": 139,
+      "metaDescription": "How to Build Bookshelves for Beginners: A Step-by-Step Guide — a free beginner-level guide covering how to build a bookshelves for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T01:49:16.863Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-car-detailing-paint-correction-mastery",
+      "title": "Advanced Car Detailing & Paint Correction Mastery",
+      "goal": "Advanced car detailing and paint correction",
+      "category": "auto-detailing",
+      "tags": [
+        "detailing",
+        "paint correction",
+        "car care"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 22975,
+      "moduleCount": 14,
+      "readingTimeMins": 92,
+      "metaDescription": "Advanced Car Detailing & Paint Correction Mastery — a free advanced-level guide covering advanced car detailing and paint correction. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T01:45:09.286Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-owning-a-saltwater-fish-tank",
+      "title": "Beginner's Guide to Owning a Saltwater Fish Tank",
+      "goal": "Beginner's guide to owning a saltwater fish tank",
+      "category": "pets",
+      "tags": [
+        "aquarium",
+        "fish",
+        "saltwater"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24320,
+      "moduleCount": 10,
+      "readingTimeMins": 98,
+      "metaDescription": "Beginner's Guide to Owning a Saltwater Fish Tank — a free beginner-level guide covering beginner's guide to owning a saltwater fish tank. Learn with...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T01:42:49.104Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-woodworking-joints-precise-cuts-strong-bo",
       "title": "Advanced Woodworking Joints: Precise Cuts & Strong Bonds",
       "goal": "Advanced woodworking joint techniques",
@@ -32526,6 +32626,6 @@
       "edition": "street"
     }
   ],
-  "total": 1633,
-  "generatedAt": "2026-08-15T21:33:55.726Z"
+  "total": 1638,
+  "generatedAt": "2026-08-16T01:55:09.547Z"
 }
