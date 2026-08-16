@@ -1,6 +1,206 @@
 {
   "books": [
     {
+      "slug": "how-to-lead-a-productive-meeting-a-practical-guide",
+      "title": "How to Lead a Productive Meeting: A Practical Guide for Leaders",
+      "goal": "How to lead a productive meeting",
+      "category": "soft-skills",
+      "tags": [
+        "leadership",
+        "meetings",
+        "management"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 25540,
+      "moduleCount": 12,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Lead a Productive Meeting: A Practical Guide for Leaders — a free intermediate-level guide covering how to lead a productive meeting. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T13:15:49.492Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "professional-cocktail-making-for-beginners",
+      "title": "Professional Cocktail Making for Beginners",
+      "goal": "How to make a professional cocktail",
+      "category": "culinary",
+      "tags": [
+        "cocktails",
+        "mixology",
+        "drinks"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19220,
+      "moduleCount": 10,
+      "readingTimeMins": 77,
+      "metaDescription": "Professional Cocktail Making for Beginners — a free beginner-level guide covering how to make a professional cocktail. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T13:13:53.149Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-braille-quickly-a-beginners-stepbystep-guide",
+      "title": "Learn Braille Quickly: A Beginner's Step-by-Step Guide",
+      "goal": "How to learn Braille for beginners",
+      "category": "language",
+      "tags": [
+        "braille",
+        "vision",
+        "reading"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29074,
+      "moduleCount": 13,
+      "readingTimeMins": 117,
+      "metaDescription": "Learn Braille Quickly: A Beginner's Step-by-Step Guide — a free beginner-level guide covering how to learn braille for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T13:10:58.955Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-travel-with-a-baby-a-complete-beginners-gui",
+      "title": "How to Travel with a Baby: A Complete Beginner's Guide",
+      "goal": "How to travel with a baby",
+      "category": "travel-planning",
+      "tags": [
+        "baby",
+        "travel",
+        "parenting"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18545,
+      "moduleCount": 9,
+      "readingTimeMins": 75,
+      "metaDescription": "How to Travel with a Baby: A Complete Beginner's Guide — a free beginner-level guide covering how to travel with a baby. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-16T13:07:57.179Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-pack-a-suitcase-like-a-pro-the-beginners-gu",
+      "title": "How to Pack a Suitcase Like a Pro: The Beginner's Guide",
+      "goal": "Learn to pack a suitcase efficiently",
+      "category": "travel-planning",
+      "tags": [
+        "packing",
+        "travel",
+        "organization"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 32587,
+      "moduleCount": 14,
+      "readingTimeMins": 131,
+      "metaDescription": "How to Pack a Suitcase Like a Pro: The Beginner's Guide — a free beginner-level guide covering learn to pack a suitcase efficiently. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T13:04:41.839Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-book-cheap-flights-and-hotels-a-beginners-g",
+      "title": "How to Book Cheap Flights and Hotels: A Beginner's Guide",
+      "goal": "How to book cheap flights and hotels",
+      "category": "travel-planning",
+      "tags": [
+        "flights",
+        "hotels",
+        "travel hacks"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 13923,
+      "moduleCount": 8,
+      "readingTimeMins": 56,
+      "metaDescription": "How to Book Cheap Flights and Hotels: A Beginner's Guide — a free beginner-level guide covering how to book cheap flights and hotels. Learn with clear...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-16T13:00:52.093Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-dental-hygiene-for-adults-a-complete-guide",
+      "title": "Basic Dental Hygiene for Adults: A Complete Guide",
+      "goal": "Basic dental hygiene for adults",
+      "category": "health",
+      "tags": [
+        "dental",
+        "teeth",
+        "hygiene"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30583,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Basic Dental Hygiene for Adults: A Complete Guide — a free beginner-level guide covering basic dental hygiene for adults. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-16T12:59:22.460Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basic-survival-skills-for-camping-trips-beginner",
+      "title": "Basic survival skills for camping trips",
+      "goal": "Basic survival skills for camping trips",
+      "category": "safety",
+      "tags": [
+        "survival",
+        "camping",
+        "outdoors"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 20122,
+      "moduleCount": 8,
+      "readingTimeMins": 81,
+      "metaDescription": "Basic survival skills for camping trips — a free beginner-level guide covering basic survival skills for camping trips. Learn with clear explanations,...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-16T12:55:42.183Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-play-darts-the-complete-beginners-guide",
+      "title": "How to Play Darts: The Complete Beginner's Guide",
+      "goal": "How to play darts for beginners",
+      "category": "hobbies",
+      "tags": [
+        "darts",
+        "game",
+        "skill"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28009,
+      "moduleCount": 14,
+      "readingTimeMins": 113,
+      "metaDescription": "How to Play Darts: The Complete Beginner's Guide — a free beginner-level guide covering how to play darts for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-16T12:53:59.247Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-artisan-bread-making-techniques-and-maste",
+      "title": "Advanced Artisan Bread Making Techniques and Mastery",
+      "goal": "Advanced bread making and artisan loaves",
+      "category": "culinary",
+      "tags": [
+        "baking",
+        "artisan",
+        "yeast"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 25892,
+      "moduleCount": 10,
+      "readingTimeMins": 104,
+      "metaDescription": "Advanced Artisan Bread Making Techniques and Mastery — a free advanced-level guide covering advanced bread making and artisan loaves. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-16T12:50:22.092Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-kindle-publishing-business-stepbyst",
       "title": "How to Start a Kindle Publishing Business: Step-by-Step Guide",
       "goal": "How to start a Kindle publishing business",
@@ -32706,6 +32906,6 @@
       "edition": "street"
     }
   ],
-  "total": 1642,
-  "generatedAt": "2026-08-16T09:40:51.679Z"
+  "total": 1652,
+  "generatedAt": "2026-08-16T13:16:17.681Z"
 }
