@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "learn-basic-turkish-for-travelers-easy-key-phrases",
+      "title": "Learn Basic Turkish for Travelers: Easy Key Phrases & Grammar",
+      "goal": "Learn basic Turkish for travelers",
+      "category": "language",
+      "tags": [
+        "turkish",
+        "travel",
+        "language"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 16989,
+      "moduleCount": 12,
+      "readingTimeMins": 68,
+      "metaDescription": "Learn Basic Turkish for Travelers: Easy Key Phrases & Grammar — a free beginner-level guide covering learn basic turkish for travelers. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-17T04:00:54.179Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-mindfulness-and-focus-mastery-guide",
+      "title": "Advanced Mindfulness and Focus: Mastery Guide",
+      "goal": "Advanced guide to mindfulness and focus",
+      "category": "wellness",
+      "tags": [
+        "mindfulness",
+        "focus",
+        "productivity"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 13791,
+      "moduleCount": 7,
+      "readingTimeMins": 56,
+      "metaDescription": "Advanced Mindfulness and Focus: Mastery Guide — a free advanced-level guide covering advanced guide to mindfulness and focus. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-17T03:58:26.085Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "intermediate-yoga-flows-for-weight-loss-6week-guid",
       "title": "Intermediate Yoga Flows for Weight Loss: 6-Week Guide",
       "goal": "Intermediate yoga flows for weight loss",
@@ -33206,6 +33246,6 @@
       "edition": "street"
     }
   ],
-  "total": 1667,
-  "generatedAt": "2026-08-17T01:30:46.718Z"
+  "total": 1669,
+  "generatedAt": "2026-08-17T04:00:56.659Z"
 }
