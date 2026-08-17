@@ -1,6 +1,226 @@
 {
   "books": [
     {
+      "slug": "how-to-build-a-retaining-wall-stepbystep-guide-for",
+      "title": "How to Build a Retaining Wall: Step-by-Step Guide for Beginners",
+      "goal": "How to build a retaining wall for beginners",
+      "category": "landscaping",
+      "tags": [
+        "retaining wall",
+        "stone",
+        "yard"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24221,
+      "moduleCount": 10,
+      "readingTimeMins": 97,
+      "metaDescription": "How to Build a Retaining Wall: Step-by-Step Guide for Beginners — a free beginner-level guide covering how to build a retaining wall for beginners....",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-17T19:21:32.497Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "bench-press-for-beginners-a-complete-stepbystep-gu",
+      "title": "Bench Press for Beginners: A Complete Step-by-Step Guide",
+      "goal": "Learn how to do a bench press for beginners",
+      "category": "fitness",
+      "tags": [
+        "bench press",
+        "chest",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 19114,
+      "moduleCount": 9,
+      "readingTimeMins": 77,
+      "metaDescription": "Bench Press for Beginners: A Complete Step-by-Step Guide — a free beginner-level guide covering learn how to do a bench press for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-17T19:20:01.531Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-deadlift-beginners-stepbystep-guide",
+      "title": "How to Deadlift: Beginner's Step-by-Step Guide",
+      "goal": "How to do a deadlift for beginners",
+      "category": "fitness",
+      "tags": [
+        "deadlift",
+        "weightlifting",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 22166,
+      "moduleCount": 10,
+      "readingTimeMins": 89,
+      "metaDescription": "How to Deadlift: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to do a deadlift for beginners. Learn with clear...",
+      "modelUsed": "gpt-oss-120b, mistral-small-2506",
+      "generatedAt": "2026-08-17T19:16:33.931Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-mountain-climbers-for-beginners-step-by",
+      "title": "How to Do Mountain Climbers for Beginners Step by Step",
+      "goal": "Learn how to do a mountain climber for beginners",
+      "category": "fitness",
+      "tags": [
+        "mountain climbers",
+        "cardio",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25629,
+      "moduleCount": 14,
+      "readingTimeMins": 103,
+      "metaDescription": "How to Do Mountain Climbers for Beginners Step by Step — a free beginner-level guide covering learn how to do a mountain climber for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-17T19:12:39.755Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-dips-for-beginners-stepbystep-training-g",
+      "title": "How to Do Dips for Beginners: Step-by-Step Training Guide",
+      "goal": "How to do a dip for beginners",
+      "category": "fitness",
+      "tags": [
+        "dips",
+        "triceps",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30469,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "How to Do Dips for Beginners: Step-by-Step Training Guide — a free beginner-level guide covering how to do a dip for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T19:08:56.646Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-burpee-for-beginners-stepbystep-guide",
+      "title": "How to Do a Burpee for Beginners: Step-by-Step Guide",
+      "goal": "Learn how to do a burpee for beginners",
+      "category": "fitness",
+      "tags": [
+        "burpees",
+        "cardio",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 23572,
+      "moduleCount": 14,
+      "readingTimeMins": 95,
+      "metaDescription": "How to Do a Burpee for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn how to do a burpee for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-17T19:05:50.759Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-do-a-plank-for-beginners-stepbystep-guide",
+      "title": "How to Do a Plank for Beginners: Step-by-Step Guide",
+      "goal": "Learn how to do a plank for beginners",
+      "category": "fitness",
+      "tags": [
+        "plank",
+        "core",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27627,
+      "moduleCount": 14,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Do a Plank for Beginners: Step-by-Step Guide — a free beginner-level guide covering learn how to do a plank for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T19:02:12.559Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "master-the-pistol-squat-a-stepbystep-training-guid",
+      "title": "Master the Pistol Squat: A Step-by-Step Training Guide",
+      "goal": "How to do a pistol squat for beginners",
+      "category": "fitness",
+      "tags": [
+        "squats",
+        "strength",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 16805,
+      "moduleCount": 10,
+      "readingTimeMins": 68,
+      "metaDescription": "Master the Pistol Squat: A Step-by-Step Training Guide — a free intermediate-level guide covering how to do a pistol squat for beginners. Learn with...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-17T18:57:53.823Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-manage-seasonal-allergies-a-beginners-guide",
+      "title": "How to Manage Seasonal Allergies: A Beginner's Guide",
+      "goal": "How to manage seasonal allergies for beginners",
+      "category": "health",
+      "tags": [
+        "allergies",
+        "hay fever",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 28838,
+      "moduleCount": 13,
+      "readingTimeMins": 116,
+      "metaDescription": "How to Manage Seasonal Allergies: A Beginner's Guide — a free beginner-level guide covering how to manage seasonal allergies for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T18:55:01.174Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-manage-insomnia-a-beginners-guide-to-better",
+      "title": "How to Manage Insomnia: A Beginner's Guide to Better Sleep",
+      "goal": "Learn how to manage insomnia for beginners",
+      "category": "health",
+      "tags": [
+        "sleep",
+        "insomnia",
+        "wellness"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 15657,
+      "moduleCount": 8,
+      "readingTimeMins": 63,
+      "metaDescription": "How to Manage Insomnia: A Beginner's Guide to Better Sleep — a free beginner-level guide covering learn how to manage insomnia for beginners. Learn...",
+      "modelUsed": "gemma-4-31b",
+      "generatedAt": "2026-08-17T18:51:05.557Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-grow-roses-a-beginners-stepbystep-guide",
+      "title": "How to Grow Roses: A Beginner's Step-by-Step Guide",
+      "goal": "Learn to grow roses for beginners",
+      "category": "gardening",
+      "tags": [
+        "roses",
+        "flowers",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36357,
+      "moduleCount": 14,
+      "readingTimeMins": 146,
+      "metaDescription": "How to Grow Roses: A Beginner's Step-by-Step Guide — a free beginner-level guide covering learn to grow roses for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T18:49:12.281Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-make-polymer-clay-earrings-beginners-stepby",
       "title": "How to Make Polymer Clay Earrings: Beginner's Step-by-Step Guide",
       "goal": "How to make polymer clay earrings",
@@ -33366,6 +33586,6 @@
       "edition": "street"
     }
   ],
-  "total": 1675,
-  "generatedAt": "2026-08-17T15:41:35.032Z"
+  "total": 1686,
+  "generatedAt": "2026-08-17T19:22:05.332Z"
 }
