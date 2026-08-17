@@ -1,6 +1,66 @@
 {
   "books": [
     {
+      "slug": "advanced-jira-workflows-for-agile-teams-mastery-gu",
+      "title": "Advanced Jira Workflows for Agile Teams: Mastery Guide",
+      "goal": "Advanced Jira workflows for agile teams",
+      "category": "software-tools",
+      "tags": [
+        "jira",
+        "agile",
+        "project-management"
+      ],
+      "language": "en",
+      "complexity": "advanced",
+      "wordCount": 32698,
+      "moduleCount": 13,
+      "readingTimeMins": 131,
+      "metaDescription": "Advanced Jira Workflows for Agile Teams: Mastery Guide — a free advanced-level guide covering advanced jira workflows for agile teams. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T09:59:11.902Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-wakeboarding-guide-learn-to-ride-in-10-st",
+      "title": "Beginner Wakeboarding Guide: Learn to Ride in 10 Steps",
+      "goal": "How to start wakeboarding for beginners",
+      "category": "outdoor-sports",
+      "tags": [
+        "wakeboarding",
+        "water-sports",
+        "beginner"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 25465,
+      "moduleCount": 14,
+      "readingTimeMins": 102,
+      "metaDescription": "Beginner Wakeboarding Guide: Learn to Ride in 10 Steps — a free beginner-level guide covering how to start wakeboarding for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-17T09:54:45.078Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-tea-business-a-stepbystep-guide",
+      "title": "How to Start a Tea Business: A Step-by-Step Guide",
+      "goal": "How to start a tea business",
+      "category": "business",
+      "tags": [
+        "tea",
+        "startup",
+        "commerce"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 17313,
+      "moduleCount": 9,
+      "readingTimeMins": 70,
+      "metaDescription": "How to Start a Tea Business: A Step-by-Step Guide — a free beginner-level guide covering how to start a tea business. Learn with clear explanations,...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-17T09:50:56.183Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-basic-turkish-for-travelers-easy-key-phrases",
       "title": "Learn Basic Turkish for Travelers: Easy Key Phrases & Grammar",
       "goal": "Learn basic Turkish for travelers",
@@ -33246,6 +33306,6 @@
       "edition": "street"
     }
   ],
-  "total": 1669,
-  "generatedAt": "2026-08-17T07:04:18.990Z"
+  "total": 1672,
+  "generatedAt": "2026-08-17T09:59:14.303Z"
 }
