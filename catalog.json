@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "how-to-make-polymer-clay-earrings-beginners-stepby",
+      "title": "How to Make Polymer Clay Earrings: Beginner's Step-by-Step Guide",
+      "goal": "How to make polymer clay earrings",
+      "category": "crafts",
+      "tags": [
+        "clay",
+        "jewelry",
+        "DIY"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 26924,
+      "moduleCount": 14,
+      "readingTimeMins": 108,
+      "metaDescription": "How to Make Polymer Clay Earrings: Beginner's Step-by-Step Guide — a free beginner-level guide covering how to make polymer clay earrings. Learn with...",
+      "modelUsed": "mistral-small-2506, gemma-4-31b",
+      "generatedAt": "2026-08-17T15:41:05.557Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-a-fitness-blog-for-beginners-stepbyst",
+      "title": "How to Start a Fitness Blog for Beginners - Step-by-Step Guide",
+      "goal": "How to start a fitness blog for beginners",
+      "category": "content-creation",
+      "tags": [
+        "fitness",
+        "blogging",
+        "health"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 37622,
+      "moduleCount": 15,
+      "readingTimeMins": 151,
+      "metaDescription": "How to Start a Fitness Blog for Beginners - Step-by-Step Guide — a free beginner-level guide covering how to start a fitness blog for beginners. Learn...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-17T15:37:11.738Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "sketchup-for-beginners-a-complete-guide-to-3d-mode",
       "title": "SketchUp for Beginners: A Complete Guide to 3D Modeling",
       "goal": "Learn to use SketchUp for 3D",
@@ -33326,6 +33366,6 @@
       "edition": "street"
     }
   ],
-  "total": 1673,
-  "generatedAt": "2026-08-17T12:55:00.441Z"
+  "total": 1675,
+  "generatedAt": "2026-08-17T15:41:35.032Z"
 }
