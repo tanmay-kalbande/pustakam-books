@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "slug": "sketchup-for-beginners-a-complete-guide-to-3d-mode",
+      "title": "SketchUp for Beginners: A Complete Guide to 3D Modeling",
+      "goal": "Learn to use SketchUp for 3D",
+      "category": "software-tools",
+      "tags": [
+        "sketchup",
+        "3d modeling",
+        "architecture"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18052,
+      "moduleCount": 9,
+      "readingTimeMins": 73,
+      "metaDescription": "SketchUp for Beginners: A Complete Guide to 3D Modeling — a free beginner-level guide covering learn to use sketchup for 3d. Learn with clear...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-17T12:54:58.085Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "advanced-jira-workflows-for-agile-teams-mastery-gu",
       "title": "Advanced Jira Workflows for Agile Teams: Mastery Guide",
       "goal": "Advanced Jira workflows for agile teams",
@@ -33306,6 +33326,6 @@
       "edition": "street"
     }
   ],
-  "total": 1672,
-  "generatedAt": "2026-08-17T09:59:14.303Z"
+  "total": 1673,
+  "generatedAt": "2026-08-17T12:55:00.441Z"
 }
