@@ -1,6 +1,26 @@
 {
   "books": [
     {
+      "slug": "intermediate-yoga-flows-for-weight-loss-6week-guid",
+      "title": "Intermediate Yoga Flows for Weight Loss: 6-Week Guide",
+      "goal": "Intermediate yoga flows for weight loss",
+      "category": "yoga",
+      "tags": [
+        "weight loss",
+        "flow",
+        "fitness"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 18458,
+      "moduleCount": 8,
+      "readingTimeMins": 74,
+      "metaDescription": "Intermediate Yoga Flows for Weight Loss: 6-Week Guide — a free intermediate-level guide covering intermediate yoga flows for weight loss. Learn with...",
+      "modelUsed": "gpt-oss-120b",
+      "generatedAt": "2026-08-17T01:30:34.496Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-basic-asl-signs-for-beginners-a-complete-gui",
       "title": "Learn Basic ASL Signs for Beginners: A Complete Guide",
       "goal": "Learn basic ASL signs for beginners",
@@ -33186,6 +33206,6 @@
       "edition": "street"
     }
   ],
-  "total": 1666,
-  "generatedAt": "2026-08-16T21:41:36.075Z"
+  "total": 1667,
+  "generatedAt": "2026-08-17T01:30:46.718Z"
 }
