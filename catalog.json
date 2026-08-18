@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "canva-for-social-media-graphics-a-beginners-guide",
+      "title": "Canva for Social Media Graphics: A Beginner's Guide",
+      "goal": "How to use Canva for social media graphics",
+      "category": "design",
+      "tags": [
+        "canva",
+        "graphics",
+        "social media"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30522,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Canva for Social Media Graphics: A Beginner's Guide — a free beginner-level guide covering how to use canva for social media graphics. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-18T01:29:56.817Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-use-miro-for-virtual-collaboration-a-beginn",
+      "title": "How to Use Miro for Virtual Collaboration: A Beginner's Guide",
+      "goal": "How to use Miro for virtual collaboration",
+      "category": "software-tools",
+      "tags": [
+        "miro",
+        "collaboration",
+        "whiteboard"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 18196,
+      "moduleCount": 8,
+      "readingTimeMins": 73,
+      "metaDescription": "How to Use Miro for Virtual Collaboration: A Beginner's Guide — a free beginner-level guide covering how to use miro for virtual collaboration. Learn...",
+      "modelUsed": "gemma-4-31b, mistral-small-2506",
+      "generatedAt": "2026-08-18T01:27:32.287Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-build-a-retaining-wall-stepbystep-guide-for",
       "title": "How to Build a Retaining Wall: Step-by-Step Guide for Beginners",
       "goal": "How to build a retaining wall for beginners",
@@ -33586,6 +33626,6 @@
       "edition": "street"
     }
   ],
-  "total": 1686,
-  "generatedAt": "2026-08-17T21:31:45.419Z"
+  "total": 1688,
+  "generatedAt": "2026-08-18T01:29:59.245Z"
 }
