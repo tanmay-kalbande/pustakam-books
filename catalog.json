@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "slug": "beginner-hvac-maintenance-guide",
+      "title": "Beginner HVAC Maintenance Guide",
+      "goal": "Beginner guide to HVAC maintenance",
+      "category": "trades",
+      "tags": [
+        "hvac",
+        "air conditioning",
+        "maintenance"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 38036,
+      "moduleCount": 14,
+      "readingTimeMins": 153,
+      "metaDescription": "Beginner HVAC Maintenance Guide — a free beginner-level guide covering beginner guide to hvac maintenance. Learn with clear explanations, real...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-08-18T04:00:44.138Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-use-a-microscope-a-complete-beginners-gui",
+      "title": "Learn to Use a Microscope: A Complete Beginner's Guide",
+      "goal": "Learn to use a microscope for beginners",
+      "category": "science",
+      "tags": [
+        "microscope",
+        "biology",
+        "lab"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30683,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Learn to Use a Microscope: A Complete Beginner's Guide — a free beginner-level guide covering learn to use a microscope for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506, gpt-oss-120b",
+      "generatedAt": "2026-08-18T03:53:12.752Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "canva-for-social-media-graphics-a-beginners-guide",
       "title": "Canva for Social Media Graphics: A Beginner's Guide",
       "goal": "How to use Canva for social media graphics",
@@ -33626,6 +33666,6 @@
       "edition": "street"
     }
   ],
-  "total": 1688,
-  "generatedAt": "2026-08-18T01:29:59.245Z"
+  "total": 1690,
+  "generatedAt": "2026-08-18T04:06:43.175Z"
 }
