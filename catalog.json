@@ -1,6 +1,44 @@
 {
   "books": [
     {
+      "slug": "beginners-guide-to-beekeeping-hives-and-honey-production",
+      "title": "Beginner's Guide to Beekeeping: Hives and Honey Production",
+      "goal": "Beekeeping basics hives and honey for beginners",
+      "category": "pets",
+      "tags": [
+        "bees",
+        "honey"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 33840,
+      "moduleCount": 14,
+      "readingTimeMins": 136,
+      "metaDescription": "Beginner's Guide to Beekeeping: Hives and Honey Production  a free beginner-level guide covering beekeeping basics hives and honey for beginners. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T23:25:36.474Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginners-guide-to-homemade-sushi-master-rolls-techniques",
+      "title": "Beginner's Guide to Homemade Sushi: Master Rolls & Techniques",
+      "goal": "Beginner guide to making sushi at home",
+      "category": "cooking",
+      "tags": [
+        "sushi",
+        "japanese"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30947,
+      "moduleCount": 13,
+      "readingTimeMins": 124,
+      "metaDescription": "Beginner's Guide to Homemade Sushi: Master Rolls & Techniques  a free intermediate-level guide covering beginner guide to making sushi at home. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T23:18:26.553Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-start-a-dropshipping-business-from-scratch-stepbystep-guide",
       "title": "How to Start a Dropshipping Business from Scratch: Step-by-Step Guide",
       "goal": "How to start a dropshipping business from scratch",
@@ -34331,6 +34369,6 @@
       "edition": "street"
     }
   ],
-  "total": 1725,
-  "generatedAt": "2026-09-01T19:02:35.088Z"
+  "total": 1727,
+  "generatedAt": "2026-09-01T23:25:39.115Z"
 }
