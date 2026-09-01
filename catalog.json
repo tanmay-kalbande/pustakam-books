@@ -1,6 +1,215 @@
 {
   "books": [
     {
+      "slug": "beginners-couch-to-5k-running-plan-guide",
+      "title": "Beginner's Couch to 5K Running Plan Guide",
+      "goal": "Running couch to 5k plan for beginners",
+      "category": "fitness",
+      "tags": [
+        "running",
+        "5k"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30768,
+      "moduleCount": 13,
+      "readingTimeMins": 124,
+      "metaDescription": "Beginner's Couch to 5K Running Plan Guide  a free beginner-level guide covering running couch to 5k plan for beginners. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T05:15:02.440Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "intermittent-fasting-for-beginners-a-complete-guide",
+      "title": "Intermittent Fasting for Beginners: A Complete Guide",
+      "goal": "How to do intermittent fasting for beginners",
+      "category": "health",
+      "tags": [
+        "fasting",
+        "nutrition"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30367,
+      "moduleCount": 14,
+      "readingTimeMins": 122,
+      "metaDescription": "Intermittent Fasting for Beginners: A Complete Guide  a free beginner-level guide covering how to do intermittent fasting for beginners. Learn with...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T05:08:50.519Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "advanced-handstand-calisthenics-training-plan",
+      "title": "Advanced Handstand Calisthenics Training Plan",
+      "goal": "How to do handstands calisthenics at home",
+      "category": "fitness",
+      "tags": [
+        "calisthenics",
+        "handstand"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 24860,
+      "moduleCount": 11,
+      "readingTimeMins": 100,
+      "metaDescription": "Advanced Handstand Calisthenics Training Plan  a free intermediate-level guide covering how to do handstands calisthenics at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:55:25.997Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-italian-at-home-complete-beginners-stepbystep-guide",
+      "title": "Learn Italian at Home: Complete Beginner's Step-by-Step Guide",
+      "goal": "Italian for complete beginners at home",
+      "category": "language",
+      "tags": [
+        "italian",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29289,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "Learn Italian at Home: Complete Beginner's Step-by-Step Guide  a free beginner-level guide covering italian for complete beginners at home. Learn with...",
+      "modelUsed": "mistral-small-2506, zai-glm-4.7-flash",
+      "generatedAt": "2026-09-01T04:49:53.752Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-japanese-hiragana-fast-the-beginners-complete-guide",
+      "title": "Learn Japanese Hiragana Fast: The Beginner's Complete Guide",
+      "goal": "Japanese language hiragana basics for beginners",
+      "category": "language",
+      "tags": [
+        "japanese",
+        "hiragana"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27276,
+      "moduleCount": 14,
+      "readingTimeMins": 110,
+      "metaDescription": "Learn Japanese Hiragana Fast: The Beginner's Complete Guide  a free beginner-level guide covering japanese language hiragana basics for beginners....",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:35:35.768Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-dj-for-beginners-learn-mixing-music-stepbystep",
+      "title": "How to DJ for Beginners: Learn Mixing Music Step-by-Step",
+      "goal": "How to DJ and mix music for beginners",
+      "category": "music",
+      "tags": [
+        "dj",
+        "mixing"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 37385,
+      "moduleCount": 15,
+      "readingTimeMins": 150,
+      "metaDescription": "How to DJ for Beginners: Learn Mixing Music Step-by-Step  a free beginner-level guide covering how to dj and mix music for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:21:35.750Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beginner-violin-lessons-technique-and-practice-guide",
+      "title": "Beginner Violin Lessons: Technique and Practice Guide",
+      "goal": "Beginner violin lessons technique and practice",
+      "category": "music",
+      "tags": [
+        "violin",
+        "strings"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31767,
+      "moduleCount": 14,
+      "readingTimeMins": 128,
+      "metaDescription": "Beginner Violin Lessons: Technique and Practice Guide  a free beginner-level guide covering beginner violin lessons technique and practice. Learn with...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:12:48.203Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-ukulele-chords-and-songs-for-beginners-step-by-step",
+      "title": "Learn Ukulele Chords and Songs for Beginners Step by Step",
+      "goal": "Learn ukulele chords and songs for beginners",
+      "category": "music",
+      "tags": [
+        "ukulele",
+        "chords"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 30712,
+      "moduleCount": 14,
+      "readingTimeMins": 123,
+      "metaDescription": "Learn Ukulele Chords and Songs for Beginners Step by Step  a free beginner-level guide covering learn ukulele chords and songs for beginners. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:06:27.986Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "home-brewing-beer-a-complete-beginners-guide-to-brewing-at-home",
+      "title": "Home Brewing Beer: A Complete Beginner's Guide to Brewing at Home",
+      "goal": "How to brew beer at home for beginners",
+      "category": "cooking",
+      "tags": [
+        "brewing",
+        "beer"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 35081,
+      "moduleCount": 14,
+      "readingTimeMins": 141,
+      "metaDescription": "Home Brewing Beer: A Complete Beginner's Guide to Brewing at Home  a free intermediate-level guide covering how to brew beer at home for beginners....",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T04:00:13.244Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-tie-dye-fabric-at-home-a-stepbystep-guide",
+      "title": "How to Tie Dye Fabric at Home: A Step-by-Step Guide",
+      "goal": "How to tie dye fabric at home step by step",
+      "category": "crafts",
+      "tags": [
+        "tye-dye",
+        "fabric"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27670,
+      "moduleCount": 11,
+      "readingTimeMins": 111,
+      "metaDescription": "How to Tie Dye Fabric at Home: A Step-by-Step Guide  a free beginner-level guide covering how to tie dye fabric at home step by step. Learn with clear...",
+      "modelUsed": "zai-glm-4.7-flash, mistral-small-2506",
+      "generatedAt": "2026-09-01T03:50:55.267Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "basket-weaving-for-beginners-stepbystep-guide-to-master-the-craft",
+      "title": "Basket Weaving for Beginners: Step-by-Step Guide to Master the Craft",
+      "goal": "Learn basket weaving techniques for beginners",
+      "category": "crafts",
+      "tags": [
+        "weaving",
+        "basket"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36942,
+      "moduleCount": 14,
+      "readingTimeMins": 148,
+      "metaDescription": "Basket Weaving for Beginners: Step-by-Step Guide to Master the Craft  a free beginner-level guide covering learn basket weaving techniques for...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T03:44:37.155Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginner-hvac-maintenance-guide",
       "title": "Beginner HVAC Maintenance Guide",
       "goal": "Beginner guide to HVAC maintenance",
@@ -33666,6 +33875,6 @@
       "edition": "street"
     }
   ],
-  "total": 1690,
-  "generatedAt": "2026-08-23T12:50:24.101Z"
+  "total": 1701,
+  "generatedAt": "2026-09-01T05:19:39.734Z"
 }
