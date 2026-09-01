@@ -1,6 +1,82 @@
 {
   "books": [
     {
+      "slug": "how-to-start-a-dropshipping-business-from-scratch-stepbystep-guide",
+      "title": "How to Start a Dropshipping Business from Scratch: Step-by-Step Guide",
+      "goal": "How to start a dropshipping business from scratch",
+      "category": "business",
+      "tags": [
+        "dropshipping",
+        "ecommerce"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 45305,
+      "moduleCount": 15,
+      "readingTimeMins": 182,
+      "metaDescription": "How to Start a Dropshipping Business from Scratch: Step-by-Step Guide  a free beginner-level guide covering how to start a dropshipping business from...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T19:02:32.456Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "shore-fishing-for-beginners-the-complete-stepbystep-guide",
+      "title": "Shore Fishing for Beginners: The Complete Step-by-Step Guide",
+      "goal": "Shore fishing basics for complete beginners",
+      "category": "outdoor",
+      "tags": [
+        "fishing",
+        "angling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36127,
+      "moduleCount": 14,
+      "readingTimeMins": 145,
+      "metaDescription": "Shore Fishing for Beginners: The Complete Step-by-Step Guide  a free beginner-level guide covering shore fishing basics for complete beginners. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T18:52:45.204Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "beekeeping-basics-hives-honey-starting-your-first-colony",
+      "title": "Beekeeping Basics: Hives, Honey & Starting Your First Colony",
+      "goal": "Beekeeping basics hives and honey for beginners",
+      "category": "pets",
+      "tags": [
+        "bees",
+        "honey"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 43400,
+      "moduleCount": 14,
+      "readingTimeMins": 174,
+      "metaDescription": "Beekeeping Basics: Hives, Honey & Starting Your First Colony  a free beginner-level guide covering beekeeping basics hives and honey for beginners....",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T18:45:11.915Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-to-sing-complete-beginners-guide-to-vocal-training",
+      "title": "Learn to Sing: Complete Beginner's Guide to Vocal Training",
+      "goal": "Learn to sing and develop your voice",
+      "category": "music",
+      "tags": [
+        "singing",
+        "vocal"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 31354,
+      "moduleCount": 14,
+      "readingTimeMins": 126,
+      "metaDescription": "Learn to Sing: Complete Beginner's Guide to Vocal Training  a free beginner-level guide covering learn to sing and develop your voice. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T18:28:57.657Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "how-to-grow-tulsi-and-medicinal-herbs-at-home-a-beginners-guide",
       "title": "How to Grow Tulsi and Medicinal Herbs at Home: A Beginner's Guide",
       "goal": "How to grow tulsi and medicinal herbs at home",
@@ -34255,6 +34331,6 @@
       "edition": "street"
     }
   ],
-  "total": 1721,
-  "generatedAt": "2026-09-01T15:59:36.718Z"
+  "total": 1725,
+  "generatedAt": "2026-09-01T19:02:35.088Z"
 }
