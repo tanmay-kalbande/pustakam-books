@@ -1,6 +1,196 @@
 {
   "books": [
     {
+      "slug": "how-to-change-a-flat-tire-safely-a-stepbystep-roadside-guide",
+      "title": "How to Change a Flat Tire Safely: A Step-by-Step Roadside Guide",
+      "goal": "How to change a flat tyre roadside guide",
+      "category": "automotive",
+      "tags": [
+        "tyre",
+        "roadside"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 27824,
+      "moduleCount": 14,
+      "readingTimeMins": 112,
+      "metaDescription": "How to Change a Flat Tire Safely: A Step-by-Step Roadside Guide  a free beginner-level guide covering how to change a flat tyre roadside guide. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T10:07:41.862Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-change-brake-pads-yourself",
+      "title": "How to Change Brake Pads Yourself",
+      "goal": "How to change car brake pads yourself",
+      "category": "automotive",
+      "tags": [
+        "brakes",
+        "diy"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 17214,
+      "moduleCount": 10,
+      "readingTimeMins": 69,
+      "metaDescription": "How to Change Brake Pads Yourself  a free intermediate-level guide covering how to change car brake pads yourself. Learn with clear explanations, real...",
+      "modelUsed": "zai-glm-4.7-flash, mistral-small-2506",
+      "generatedAt": "2026-09-01T09:59:30.078Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "how-to-start-podcasting-a-beginners-guide-to-recording-and-production",
+      "title": "How to Start Podcasting: A Beginner's Guide to Recording and Production",
+      "goal": "Podcast production and recording for beginners",
+      "category": "writing",
+      "tags": [
+        "podcast",
+        "audio"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 41336,
+      "moduleCount": 15,
+      "readingTimeMins": 166,
+      "metaDescription": "How to Start Podcasting: A Beginner's Guide to Recording and Production  a free beginner-level guide covering podcast production and recording for...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T09:54:44.023Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "shore-fishing-for-beginners-the-complete-guide-to-catching-fish-from-l",
+      "title": "Shore Fishing for Beginners: The Complete Guide to Catching Fish from Land",
+      "goal": "Shore fishing basics for complete beginners",
+      "category": "outdoor",
+      "tags": [
+        "fishing",
+        "angling"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 34817,
+      "moduleCount": 14,
+      "readingTimeMins": 140,
+      "metaDescription": "Shore Fishing for Beginners: The Complete Guide to Catching Fish from Land  a free beginner-level guide covering shore fishing basics for complete...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T09:45:49.451Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "public-speaking-for-beginners-speak-confidently-overcome-stage-fright",
+      "title": "Public Speaking for Beginners: Speak Confidently & Overcome Stage Fright",
+      "goal": "Learn public speaking and overcoming stage fright",
+      "category": "personal-development",
+      "tags": [
+        "public-speaking",
+        "confidence"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29458,
+      "moduleCount": 14,
+      "readingTimeMins": 118,
+      "metaDescription": "Public Speaking for Beginners: Speak Confidently & Overcome Stage Fright  a free beginner-level guide covering learn public speaking and overcoming...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T09:37:52.884Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "options-trading-basics-for-stock-market-beginners",
+      "title": "Options Trading Basics for Stock Market Beginners",
+      "goal": "Options trading basics for stock market beginners",
+      "category": "finance",
+      "tags": [
+        "options",
+        "trading"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 36626,
+      "moduleCount": 14,
+      "readingTimeMins": 147,
+      "metaDescription": "Options Trading Basics for Stock Market Beginners  a free intermediate-level guide covering options trading basics for stock market beginners. Learn...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T09:19:14.268Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "mastering-fruit-tree-pruning-like-a-pro",
+      "title": "Mastering Fruit Tree Pruning Like a Pro",
+      "goal": "How to prune fruit trees correctly",
+      "category": "gardening",
+      "tags": [
+        "pruning",
+        "fruit-trees"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 37336,
+      "moduleCount": 14,
+      "readingTimeMins": 150,
+      "metaDescription": "Mastering Fruit Tree Pruning Like a Pro  a free intermediate-level guide covering how to prune fruit trees correctly. Learn with clear explanations,...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T09:10:49.405Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-portuguese-conversation-basics-for-beginners",
+      "title": "Learn Portuguese Conversation Basics for Beginners",
+      "goal": "Portuguese conversation basics for beginners",
+      "category": "language",
+      "tags": [
+        "portuguese",
+        "conversation"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 29849,
+      "moduleCount": 14,
+      "readingTimeMins": 120,
+      "metaDescription": "Learn Portuguese Conversation Basics for Beginners  a free beginner-level guide covering portuguese conversation basics for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T08:49:47.838Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "learn-spanish-speaking-basics-for-beginners-fast",
+      "title": "Learn Spanish Speaking Basics for Beginners Fast",
+      "goal": "Learn Spanish speaking basics for beginners",
+      "category": "language",
+      "tags": [
+        "spanish",
+        "speaking"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 24025,
+      "moduleCount": 13,
+      "readingTimeMins": 97,
+      "metaDescription": "Learn Spanish Speaking Basics for Beginners Fast  a free beginner-level guide covering learn spanish speaking basics for beginners. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T08:42:45.231Z",
+      "edition": "stellar"
+    },
+    {
+      "slug": "korean-cooking-basics-for-beginners-at-home",
+      "title": "Korean Cooking Basics for Beginners at Home",
+      "goal": "Korean cooking basics for beginners at home",
+      "category": "cooking",
+      "tags": [
+        "korean",
+        "bibimbap"
+      ],
+      "language": "en",
+      "complexity": "beginner",
+      "wordCount": 36704,
+      "moduleCount": 14,
+      "readingTimeMins": 147,
+      "metaDescription": "Korean Cooking Basics for Beginners at Home  a free beginner-level guide covering korean cooking basics for beginners at home. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-01T08:35:31.066Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-couch-to-5k-running-plan-guide",
       "title": "Beginner's Couch to 5K Running Plan Guide",
       "goal": "Running couch to 5k plan for beginners",
@@ -33875,6 +34065,6 @@
       "edition": "street"
     }
   ],
-  "total": 1701,
-  "generatedAt": "2026-09-01T05:19:39.734Z"
+  "total": 1711,
+  "generatedAt": "2026-09-01T10:07:44.428Z"
 }
