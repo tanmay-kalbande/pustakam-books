@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "slug": "how-to-prune-fruit-trees-correctly-a-practical-guide-for-healthy-trees",
+      "title": "How to Prune Fruit Trees Correctly: A Practical Guide for Healthy Trees",
+      "goal": "How to prune fruit trees correctly",
+      "category": "gardening",
+      "tags": [
+        "pruning",
+        "fruit-trees"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 37545,
+      "moduleCount": 14,
+      "readingTimeMins": 151,
+      "metaDescription": "How to Prune Fruit Trees Correctly: A Practical Guide for Healthy Trees  a free intermediate-level guide covering how to prune fruit trees correctly....",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-02T20:57:21.956Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "learn-react-js-build-web-apps-from-scratch",
       "title": "Learn React JS: Build Web Apps from Scratch",
       "goal": "Learn React JS build web apps from scratch",
@@ -34388,6 +34407,6 @@
       "edition": "street"
     }
   ],
-  "total": 1728,
-  "generatedAt": "2026-09-02T16:16:12.644Z"
+  "total": 1729,
+  "generatedAt": "2026-09-02T20:57:24.659Z"
 }
