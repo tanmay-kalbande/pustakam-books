@@ -1,6 +1,25 @@
 {
   "books": [
     {
+      "slug": "learn-react-js-build-web-apps-from-scratch",
+      "title": "Learn React JS: Build Web Apps from Scratch",
+      "goal": "Learn React JS build web apps from scratch",
+      "category": "programming",
+      "tags": [
+        "react",
+        "javascript"
+      ],
+      "language": "en",
+      "complexity": "intermediate",
+      "wordCount": 30072,
+      "moduleCount": 14,
+      "readingTimeMins": 121,
+      "metaDescription": "Learn React JS: Build Web Apps from Scratch  a free intermediate-level guide covering learn react js build web apps from scratch. Learn with clear...",
+      "modelUsed": "mistral-small-2506",
+      "generatedAt": "2026-09-02T03:50:00.850Z",
+      "edition": "stellar"
+    },
+    {
       "slug": "beginners-guide-to-beekeeping-hives-and-honey-production",
       "title": "Beginner's Guide to Beekeeping: Hives and Honey Production",
       "goal": "Beekeeping basics hives and honey for beginners",
@@ -34369,6 +34388,6 @@
       "edition": "street"
     }
   ],
-  "total": 1727,
-  "generatedAt": "2026-09-01T23:25:39.115Z"
+  "total": 1728,
+  "generatedAt": "2026-09-02T03:50:20.411Z"
 }
